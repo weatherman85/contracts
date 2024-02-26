@@ -1,0 +1,587 @@
+﻿EX-10.5 6 d145785dex105.htm EX-10.5
+Exhibit 10.5
+
+CUSTODIAN AGREEMENT
+
+This Agreement, dated as of October 5, 2020, is between BLACKSTONE PRIVATE CREDIT FUND, a statutory trust organized and existing under the laws of the State of Delaware (the “Fund”), and STATE STREET BANK AND TRUST COMPANY, a Massachusetts trust company (the “Custodian”).
+
+WITNESSETH: that in consideration of the mutual covenants and agreements hereinafter contained, the parties hereto agree as follows:
+
+SECTION 1. EMPLOYMENT OF CUSTODIAN AND PROPERTY TO BE HELD BY IT.
+
+The Fund hereby employs the Custodian as the custodian of its assets, including securities (including stocks, shares, bonds, debentures, notes, mortgages or other obligations and any certificates, receipts, warrants or other instruments representing rights to receive, purchase, or subscribe for the same, or evidencing or representing any other rights or interests therein, or in any property or assets) which the Fund desires to be held in places within the United States (“domestic securities”) and securities it desires to be held outside the United States (“foreign securities”). The Fund agrees to deliver to the Custodian all securities and cash owned by it (other than any securities or cash of the Fund held by a futures commission merchant or commodity clearing organization pursuant to Rule 17f-6 under the Investment Company Act of 1940, as amended (the “1940 Act”)), and all payments of income, payments of principal or capital distributions received by it with respect to all securities owned by it from time to time, and the cash consideration received by it for such new shares of beneficial interest of the Fund (“Shares”) as may be issued or sold from time to time. The Custodian shall not be responsible for any property of the Fund held or received by the Fund but not delivered to the Custodian. With respect to uncertificated shares (the “Underlying Shares”) of registered “investment companies” (as defined in Section 3(a)(1) of the Investment Company Act of 1940, as amended from time to time (the “1940 Act”)), whether in the same “group of investment companies” (as defined in Section 12(d)(1)(G)(ii) of the 1940 Act) or otherwise, including pursuant to Section 12(d)(1)(F) of the 1940 Act (hereinafter sometimes referred to as the “Underlying Portfolios”) the holding of confirmation statements that identify the shares as being recorded in the Custodian’s name on behalf of the Fund will be deemed custody for purposes hereof.
+
+Upon receipt of “Proper Instructions” (as such term is defined in Section 7 hereof), the Custodian shall from time to time employ one or more sub-custodians located in the United States, but only in accordance with an applicable vote by the Board of Trustees of the Fund (the “Board”). The Custodian may employ as sub-custodian for the Fund’s foreign securities the foreign banking institutions and foreign securities depositories designated in Schedules A and B hereto, but only in accordance with the applicable provisions of Sections 3 and 4. The Custodian shall have no more or less responsibility or liability to the Fund on account of any actions or omissions of any sub-custodian so employed than any such sub-custodian has to the Custodian.
+
+SECTION 2. DUTIES OF THE CUSTODIAN WITH RESPECT TO PROPERTY OF THE FUND HELD BY THE CUSTODIAN IN THE UNITED STATES.
+
+SECTION 2.1 HOLDING SECURITIES. The Custodian shall hold and physically segregate for the account of the Fund all non-cash property, to be held by it in the United States, including all domestic securities owned by the Fund other than (a) securities which are maintained pursuant to Section 2.8 in a clearing agency which acts as a securities depository or in a book-entry system authorized by the U.S. Department of the Treasury (each, a “U.S. Securities System”) and (b) Underlying Shares owned by the Fund which are maintained pursuant to Section 2.13 hereof in an account with State Street Bank and Trust Company or such other entity which may from time to time act as a transfer agent for the Underlying Portfolios and with respect to which the Custodian is provided with Proper Instructions (each, an “Underlying Transfer Agent”).
+
+SECTION 2.2 DELIVERY OF SECURITIES. The Custodian shall release and deliver domestic securities owned by the Fund held by the Custodian, in a U.S. Securities System account of the Custodian, or in an account at the Underlying Transfer Agent, only upon receipt of Proper Instructions, which may be continuing instructions when deemed appropriate by the parties, and only in the following cases:
+
+1) Upon sale of such securities for the account of the Fund and receipt of payment therefor;
+
+2) Upon the receipt of payment in connection with any repurchase agreement related to such securities entered into by the Fund;
+
+3) In the case of a sale effected through a U.S. Securities System, in accordance with the provisions of Section 2.8 hereof;
+
+4) To the depository agent in connection with tender or other similar offers for securities of the Fund;
+
+5) To the issuer thereof or its agent when such securities are called, redeemed, retired or otherwise become payable; provided that, in any such case, the cash or other consideration is to be delivered to the Custodian;
+
+6) To the issuer thereof, or its agent, for transfer into the name of the Fund or into the name of any nominee or nominees of the Custodian or into the name or nominee name of any agent appointed pursuant to Section 2.7 or into the name or nominee name of any sub-custodian appointed pursuant to Section 1; or for exchange for a different number of bonds, certificates or other evidence representing the same aggregate face amount or number of units; provided that, in any such case, the new securities are to be delivered to the Custodian;
+
+7) Upon the sale of such securities for the account of the Fund, to the broker or its clearing agent, against a receipt, for examination in accordance with “street delivery” custom; provided that in any such case, the Custodian shall have no responsibility or liability for any loss arising from the delivery of such securities prior to receiving payment for such securities except as may arise from the Custodian’s own negligence, fraud, bad faith or willful misconduct;
+
+8) For exchange or conversion pursuant to any plan of merger, consolidation, recapitalization, reorganization or readjustment of the securities of the issuer of such securities, or pursuant to provisions for conversion contained in such securities, or pursuant to any deposit agreement; provided that, in any such case, the new securities and cash, if any, are to be delivered to the Custodian;
+
+ 
+
+2
+
+9) In the case of warrants, rights or similar securities, the surrender thereof in the exercise of such warrants, rights or similar securities or the surrender of interim receipts or temporary securities for definitive securities; provided that, in any such case, the new securities and cash, if any, are to be delivered to the Custodian;
+
+10) (a) For delivery in connection with any loans of securities made by the Fund, but only against receipt of adequate collateral as agreed upon from time to time by the Custodian and the Fund, which may be in the form of cash or obligations issued by the United States government, its agencies or instrumentalities, except that in connection with any loans for which collateral is to be credited to the Custodian’s account in the book-entry system authorized by the U.S. Department of the Treasury, the Custodian will not be held liable or responsible for the delivery of securities owned by the Fund prior to the receipt of such collateral or (b) to the lending agent, or the lending agent’s custodian, in accordance with written Proper Instructions (which may not provide for the receipt by the Custodian of collateral therefor) agreed upon from time to time by the Custodian and the Fund;
+
+11) For delivery as security in connection with any borrowing by the Fund requiring a pledge of assets by the Fund, but only against receipt of amounts borrowed;
+
+12) For delivery in accordance with the provisions of any agreement among the Fund, the Custodian and a broker-dealer registered under the Securities Exchange Act of 1934 (the “Exchange Act”) and a member of the Financial Industry Regulatory Authority, Inc. (“FINRA”), relating to compliance with the rules of The Options Clearing Corporation and of any registered national securities exchange, or of any similar organization or organizations, regarding escrow or other arrangements in connection with transactions by the Fund;
+
+13) For delivery in accordance with the provisions of any agreement among the Fund, the Custodian, and a futures commission merchant registered under the Commodity Exchange Act, relating to compliance with the rules of the Commodity Futures Trading Commission (“CFTC”) and/or any contract market, or any similar organization or organizations, regarding account deposits in connection with transactions by the Fund;
+
+14) Upon the sale or other delivery of such investments (including, without limitation, to one or more additional custodians appointed by the Fund, and communicated to the Custodian from time to time via a writing duly executed by an authorized officer of the Fund, for the purpose of engaging in repurchase agreement transactions(s), each a “Repo Custodian”), and prior to receipt of payment therefor, as set forth in written Proper Instructions (such delivery in advance of payment, along with payment in advance of delivery made in accordance with Section 2.6(7), as applicable, shall each be referred to herein as a “Free Trade”), provided that such Proper Instructions shall set forth (a) the securities of the Fund to be delivered and (b) the person(s) to whom delivery of such securities shall be made;
+
+15) Upon receipt of instructions from the transfer agent for the Fund (the “Transfer Agent”) for delivery to such Transfer Agent or to the holders of Shares in connection with distributions in
+
+ 
+
+3
+
+kind, as may be described from time to time in the Fund’s currently effective registration statement (the “Registration Statement”), in satisfaction of requests by holders of Shares for repurchase or redemption;
+
+16) For delivery as initial or variation margin in connection with futures or options on futures contracts entered into by the Fund;
+
+17) In the case of a sale processed through the Underlying Transfer Agent of Underlying Shares, in accordance with Section 2.13 hereof; and
+
+18) For any other purpose, but only upon receipt of Proper Instructions specifying the securities of the Fund to be delivered and naming the person or persons to whom delivery of such securities shall be made.
+
+SECTION 2.3 REGISTRATION OF SECURITIES. Domestic securities held by the Custodian (other than bearer securities) shall be registered in the name of the Fund or in the name of any nominee of the Fund or of any nominee of the Custodian which nominee shall be assigned exclusively to the Fund, unless the Fund has authorized in writing the appointment of a nominee to be used in common with other registered investment companies having the same investment advisor as the Fund, or in the name or nominee name of any agent appointed pursuant to Section 2.7 or in the name or nominee name of any sub-custodian appointed pursuant to Section 1. All securities accepted by the Custodian on behalf of the Fund under the terms of this Agreement shall be in “street name” or other good delivery form. If, however, the Fund directs the Custodian to maintain securities in “street name”, the Custodian shall utilize its best efforts only to timely collect income due the Fund on such securities and to notify the Fund on a best efforts basis only of relevant corporate actions including, without limitation, pendency of calls, maturities, tender or exchange offers.
+
+SECTION 2.4 BANK ACCOUNTS. The Custodian shall open and maintain a separate bank account or accounts in the United States in the name of the Fund, subject only to draft or order by the Custodian acting pursuant to the terms of this Agreement, and shall hold in such account or accounts, subject to the provisions hereof, all cash received by it from or for the account of the Fund, other than cash maintained by the Fund in a bank account established and used in accordance with Rule 17f-3 under the 1940 Act. Monies held by the Custodian for the Fund may be deposited by it to its credit as Custodian in the banking department of the Custodian or in such other banks or trust companies as it may in its discretion deem necessary or desirable; provided, however, that every such bank or trust company shall be qualified to act as a custodian under the 1940 Act and that each such bank or trust company and the monies to be deposited with each such bank or trust company shall be approved by vote of a majority of the Board. Such monies shall be deposited by the Custodian in its capacity as Custodian and shall be withdrawable by the Custodian only in that capacity.
+
+SECTION 2.5 COLLECTION OF INCOME. Subject to the provisions of Section 2.3, the Custodian shall collect on a timely basis all income and other payments with respect to registered domestic securities held hereunder to which the Fund shall be entitled either by law or pursuant to custom in the securities business, and shall collect on a timely basis all income and other payments with respect to bearer domestic securities if, on the date of payment by the issuer, such
+
+ 
+
+4
+
+securities are held by the Custodian or its agent thereof and shall credit such income, as collected, to the Fund’s custodian account. Without limiting the generality of the foregoing, the Custodian shall detach and present for payment all coupons and other income items requiring presentation as and when they become due and shall collect interest when due on securities held hereunder. Income due the Fund on securities loaned pursuant to the provisions of Section 2.2(10) shall be the responsibility of the Fund. The Custodian will have no duty or responsibility in connection therewith, other than to provide the Fund with such information or data as may be necessary to assist the Fund in arranging for the timely delivery to the Custodian of the income to which the Fund is properly entitled.
+
+SECTION 2.6 PAYMENT OF FUND MONIES. Upon receipt of Proper Instructions, which may be continuing instructions when deemed appropriate by the parties, the Custodian shall pay out monies of the Fund in the following cases only:
+
+1) Upon the purchase of domestic securities, options, futures contracts or options on futures contracts for the account of the Fund but only (a) against the delivery of such securities or evidence of title to such options, futures contracts or options on futures contracts to the Custodian (or any bank, banking firm or trust company doing business in the United States or abroad which is qualified under the 1940 Act to act as a custodian and has been designated by the Custodian as its agent for this purpose) registered in the name of the Fund or in the name of a nominee of the Custodian referred to in Section 2.3 hereof or in proper form for transfer; (b) in the case of a purchase effected through a U.S. Securities System, in accordance with the conditions set forth in Section 2.8 hereof; (c) in the case of a purchase of Underlying Shares, in accordance with the conditions set forth in Section 2.13 hereof; (d) repurchase agreements entered into between the Fund and the Custodian, or another bank, or a broker-dealer which is a member of FINRA, (i) against delivery of the securities either in certificate form or through an entry crediting the Custodian’s account at the Federal Reserve Bank with such securities or (ii) against delivery of the receipt evidencing purchase by the Fund of securities owned by the Custodian along with written evidence of the agreement by the Custodian to repurchase such securities from the Fund; or (e) for transfer to a time deposit account of the Fund in any bank, whether domestic or foreign; such transfer may be effected prior to receipt of a confirmation from a broker and/or the applicable bank pursuant to Proper Instructions from the Fund as defined herein;
+
+2) In connection with conversion, exchange or surrender of securities owned by the Fund as set forth in Section 2.2 hereof;
+
+3) For the redemption or repurchase of Shares issued;
+
+4) For the payment of any expense or liability incurred by the Fund, including but not limited to the following payments for the account of the Fund: interest, taxes, management, accounting, transfer agent and legal fees, and operating expenses of the Fund whether or not such expenses are to be in whole or part capitalized or treated as deferred expenses;
+
+5) For the payment of any dividends on Shares declared pursuant to the governing documents of the Fund;
+
+ 
+
+5
+
+6) For payment of the amount of dividends received in respect of securities sold short;
+
+7) Upon the purchase of domestic investments including, without limitation, repurchase agreement transactions involving delivery of Fund monies to Repo Custodian(s), and prior to receipt of such investments, as set forth in written Proper Instructions (such payment in advance of delivery, along with delivery in advance of payment made in accordance with Section 2.2(14), as applicable, shall each be referred to herein as a “Free Trade”), provided that such Proper Instructions shall also set forth (a) the amount of such payment and (b) the person(s) to whom such payment is made;
+
+8) For the fulfillment of the Fund’s obligations with respect to unfunded commitments incurred in connection with Loans (as such term is defined in the Loan Services Addendum attached hereto);
+
+9) For delivery as initial or variation margin in connection with futures or options on futures contracts entered into by the Fund; and
+
+10) For any other purpose, but only upon receipt of Proper Instructions specifying the amount of such payment and naming the person or persons to whom such payment is to be made.
+
+SECTION 2.7 APPOINTMENT OF AGENTS. The Custodian may at any time or times in its discretion appoint (and may at any time remove) any other bank or trust company which is itself qualified under the 1940 Act to act as a custodian, as its agent to carry out such of the provisions of this Section 2 as the Custodian may from time to time direct; provided, however, that the appointment of any agent shall not relieve the Custodian of its responsibilities or liabilities hereunder. The Underlying Transfer Agent shall not be deemed an agent or sub-custodian of the Custodian for purposes of this Section 2.7 or any other provision of this Agreement.
+
+SECTION 2.8 DEPOSIT OF FUND ASSETS IN U.S. SECURITIES SYSTEMS. The Custodian may deposit and/or maintain securities owned by the Fund in a U.S. Securities System in compliance with the conditions of Rule 17f-4 under the 1940 Act, as amended from time to time.
+
+SECTION 2.9 SEGREGATED ACCOUNT. The Custodian shall upon receipt of Proper Instructions establish and maintain a segregated account or accounts for and on behalf of the Fund, into which account or accounts may be transferred cash and/or securities, including securities maintained in an account by the Custodian pursuant to Section 2.8 hereof, (i) in accordance with the provisions of any agreement among the Fund, the Custodian and a broker-dealer registered under the Exchange Act and a member of FINRA (or any futures commission merchant registered under the Commodity Exchange Act), relating to compliance with the rules of The Options Clearing Corporation and of any registered national securities exchange (or the CFTC or any registered contract market), or of any similar organization or organizations, regarding escrow or other arrangements in connection with transactions by the Fund, (ii) for purposes of segregating cash or government securities in connection with options purchased, sold or written by the Fund or commodity futures contracts or options thereon purchased or sold by the Fund, (iii) for the purposes of compliance by the Fund with the procedures required by Investment Company Act Release No. 10666, or any subsequent release of the U.S. Securities and Exchange Commission (the “SEC”), or interpretative opinion of the staff of the SEC, relating to the maintenance of segregated accounts by registered investment companies, and (iv) for any other purpose upon receipt of Proper Instructions.
+
+ 
+
+6
+
+SECTION 2.10 OWNERSHIP CERTIFICATES FOR TAX PURPOSES. The Custodian shall execute ownership and other certificates and affidavits for all federal and state tax purposes in connection with receipt of income or other payments with respect to domestic securities of the Fund held by it and in connection with transfers of securities.
+
+SECTION 2.11 PROXIES. The Custodian shall, with respect to the domestic securities held hereunder, promptly deliver to the Fund, or cause to be promptly executed by the registered holder of such securities, if the securities are registered otherwise than in the name of the Fund or a nominee of the Fund and deliver to the Fund, all proxies, without indication of the manner in which such proxies are to be voted, all proxy soliciting materials and all notices relating to such securities. Neither Custodian nor any nominee of Custodian shall vote any of the securities held hereunder by or for the account of the Fund, except in accordance with the instructions contained in an officers’ certificate.
+
+SECTION 2.12 COMMUNICATIONS RELATING TO FUND SECURITIES. Subject to the provisions of Section 2.3, the Custodian shall transmit promptly to the Fund all written information (including, without limitation, pendency of calls and maturities of domestic securities and expirations of rights in connection therewith and notices of exercise of call and put options written by the Fund and the maturity of futures contracts purchased or sold by the Fund) received by the Custodian from issuers of the securities being held for the Fund. With respect to tender or exchange offers, the Custodian shall transmit promptly to the Fund all written information received by the Custodian from issuers of the securities whose tender or exchange is sought and from the party (or its agents) making the tender or exchange offer. The Custodian shall not be liable for any untimely exercise of any tender, exchange or other right or power in connection with foreign securities or other property of the Fund at any time held by it unless (i) the Custodian or the respective Foreign Sub-Custodian is in actual or effective possession of such foreign securities or property and (ii) the Custodian receives Proper Instructions with regard to the exercise of any such right or power, and both (i) and (ii) occur at least three business days prior to the date on which the Custodian is to take action to exercise such right or power. The Custodian shall also transmit promptly to the Fund all written information received by the Custodian regarding any class action or other litigation in connection with the Fund or other assets issued in the United States and then held, or previously held, during the term of this Agreement by the Custodian for the Fund, including, but not limited to, opt-out notices and proof-of-claim forms. For avoidance of doubt, upon and after the effective date of any termination of this Agreement, the Custodian shall have no responsibility to so transmit any information under this Section 2.12.
+
+SECTION 2.13 DEPOSIT OF FUND ASSETS WITH THE UNDERLYING TRANSFER AGENT. Underlying Shares beneficially owned by the Fund shall be deposited and/or maintained in an account or accounts maintained with an Underlying Transfer Agent and the Custodian’s only responsibilities with respect thereto shall be limited to the following:
+
+1) Upon receipt of a confirmation or statement from an Underlying Transfer Agent that such Underlying Transfer Agent is holding or maintaining Underlying Shares in the name of the
+
+ 
+
+7
+
+Custodian (or a nominee of the Custodian) for the benefit of the Fund, the Custodian shall identify by book-entry that such Underlying Shares are being held by it as custodian for the benefit of the Fund.
+
+2) In respect of the purchase of Underlying Shares for the account of the Fund, upon receipt of Proper Instructions, the Custodian shall pay out monies of the Fund as so directed, and record such payment from the account of the Fund on the Custodian’s books and records.
+
+3) In respect of the sale or redemption of Underlying Shares for the account of the Fund, upon receipt of Proper Instructions, the Custodian shall transfer such Underlying Shares as so directed, record such transfer from the account of the Fund on the Custodian’s books and records and, upon the Custodian’s receipt of the proceeds therefor, record such payment for the account of the Fund on the Custodian’s books and records.
+
+The Custodian shall not be liable to the Fund for any loss or damage to the Fund resulting from the maintenance of Underlying Shares with an Underlying Transfer Agent except for losses resulting directly from the fraud, negligence or willful misconduct of the Custodian or any of its agents or of any of its or their employees.
+
+SECTION 3. PROVISIONS RELATING TO RULES 17F-5 AND 17F-7.
+
+SECTION 3.1. DEFINITIONS. As used throughout this Agreement, the following capitalized terms shall have the indicated meanings:
+
+“Country Risk” means all factors reasonably related to the systemic risk of holding Foreign Assets in a particular country including, but not limited to, such country’s political environment, economic and financial infrastructure (including any Eligible Securities Depository operating in the country), prevailing or developing custody and settlement practices, insolvency of a Foreign Sub-Custodian, and laws and regulations applicable to the safekeeping and recovery of Foreign Assets held in custody in that country.
+
+“Eligible Foreign Custodian” has the meaning set forth in section (a)(1) of Rule 17f-5, including a majority-owned or indirect subsidiary of a U.S. Bank (as defined in Rule 17f-5), a bank holding company meeting the requirements of an Eligible Foreign Custodian (as set forth in Rule 17f-5 or by other appropriate action of the SEC, or a foreign branch of a Bank (as defined in Section 2(a)(5) of the 1940 Act) meeting the requirements of a custodian under Section 17(f) of the 1940 Act; the term does not include any Eligible Securities Depository.
+
+“Eligible Securities Depository” has the meaning set forth in section (b)(1) of Rule 17f-7.
+
+“Foreign Assets” means any of the Fund’s investments (including foreign currencies) for which the primary market is outside the United States and such cash and cash equivalents as are reasonably necessary to effect the Fund’s transactions in such investments.
+
+“Foreign Custody Manager” has the meaning set forth in section (a)(3) of Rule 17f-5.
+
+“Rule 17f-5” means Rule 17f-5 promulgated under the 1940 Act.
+
+ 
+
+8
+
+“Rule 17f-7” means Rule 17f-7 promulgated under the 1940 Act.
+
+SECTION 3.2. THE CUSTODIAN AS FOREIGN CUSTODY MANAGER.
+
+3.2.1 DELEGATION TO THE CUSTODIAN AS FOREIGN CUSTODY MANAGER. The Fund, by resolution adopted by its Board, hereby delegates to the Custodian, subject to Section (b) of Rule 17f-5, the responsibilities set forth in this Section 3.2 with respect to Foreign Assets held outside the United States, and the Custodian hereby accepts such delegation as Foreign Custody Manager of the Fund.
+
+3.2.2 COUNTRIES COVERED. The Foreign Custody Manager shall be responsible for performing the delegated responsibilities defined below only with respect to the countries and custody arrangements for each such country listed on Schedule A to this Agreement, which list of countries may be amended from time to time by the Fund with the agreement of the Foreign Custody Manager. The Foreign Custody Manager shall list on Schedule A the Eligible Foreign Custodians selected by the Foreign Custody Manager to maintain the Fund’s assets, which list of Eligible Foreign Custodians may be amended from time to time in the sole discretion of the Foreign Custody Manager. The Foreign Custody Manager will provide amended versions of Schedule A in accordance with Section 3.2.5 hereof.
+
+Upon the receipt by the Foreign Custody Manager of Proper Instructions to open an account or to place or maintain Foreign Assets in a country listed on Schedule A, and the fulfillment by the Fund of the applicable account opening requirements for such country, the Foreign Custody Manager shall be deemed to have been delegated by the Board responsibility as Foreign Custody Manager with respect to that country and to have accepted such delegation. Execution of this Agreement by the Fund shall be deemed to be a Proper Instruction to open an account, or to place or maintain Foreign Assets, in each country listed on Schedule A in which the Custodian has previously placed or currently maintains Foreign Assets pursuant to the terms of the Agreement. Following the receipt of Proper Instructions directing the Foreign Custody Manager to close the account of the Fund with the Eligible Foreign Custodian selected by the Foreign Custody Manager in a designated country, the delegation by the Board to the Custodian as Foreign Custody Manager for that country shall be deemed to have been withdrawn and the Custodian shall immediately cease to be the Foreign Custody Manager of the Fund with respect to that country.
+
+The Foreign Custody Manager may withdraw its acceptance of delegated responsibilities with respect to a designated country upon written notice to the Fund. Thirty days (or such longer period to which the parties agree in writing) after receipt of any such notice by the Fund, the Custodian shall have no further responsibility in its capacity as Foreign Custody Manager to the Fund with respect to the country as to which the Custodian’s acceptance of delegation is withdrawn.
+
+3.2.3 SCOPE OF DELEGATED RESPONSIBILITIES:
+
+(a) SELECTION OF ELIGIBLE FOREIGN CUSTODIANS. Subject to the provisions of this Section 3.2, the Foreign Custody Manager may place and maintain the Foreign Assets in the care of the Eligible Foreign Custodian selected by the Foreign Custody Manager in each country
+
+ 
+
+9
+
+listed on Schedule A, as amended from time to time. In performing its delegated responsibilities as Foreign Custody Manager to place or maintain Foreign Assets with an Eligible Foreign Custodian, the Foreign Custody Manager shall determine that the Foreign Assets will be subject to reasonable care, based on the standards applicable to custodians in the country in which the Foreign Assets will be held by that Eligible Foreign Custodian, after considering all factors relevant to the safekeeping of such assets, including, without limitation the factors specified in Rule 17f-5(c)(1).
+
+(b) CONTRACTS WITH ELIGIBLE FOREIGN CUSTODIANS. The Foreign Custody Manager shall determine that the contract governing the foreign custody arrangements with each Eligible Foreign Custodian selected by the Foreign Custody Manager will satisfy the requirements of Rule 17f-5(c)(2).
+
+(c) MONITORING. In each case in which the Foreign Custody Manager maintains Foreign Assets with an Eligible Foreign Custodian selected by the Foreign Custody Manager, the Foreign Custody Manager shall establish a system to monitor (i) the appropriateness of maintaining the Foreign Assets with such Eligible Foreign Custodian and (ii) the contract governing the custody arrangements established by the Foreign Custody Manager with the Eligible Foreign Custodian. In the event the Foreign Custody Manager determines that the custody arrangements with an Eligible Foreign Custodian it has selected are no longer appropriate or no longer meet the requirements of Rule 17f-5, the Foreign Custody Manager shall (i) notify the Board in accordance with Section 3.2.5 hereunder, and (ii) withdraw the Foreign Assets as directed by the Board or pursuant to Proper Instructions.
+
+3.2.4 GUIDELINES FOR THE EXERCISE OF DELEGATED AUTHORITY. For purposes of this Section 3.2, the Board shall be deemed to have considered and determined to accept such Country Risk as is incurred by placing and maintaining the Foreign Assets in each country for which the Custodian is serving as Foreign Custody Manager of the Fund.
+
+3.2.5 REPORTING REQUIREMENTS. The Foreign Custody Manager shall report the withdrawal of the Foreign Assets from an Eligible Foreign Custodian and the placement of such Foreign Assets with another Eligible Foreign Custodian by providing to the Board an amended Schedule A at the end of the calendar quarter in which an amendment to such Schedule has occurred. The Foreign Custody Manager shall make written reports notifying the Board of any other material change in the foreign custody arrangements of the Fund described in this Section 3.2 after the occurrence of the material change.
+
+3.2.6 STANDARD OF CARE AS FOREIGN CUSTODY MANAGER OF THE FUND. In performing the responsibilities delegated to it, the Foreign Custody Manager agrees to exercise reasonable care, prudence and diligence such as a person having responsibility for the safekeeping of assets of management investment companies registered under the 1940 Act would exercise.
+
+3.2.7 REPRESENTATIONS WITH RESPECT TO RULE 17F-5. The Foreign Custody Manager represents to the Fund that it is a U.S. Bank as defined in section (a)(7) of Rule 17f-5. The Fund represents to the Custodian that the Board has determined that it is reasonable for the Board to rely on the Custodian to perform the responsibilities delegated pursuant to this Agreement to the Custodian as the Foreign Custody Manager of the Fund.
+
+ 
+
+10
+
+3.2.8 EFFECTIVE DATE AND TERMINATION OF THE CUSTODIAN AS FOREIGN CUSTODY MANAGER. The Board’s delegation to the Custodian as Foreign Custody Manager of the Fund shall be effective as of the date hereof and shall remain in effect until terminated at any time, without penalty, by written notice from the terminating party to the non-terminating party. Termination will become effective thirty (30) days, or such longer period as the parties may agree, after receipt by the non-terminating party of such notice. The provisions of Section 3.2.2 hereof shall govern the delegation to and termination of the Custodian as Foreign Custody Manager of the Fund with respect to designated countries.
+
+SECTION 3.3 ELIGIBLE SECURITIES DEPOSITORIES.
+
+3.3.1 ANALYSIS AND MONITORING. The Custodian shall (a) provide the Fund (or its duly-authorized investment manager or investment advisor) with an analysis of the custody risks associated with maintaining assets with the Eligible Securities Depositories set forth on Schedule B hereto, as amended from time to time, in accordance with section (a)(1)(i)(A) of Rule 17f-7, and (b) monitor such risks on a continuing basis, and promptly notify the Fund (or its duly-authorized investment manager or investment advisor) of any material change in such risks, in accordance with section (a)(1)(i)(B) of Rule 17f-7. If a custody arrangement with an Eligible Securities Depository no longer meets the requirements of this Section, the Fund’s Foreign Assets must be withdrawn from the depository as soon as reasonably practicable and the Custodian shall act in accordance with Proper Instructions to withdraw such Foreign Assets.
+
+3.3.2 STANDARD OF CARE. The Custodian agrees to exercise reasonable care, prudence and diligence in performing the duties set forth in Section 3.3.1.
+
+SECTION 4. DUTIES OF THE CUSTODIAN WITH RESPECT TO PROPERTY OF THE FUND HELD OUTSIDE THE UNITED STATES.
+
+SECTION 4.1 DEFINITIONS. As used throughout this Agreement, the following capitalized terms shall have the indicated meanings:
+
+“Foreign Securities System” means an Eligible Securities Depository listed on Schedule B hereto.
+
+“Foreign Sub-Custodian” means an Eligible Foreign Custodian.
+
+SECTION 4.2. HOLDING SECURITIES. The Custodian shall identify on its books as belonging to the Fund the foreign securities held by each Foreign Sub-Custodian or Foreign Securities System. The Custodian may hold foreign securities for all of its customers, including the Fund, with any Foreign Sub-Custodian in an account that is identified as belonging to the Custodian for the benefit of its customers, provided however, that (i) the records of the Custodian with respect to foreign securities of the Fund which are maintained in such account shall identify those securities as belonging to the Fund and (ii), to the extent permitted and customary in the market in which the account is maintained, the Custodian shall require that securities so held by the Foreign Sub-Custodian be held separately from any assets of such Foreign Sub-Custodian or of other customers of such Foreign Sub-Custodian.
+
+ 
+
+11
+
+SECTION 4.3. FOREIGN SECURITIES SYSTEMS. Foreign securities shall be maintained in a Foreign Securities System in a designated country through arrangements implemented by the Custodian or a Foreign Sub-Custodian, as applicable, in such country.
+
+SECTION 4.4. TRANSACTIONS IN FOREIGN CUSTODY ACCOUNT.
+
+4.4.1. DELIVERY OF FOREIGN ASSETS. The Custodian or a Foreign Sub-Custodian shall release and deliver foreign securities of the Fund held by the Custodian or such Foreign Sub-Custodian, or in a Foreign Securities System account, only upon receipt of Proper Instructions, which may be continuing instructions when deemed appropriate by the parties, and only in the following cases:
+
+(i) upon the sale of such foreign securities for the Fund in accordance with commercially reasonable market practice in the country where such foreign securities are held or traded, including, without limitation: (A) delivery against expectation of receiving later payment; or (B) in the case of a sale effected through a Foreign Securities System, in accordance with the rules governing the operation of the Foreign Securities System;
+
+(ii) in connection with any repurchase agreement related to foreign securities;
+
+(iii) to the depository agent in connection with tender or other similar offers for foreign securities of the Fund;
+
+(iv) to the issuer thereof or its agent when such foreign securities are called, redeemed, retired or otherwise become payable;
+
+(v) to the issuer thereof, or its agent, for transfer into the name of the Custodian (or the name of the respective Foreign Sub-Custodian or of any nominee of the Custodian or such Foreign Sub-Custodian) or for exchange for a different number of bonds, certificates or other evidence representing the same aggregate face amount or number of units;
+
+(vi) to brokers, clearing banks or other clearing agents for examination or trade execution in accordance with market custom; provided that in any such case the Foreign Sub-Custodian shall have no responsibility or liability for any loss arising from the delivery of such securities prior to receiving payment for such securities except as may arise from the Foreign Sub-Custodian’s own negligence, fraud, bad faith, or willful misconduct;
+
+(vii) for exchange or conversion pursuant to any plan of merger, consolidation, recapitalization, reorganization or readjustment of the securities of the issuer of such securities, or pursuant to provisions for conversion contained in such securities, or pursuant to any deposit agreement;
+
+(viii) in the case of warrants, rights or similar foreign securities, the surrender thereof in the exercise of such warrants, rights or similar securities or the surrender of interim receipts or temporary securities for definitive securities;
+
+ 
+
+12
+
+(ix) for delivery as security in connection with any borrowing by the Fund requiring a pledge of assets by the Fund;
+
+(x) for delivery as initial or variation margin in connection with futures or options on futures contracts entered into by the Fund;
+
+(xi) in connection with the lending of foreign securities; and
+
+(xii) for any other purpose, but only upon receipt of Proper Instructions specifying the foreign securities to be delivered and naming the person or persons to whom delivery of such securities shall be made.
+
+4.4.2. PAYMENT OF FUND MONIES. Upon receipt of Proper Instructions, which may be continuing instructions when deemed appropriate by the parties, the Custodian shall pay out, or direct the respective Foreign Sub-Custodian or the respective Foreign Securities System to pay out, monies of the Fund in the following cases only:
+
+(i) upon the purchase of foreign securities for the Fund, unless otherwise directed by Proper Instructions, by (A) delivering money to the seller thereof or to a dealer therefor (or an agent for such seller or dealer) against expectation of receiving later delivery of such foreign securities; or (B) in the case of a purchase effected through a Foreign Securities System, in accordance with the rules governing the operation of such Foreign Securities System;
+
+(ii) in connection with the conversion, exchange or surrender of foreign securities of the Fund;
+
+(iii) for the payment of any expense or liability of the Fund, including but not limited to the following payments: interest, taxes, investment advisory fees, transfer agency fees, fees under this Agreement, legal fees, accounting fees, and other operating expenses;
+
+(iv) for the purchase or sale of foreign exchange or foreign exchange contracts for the Fund, including transactions executed with or through the Custodian or its Foreign Sub-Custodians;
+
+(v) for delivery as initial or variation margin in connection with futures or options on futures contracts entered into by the Fund;
+
+(vi) for payment of part or all of the dividends received in respect of securities sold short;
+
+(vii) in connection with the borrowing or lending of foreign securities; and
+
+(viii) for any other purpose, but only upon receipt of Proper Instructions specifying the amount of such payment and naming the person or persons to whom such payment is to be made.
+
+4.4.3. MARKET CONDITIONS. Notwithstanding any provision of this Agreement to the contrary, settlement and payment for Foreign Assets received for the account of the Fund and delivery of Foreign Assets maintained for the account of the Fund may be effected in accordance with the customary established securities trading or processing practices and procedures in the country or market in which the transaction occurs, including, without limitation, delivering Foreign Assets to the purchaser thereof or to a dealer therefor (or an agent for such purchaser or dealer) with the expectation of receiving later payment for such Foreign Assets from such purchaser or dealer.
+
+ 
+
+13
+
+The Custodian shall provide to the Board the information with respect to custody and settlement practices as described on Schedule C hereto in countries in which the Custodian employs a Foreign Sub-Custodian at the time or times set forth on such Schedule. The Custodian may revise Schedule C from time to time, provided that no such revision shall result in the Board being provided with substantively less information than had been previously provided hereunder.
+
+SECTION 4.5. REGISTRATION OF FOREIGN SECURITIES. The foreign securities maintained in the custody of a Foreign Sub-Custodian (other than bearer securities) shall be registered in the name of the Fund or in the name of the Custodian or in the name of any Foreign Sub-Custodian or in the name of any nominee of the foregoing, and the Fund agrees to hold any such nominee harmless from any liability that results solely from such nominee’s status as a holder of record of such foreign securities. The Custodian or a Foreign Sub-Custodian shall not be obligated to accept securities on behalf of the Fund under the terms of this Agreement unless the form of such securities and the manner in which they are delivered are in accordance with reasonable market practice.
+
+SECTION 4.6 BANK ACCOUNTS. The Custodian shall identify on its books as belonging to the Fund cash (including cash denominated in foreign currencies) deposited with the Custodian. Where the Custodian is unable to maintain, or market practice does not facilitate the maintenance of, cash on the books of the Custodian, a bank account or bank accounts shall be opened and maintained outside the United States on behalf of the Fund with a Foreign Sub-Custodian. All accounts referred to in this Section shall be subject only to draft or order by the Custodian (or, if applicable, such Foreign Sub-Custodian) acting pursuant to the terms of this Agreement to hold cash received by or from or for the account of the Fund. Cash maintained on the books of the Custodian (including its branches, subsidiaries and affiliates), regardless of currency denomination, is maintained in bank accounts established under, and subject to the laws of, The Commonwealth of Massachusetts.
+
+SECTION 4.7. COLLECTION OF INCOME. The Custodian shall use reasonable commercial efforts to collect all income and other payments with respect to the Foreign Assets held hereunder to which the Fund shall be entitled and shall credit such income, as collected, to the Fund. In the event that extraordinary measures are required to collect such income, the Fund and the Custodian shall consult as to such measures and as to the compensation and expenses of the Custodian relating to such measures.
+
+SECTION 4.8 SHAREHOLDER RIGHTS. With respect to the foreign securities held pursuant to this Section 4, the Custodian will use reasonable commercial efforts to facilitate the exercise of voting and other shareholder rights, subject always to the laws, regulations and practical constraints that may exist in the country where such securities are issued. The Fund acknowledges that local conditions, including lack of regulation, onerous procedural obligations, lack of notice and other factors may have the effect of severely limiting the ability of the Fund to exercise shareholder rights.
+
+ 
+
+14
+
+SECTION 4.9. COMMUNICATIONS RELATING TO FOREIGN SECURITIES. The Custodian shall transmit promptly to the Fund written information with respect to materials received by the Custodian via the Foreign Sub-Custodians from issuers of the foreign securities being held for the account of the Fund (including, without limitation, pendency of calls and maturities of foreign securities and expirations of rights in connection therewith). With respect to tender or exchange offers, the Custodian shall transmit promptly to the Fund written information with respect to materials so received by the Custodian from issuers of the foreign securities whose tender or exchange is sought or from the party (or its agents) making the tender or exchange offer. The Custodian shall not be liable for any untimely exercise of any tender, exchange or other right or power in connection with foreign securities or other property of the Fund at any time held by it unless (i) the Custodian or the respective Foreign Sub-Custodian is in actual possession of such foreign securities or property and (ii) the Custodian receives Proper Instructions with regard to the exercise of any such right or power, and both (i) and (ii) occur at least three business days prior to the date on which the Custodian is to take action to exercise such right or power. The Custodian shall also transmit promptly to the Fund all written information received by the Custodian via the Foreign Sub-Custodians from issuers of the foreign securities being held for the account of the Fund regarding any class action or other litigation in connection with foreign securities or other assets issued outside the United States and then held, or previously held, during the term of this Agreement by the Custodian for the account of the Fund, including, but not limited to, opt-out notices and proof-of-claim forms. For avoidance of doubt, upon and after the effective date of any termination of this Agreement, the Custodian shall have no responsibility to so transmit any information under this Section 4.9.
+
+SECTION 4.10. LIABILITY OF FOREIGN SUB-CUSTODIANS. Each agreement pursuant to which the Custodian employs a Foreign Sub-Custodian shall, to the extent possible, require the Foreign Sub-Custodian to exercise reasonable care in the performance of its duties, and to indemnify, and hold harmless, the Custodian from and against any loss, damage, cost, expense, liability or claim arising out of or in connection with the Foreign Sub-Custodian’s performance of such obligations. At the Fund’s election, it shall be entitled to be subrogated to the rights of the Custodian with respect to any claims against a Foreign Sub-Custodian as a consequence of any such loss, damage, cost, expense, liability or claim if and to the extent that the Fund has not been made whole for any such loss, damage, cost, expense, liability or claim.
+
+SECTION 4.11 TAX LAW. The Custodian shall have no responsibility or liability for any obligations now or hereafter imposed on the Fund or the Custodian as custodian of the Fund by the tax law of the United States or of any state or political subdivision thereof. It shall be the responsibility of the Fund to notify the Custodian of the obligations imposed on the Fund or the Custodian as custodian of the Fund by the tax law of countries other than those mentioned in the above sentence, including responsibility for withholding and other taxes, assessments or other governmental charges, certifications and governmental reporting. The sole responsibility of the Custodian with regard to such tax law shall be to use reasonable efforts to assist the Fund with respect to any claim for exemption or refund under the tax law of countries for which the Fund has provided such information.
+
+SECTION 5. PAYMENTS FOR SALES OR REPURCHASES OR REDEMPTIONS OF SHARES.
+
+ 
+
+15
+
+The Custodian shall receive from the distributor for the Shares or from the Transfer Agent and deposit into the Fund’s account such payments as are received for Shares thereof issued or sold from time to time by the Fund. The Custodian will provide timely notification to the Fund and the Transfer Agent of any receipt by it of payments for Shares of the Fund.
+
+From such funds as may be available for the purpose, the Custodian shall, upon receipt of instructions from the Transfer Agent, make funds available for payment to holders of Shares who have delivered to the Transfer Agent a request for redemption or repurchase of their Shares. In connection with the redemption or repurchase of Shares, the Custodian is authorized upon receipt of instructions from the Transfer Agent to wire funds to or through a commercial bank designated by the redeeming shareholders. In connection with the redemption or repurchase of Shares, the Custodian shall honor checks drawn on the Custodian by a holder of Shares, which checks have been furnished by the Fund to the holder of Shares, when presented to the Custodian in accordance with such procedures and controls as are mutually agreed upon from time to time between such Fund and the Custodian.
+
+SECTION 6. FOREIGN EXCHANGE.
+
+6.1. GENERALLY. Upon receipt of Proper Instructions, which for purposes of this section may also include security trade advices, the Custodian shall facilitate the processing and settlement of foreign exchange transactions. Such foreign exchange transactions do not constitute part of the services provided by the Custodian under this Agreement.
+
+6.2. FUND ELECTIONS. The Fund (or its Investment Advisor acting on its behalf) may elect to enter into and execute foreign exchange transactions with third parties that are not affiliated with the Custodian, with State Street Global Markets, which is the foreign exchange division of State Street Bank and Trust Company and its affiliated companies (“SSGM”), or with a sub-custodian. Where the Fund or its Investment Advisor gives Proper Instructions for the execution of a foreign exchange transaction using an indirect foreign exchange service described in the Client Publications (as defined below), the Fund (or its Investment Advisor) instructs the Custodian, on behalf of the Fund, to direct the execution of such foreign exchange transaction to SSGM or, when the relevant currency is not traded by SSGM, to the applicable sub-custodian. The Custodian shall not have any agency (except as contemplated in preceding sentence), trust or fiduciary obligation to the Fund, its Investment Advisor or any other person in connection with the execution of any foreign exchange transaction. The Custodian shall have no responsibility under this Agreement for the selection of the counterparty to, or the method of execution of, any foreign exchange transaction entered into by the Fund (or its Investment Advisor acting on its behalf) or the reasonableness of the execution rate on any such transaction. Client Publications means the general client publications of State Street Bank and Trust Company available from time to time available to clients and their investment managers.
+
+6.3. FUND ACKNOWLEDGEMENT The Fund acknowledges that in connection with all foreign exchange transactions entered into by the Fund (or its Investment Advisor acting on its behalf) with SSGM or any sub-custodian, SSGM and each such sub-custodian:
+
+(i) shall be acting in a principal capacity and not as broker, agent or fiduciary to the Fund or its Investment Advisor;
+
+ 
+
+16
+
+(ii) shall seek to profit from such foreign exchange transactions, and are entitled to retain and not disclose any such profit to the Fund or its Investment Advisor; and
+
+(iii) shall enter into such foreign exchange transactions pursuant to the terms and conditions, including pricing or pricing methodology, (a) agreed with the Fund or its Investment Advisor from time to time or (b) in the case of an indirect foreign exchange service, (i) as established by SSGM and set forth in the Client Publications with respect to the particular foreign exchange execution services selected by the Fund or the Investment Advisor or (ii) as established by the sub-custodian from time to time.
+
+6.4. TRANSACTIONS BY STATE STREET. The Custodian or its affiliates, including SSGM, may trade based upon information that is not available to the Fund (or its Investment Advisor acting on its behalf), and may enter into transactions for its own account or the account of clients in the same or opposite direction to the transactions entered into with the Fund (or its Investment Manager), and shall have no obligation, under this Agreement, to share such information with or consider the interests of their respective counterparties, including, where applicable, the Fund or the Investment Advisor.
+
+SECTION 7. PROPER INSTRUCTIONS.
+
+Proper Instructions, which may also be standing instructions, as used throughout this Agreement, shall mean instructions received by the Custodian from the Fund a Fund’s duly authorized investment manager or investment adviser, or a person or entity duly authorized by either of them. Such instructions may be in writing signed by the Authorized Persons or may be in a tested communication or in a communication utilizing access codes effected between electro-mechanical or electronic devices or may be by such other means and utilizing such intermediary systems and utilities as may be agreed to from time to time by the Custodian and the person or persons giving such instructions, provided that the Fund has followed any security procedures agreed to from time to time by the Fund and the Custodian, including, but not limited to, the security procedures selected by the Fund in the Funds Transfer Addendum to this Agreement, the terms of which are hereby agreed to. Oral instructions will be considered Proper Instructions if the Custodian reasonably believes them to have been given by a person authorized to give such instructions with respect to the transaction involved. The Fund shall cause all oral instructions to be confirmed in writing and signed by two Authorized Persons. For purposes of this Section, Proper Instructions shall include instructions received by the Custodian pursuant to any multi-party agreement which requires a segregated asset account in accordance with Section 2.9 of this Agreement. The Fund shall cause its duly authorized officer to certify to the Custodian in writing the names and specimen signatures of persons authorized to give Proper Instructions (“Authorized Persons”) in the incumbency certificate attached hereto. The Custodian shall be entitled to rely upon the identity and authority of such persons until it receives notice from the Fund to the contrary.
+
+SECTION 8. ACTIONS PERMITTED WITHOUT EXPRESS AUTHORITY.
+
+The Custodian may in its discretion, without express authority from the Fund:
+
+ 
+
+17
+
+1) make payments to itself or others for minor expenses of handling securities or other similar items relating to its duties under this Agreement, provided that all such payments shall be accounted for and reported to the Fund;
+
+2) surrender securities in temporary form for securities in definitive form;
+
+3) endorse for collection, in the name of the Fund, checks, drafts and other negotiable instruments; and
+
+4) in general, attend to all non-discretionary details in connection with the sale, exchange, substitution, purchase, transfer and other dealings with the securities and property of the Fund except as otherwise directed by the Board.
+
+SECTION 9. EVIDENCE OF AUTHORITY.
+
+The Custodian shall be protected in acting upon any instructions, notice, request, consent, certificate or other instrument or paper believed by it to be genuine and to have been properly executed by or on behalf of the Fund. The Custodian may receive and accept a copy of a resolution of the Board, certified by the Secretary or an Assistant Secretary of the Fund (“Certified Resolution”), as conclusive evidence (a) of the authority of any person to act in accordance with such resolution or (b) of any determination or of any action by the Board as described in such resolution, and such resolution may be considered as in full force and effect until receipt by the Custodian of written notice to the contrary.
+
+SECTION 10. DUTIES OF CUSTODIAN WITH RESPECT TO THE BOOKS OF ACCOUNT AND UNDERLYING TRANSFER AGENTS.
+
+The Custodian shall cooperate with and supply necessary information to the entity or entities appointed by the Board to keep the books of account of the Fund. The Fund acknowledges and agrees that, with respect to investments maintained with the Underlying Transfer Agent, the Underlying Transfer Agent is the sole source of information on the number of shares of the Fund held by it and that the Custodian has the right to rely on holdings information furnished by the Underlying Transfer Agent to the Custodian in performing its duties under this Agreement, including without limitation, the duties set forth in this Section 10 and in Section 11 hereof; provided, however, that the Custodian shall be obligated to reconcile information as to purchases and sales of Underlying Shares contained in trade instructions and confirmations received by the Custodian and to report promptly any discrepancies to the Underlying Transfer Agent.
+
+SECTION 11. RECORDS.
+
+The Custodian shall create and maintain all records relating to its activities and obligations under this Agreement in such manner as will meet the obligations of the Fund under the 1940 Act, including Section 31 thereof and Rules 31a-1 and 31a-2 thereunder. All such records shall be the property of the Fund and shall at all times during the regular business hours of the Custodian be open for inspection by duly authorized officers, employees or agents of the Fund and employees and agents of the SEC. The Custodian shall, at the Fund’s request, supply the Fund with a tabulation of securities owned by the Fund and held by the Custodian and shall, when requested to do so by the Fund and for such compensation as shall be agreed upon between the Fund and
+
+ 
+
+18
+
+the Custodian, include certificate numbers in such tabulations. The Custodian shall provide the Fund with access to its statements and records electronically in accordance with the Remote Access Services Addendum attached hereto.
+
+SECTION 12. REPORTS TO FUND BY INDEPENDENT PUBLIC ACCOUNTANTS.
+
+The Custodian shall take all reasonable action, as the Fund may from time to time request, to obtain from year to year favorable opinions from the Fund’s independent public accountants with respect to its activities hereunder in connection with the preparation of the Fund’s Form 10 and Form 10-K or other annual reports to the SEC and with respect to any other requirements thereof.
+
+The Custodian shall provide the Fund, at such times as the Fund may reasonably require, with reports by independent public accountants on the accounting system, internal accounting control and procedures for safeguarding securities, futures contracts and options on futures contracts, including securities deposited and/or maintained in a U.S. Securities System or a Foreign Securities System (either, a “Securities System”), relating to the services provided by the Custodian under this Agreement; such reports, shall be of sufficient scope and in sufficient detail, as may reasonably be required by the Fund to provide reasonable assurance that any material inadequacies would be disclosed by such examination, and, if there are no such inadequacies, the reports shall so state.
+
+SECTION 13. COMPENSATION OF CUSTODIAN.
+
+The Custodian shall be entitled to reasonable compensation for its services and expenses as Custodian, as agreed upon from time to time between the Fund and the Custodian.
+
+SECTION 14. RESPONSIBILITY OF CUSTODIAN.
+
+So long as and to the extent that it is in the exercise of reasonable care, the Custodian shall not be responsible for the title, validity or genuineness of any property or evidence of title thereto received by it or delivered by it pursuant to this Agreement and shall be held harmless in acting upon any notice, request, consent, certificate or other instrument reasonably believed by it to be genuine and to be signed by the proper party or parties, including any futures commission merchant acting pursuant to the terms of a three-party futures or options agreement. The Custodian shall be held to the exercise of reasonable care and good faith in carrying out the provisions of this Agreement, but shall be kept indemnified by and shall be without liability to the Fund for any action taken or omitted by it in good faith without negligence, fraud, bad faith, or willful misconduct, including, without limitation, acting in accordance with any Proper Instruction. It shall be entitled to rely on and may act upon advice of counsel (who may be counsel for the Fund) on all matters, and shall be without liability for any action reasonably taken or omitted pursuant to such advice. The Custodian shall be without liability to the Fund for any loss, liability, claim or expense resulting from or caused by anything that is part of Country Risk (as defined in Section 3 hereof), including without limitation nationalization, expropriation, currency restrictions, insolvency of a Foreign Sub-Custodian, acts of war, revolution, riots or terrorism. The Custodian shall be liable for the acts or omissions of a Foreign Sub-Custodian to the same extent as if such action or omission were performed by the Custodian itself, taking into account the facts and circumstances and the established local market practices and laws prevailing in the particular jurisdiction in which the Fund elects to invest.
+
+ 
+
+19
+
+Except as may arise from the Custodian’s own negligence, fraud, bad faith, or willful misconduct or the negligence, fraud, bad faith, or willful misconduct of a sub-custodian or agent, the Custodian shall be without liability to the Fund for any loss, liability, claim or expense resulting from or caused by; (i) events or circumstances beyond the reasonable control of the Custodian or any sub-custodian or Securities System or any agent or nominee of any of the foregoing, including, without limitation, the interruption, suspension or restriction of trading on or the closure of any securities market, power or other mechanical or technological failures or interruptions, computer viruses or communications disruptions, work stoppages, natural disasters, or other similar events or acts; (ii) errors by the Fund or its duly-authorized investment manager or investment advisor in their instructions to the Custodian provided such instructions have been in accordance with this Agreement; (iii) the insolvency of or acts or omissions by a Securities System; (iv) any delay or failure of any broker, agent or intermediary, central bank or other commercially prevalent payment or clearing system to deliver to the Custodian’s sub-custodian or agent securities purchased or in the remittance or payment made in connection with securities sold; (v) any delay or failure of any company, corporation, or other body in charge of registering or transferring securities in the name of the Custodian, the Fund, the Custodian’s sub-custodians, nominees or agents or any consequential losses arising out of such delay or failure to transfer such securities including non-receipt of bonus, dividends and rights and other accretions or benefits; (vi) delays or inability to perform its duties due to any disorder in market infrastructure with respect to any particular security or Securities System; and (vii) any provision of any present or future law or regulation or order of the United States of America, or any state thereof, or any other country, or political subdivision thereof or of any court of competent jurisdiction.
+
+If the Fund requires the Custodian to take any action with respect to securities, which action involves the payment of money or which action may, in the opinion of the Custodian, result in the Custodian or its nominee assigned to the Fund being liable for the payment of money or incurring liability of some other form, the Fund, as a prerequisite to requiring the Custodian to take such action, shall provide indemnity to the Custodian in an amount and form satisfactory to it.
+
+If the Custodian, its affiliates, subsidiaries or agents advances cash or securities for any purpose (including but not limited to securities settlements, foreign exchange contracts and assumed settlement), or in the event that the Custodian or its nominee shall incur or be assessed any taxes, charges, expenses, assessments, claims or liabilities in connection with the performance of this Agreement, except such as may arise from its or its nominee’s own negligent action, negligent failure to act or willful misconduct, or if the Fund fails to compensate the Custodian pursuant to Section 13 hereof, any property at any time held for the account of the Fund shall be security therefor and should the Fund fail to repay the Custodian promptly, the Custodian shall be entitled to utilize available cash and to dispose of the Fund’s assets to the extent necessary to obtain reimbursement.
+
+Notwithstanding anything to the contrary in this Agreement, each of the Fund and the Custodian hereby agrees that in no event shall either the Fund or the Custodian be liable to the other party
+
+ 
+
+20
+
+for indirect, special or consequential damages, or for any damages of a similar nature, provided, however, that the foregoing shall in no way limit the Custodian’s recovery relating to third party claims asserted against it and related fees and expenses for which indemnification is available hereunder.
+
+SECTION 15. EFFECTIVE PERIOD, TERMINATION AND AMENDMENT.
+
+This Agreement shall remain in full force and effect for an initial term ending                     , 2023 (the “Initial Term”). After the expiration of the Initial Term, this Agreement shall automatically renew for successive one-year terms (each, a “Renewal Term”) unless a written notice of non-renewal is delivered by the non-renewing party no later than one hundred twenty (120) days prior to the expiration of the Initial Term or any Renewal Term, as the case may be. During the Initial Term and thereafter, either party may terminate this Agreement: (i) in the event of the other party’s material breach of a material provision of this Agreement that the other party has either (a) failed to cure or (b) failed to establish a remedial plan to cure that is reasonably acceptable, within 60 days’ written notice of such breach, or (ii) in the event of the appointment of a conservator or receiver for the other party or upon the happening of a like event to the other party at the direction of an appropriate agency or court of competent jurisdiction. Upon termination of this Agreement pursuant to this paragraph the Fund shall pay Custodian its compensation due through the effective termination date and shall reimburse Custodian for its costs, expenses and disbursements.
+
+In the event of: (i) the Fund’s termination of this Agreement for any reason other than as set forth in the immediately preceding paragraph or (ii) a transaction not in the ordinary course of business pursuant to which the Custodian is not retained to continue providing services hereunder to the Fund (or its respective successor), the Fund shall reimburse the Custodian for its costs, expenses and disbursements and reasonable counsel fees and, if either (i) or (ii) occur during the Initial Term, pay the Custodian its compensation due through the end of the Initial Term (based upon the average monthly compensation previously earned by Custodian). Upon receipt of such payment and reimbursement, the Custodian will deliver the Fund’s securities and cash as set forth herein below. For the avoidance of doubt, no payment will be required pursuant to clause (ii) of this paragraph in the event of any transaction such as (a) the liquidation or dissolution of the Fund and distribution of the Fund’s assets as a result of the Board’s determination in its reasonable business judgment that the Fund is no longer viable (b) a merger of the Fund into, or the consolidation of the Fund with, another entity, or (c) the sale by the Fund of all, or substantially all, of its assets to another entity, in each of (b) and (c) where the Custodian is retained to continue providing services to the Fund (or its respective successor) on substantially the same terms as this Agreement. For the avoidance of doubt, the Fund shall have the right to terminate this agreement upon written notice to the Custodian provided it reimburses the Custodian in the manner set forth above.
+
+The provisions of Sections 4.11, 13, 14, 24 and 25 of this Agreement shall survive termination of this Agreement for any reason.
+
+This Agreement may be amended at any time in writing by mutual agreement of the parties hereto.
+
+SECTION 16. SUCCESSOR CUSTODIAN.
+
+ 
+
+21
+
+If a successor custodian for the Fund shall be appointed by the Board, the Custodian shall, upon termination, deliver to such successor custodian at the office of the Custodian, duly endorsed and in the form for transfer, all securities of the Fund then held by it hereunder and shall transfer to an account of the successor custodian all of the securities of the Fund held in a Securities System or at the Underlying Transfer Agent.
+
+Upon termination, if no such successor custodian shall be appointed, the Custodian shall, in like manner, upon receipt of Proper Instructions, deliver at the office of the Custodian and transfer such securities, funds and other properties in accordance with such resolution. Unless so directed by the Proper Instructions, in no event shall the Custodian deliver the securities, funds and other properties to the Fund.
+
+In the event that no Proper Instructions designating a successor custodian or alternative arrangement shall have been delivered to the Custodian on or before the date when such termination shall become effective, then the Custodian shall have the right to deliver to a bank or trust company, which is a “bank” as defined in the 1940 Act, doing business in Boston, Massachusetts, or New York, New York, of its own selection, with such bank or trust company being among the top ten institutions in terms of assets under custody in the United States according to reasonably acceptable industry rankings, all securities, funds and other properties held by the Custodian hereunder and all instruments held by the Custodian relative thereto and all other property held by it under this Agreement on behalf of the Fund, and to transfer to an account of such successor custodian all of the Fund’s securities held in any Securities System or at the Underlying Transfer Agent. Thereafter, such bank or trust company shall be the successor of the Custodian under this Agreement.
+
+In the event that securities, funds and other properties remain in the possession of the Custodian after the date of termination hereof owing to failure of the Fund to provide Proper Instructions to appoint a successor custodian, the Custodian shall be entitled to fair compensation for its services during such period as the Custodian retains possession of such securities, funds and other properties and the provisions of this Agreement relating to the duties and obligations of the Custodian shall remain in full force and effect.
+
+SECTION 17. INTERPRETIVE AND ADDITIONAL PROVISIONS.
+
+In connection with the operation of this Agreement, the Custodian and the Fund may from time to time agree on such provisions interpretive of or in addition to the provisions of this Agreement as may in their joint opinion be consistent with the general tenor of this Agreement. Any such interpretive or additional provisions shall be in a writing signed by both parties and shall be annexed hereto, provided that no such interpretive or additional provisions shall contravene any applicable federal or state regulations or any provision of the Fund’s governing documents. No interpretive or additional provisions made as provided in the preceding sentence shall be deemed to be an amendment of this Agreement.
+
+SECTION 18. MASSACHUSETTS LAW TO APPLY.
+
+This Agreement shall be construed and the provisions thereof interpreted under and in accordance with laws of The Commonwealth of Massachusetts.
+
+ 
+
+22
+
+SECTION 19. ASSIGNMENT.
+
+This Agreement may not be assigned by (a) the Fund without the written consent of the Custodian or (b) by the Custodian without the written consent of the Fund.
+
+SECTION 20. PRIOR AGREEMENTS.
+
+This Agreement supersedes and terminates, as of the date hereof, all prior Agreements between the Fund and the Custodian relating to the custody of the Fund’s assets.
+
+SECTION 21. NOTICES.
+
+Any notice, instruction or other instrument required to be given hereunder may be delivered in person to the offices of the parties as set forth herein during normal business hours or delivered prepaid registered mail or by telecopy to the parties at the following addresses or such other addresses as may be notified by any party from time to time.
+
+ 
+
+To the Customer:    	 	Blackstone Private Credit Fund
+ 	345 Park Avenue, 31st Floor
+ 	New York, NY 10154
+ 	Telephone No.: 212-503-2100
+ 	Attn.: GSOTreasury@Blackstone.com;
+ 	GSOAssetServicing@Blackstone.com
+To the Custodian:    	 	STATE STREET BANK AND TRUST COMPANY
+ 	100 Summer Street, Floor 5
+ 	Boston, MA 02110
+ 	Telephone No.: 617-662-7245
+ 	Facsimile No.: 212-651-2393
+ 	Attention: Fred Willshire
+ 	State Street Alternative Investment Solutions
+Such notice, instruction or other instrument shall be deemed to have been served in the case of a registered letter at the expiration of five business days after posting, in the case of cable twenty-four hours after dispatch and, in the case of telex, immediately on dispatch and if delivered outside normal business hours it shall be deemed to have been received at the next time after delivery when normal business hours commence and in the case of telecopy on the business day after the receipt thereof. Evidence that the notice was properly addressed, stamped and put into the post shall be conclusive evidence of posting.
+
+SECTION 22. COUNTERPARTS.
+
+This Agreement may be executed in several counterparts, each of which shall be deemed to be an original, and all such counterparts taken together shall constitute one and the same Agreement.
+
+ 
+
+23
+
+SECTION 23. SEVERABILITY.
+
+Whenever possible, each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law, but if any provision or provisions of this Agreement shall be held to be invalid, unlawful or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired.
+
+SECTION 24. CONFIDENTIALITY.
+
+All information provided under this Agreement by a party to this Agreement (the “Disclosing Party”) to the other party to this Agreement (the “Receiving Party”) regarding the Disclosing Party’s business and operations shall be treated as confidential. Subject to Section 25 below, all confidential information provided under this Agreement by Disclosing Party shall be used, including disclosure to third parties, by the Receiving Party, or its agents or service providers, solely for the purpose of performing or receiving the services and discharging the Receiving Party’s other obligations under the Agreement or managing the business of the Receiving Party and its affiliates, including financial and operational management and reporting, risk management, legal and regulatory compliance and client service management. The foregoing shall not be applicable to any information (a) that is publicly available when provided or thereafter becomes publicly available, other than through a breach of this Agreement, (b) that is independently derived by the Receiving Party without the use of any information provided by the Disclosing Party in connection with this Agreement, (c) that is disclosed to comply with any legal or regulatory proceeding, investigation, audit, examination, subpoena, civil investigative demand or other similar process, (d) that is disclosed as required by operation of law or regulation or as required to comply with the requirements of any market infrastructure that the Disclosing Party or its agents direct the Custodian or its affiliates to employ (or which is required in connection with the holding or settlement of instruments included in the assets subject to this Agreement), or (e) where the party seeking to disclose has received the prior written consent of the party providing the information, which consent shall not be unreasonably withheld. Upon written request from the Fund’s investment adviser, the Custodian shall promptly return or destroy any nonpublic portfolio holdings information relating to the Fund, except the Custodian may keep copies of the information for the purpose of maintaining appropriate business records or as may be required by law or any regulatory authority.
+
+SECTION 25. USE OF DATA.
+
+(a) In connection with the provision of the services and the discharge of its other obligations under this Agreement, the Custodian (which term for purposes of this Section 25 includes each of its parent company, branches and affiliates (“Affiliates”)) may collect and store information regarding the Fund and share such information with its Affiliates, agents and service providers in order and to the extent reasonably necessary (i) to carry out the provision of services contemplated under this Agreement and other agreements between the Fund and the Custodian or any of its Affiliates and (ii) to carry out management of its businesses, including, but not limited to, financial and operational management and reporting, risk management, legal and regulatory compliance and client service management.
+
+(b) Subject to paragraph (c) below, the Custodian and/or its Affiliates (except those Affiliates or business divisions principally engaged in the business of asset management) may use any data or other information (“Data”) obtained by such entities in the performance of their services under
+
+ 
+
+24
+
+this Agreement or any other agreement between the Fund and the Custodian or one of its Affiliates, including Data regarding transactions and portfolio holdings relating to the Fund, and publish, sell, distribute or otherwise commercialize the Data; provided that, unless the Fund otherwise consents, Data is combined or aggregated with information relating to (i) other customers of the Custodian and/or its Affiliates or (ii) information derived from other sources, in each case such that any published information will be displayed in a manner designed to prevent attribution to or identification of such Data with the Fund. The Fund agrees that Custodian and/or its Affiliates may seek to profit and realize economic benefit from the commercialization and use of the Data, that such benefit will constitute part of the Custodian’s compensation for services under this Agreement or such other agreement, and the Custodian and/or its Affiliates shall be entitled to retain and not be required to disclose the amount of such economic benefit and profit to the Fund.
+
+(c) Except as expressly contemplated by this Agreement, nothing in this Section 25 shall limit the confidentiality and data-protection obligations of the Custodian and its Affiliates under this Agreement and applicable law. The Custodian shall cause any Affiliate, agent or service provider to which it has disclosed Data pursuant to this Section 25 to comply at all times with confidentiality and data-protection obligations as if it were a party to this Agreement.
+
+SECTION 26. REPRODUCTION OF DOCUMENTS.
+
+This Agreement and all schedules, addenda, exhibits, attachments and amendments hereto may be reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic or other similar process. The parties hereto all/each agree that any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding, whether or not the original is in existence and whether or not such reproduction was made by a party in the regular course of business, and that any enlargement, facsimile or further reproduction of such reproduction shall likewise be admissible in evidence.
+
+SECTION 27. REMOTE ACCESS SERVICES ADDENDUM.
+
+The Custodian and the Fund agree to be bound by the terms of the Remote Access Services Addendum attached hereto as Exhibit A.
+
+SECTION 28. REGULATION GG.
+
+The Fund hereby represents and warrants that it does not engage in an “Internet gambling business,” as such term is defined in Section 233.2(r) of Federal Reserve Regulation GG (12 CFR 233) (“Regulation GG”). The Fund hereby covenants and agrees that it shall not engage in an Internet gambling business. In accordance with Regulation GG, the Fund is hereby notified that “restricted transactions,” as such term is defined in Section 233.2(y) of Regulation GG, are prohibited in any dealings with the Custodian pursuant to this Agreement or otherwise between or among any party hereto.
+
+SECTION 29. DATA PRIVACY.
+
+The Custodian will implement and maintain a written information security program, in compliance with the laws of The Commonwealth of Massachusetts and any other applicable laws
+
+ 
+
+25
+
+and regulations, that contains appropriate security measures to safeguard the personal information of the Fund’s shareholders, employees, trustees and/or officers that the Custodian receives, stores, maintains, processes or otherwise accesses in connection with the provision of services hereunder. For these purposes, “personal information” shall mean (i) an individual’s name (first initial and last name or first name and last name), address or telephone number plus (a) social security number, (b) drivers license number, (c) state identification card number, (d) debit or credit card number, (e) financial account number or (f) personal identification number or password that would permit access to a person’s account or (ii) any combination of the foregoing that would allow a person to log onto or access an individual’s account. This provision will survive termination or expiration of the Agreement for so long as the custodian continues to possess or have access to personal information related to the Fund. Notwithstanding the foregoing “personal information” shall not include information that is lawfully obtained from publicly available information, or from federal, state or local government records lawfully made available to the general public.
+
+SECTION 30. LOAN SERVICES ADDENDUM.
+
+In the event the Fund directs Custodian in writing to perform loan services, Custodian and the Fund hereby agree to be bound by the terms of the Loan Services Addendum attached hereto as Exhibit B and the Fund shall reimburse Custodian for its fees and expenses related thereto as agreed upon from time to time in writing by the Fund and Custodian.
+
+SECTION 31. SHAREHOLDER COMMUNICATIONS ELECTION.
+
+SEC Rule 14b-2 requires banks which hold securities for the account of customers to respond to requests by issuers of securities for the names, addresses and holdings of beneficial owners of securities of that issuer held by the bank unless the beneficial owner has expressly objected to disclosure of this information. In order to comply with the rule, the Custodian needs the Fund to indicate whether it authorizes the Custodian to provide the Fund’s name, address, and share position to requesting companies whose securities the Fund owns. If the Fund tells the Custodian “no”, the Custodian will not provide this information to requesting companies. If the Fund tells the Custodian “yes” or does not check either “yes” or “no” below, the Custodian is required by the rule to treat the Fund as consenting to disclosure of this information for all securities owned by the Fund or any funds or accounts established by the Fund. For the Fund’s protection, the Rule prohibits the requesting company from using the Fund’s name and address for any purpose other than corporate communications. Please indicate below whether the Fund consents or objects by checking one of the alternatives below.
+
+YES          The Custodian is authorized to release the Fund’s name, address, and share positions.
+
+NO    x      The Custodian is not authorized to release the Fund’s name, address, and share positions.
+
+[Remainder of Page Intentionally Left Blank]
+
+IN WITNESS WHEREOF, each of the parties has caused this instrument to be executed in its name and behalf by its duly authorized representative(s) as of the date set forth above.
+
+ 
+
+26
+
+BLACKSTONE PRIVATE CREDIT FUND
+By:	 	
+/s/ Marisa J. Beeney
+
+ 	Name: Marisa J. Beeney
+ 	Title:   Chief Legal Officer, Chief Compliance Officer and Secretary
+STATE STREET BANK AND TRUST COMPANY
+By:	 	
+/s/ James F. Smith
+
+ 	Name: James F. Smith
+ 	Title:   Managing Director
+ 
+
+27
+
+INCUMBENCY CERTIFICATE
+
+BLACKSTONE PRIVATE CREDIT FUND (the “Fund”) hereby certifies, through the duly authorized person(s) whose signature(s) appear below, that the persons whose names appear below are authorized to act on behalf of the Fund, including the authorization to give Proper Instructions, with respect to the Custodian Agreement between the Fund and STATE STREET BANK AND TRUST COMPANY (the “Custodian”) dated                     , 2020 (the “Agreement”). The Fund further certifies that the true signature of each such person is set forth below opposite his name, and that the Custodian may rely upon this certificate until such time as it receives another certificate bearing a later date.
+
+ 
+
+NAME	  	SIGNATURE
+                                                         	  	                                                         
+                                                         	  	                                                         
+                                                         	  	                                                         
+                                                         	  	                                                         
+ 
+
+BLACKSTONE PRIVATE CREDIT FUND
+
+  	
+BY:                                                         	  	
+Name (printed):                                                         	  	
+Title:                                                         	  	
+Date:                                                         	  	
+ 
+
+28
+
+EXHIBIT A
+
+See attached
+
+ 
+
+29
+
+EXHIBIT B
+
+See attached
+
+ 
+
+30

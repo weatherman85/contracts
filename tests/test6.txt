@@ -1,0 +1,661 @@
+EX-10.243 14 d911381dex10243.htm EX-10.243
+Exhibit 10.243
+
+Execution Version
+
+FIRST AMENDMENT
+
+FIRST AMENDMENT (this “Amendment”), dated as of May 27, 2020, to the 364-Day Credit Agreement, dated as of March 17, 2020, among FEDEX CORPORATION, a Delaware corporation (the “Borrower”), the several lenders party thereto (the “Lenders”), JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the “Administrative Agent”) and each other party thereto (as amended, restated, supplemented or otherwise modified prior to the date hereof, the “Credit Agreement”).
+
+W I T N E S S E T H :
+
+WHEREAS, the Borrower, the Lenders and the Administrative Agent originally entered into the Credit Agreement, pursuant to which the Lenders made and may make certain loans and other extensions of credit to the Borrower;
+
+WHEREAS, the Borrower and the Lenders wish to make certain amendments to the Credit Agreement as described herein; and
+
+WHEREAS, in furtherance thereof, each party hereto hereby consents to the modifications to the Credit Agreement as set forth in Section 2 below (the Credit Agreement, as hereby modified by this Amendment, the “Amended Credit Agreement”).
+
+NOW, THEREFORE, the parties hereto hereby agree as follows:
+
+SECTION 1. Defined Terms. Unless otherwise defined herein, terms defined in the Amended Credit Agreement and used herein shall have the meanings given to them in the Amended Credit Agreement.
+
+SECTION 2. Amendments. The Borrower, the Lenders and the Administrative Agent agree that the Credit Agreement is, effective as of the First Amendment Effective Date (as defined below), hereby amended as follows:
+
+(a) New definitions are hereby incorporated to the Defined Terms in Section 1.01 of the Credit Agreement in alphabetical order as follows:
+
+  ““Covenant Relief Period” means the period from the First Amendment Effective Date to and including May 31, 2021.”
+
+  ““First Amendment” means the First Amendment to this Agreement dated as of May 27, 2020.”
+
+  ““First Amendment Effective Date” has the meaning set forth in Section 3 of this Amendment.”
+
+  ““Short Term Debt” means, as of any date with respect to any Person, all liabilities of such Person outstanding on such date which would in accordance with GAAP be classified as short term debt of such Person (including, without limitation, finance lease obligations of such Person).”
+
+(b) The definition of “Consolidated EBITDA” in the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+  “Consolidated EBITDA” means, for any period, Consolidated Operating Income for such period plus, without duplication and to the extent reducing such Consolidated Operating Income for such period, the sum of (a) depreciation and amortization expense, (b) amortization of intangibles (including, but not limited to, goodwill), (c) all non-cash pension expenses and losses, including, but not limited to, pension service costs, and (d) non-cash asset impairment charges related to long-lived assets (including intangible asset impairment charges), and minus, without duplication, to the extent included in such Consolidated Operating Income for such period, non-cash periodic mark-to-market credits related to pension gains, all as determined on a consolidated basis.
+
+(c) The definition of “Pricing Grid” in the Credit Agreement is hereby amended and restated in its entirety :
+
+  ““Pricing Grid” means as follows:
+
+ 
+
+Level	  	Index Debt Ratings	  	Applicable Rate
+(Eurodollar Loan)	 	 	Applicable Rate
+(ABR Loan)	 	 	Commitment Fee
+Rate	 
+Level 1
+
+  	
+³ A- from S&P
+
+or ³ A3 from Moody’s
+
+  	 	0.875	% 	 	 	0.00	% 	 	 	0.06	% 
+Level 2
+
+  	
+BBB+ from S&P
+
+or Baa1 from Moody’s
+
+  	 	1.00	% 	 	 	0.00	% 	 	 	0.08	% 
+Level 3
+
+  	
+BBB from S&P
+
+or Baa2 from Moody’s
+
+  	 	1.25	% 	 	 	0.25	% 	 	 	0.10	% 
+Level 4
+
+  	
+BBB- from S&P
+
+or Baa3 from Moody’s
+
+  	 	1.375	% 	 	 	0.375	% 	 	 	0.125	% 
+Level 5
+
+  	
+< BBB- from S&P
+
+and < Baa3 from Moody’s
+
+  	 	1.625	% 	 	 	0.625	% 	 	 	0.175	% 
+  ; provided that during the Covenant Relief Period:
+
+ 
+
+Level	  	Index Debt Ratings	  	Applicable Rate
+(Eurodollar Loan)	 	 	Applicable Rate
+(ABR Loan)	 	 	Commitment Fee
+Rate	 
+Level 1
+
+  	
+³ A- from S&P
+
+or ³ A3 from Moody’s
+
+  	 	1.00	% 	 	 	0.00	% 	 	 	0.10	% 
+Level 2
+
+  	
+BBB+ from S&P
+
+or Baa1 from Moody’s
+
+  	 	1.25	% 	 	 	0.25	% 	 	 	0.125	% 
+Level 3
+
+  	
+BBB from S&P
+
+or Baa2 from Moody’s
+
+  	 	1.50	% 	 	 	0.50	% 	 	 	0.150	% 
+Level 4
+
+  	
+BBB- from S&P
+
+or Baa3 from Moody’s
+
+  	 	1.75	% 	 	 	0.75	% 	 	 	0.20	% 
+Level 5
+
+  	
+< BBB- from S&P
+
+and < Baa3 from Moody’s
+
+  	 	2.00	% 	 	 	1.00	% 	 	 	0.30	% 
+For purposes of the foregoing, (i) if the ratings established or deemed to have been established by Moody’s and S&P for the Index Debt shall be changed (other than as a result of a change in the rating system of Moody’s or S&P), such change shall be effective as of the date on which it is first announced by the applicable rating agency; (ii) if the ratings established or deemed to have been established by Moody’s and S&P for the Index Debt shall fall within different Levels, the Applicable Rate shall be based on the higher of the two (2) ratings unless one (1) of the two (2) ratings is two (2) or more Levels lower than the other, in which case the Applicable Rate shall be determined by reference to the Level next below that of the higher of the two (2) ratings; and (iii) if either Moody’s or S&P shall not have in effect a rating for the Index Debt (other than by reason of the circumstances referred to in the last sentence of this definition), then such rating agency shall be deemed to have established a rating in Level 5. Each change in the Applicable Rate shall apply during the period commencing on the effective date of such change and ending on the date immediately preceding the effective date of the next such change. If the rating system of Moody’s or S&P shall change, the Borrower and the Lenders shall negotiate in good faith to amend this definition to reflect such changed rating system and, pending the effectiveness of any such amendment, the Applicable Rate shall be determined by reference to the rating most recently in effect prior to such change.”
+
+(d) Section 6.09 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+  “SECTION 6.09. Leverage. The Borrower will maintain, on the last day of each fiscal quarter of Borrower, a ratio of (a) Consolidated Total Debt on such day to (b) Consolidated EBITDA as at the last day of any period of four consecutive fiscal quarters of the Borrower (each such day being a “Measurement Date”) of not more than the ratio set forth below opposite such Measurement Date:
+
+ 
+
+Measurement Date	  	Ratio	 
+May 31, 2020
+
+  	 	3.75:1.00	 
+August 31, 2020
+
+  	 	4.75:1.00	 
+November 30, 2020
+
+  	 	4.90:1.00	 
+February 28, 2021
+
+  	 	4.75:1.00	 
+May 31, 2021
+
+  	 	3.75:1.00	 
+August 31, 2021 and thereafter
+
+  	 	3.50:1.00	 
+”                         
+
+(e) Section 7.01(r) of the Credit Agreement is hereby amended to by removing “.” at the end of the paragraph and adding the following:
+
+  “provided further that for any Lien that is incurred during the Covenant Relief Period, as of the date any such Lien is incurred, the sum of (i) the aggregate principal amount of all outstanding Long Term Debt and Short Term Debt of the consolidated Subsidiaries which are not Guarantors (excluding any Long Term Debt or Short Term Debt of a
+
+consolidated Subsidiary owing to the Borrower or another consolidated Subsidiary that is a Guarantor), plus (ii) the aggregate principal amount of all outstanding Long Term Debt and Short Term Debt of the Borrower or any Guarantor (excluding any Long Term Debt or Short Term Debt of a consolidated Subsidiary owing to the Borrower or another consolidated Subsidiary that is a Guarantor) which is secured as permitted by this Section 7.01(r), does not exceed eight percent (8%) of Consolidated Adjusted Total Assets.”
+
+(f) A new Section 7.06 is hereby incorporated to the Negative Covenants in Article VII of the Credit Agreement immediately following Section 7.05 as follows:
+
+“SECTION 7.06. Restricted Payments. During the Covenant Relief Period, the Borrower will not (i) repurchase any shares of the Borrower’s common stock, par value $0.10 per share (“Common Stock”) or (ii) increase the amount of the quarterly dividend payable per share of Common Stock from $0.65 per share of Common Stock.”
+
+SECTION 3. Conditions to Effectiveness. This Amendment shall become effective on and as of the date (the “First Amendment Effective Date”) upon which the following conditions shall have been satisfied (or waived in accordance with Section 10.01 of the Credit Agreement):
+
+(a) The Administrative Agent shall have received this Amendment, executed and delivered by a duly authorized officer of the Borrower, the Required Lenders and the Administrative Agent;
+
+(b) No Default or Event of Default has occurred and is continuing on the First Amendment Effective Date or shall result from the effectiveness of this Amendment;
+
+(c) Immediately before and after giving effect to this Amendment, the representations and warranties of each Loan Party set forth in the Loan Documents are true and correct in all material respects (or, in the case of representations and warranties qualified as to materiality, in all respects) on and as of the First Amendment Effective Date, except in the case of any such representation and warranty that expressly relates to a prior date, in which case such representation and warranty shall be true and correct in all material respects (or in all respects, as applicable) as of such earlier date;
+
+(d) The Administrative Agent shall have received a certificate, dated as of the First Amendment Effective Date and signed by the President, Chief Executive Officer, or a Financial Officer of the Borrower certifying as to compliance with Section 3(b) and (c) of this Amendment; and
+
+(e) The Borrower shall have paid all fees and all reasonable and documented expenses required to be paid on or before the First Amendment Effective Date (including the consent fee and all fees, charges and disbursements of counsel to the Administrative Agent (directly to such counsel if requested by the Administrative Agent)).
+
+SECTION 4. Representations and Warranties. On and as of the First Amendment Effective Date, after giving effect to this Amendment, each Loan Party hereby represents and warrants to the Administrative Agent and each Lender that this Amendment has been duly authorized by all necessary corporate or other organizational action. This Amendment has been duly executed and delivered by each Loan Party party hereto and constitutes a legal, valid and binding obligation of each Loan Party party hereto, enforceable against such Person in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+SECTION 5. No Other Amendment or Waivers; Confirmation. This Amendment shall not constitute a novation of any Obligations. Except as expressly provided hereby, all of the terms and provisions of the Credit Agreement and the other Loan Documents are and shall remain in full force and effect. The amendments contained herein shall not be construed as an amendment or waiver of any other provision of the Amended Credit Agreement or the other Loan Documents or for any purpose except as expressly set forth herein or a consent to any further or future action on the part of any Loan Party that would require the waiver or consent of the Administrative Agent or the Lenders.
+
+SECTION 6. GOVERNING LAW; WAIVER OF JURY TRIAL. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. EACH PARTY HERETO HEREBY AGREES AS SET FORTH IN SECTIONS 10.11, 10.12 AND 10.16 OF THE AMENDED CREDIT AGREEMENT AS IF SUCH SECTIONS WERE SET FORTH IN FULL HEREIN.
+
+SECTION 7. Miscellaneous. (a) This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or other electronic imaging means shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+(b) The provisions of this Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted hereby (including permitted assignees of its Loans in whole or in part prior to effectiveness hereof).
+
+(c) This Amendment shall be a Loan Document for all purposes of the Amended Credit Agreement and the other Loan Documents.
+
+SECTION 8. Severability. If any provision of this Amendment or the other Loan Documents is held to be illegal, invalid or unenforceable, (a) the legality, validity and enforceability of the remaining provisions of this Amendment and the other Loan Documents shall not be affected or impaired thereby and (b) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+SECTION 9. Headings. Section headings used herein are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment.
+
+SECTION 10. Loan Party Acknowledgments. (a) Each Loan Party hereby (i) expressly acknowledges the terms of the Amended Credit Agreement, (ii) ratifies and affirms its obligations under the Loan Documents (including guarantees) to which it is a party, (iii) acknowledges, renews and extends its continued liability under all such Loan Documents and agrees such Loan Documents remain in full force and effect and (iv) further confirms that each Loan Document to which it is a party is and shall continue to be in full force and effect and the same are hereby ratified and confirmed in all respects.
+
+(b) Each Loan Party hereby reaffirms, as of the First Amendment Effective Date, (i) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, such covenants and agreements as in effect immediately after giving effect to this Amendment and the transactions contemplated thereby, and (ii) its guarantee of payment of the Obligations pursuant to the Guarantee Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their proper and duly authorized officers as of the day and year first above written.
+
+ 
+
+BORROWER:
+
+ 
+
+FEDEX CORPORATION
+
+By:	 	
+/s/ Michael C. Lenz
+
+ 	
+Name: Michael C. Lenz
+
+ 	
+Title:   Corporate Vice President and Treasurer
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+GUARANTORS:
+
+ 
+
+FEDERAL EXPRESS CORPORATION
+
+By:	 	
+/s/ Elise L. Jordan
+
+ 	
+Name: Elise L. Jordan
+
+ 	
+Title:   Executive Vice President and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDERAL EXPRESS EUROPE, INC.
+By:	 	
+/s/ Michael C. Lenz
+
+ 	
+Name: Michael C. Lenz
+
+ 	
+Title:   Treasurer
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDERAL EXPRESS HOLDINGS S.A., LLC
+By:	 	
+/s/ Michael C. Lenz
+
+ 	
+Name: Michael C. Lenz
+
+ 	
+Title:   Treasurer
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDERAL EXPRESS INTERNATIONAL, INC.
+By:	 	
+/s/ Michael C. Lenz
+
+ 	
+Name: Michael C. Lenz
+
+ 	
+Title:   Treasurer
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDEX CORPORATE SERVICES, INC.
+By:	 	
+/s/ Sharon L. Hawkins
+
+ 	
+Name: Sharon L. Hawkins
+
+ 	
+Title:   Senior Vice President and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDEX FREIGHT CORPORATION
+By:	 	
+/s/ Matthew L. Rittenhour
+
+ 	
+Name: Matthew L. Rittenhour
+
+ 	
+Title:   Senior Vice President – Finance and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDEX FREIGHT, INC.
+By:	 	
+/s/ Matthew L. Rittenhour
+
+ 	
+Name: Matthew L. Rittenhour
+
+ 	
+Title:   Senior Vice President – Finance and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDEX GROUND PACKAGE SYSTEM, INC.
+By:	 	
+/s/ Robert D. Henning
+
+ 	
+Name: Robert D. Henning
+
+ 	
+Title:   Executive Vice President and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+FEDEX OFFICE AND PRINT SERVICES, INC.
+By:	 	
+/s/ Leslie M. Benners
+
+ 	
+Name: Leslie M. Benners
+
+ 	
+Title:   Senior Vice President and CFO
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and a Lender
+
+By:	 	
+/s/ Jonathan Bennett
+
+ 	
+Name: Jonathan Bennett
+
+ 	
+Title:   Executive Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+BANK OF AMERICA, N.A., as a Lender
+
+By:	 	
+/s/ Jason Yakabu
+
+ 	
+Name: Jason Yakabu
+
+ 	
+Title:   Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+CITIBANK, N.A., as a Lender
+
+By:	 	
+/s/ Meghan O’Connor
+
+ 	
+Name: Meghan O’Connor
+
+ 	
+Title:   Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+The Bank of Nova Scotia, as a Lender
+
+By:	 	
+/s/ Dave Vishny
+
+ 	
+Name: Dave Vishny
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+Wells Fargo Bank, National Association, as a Lender
+
+By:	 	
+/s/ Kevin Valenta
+
+ 	
+Name: Kevin Valenta
+
+ 	
+Title:   Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+BNP PARIBAS, as a Lender
+
+By:	 	
+/s/ Todd Grossnickle
+
+ 	
+Name: Todd Grossnickle
+
+ 	
+Title:   Director
+
+By:	 	
+/s/ Nader Tannous
+
+ 	
+Name: Nader Tannous
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+DEUTSCHE BANK AG NEW YORK BRANCH, as a Lender
+
+By:	 	
+/s/ Annie Chung
+
+ 	
+Name: Annie Chung
+
+ 	
+Title:   Director
+
+By:	 	
+/s/ Ming K. Chu
+
+ 	
+Name: Ming K. Chu
+
+ 	
+Title:   Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+Goldman Sachs Bank USA, as a Lender
+
+By:	 	
+/s/ Jamie Minieri
+
+ 	
+Name: Jamie Minieri
+
+ 	
+Title:   Authorized Signatory
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+HSBC Bank USA, N.A., as a Lender
+
+By:	 	
+/s/ Patrick Mueller
+
+ 	
+Name: Patrick Mueller
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+ING BANK N.V., DUBLIN BRANCH, as a Lender
+
+By:	 	
+/s/ Barry Fehily
+
+ 	
+Name: Barry Fehily
+
+ 	
+Title:   Managing Director
+
+By:	 	
+/s/ Sean Hassett
+
+ 	
+Name: Sean Hassett
+
+ 	
+Title:   Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+MIZUHO BANK, LTD., as a Lender
+
+By:	 	
+/s/ Donna DeMagistris
+
+ 	
+Name: Donna DeMagistris
+
+ 	
+Title:   Executive Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+MORGAN STANLEY BANK, N.A., as a Lender
+
+By:	 	
+/s/ Jack Kuhns
+
+ 	
+Name: Jack Kuhns
+
+ 	
+Title:   Authorized Signatory
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+MUFG Bank, Ltd., as a Lender
+
+By:	 	
+/s/ John Margetanski
+
+ 	
+Name: John Margetanski
+
+ 	
+Title:   Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+REGIONS BANK, as a Lender
+
+By:	 	
+/s/ Rachel Harris
+
+ 	
+Name: Rachel Harris
+
+ 	
+Title:   Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+Truist Bank, as a Lender
+
+By:	 	
+/s/ Max N. Greer III
+
+ 	
+Name: Max N. Greer III
+
+ 	
+Title:   Senior Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+PNC Bank, National Association, as a Lender
+
+By:	 	
+/s/ Tracey Silverman
+
+ 	
+Name: Tracey Silverman
+
+ 	
+Title:   Senior Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+SUMITOMO MITSUI BANKING CORPORATION, as a Lender
+
+By:	 	
+/s/ Michael Maguire
+
+ 	
+Name: Michael Maguire
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+STANDARD CHARTERED BANK, as a Lender
+
+By:	 	
+/s/ James Beck
+
+ 	
+Name: James Beck
+
+ 	
+Title:   Associate Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+U.S. Bank National Association, as a Lender
+
+By:	 	
+/s/ Peter I. Bystol
+
+ 	
+Name: Peter I. Bystol
+
+ 	
+Title:   Senior Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+STATE STREET BANK AND TRUST COMPANY, as a Lender
+
+By:	 	
+/s/ Pallo Blum-Tucker
+
+ 	
+Name: Pallo Blum-Tucker
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+First Horizon Bank, as a Lender
+
+By:	 	
+/s/ Duncan Galbreath
+
+ 	
+Name: Duncan Galbreath
+
+ 	
+Title:   Senior Vice President
+
+[Signature Page to Amendment—364-Day Credit Agreement]
+
+KBC BANK N.V., as a Lender
+
+By:	 	
+/s/ Nicholas Fiore
+
+ 	
+Name: Nicholas Fiore
+
+ 	
+Title:   Director
+
+By:	 	
+/s/ Francis Payne
+
+ 	
+Name: Francis Payne
+
+ 	
+Title:   Managing Director
+
+[Signature Page to Amendment—364-Day Credit Agreement]

@@ -1,0 +1,1111 @@
+﻿EX-10.5 6 ck0001837532-ex10_5.htm EX-10.5
+ 
+
+Exhibit 10.5
+
+EXECUTION VERSION
+
+CUSTODY AGREEMENT
+
+This Agreement (the “Agreement”) is made as of November 3, 2021 (the “Effective Date”) between:
+
+(1)
+Apollo Debt Solutions BDC, a statutory trust formed under the laws of the State of Delaware, acting through its trustee Joseph D. Glatt (the “Client”); and
+(2)
+STATE STREET BANK AND TRUST COMPANY, a bank and trust company organized under the laws of The Commonwealth of Massachusetts, U.S.A. (the “Custodian”).
+1
+Definitions and Interpretation
+Defined terms and the general rules of interpretation agreed by the Parties are set forth in Schedule 1.
+
+2
+Appointment of the Custodian
+The Client hereby appoints the Custodian to provide the services set out in Sections 3 through 15 below (the “Services”) subject to and in accordance with the terms of this Agreement. 
+
+3
+Safekeeping Securities
+3.1 Holding Securities.  The Custodian will hold Securities delivered or credited to its account under this Agreement directly or through accounts at Subcustodians or CSDs. In turn, Subcustodians will hold Securities directly or through accounts at CSDs.
+
+3.2 Client Entitlements and Segregation. The Custodian will take the following steps to reflect the Client’s ownership of Securities and to separately identify the Securities of the Client from the proprietary assets of the Custodian, Subcustodians, and CSDs, in accordance with Local Market Practice: 
+
+3.2.1 Accounts at the Custodian. Open and maintain on the records of the Custodian one or more securities accounts in the name of the Client or such other name as the Client may reasonably request (each, a “Securities Account”) and credit Securities to them;
+
+3.2.2 Accounts at the Subcustodians or CSDs.  Open and maintain securities accounts at the Subcustodians or CSDs in which the Custodian is a direct participant, cause Subcustodians to open and maintain securities accounts at CSDs in which the Subcustodian is a participant, and cause Securities to be credited to the relevant accounts. Such accounts: (i) may be commingled (or omnibus) accounts for Securities of multiple customers of the Custodian (or Subcustodian, in the case of accounts opened by the Subcustodian at a CSD)  or, in limited markets, segregated (or separate) accounts for Securities of the Client; and (ii)  must not include any proprietary securities of the Custodian, the Subcustodian or the CSD;
+
+3.2.3 Physical Securities. Physically segregate bearer Securities from the proprietary assets of the Custodian, and require that the Subcustodians physically segregate bearer Securities from the Subcustodian’s and the Custodian’s proprietary assets;
+
+ 
+
+
+
+1
+
+ 
+
+3.2.4 Registration Names.  Register certificated Securities (other than bearer securities) in the name of the Client or in the name of the Custodian, a Subcustodian, a CSD or a nominee of any of them, or otherwise in accordance with Local Market Practice and the laws and regulations applicable to the Custodian; and
+
+3.2.5 Records of Transactions; Reconciliation. Maintain records of the Client’s transactions in the Securities Accounts and reconcile its records of clients’ securities holdings against the records of its Subcustodians and CSDs in which it is a direct participant in accordance with the Custodian’s standard procedures and Local Market Practice. Subcustodians will likewise maintain records of their client’s transactions and reconcile their records of the securities holdings of their clients against the records of the CSDs in which they are a direct participant in accordance with the Subcustodians’ standard procedures and Local Market Practice.
+
+3.3 Securities Interchangeable. Securities of the Client (whether held in separate or commingled accounts) are fungible with all other securities of the same issue held in such accounts by the Custodian and its Subcustodians.  This means that the Client’s redelivery rights in respect of the Securities are not in respect of the Securities actually deposited with the Custodian or a Subcustodian from time to time, but rather in respect of Securities of the same number, class, denomination and issue as those Securities. 
+
+3.4 Acceptance of Securities. Except as otherwise agreed in writing with the Client, the Custodian will only accept custody of Securities and other assets that it is operationally equipped and licensed to hold in the relevant market where it provides custodial services either directly or through an existing Subcustodian and may decline to accept custody of certain securities or asset types that it determines present an unacceptable risk profile or that it or its Subcustodians are not operationally equipped or permitted to hold under any law or regulation.
+
+4
+Cash
+4.1 Cash Accounts. The Custodian will open and maintain in the name of the Client one or more cash deposit accounts (each a “Cash Account”) in such currencies as may be required in connection with the investment activity of the Client.  
+
+4.2 Location of Cash Deposits. Cash received for the Client will be deposited with the Custodian, or with a Subcustodian, depending on the currency and/or the market. The Custodian will designate each currency in a particular market as On Book Cash or Off Book Cash. “On Book Cash” means the currency is maintained in a deposit account with, and recorded as a liability on the balance sheet of, the Custodian (through any of its branches) and “Off Book Cash” means the currency is maintained in a deposit account with, and recorded as a liability on the balance sheet of, a Subcustodian (through any of its branches).  The Custodian may change the designation of a currency as On Book or Off Book from time to time.  Clients will find the designation of currencies as On Book Cash and Off Book Cash, and any changes to such designations, in the Client Publications. 
+
+4.3 Cash Records. The Custodian will reflect Cash balances held in all On Book and Off Book Client deposit accounts on its books and records and report the balances to the Client. 
+
+4.4 Banking Relationship. In accepting deposits under this Agreement, the Custodian  (for On Book Cash) or the relevant Subcustodian (for Off Book Cash) acts as banker and does not hold the money deposited on trust or segregated from its proprietary assets. Accordingly, the Client is an unsecured creditor of the Custodian (for On Book Cash) or the relevant Subcustodian (for Off Book Cash), subject to such rights as may arise in an Insolvency Event as determined under the laws of the jurisdiction of 
+
+ 
+
+
+
+2
+
+ 
+
+the Custodian or relevant Subcustodian. With respect to Off Book Cash, the Custodian is only responsible for returning the actual amount that the Custodian receives from the Subcustodian.  
+
+4.5 Interest and Charges. Cash Accounts may be interest bearing or non-interest bearing and may be subject to charges or fees on the deposit balance or on a per account basis. The Custodian or the relevant Subcustodian will determine on a periodic basis:
+
+4.5.1 the interest rates, if any, (which may be positive, zero or negative) or equivalent charges or fees paid or charged to the Client from time to time with respect to a Cash Account; and 
+
+4.5.2 the overdraft rates or equivalent charges or fees and the applicable overdraft thresholds (if any) that will trigger interest charges from time to time for overdrafts,
+
+in each case, acting in their sole discretion, taking into account market conditions and other relevant commercial considerations. Interest and overdraft rates or other account charges or fees will vary by currency. Details on current rates and deposit account charges are available upon request.	
+
+4.6 Overdrafts. The Client must maintain sufficient funds in the Cash Accounts to settle all transactions in the applicable currencies in a timely manner. The Custodian or its Subcustodians may, but are not required to, extend credit under this Agreement. The Custodian reserves the right to decline to process any Proper Instruction or settle any transaction that would result in an overdraft of the Cash Account. If an overdraft arises in the Cash Account, the Client agrees to repay the principal amount of the overdraft upon demand by the Custodian or within five Business Days, whichever is earlier, plus any applicable overdraft fees and interest on the principal overdraft.
+
+5
+Transaction Settlement
+5.1 Settlement. The Custodian will settle all transactions in accordance with Local Market      Practice, which may not always be on a delivery-versus-payment or receipt-versus-payment basis. Except as otherwise provided below regarding Contractual Settlement, the Custodian will credit or debit the appropriate Cash Account on an actual settlement or payment basis. 
+
+5.2 Contractual Settlement. In order to facilitate transaction settlement, the Custodian may provisionally credit settlement, maturity or redemption proceeds, or income, dividends and other distributions, on a contractual settlement or predetermined income basis (“Contractual Settlement”), for markets, securities and eligible clients as determined and notified by the Custodian in the Client Publications.  The Custodian can terminate or suspend Contractual Settlement for markets, securities or particular clients at any time.
+
+5.3 Use of Funds. Where Contractual Settlement applies, the Custodian will credit or debit the appropriate Cash Account on the contractual settlement date or payable date for the relevant transaction. This means that (i) the Client will have use of the funds from the date that a sale was contracted to settle or the payable date, which may be earlier than the date payment actually occurs and (ii) the Custodian will have use of the funds debited from the Cash Account from the date that a purchase was contracted to settle until the date that settlement actually occurs.
+
+5.4 Reversal.  The Custodian may reverse any Contractual Settlement credit at any time before actual receipt of the cash payment associated with the credit if the Custodian determines, in its reasonable judgement, that such payment will not be received within 30 days for that transaction or if the Custodian suspends or terminates the provision of Contractual Settlement for those Securities in that market. The Custodian will generally notify the Client two Business Days before any such reversal. 
+
+ 
+
+
+
+3
+
+ 
+
+5.5 Secured Liability. To the extent that the Custodian has not received the cash payment associated with a credit, the amount credited remains a Secured Liability under this Agreement.
+
+6
+Corporate Actions 
+6.1 Transmit Information. The Custodian will promptly transmit or make available to the Client all material written information customarily provided by a professional global custodian regarding an applicable Corporate Action, or a brief synopsis of that information, affecting Securities then being held under this Agreement, where (i) that information is received  directly from issuers of such Securities or from CSDs or Subcustodians or (ii) that information is publicly available in the relevant market from standard vendors routinely used by professional global custodians provided that the Custodian can verify the accuracy of such information.  The Custodian will transmit or make available such Corporate Action data it receives from primary sources (issuers, CSDs and Subcustodians) without further review although it will generally note if such information is single sourced. The Custodian generally will not transmit or make available such Corporate Action data it receives from secondary sources (vendors) unless the accuracy of that information can be verified against at least one additional source.
+
+6.2 Exercise. The Custodian will process the Client’s elections with respect to any voluntary Corporate Action at the direction of the Client provided it has actual possession of the relevant Securities and it has received Proper Instructions by the deadline specified in the Custodian’s Corporate Action notification (“Corporate Actions Deadline Date”). The Custodian will use reasonable efforts to effect Proper Instructions received after that deadline but will have no responsibility for any failure to exercise such instructions accurately or timely. In the absence of receiving Proper Instructions by the Corporate Actions Deadline Date, the Custodian may take the default action specified in the corporate action notification. In the event of a mandatory Corporate Action, the Custodian will act without Proper Instructions in accordance with Section 22.10.  
+
+6.3 Class Actions.  The Custodian will transmit written information received by the Custodian regarding any class action litigation to the extent set out in the Client Publications. The Custodian will not support class action participation by the Client beyond such forwarding of written information.  In no event will the Custodian act as a lead plaintiff in a class action. 
+
+6.4 Fractional Positions. Fractional positions resulting from Corporate Actions will be dealt with in accordance with the Client Publications. 
+
+7
+Proxy Servicing
+7.1 Transmit Information.  The Custodian will forward to the Client all proxies received by the Custodian relating to the Securities then held under this Agreement, for the markets designated in the Client Publications, unless otherwise instructed by the Client. The Custodian will use an agent to assist in the receipt and distribution of proxies and will share the Client’s position and contact information to facilitate such collection and distribution. 
+
+7.2 Voting. The Custodian provides proxy voting services for the markets designated in the Client Publications. The Custodian will cause eligible proxies to be promptly executed by the registered holder in accordance with Proper Instructions and delivered to the issuer of the Securities or its designated agent.   In order for the Custodian to provide the voting services, the Custodian must have received such Proper Instructions, must have actual possession of the relevant Securities, and all requirements set out in the Client Publications must have been met, including where applicable receiving an executed power of attorney, in each case by the deadline specified in the Custodian’s proxy notification. 
+
+ 
+
+
+
+4
+
+ 
+
+8
+Income Collection
+8.1 Monitoring and Crediting. The Custodian will use reasonable efforts to monitor and collect on a timely basis, in accordance with Local Market Practice, all income and other payments to which the Client is entitled in respect of the Securities held under this Agreement and Securities on loan through the securities lending program sponsored by the Custodian or its Affiliates.  The Custodian will credit such amounts to the Cash Account of the Client as received, except where Contractual Settlement applies. 
+
+8.2 Repatriation of Income.  The Client is responsible for directing the repatriation of income into the base currency of the Portfolio or another currency selected by the Client, and may enter into separate arrangements to do so, as set out in Section 13 of this Agreement.
+
+9
+Statements and Reports
+9.1 Contents. The Custodian will make available reports to the Client regarding the Portfolio on a periodic basis as selected by the Client from certain online tools made available from time to time by the Custodian or as otherwise agreed with the Client. The reports will include Cash balances, an itemized statement of Securities and Cash and Securities transaction activity.  Market values contained in these reports are unaudited and based on the Custodian’s standard pricing vendors and practices. These reports will not include net asset value calculations.
+
+9.2 Cash and Securities Not Held. The Custodian may agree to incorporate information in respect of cash or securities not held by the Custodian. In making available such information to the Client, the Custodian will rely upon the information provided by the Client or a third party without any requirement to verify the accuracy of such information.  The Custodian will not perform any other Services in relation to such cash or securities.
+
+10
+Tax Withholding and Tax Relief
+10.1 Withholding. The Custodian will withhold (or cause to be withheld) the amount of any tax which is required to be withheld by the Custodian or Subcustodian under the Law applicable to the Custodian or Subcustodian based on the Client’s domicile and entity type in respect of any dividend, interest income or other distribution in relation to any Security, and/or the proceeds or income from the sale or other transfer of any Security held by the Custodian.  If the Client has not provided the requisite information and documentation, the Custodian is obligated to arrange for maximum withholding. In certain markets, the Client will be required to hire a local tax agent to calculate withholding, as set out in the Client Publications.
+
+10.2 Tax Relief. The Custodian will apply for a reduction of withholding tax and refund of any tax paid or tax credits in respect of income payments on Securities based on the Client’s entitlement under relevant tax treaties or laws which apply in each market that supports a standard tax reclaim process, in all cases as may be set out from time to time in the Client Publications. The Custodian does not facilitate tax reclaims for tax transparent or pass-through (i.e., multiple-beneficiary) entities such as partnerships, LLCs, common trusts or any other types of entities that are generally ineligible for tax treaty or domestic law tax entitlements, even where the partners or beneficial holders of such entities may be eligible.  
+
+10.3 Documentation.  In order for the Custodian to perform the services in this Section 10, the Client will provide the Custodian such information and documentation as may be required from time to time by the Custodian for tax purposes, including documentary evidence of its tax domicile, and its entity type and details of any special ruling or treatment to which the Client may be entitled in relation to 
+
+ 
+
+
+
+5
+
+ 
+
+countries where the Client engages or  proposes to engage in investment activity or where Securities are or will be held. The Client is responsible for ensuring the documentation and information provided is true and accurate in all material respects and will promptly provide the Custodian with all necessary corrections or updates upon becoming aware of any changes or inaccuracies in the documentation or information supplied. The provision of documentation and information under this Section 10.3 will be taken to be a Proper Instruction upon which the Custodian will be entitled to rely for all purposes under this Section 10, including calculating withholding and determining available tax relief, without the need to undertake any further inquiries or verification. 
+
+10.4 Client Responsible for Taxes. The Client will be liable for all taxes, levies or similar obligations which arise as a result of the Client’s investment activity, including in relation to any Cash or Securities held by the Custodian on behalf of the Client, or any related transactions. If any taxes become payable in relation to any prior payment made to the Client by the Custodian, the Custodian may withhold any credit balance in the Client’s Cash Accounts to the extent necessary to satisfy such tax obligation. The Client will also remain liable for any tax deficiency.
+
+10.5 No Tax Advice. The Client acknowledges that the Custodian is not, and will not be deemed to be, providing tax advice or tax counsel.
+
+11
+Physical Safekeeping of Investment Documents 
+11.1 Document Safekeeping. The Custodian may agree to provide physical safekeeping for Investment Documents delivered to it  and will return such Investment Documents to the Client upon receipt of Proper Instructions, subject to additional documentation and other requirements as the Custodian may specify from time to time. 
+
+11.2 No Other Services. The Custodian will not otherwise perform any other Services in relation to such Investment Documents.
+
+12
+Alternative Asset Servicing
+12.1 Alternative Assets. The Custodian may agree to reflect the Client’s Alternative Assets on its books, records or statements. Unless otherwise agreed in writing, the Custodian will not perform any other services or assume any obligations in relation to Alternative Assets. The Custodian may, in limited cases, agree to register the Client’s interests in Alternative Assets in the name of the Custodian, subject to additional documentation and other requirements as the Custodian may specify from time to time.  
+
+13
+Foreign Exchange 
+13.1 Role of Custodian. The role of the Custodian with respect to foreign exchange transactions is limited to facilitating the processing and settlement of such transactions. The Custodian does not have any agency, trust or fiduciary obligation to the Client or any other person in connection with the execution of any foreign exchange transactions, other than the obligation as agent to process the Proper Instructions given by the Client.
+
+13.2 Role of Counterparties. If the Client enters into any foreign exchange transaction with State Street Bank and Trust Company, a Subcustodian or any of their Affiliates, the Client does so on the basis that these entities are acting as a principal dealer and counterparty, and not as fiduciary or agent to the Client, and the execution services are governed by separate arrangements (including pricing) and do not form part of the Services provided by the Custodian under this Agreement. This applies to foreign exchange transactions entered into by the Client directly with the trading desk of these entities 
+
+ 
+
+
+
+6
+
+ 
+
+or by Proper Instruction to the Custodian using the indirect foreign exchange services described in the Client Publications.
+
+14
+Subcustodians
+14.1 Use of Subcustodians. The Custodian is authorized to utilize Subcustodians in connection with its performance of the Services, and will notify the Client of the Subcustodians so employed from time to time through the Client Publications.
+
+14.2 Selection and Monitoring.  The Custodian will use reasonable skill, care and diligence in the selection, monitoring and continued utilization of Subcustodians by taking the following actions:  (i) annually assess the financial condition of each Subcustodian by reviewing their publicly available financial information, (ii) on a daily basis monitoring the performance by each Subcustodian’ of its duties relative to the Services, and (iii) confirming on an annual basis that each Subcustodian is licensed to act as a subcustodian in its relevant market.
+
+14.3 Special Subcustodians.  At the request of the Client, the Custodian may agree to appoint one or more qualified banks, trust companies or other entities designated by the Client to act as a subcustodian (each a “Special Subcustodian”)  for purposes specified by the Client.  In connection with the appointment of a Special Subcustodian, the Custodian shall enter into a tri-party subcustodian agreement with the Special Subcustodian and the Client in form and substance approved the Custodian, provided that such agreement shall comply with Law applicable to the Client and shall be consistent with the terms and provisions of this Agreement, to the extent practicable.
+
+14.4. Provisions Relating to Rule 17f-5 
+
+14.4.1 Delegation.  Each Client, by resolution of its Board, delegates to the Custodian, pursuant to Rule 17f-5(b), the obligations to perform as the Client’s Foreign Custody Manager and, unless the Custodian advises the Customer that it does not accept such delegation with respect to a country, the Custodian accepts such delegation.  The Custodian acting in this capacity shall be referred to as the “Foreign Custody Manager.”
+
+14.4.2 Exercise of Care as Foreign Custody Manager.  The Foreign Custody Manager will exercise such reasonable care, prudence and diligence in performing the delegated responsibilities as a person having responsibility for the safekeeping of assets of management investment companies registered under the 1940 Act would exercise.
+
+14.4.3 Foreign Custody Arrangements. The Foreign Custody Manager will perform the delegated responsibilities only with respect to Covered Foreign Countries and will provide the Client with a list on Schedule A of the Eligible Foreign Custodian(s) it selects to maintain the Client’s Foreign Assets in each Covered Foreign Country.  The Foreign Custody Manager may amend the list from time to time in its sole discretion upon notice to the Client.  
+
+14.4.4 Scope of Delegated Responsibilities.  The Foreign Custody Manager, when placing and maintaining Foreign Assets in the care of an Eligible Foreign Custodian, will determine that: (i) the Foreign Assets will be subject to reasonable care, based on the standards applicable to custodians in the country in which the Foreign Assets will be held by the Eligible Foreign Custodian, after considering all factors relevant to the safekeeping of such assets, including, without limitation the factors specified in Rule 17f-5(c)(1), and (ii) the contract between the Foreign Custody Manager and the Eligible Foreign Custodian governing the foreign custody arrangements will satisfy the requirements of Rule 17f-5(c)(2).  The Foreign Custody Manager will establish a system to monitor (a) the appropriateness of maintaining the 
+
+ 
+
+
+
+7
+
+ 
+
+Foreign Assets with the Eligible Foreign Custodian, and (b) the performance of the contract governing the foreign custody arrangements.  The Foreign Custody Manager will notify the Client if it determines that the custody arrangements with an Eligible Foreign Custodian are no longer appropriate and will act in accordance with the Client’s Proper Instructions with respect to the disposition of the affected Foreign Assets.
+
+14.4.5 Reporting Requirements.  The Foreign Custody Manager will (i) report the withdrawal of Foreign Assets from an Eligible Foreign Custodian and the placement of Foreign Assets with another Eligible Foreign Custodian by providing to the Client an updated Schedule A at the end of the calendar quarter in which the action has occurred, and (ii) after the occurrence of any other material change in the foreign custody arrangements of the Client, make a written report available to the Client containing a notification of the change. 
+
+14.4.6 Representations of Foreign Custody Manager and Client. The Foreign Custody Manager represents to Client that it is a U.S. Bank as defined in Section (a)(7) of Rule 17f-5(a)(7).  Client represents to the Custodian that its Board has (i) determined that it is reasonable for the Board to rely on the Custodian to perform the responsibilities delegated pursuant to this Agreement to the Custodian as the Foreign Custody Manager of the Client, and (ii) considered and determined to accept the risk described in the first sentence of Section 18.2 as is incurred by placing and maintaining the Client’s Foreign Assets in each Covered Foreign Country.
+
+14.4.7. Withdrawal of Acceptance of Delegation as Foreign Custody Manager.  Upon reasonable prior written notice to the Client, the Foreign Custody Manager may withdraw its acceptance of such delegated responsibilities generally or with respect to a specified Covered Foreign Country, and the Custodian will have no further responsibility in its capacity as Foreign Custody Manager to the Client generally or with respect to the designated Covered Foreign Country, as applicable.
+
+14.4.8. Settlement Practices.  The Custodian will provide to each Client the information with respect to custody and settlement practices in countries in which the Custodian employs an Eligible Foreign Custodian described on Schedule C at the time or times set out on the Schedule.  The Custodian may revise Schedule C from time to time, but no revision will result in a Client being provided with substantively less information than had been previously provided on Schedule C.
+
+15
+Central Securities Depositories 
+15.1 Use of Central Securities Depositories. The Custodian and its Subcustodians will use CSDs in connection with the performance of the Services, and will notify the Client of the CSDs so employed from time to time through the Client Publications. 
+
+15.2 Rules of Central Securities Depositories.   Where the Custodian or its Subcustodians use CSDs, the Client acknowledges that they will do so in accordance with the terms and conditions of participation or membership in such CSDs and the rules and procedures governing the operation thereof.
+
+15.3 Provisions Relating to Rule 17f-4.  The Custodian may deposit and maintain securities or other financial assets of the Client in a U.S. CSD in compliance with the conditions of Rule 17f-4. 
+
+15.4 Provisions Relating to Rule 17f-7.  The Custodian will (i) provide the Client or its Investment Manager with an analysis of the custody risks associated with maintaining assets with the Eligible Securities Depositories set out on Schedule B in accordance with Section (a)(1)(i)(A) of Rule 17f-7, (ii) 
+
+ 
+
+
+
+8
+
+ 
+
+monitor such risks on a continuing basis and  promptly notify the Client or its Investment Manager of any material change in such risks, in accordance with Section (a)(1)(i)(B) of Rule 17f-7, and (iii) exercise reasonable care, prudence and diligence in performing the requirements in subsections (i) and (ii) above. 
+
+16
+Delegation
+16.1 Use of Delegates. The Custodian will have the right, without prior notice to or the consent of the Client, to employ Delegates to provide or assist it in the provision of any part of the Services other than Services required by Law applicable to either Party to be performed by a qualified custodian or CSD. Unless otherwise agreed in a fee schedule, the Custodian will be responsible for the compensation of its Delegates. 
+
+16.2 Provision of Information Regarding Delegates. The Custodian will provide or make available to the Client on a quarterly or other periodic basis information regarding its global operating model for the delivery of the Services, which information will include the identities of Delegates affiliated with the Custodian that perform or may perform any part of the Services, and the locations from which such Delegates perform Services, as well as such other information about its Delegates as the Client may reasonably request from time to time.  
+
+16.3 Third Parties. Nothing in this Section limits or restricts the Custodian’s right to use Affiliates or third parties to perform or discharge, or assist it in the performance or discharge of, any obligations or duties under this Agreement other than the provision of the Services. 
+
+17
+Standard of Care and Liability 
+17.1 Standard of Care. The Custodian will at all times exercise the reasonable skill, care and diligence expected of a professional provider of custody services to institutional investors and act in good faith and in accordance with generally applicable industry standards and practices in the performance of its duties under this Agreement.
+
+17.2 Liability for Losses. Subject to the limitations and exclusions of liability in this Agreement, the Custodian will be liable for Losses suffered or incurred by the Client to the extent such Losses are caused by the negligence, wilful default, or fraud of the Custodian in the performance of its obligations under this Agreement. The parties agree that “negligence” will mean a breach by the Custodian of its obligation to exercise the standard of care described in Section 17.1 above. 
+
+17.3 Responsibility for Subcustodians. The Custodian will be liable to the Client for the acts and omissions of its Subcustodians as if it had committed such acts and omissions itself; provided that:
+
+17.3.1 compliance with the standard of care set out in Section 17.1 will be assessed in accordance with the standards and circumstances prevailing at the time of the act or omission in the local market or jurisdiction in which the Subcustodian is providing the relevant Services; and
+
+17.3.2 the Custodian will  have no liability for Losses resulting from the insolvency or other financial default of a Subcustodian that is not an Affiliate of the Custodian except to the extent that such Losses are caused by the failure of the Custodian to exercise reasonable skill, care and diligence in the selection, monitoring and continued utilization of the Subcustodian as required under Section 14.2. 
+
+ 
+
+
+
+9
+
+ 
+
+17.4 Responsibility for Special Subcustodians. Notwithstanding the provisions of Section 17.3 to the contrary, the Custodian shall not be liable to the Client for Losses suffered or incurred by the Client resulting from the acts or omissions of a Special Subcustodian, except to the extent such Losses are caused by the negligence, wilful default or fraud of the Custodian.  In the event of any such Loss, the Custodian shall use commercially reasonable efforts to enforce such rights as it may have against any Special Subcustodian.
+
+17.5 Responsibility for Delegates. The Custodian will be liable to the Client for the acts and omissions of its Delegates as if it had committed such acts and omissions itself. 
+
+17.6 Force Majeure. Neither Party will be in breach of this Agreement or liable for Losses arising by reason of the occurrence of a Force Majeure Event that prevents, hinders or delays it from or in performing its obligations under this Agreement, except, in the case of the Custodian, to the extent that such Losses are attributable to its breach of its business continuity obligations under this Agreement.
+
+17.7 No Liability for Certain Losses. The Custodian will not be liable to the Client for any Losses to the extent they arise from or are caused by: 
+
+17.7.1 the Custodian acting upon any (i) Proper Instruction or (ii) if a Proper Instruction is not required in a particular circumstance, any other instruction, information, notice, request, consent, certificate, instrument or other writing that the Custodian reasonably believes to be genuine and to be signed or otherwise given by or on behalf of a person authorized to do so; 
+
+17.7.2 a delay in processing or any failure to process any Proper Instruction to the extent permitted under Section 22, subject to the satisfaction of the conditions set out in that Section, as applicable;  
+
+17.7.3 the failure of the Client or any person authorized by it to comply with the Client’s obligations under this Agreement; or
+
+17.7.4 any other acts and omissions of the Client, any person authorized by it or any third party, including any Third Party Agent, Market Participant, Authorized Data Source, CSD, or Financial Market Utility.
+
+17.8 Mutual Exclusion of Indirect and Other Loss.  Notwithstanding any other provision of this Agreement, neither Party will be liable to the other for:  (i) indirect, consequential, speculative, punitive or special Loss or (ii) loss of profit, revenue, opportunity, business, anticipated savings, goodwill and damage to reputation, or Loss of any similar kind; in each case whether or not a Party has been advised of or otherwise could have anticipated the possibility of such losses, except to the extent any such losses cannot be excluded or limited as a matter of Law applicable to either Party. 
+
+18
+Error Correction
+18.1 Error Correction.  If an error results from an act or omission of the Custodian in performing the services under this Agreement, the Custodian may take such remedial action as it considers appropriate under the circumstances, which may include effecting corrective transactions involving the Client’s assets, where and to the extent reasonably necessary to place the Client in the position (or its equivalent) it would have been had the error not occurred.  The Custodian will be responsible for Losses arising from its errors in accordance with the terms of this Agreement and will be entitled to retain gains arising from its errors or related remedial actions unless otherwise prohibited by Law.  Where an error results in a series of related Losses and gains, the Custodian will be entitled to net gains against Losses 
+
+ 
+
+
+
+10
+
+ 
+
+when permitted by Law.  The Custodian will have no duty to notify or account to the Client for any Loss or gain associated with an error it has fully remediated.
+
+19
+Limits on the Scope of the Services
+19.1 No Fiduciary or Implied Duties. The Custodian is responsible only for the duties it has expressly undertaken under this Agreement and no other duties will be implied or inferred, including any fiduciary duties, except to the extent such fiduciary duties may not be disclaimed as a matter of Law.
+
+19.2 Investment and Other Risk, Client Compliance Matters. The Client bears the risk of investing in Securities or other assets or holding cash denominated in any currency or holding assets in a particular market, including investment risk and risk arising from the political, regulatory, legal or financial infrastructure of such market or otherwise arising from Local Market Practice. The Custodian is not responsible for monitoring or enforcing compliance by the Client or its Investment Manager(s) with any investment or other restriction, guideline or requirement imposed by the Client’s constituent documents or by contract or Law applicable to the Client in connection with investment activity undertaken by or on behalf of the Client. 
+
+19.3 Data Accuracy.  The Custodian has no responsibility for, or duty to review, verify or otherwise perform any investigation as to the completeness, accuracy or sufficiency of, any data or information provided by or on behalf of the Client, any persons authorized by the Client, any Third Party Agent, any Market Participant or any Authorized Data Sources, except to the extent the Custodian has agreed in writing to perform reconciliations, variance or tolerance checks or other specific forms of data review under this Agreement.
+
+19.4 Title.  The Custodian is not responsible for title or entitlement to, validity or genuineness, including good deliverable form, of any asset received by the Custodian.
+
+19.5 Proceedings. The Custodian is not responsible for commencing legal or administrative proceedings on behalf of the  Client or relating to the assets held under this Agreement, including in respect of the late payment of income or other payments due to the Client or amounts payable on Securities in default if payment is refused after due demand and presentment.
+
+19.6 Laws Applicable to the Custodian or Subcustodian. Laws applicable to the Custodian or a Subcustodian may from time to time prohibit or cause delays in the Custodian holding assets, acting on Proper Instructions or providing the Services to the Client in the manner contemplated by this Agreement. In such cases, the Custodian or Subcustodian will be entitled to comply with the Law and, where permitted by such Law, the Parties will seek to resolve the situation to the Parties’ mutual satisfaction.
+
+19.7 Securities on Loan.  Asset servicing is not generally performed for securities on loan unless otherwise noted in this Agreement or agreed by the Parties in writing.  Provision of such services with respect to securities on loan may be covered by a separate securities lending or services agreement.
+
+20
+Indemnity
+20.1 Indemnity by Client. Subject to this Section 20 and the exclusions and limitations of liability elsewhere in this Agreement, including Section 17.8, the Client will indemnify the Custodian against any direct Losses incurred by the Custodian (including Losses incurred by Subcustodians or Delegates for which the Custodian is liable) in connection with the performance of its duties under this Agreement, including acting on Proper Instructions and Losses incurred by virtue of being the holder of record of the Client’s Securities,  except, in each case, to the extent such Losses result from the Custodian’s 
+
+ 
+
+
+
+11
+
+ 
+
+negligence, wilful default or fraud (or that of its Subcustodians or Delegates) in the discharge of the Custodian’s duties under this Agreement.
+
+20.2 Indemnity by Custodian. Subject to this Section 20 and the exclusions and limitations of liability elsewhere in this Agreement, including Section 17.7 and 17.8, the Custodian will indemnify the Client against any direct Losses incurred by the Client, in each case, to the extent such Losses result from the negligence, wilful default or fraud of the Custodian (or that of its Subcustodians or Delegates) in the discharge of the Custodian’s duties under this Agreement.
+
+20.3 Duty to Mitigate. Each Party will use reasonable efforts to mitigate any Losses in respect of which it claims indemnification under this Agreement. 
+
+20.4 Notice of Claims. A Party seeking indemnification under this Section (“Indemnified Party”) against a third-party claim (“Indemnified Claim”) will promptly provide written notice of such claim to the Party obligated to indemnify (“Indemnifying Party”). The failure to notify the Indemnifying Party will not relieve such Party of any liability under this Section, except to the extent that such failure materially prejudices the investigation and/or defense of the Indemnified Claim.  
+
+20.5 Right to Control Third Party Claims. The Indemnifying Party will, at its own expense, be entitled but not obligated to control and direct the investigation and defense of any Indemnified Claim, except where the Custodian is the Indemnified Party and is seeking indemnification from multiple customers for claims based on common facts or otherwise related to the Indemnified Claim, in which case the Custodian will have the right to control and direct the investigation and defense of such claim, at the expense of (i) the Indemnifying Party or (ii) all of the customers from which indemnification is sought, including the Indemnifying Party, pro rata, as appropriate.  Where the Indemnifying Party controls and directs the investigation of the defence of the Indemnified Claim, the Indemnified Party may retain separate counsel at its own expense. If a conflict of interest exists between the Parties with respect to the defense of such claim, the reasonable cost of separate counsel will be an indemnified expense.
+
+20.6 Settlement of Claims.  Neither Party may settle an Indemnified Claim without the consent of the other Party, which consent will not be unreasonably withheld, conditioned or delayed, provided that the Indemnifying Party will have the right to settle an Indemnified Claim without the consent of the Indemnified Party if such settlement:
+
+20.6.1 involves only the payment of money; 
+
+20.6.2 fully and unconditionally releases the Indemnified Party from any liability in exchange for the amount paid in settlement; and 
+
+20.6.3 does not include any admission of fault or liability in relation to the Indemnified Party.  
+
+20.7 Cooperation.  In all cases, each Party will, as applicable, provide reasonable cooperation and assistance to the other Party and keep the other Party apprised as to the status of the Indemnified Claim, including any discussions relating to the settlement of the claim and the details of any settlement offer.
+
+21
+Obligations of the Client
+21.1 Provide Information. The Client will provide or cause to be provided to the Custodian all data, information, documents and instructions concerning the Client and the investment activity of the Client in relation to the Portfolio as may be reasonably necessary or as the Custodian may reasonably 
+
+ 
+
+
+
+12
+
+ 
+
+request, in each case in a complete, accurate and timely manner, in order to enable the Custodian to discharge its duties under this Agreement.   
+
+21.2 AML Compliance.  The Client will comply with all applicable anti-money laundering, sanctions or other financial crime legislation applicable to it and will provide the Custodian with all necessary sanctions questionnaires, declarations and other documentation in order for the Custodian to comply with its anti-money laundering policy.
+
+21.3 Pass Through Representations. To the extent that the Custodian is required to give (or is deemed to have given) any representation, warranty or undertaking to a third party relating to the Client in accordance with normal market practice in connection with the execution of transaction documents or the issuance or transmission of trade notifications, confirmations and/or settlement instructions, whether using facsimile transmission, industry messaging or matching utilities and/or the proprietary software of Third Party Agents and Market Participants, CSDs or other Financial Market Utilities, the Client will be deemed to have made such representation, warranty or undertaking to the Custodian.
+
+21.4 Operational Requirements.  The Client will adhere to the deadlines and other operational requirements set out in the Client Publications, to facilitate meeting the requirements of CSD’s, Third Party Agents and Market Participants.
+
+21.5 Client Review and Notification.  In accordance with standard market practice, the Client will employ commercially reasonable review and control measures with respect to information provided by the Custodian under this Agreement and give the Custodian prompt written notice of any suspected error or omission or the Client’s inability to access any such Information so as to prevent, stem or mitigate any Losses that may arise from the use of inaccurate data or the inaccessibility of data.
+
+21.6 Fees.  In consideration for the Services provided by the Custodian, the Client will pay the Fees as agreed in a written fee schedule or otherwise agreed in writing by the Parties from time to time. The Fees and any other amounts payable under this Agreement are stated exclusive of any sales, use, excise, value-added, services, consumption, withholding or other similar tax that is assessed on the supply of the Services under an agreement.  Any such tax will  be payable by the Client. 
+
+21.7 Client Publications.  The Client will ensure that it provides the Custodian with and regularly updates, as necessary, e-mail and other contact details for its representatives to enable timely distribution and receipt of the Client Publications.
+
+22
+Proper Instructions
+22.1 Dealings in Cash and Securities. The Custodian will effect all transactions and dealings in Cash and Securities under this Agreement in accordance with Proper Instructions, subject to any other right it may have under this Agreement.  
+
+22.2 Appointment of Authorized Persons. The Client and each Investment Manager will provide the Custodian with a list of the names and (if applicable) signatures, of Authorized Persons in a form agreed by the parties from time to time.  The Custodian may rely upon the authority of each Authorized Person until it receives written notice to the contrary from the Client and has had a reasonable time to act on such notice.
+
+22.3 Authentication Procedures. The Custodian will implement Authentication Procedures.  The Client acknowledges that the Authentication Procedures are intended to provide a commercially reasonable degree of protection against unauthorized transactions of certain types and are not designed to detect errors.  Any purported Proper Instruction received by the Custodian in accordance 
+
+ 
+
+
+
+13
+
+ 
+
+with an Authentication Procedure will be taken to have originated from an Authorized Person and will constitute a Proper Instruction under this Agreement for all purposes. 
+
+22.4 Security Measures by Client. The Client is responsible for ensuring that appropriate security measures are implemented to prevent unauthorized disclosure or use of any Authentication Procedure made available to it or an Investment Manager in connection with this Agreement.
+
+22.5 No Duty to Verify. Except to the extent the Custodian is required to comply with Authentication Procedures under Section 22.3 above, the Custodian has no duty to verify that personnel of the Client or any Investment Manager engaged in investment activity are authorized to do so or that any instructions received by the Custodian are duly authorized.  
+
+22.6 Decline/Delay in Processing. The Custodian reserves the right to decline to process or delay the processing of any purported Proper Instruction where: 
+
+22.6.1 the Custodian, in good faith, determines that the instruction may not have been properly authorized; 
+
+22.6.2 the instruction is inaccurate, incomplete or unclear; 
+
+22.6.3 the instruction conflicts with the terms of this Agreement or any Law applicable to either Party, Local Market Practice or the Custodian’s standard operating procedures; or
+
+22.6.4 the Custodian has not been given a reasonable time period to effect the instruction.
+
+In these circumstances, the Custodian will promptly seek authentication, clarification, correction or amendment of any Proper Instruction, as the case may be. 
+
+22.7 Cancellation and Amendment. The Custodian will use reasonable efforts to act on Proper Instructions to cancel or amend previously issued Proper Instructions if:
+
+22.7.1 the Custodian has not already acted on the previously issued Proper Instructions; and
+
+22.7.2 the Proper Instruction to cancel or amend is received before the applicable deadlines specified from time to time in the Client Publications or applicable event notification.
+
+The Custodian is not responsible or liable if the request to cancel or amend cannot be satisfied.
+
+22.8 Oral Instructions. If applicable, the Custodian may act on an oral instruction (given in accordance with an agreed Authentication Procedure) before receipt of any written confirmation and irrespective of whether any subsequent written confirmation conforms to the oral instruction.
+
+22.9 Conflicting Claims. If there is a dispute or conflicting claim with respect to Securities or Cash held by the Custodian under this Agreement, the Custodian is entitled to refuse to act on a Proper Instruction of the Client or any Investment Manager in relation to the particular Securities or Cash until either (i) the dispute or conflicting claims have been finally determined by a court of competent jurisdiction or settled by agreement between the conflicting parties, and the Custodian has received written evidence satisfactory to it of such determination or agreement, or (ii) the Custodian has received an indemnity, security or both, satisfactory to it and sufficient to hold it harmless from and against any and all Losses which the Custodian may incur as a result of its actions.  
+
+ 
+
+
+
+14
+
+ 
+
+22.10 Matters Not Requiring Proper Instructions. The Client authorises the Custodian in the absence of Proper Instructions to attend to all matters which may be necessary or appropriate to discharge its duties and give effect to the terms of this Agreement, including the execution, in the Client’s name or on its behalf, of any affidavits, certificates of ownership and other certificates and documents relating to Securities.
+
+23
+Creditors Rights
+23.1 Security. To secure the full and timely satisfaction of all Secured Liabilities, the Client hereby grants to the Custodian a security interest in and a right of retention, sale and set off, as applicable, against (i) all of the Client’s Cash, Securities, and other assets, whether now existing or hereafter acquired, in the possession or under the control of the Custodian or its Subcustodians pursuant to this Agreement and (ii) any and all cash proceeds of any of the above (collectively, the “Collateral”).
+
+23.2 Rights of the Custodian. In the event that the Client fails to satisfy in full any of the Secured Liabilities as and when due and payable, the Custodian will have, in addition to all other rights and remedies arising under this Agreement or under applicable Law, the rights and remedies of a secured party under applicable Law.   Without prejudice to the Custodian’s other rights and remedies, the Custodian will be entitled, in each case as and to the extent reasonably necessary to satisfy in full the Secured Liabilities and any related transaction expenses, to (a) exercise its right of retention and withhold delivery of any Collateral and otherwise refuse to act on any Proper Instruction relating to such Collateral, (b) sell or otherwise realize any Collateral, and (c) set off the net proceeds of such sale or realization of Collateral and/or the amount of any deposit balances standing to the credit of the Client in any Cash Account(s) against such Secured Liabilities. 
+
+23.3 Exercise of Rights. The Custodian may exercise its rights and remedies against the Collateral in any manner (including by any method, at any time or place, and on any terms) as it deems, in good faith, to be commercially reasonable under the circumstances, and will use reasonable efforts to effect any sale of Collateral at the prevailing market price in the relevant market.  Without limiting the foregoing, the Client acknowledges that it will be commercially reasonable for the Custodian to, among other things: (i) accelerate or cause the acceleration of the maturity of any fixed term deposits comprised in the Collateral and (ii) effect any necessary currency conversions through its own trading desk at such exchange rates as it determines in its reasonable discretion, which rates may include a mark-up from the rates the Custodian receives on the interbank market.  
+
+23.4 Notice. The Custodian will use reasonable efforts to give the Client prior notice of any exercise of the right to sell or otherwise realize Collateral set forth above, provided that the Custodian will not be obligated to give prior notice to the Client or delay exercising its rights pending or after the provision of such notice if, in its reasonable judgment, giving such notice or any such delay would prejudice its ability to obtain satisfaction in full of the Secured Liabilities.
+
+24
+Confidentiality and Use of Data
+24.1 Confidentiality
+
+24.1.1 No Disclosure Without Consent. Subject to Section 24.2 and Section 24.3, Confidential Information will not be disclosed by the Receiving Party to any third party without the prior consent of the Disclosing Party. 
+
+24.1.2 No limitations of obligations under Agreement or at Law. Except as expressly contemplated by this Agreement, nothing in this Section 24 will limit the confidentiality and 
+
+ 
+
+
+
+15
+
+ 
+
+data-protection obligations of the Custodian and its Affiliates under this Agreement and Law applicable to the Custodian.
+
+24.2 Use of Confidential Information and Data  
+
+24.2.1 Use of Confidential Information and Data generally. Subject to this Section 24.2 and Section 24.3, all Confidential Information, including Data, will be used by the Receiving Party for the purpose of providing or receiving services, as applicable, pursuant to this Agreement or otherwise discharging its obligations under this Agreement.  
+
+24.2.2 Use of Data for Indicators. The Custodian and its Affiliates may use Data to develop, publish or otherwise distribute to third parties certain investor behavior “indicators” or “indices” that represent broad trends in the flow of investment funds into various markets, sectors or investment instruments (collectively, the “Indicators”), but only so long as (i) the Data is combined or aggregated with (A) information relating to other customers of the Custodian and/or (B) information derived from other sources, in each case such that the Indicators do not allow for attribution to or identification of such Data with the Client, (ii) the Data represents less than a statistically meaningful portion of all of the data used to create the Indicators and (iii) the Custodian publishes or otherwise distributes to third parties only the Indicators and under no circumstance publishes, makes available, distributes or otherwise discloses any of the Data to any third party, whether aggregated, anonymized or otherwise, except as expressly permitted under this Agreement. 
+
+24.2.3 Economic benefit from Indicators. The Client acknowledges that the Custodian may seek and realize economic benefit from the publication or distribution of the Indicators.
+
+24.3 Disclosure of Confidential Information and Data 
+
+24.3.1 Disclosure of Confidential Information to Representatives. The Receiving Party may disclose the Disclosing Party's Confidential Information without the Disclosing Party’s consent to its attorneys, accountants, auditors, consultants and other similar advisors that have a reasonable need to know such Confidential Information (“Representatives”), provided such Confidential Information is disclosed under obligations of confidentiality that prohibit the disclosure or use of such Confidential Information by the Representatives for any purpose other than the specific engagement with the Receiving Party for which the Representative has been retained and that are otherwise no less restrictive than the confidentiality obligations contained in this Agreement. The Parties acknowledge that use of Confidential Information by a Representative to represent its other clients in dealing with the Disclosing Party would constitute a breach of this Section 24.3.  Where the Custodian is the Receiving Party, “Representatives” will include its Affiliates and Service Providers (as defined below). 
+
+24.3.2 Disclosure and Use of Confidential Information by Custodian. The Custodian may disclose and permit use (as applicable) of Confidential Information of the Client without the Client’s consent:
+
+24.3.2.1 to its Affiliates and any of its third-party agents and service providers (“Service Providers”) in connection with the provision of services, the discharge of its obligations under this Agreement or the carrying out of any Proper Instruction, including in accordance with the standard practices or requirements of any Financial Market Utility or in connection with the settlement, holding or administration of Cash, Securities or other instruments; 
+
+ 
+
+
+
+16
+
+ 
+
+24.3.2.2 to its Affiliates in connection with the management of the businesses of the Custodian and its Affiliates, including, but not limited to, financial and operational management and reporting, risk management, legal and regulatory compliance and client service management and marketing.
+
+Where possible, such Confidential Information must be disclosed under obligations of confidentiality or in a manner consistent with industry practice.
+
+24.3.3 Confidential Information and Cloud Computing and Storage. Each Party may store Confidential Information with third-party providers of information technology services, and permit access to Confidential Information by such providers as reasonably necessary for the receipt of cloud computing and storage services and related hardware and software maintenance and support. Such Confidential Information must be disclosed under obligations of confidentiality.
+
+24.3.4 Disclosure of Confidential Information to comply with law. The Receiving Party may disclose the Disclosing Party's Confidential Information to the extent such disclosure is required to satisfy any legal requirement (including in response to court-issued orders, investigative demands, subpoenas or similar processes or to satisfy the requirements of any applicable regulatory authority). 
+
+24.3.5 Harm of Unauthorized Disclosure of Confidential Information. Each Party acknowledges that the disclosure to any non-authorized third party of Confidential Information or the use of Confidential Information in breach of this Agreement, may immediately give rise to continuing irreparable injury inadequately compensable in damages at law, and in such cases the Receiving Party agrees to waive any defense that an adequate remedy at law is available if the Disclosing Party seeks to obtain injunctive relief against any such breach or any threatened breach.  
+
+24.3.6 Responsibility for Representatives. Each Party will be responsible for any use or disclosure of Confidential Information of the Disclosing Party in breach of this Agreement by its Representatives as though such Party had used or disclosed such Confidential Information itself.  
+
+24.3.7 No Disclosure to Custodian Asset Manager Division. In no event will the Custodian allow representatives of its asset management division or Affiliates engaged in asset management to have access to or to use Confidential Information of the Client, including Data.
+
+25
+Term and Termination
+25.1 Term. This Agreement will commence on the Effective Date and will continue until terminated in accordance with this Section.
+
+25.2 Termination Rights.
+
+25.2.1 Prior Notice.  The Parties agree that:
+
+25.2.1.1 the Client may terminate this Agreement by giving not less than 30 days’ prior written notice to the Custodian; and 
+
+ 
+
+
+
+17
+
+ 
+
+25.2.1.2 the Custodian may terminate this Agreement by giving not less than 270 days’ prior written notice to the Client.
+
+25.2.2 Immediate Effect.  A Party may terminate this Agreement with immediate effect at any time by written notice to the other Party, if:
+
+25.2.2.1 an Insolvency Event occurs in relation to the other Party;
+
+25.2.2.2 such other Party is the Client and fails to pay any undisputed Fees as and when due and has failed to cure such breach within 30 days of receipt of notice from the Custodian requesting it to do so; or
+
+25.2.2.3 such other Party commits a material breach of an obligation under this Agreement and has failed to cure such breach within 30 days of receipt of notice requesting it to do so.
+
+If the Custodian terminates this Agreement pursuant to sub-sections (a) or (b), the Custodian will continue to provide the Services for a period of up to 270 days subject to payment in full of any overdue undisputed Fees and prepayment of the Fees reasonably expected to be incurred during such 270-day period, or such other financial assurance reasonably acceptable to the Custodian.  
+
+25.3 Actions on Termination.
+
+25.3.1 Successor Custodian. Upon termination of the Agreement, the Custodian will deliver the Portfolio to the successor custodian designated by the Client in Proper Instructions. 
+
+25.3.2 Remaining Portfolio.  If any part of the Portfolio remains in the possession of the Custodian or its Subcustodians after the date of termination because the Client fails to designate a successor custodian or otherwise, the Custodian may continue to provide the Services to the Client in consideration of the Fees, as if the Agreement had not terminated.  If no successor custodian has been appointed on or before the termination of this Agreement, then the Custodian will have the right to deliver to a bank or trust company, which is a “bank” as defined in the 1940 Act, doing business in Boston, Massachusetts, or New York, New York, of its own selection, all Cash and Securities of the Client then held by the Custodian, and to transfer to an account of the bank or trust company all of the Securities of the Client held in any CSD.  The transfer will be on such terms as are contained in this Agreement or as the Custodian may otherwise reasonably negotiate with the bank or trust company.  Any compensation payable to the bank or trust company, and any cost or expense incurred by the Custodian, in connection with the transfer will be for the account of the Client.
+
+25.3.3 Payment of Fees.  Upon termination of this Agreement, Fees will become due and payable for the period to the date of such termination, or, if later, to the date at which any part of the Portfolio held by the Custodian has been fully transferred to a successor custodian or to the Client, other than Fees subject to a bona fide good faith dispute.
+
+26
+Representations and Warranties
+26.1 Each Party.  Each Party represents and warrants to the other that: (i) it has the power to enter into and perform its obligations under this Agreement; and (ii) it has duly executed this Agreement by duly authorized persons so as to constitute valid and binding obligations of that Party.
+
+ 
+
+
+
+18
+
+ 
+
+26.2 Client. The Client further represents and warrants to the Custodian that: (i) it is the beneficial owner of the assets comprising the Portfolio or is entitled to deal with the assets comprising the Portfolio under this Agreement as if it were beneficial owner; and (ii) unless otherwise agreed, the Client acts as principal for the purposes of this Agreement and not as agent for another person.
+
+26.3 Custodian.  The Custodian further represents and warrants to the Client that: (i) it holds such authorisations and licences as are necessary to lawfully perform its obligations under this Agreement; and (ii) it will seek to maintain such authorisations and licenses for the term of this Agreement.
+
+27
+Record Retention and Audit Rights
+27.1 Records. The Custodian will retain the records it is required to maintain under this Agreement in accordance with the Law applicable to the Custodian.
+
+27.2 Client and Regulator Access. The Custodian will allow the Client and the Client’s regulators or supervisory authorities to perform periodic on-site audits as may be reasonably required to examine the Custodian’s performance of the Services.
+
+27.3 Frequency and Scope.  For inspections requested by the Client (such request will include reasonable advance notice) and agreed to by the Custodian, the Custodian reserves the right to impose reasonable limitations on the number, frequency, timing, and scope of such audits.
+
+27.4 Limitations on Disclosure.  Nothing contained in this Section will obligate the Custodian to provide access to or otherwise disclose: (i) any information that is unrelated to the Client and the provision of the Services to the Client; (ii) any information that is treated as confidential under the Custodian’s corporate policies, including, without limitation, internal audit reports, compliance or risk management plans or reports, work papers and other reports, and information relating to management functions; or (iii) any other documents, reports, or information that the Custodian is obligated or entitled to maintain in confidence as a matter of law or regulation.  In addition, any access provided to technology will be limited to a demonstration by the Custodian of the functionality thereof and a reasonable opportunity to communicate with the Custodian’s personnel regarding such technology.
+
+28
+Business Continuity, Internal Controls and Information Security
+28.1 Business Continuity Plans.  The Custodian will at all times maintain a business contingency plan and a disaster recovery plan and will take commercially reasonable measures to maintain and periodically test such plans.  The Custodian will implement such plans following the occurrence of an event which results in an interruption or suspension of the Services to be provided by the Custodian.
+
+28.2 Internal Controls Review and Report. The Custodian will retain a firm of independent auditors to perform an annual review of certain internal controls and procedures employed by the Custodian in the provision of the Services and issue a standard System and Organization Controls 1 or equivalent report based on such review.  The Custodian will provide a copy of the report to the Client upon request.
+
+28.3 Information Security Systems and Controls. The Custodian will maintain commercially reasonable information security systems and controls, which include administrative, technical, and physical safeguards that are designed to: (i) maintain the security and confidentiality of the Client’s data; (ii) protect against any anticipated threats or hazards to the security or integrity of the Client’s data, including appropriate measures designed to meet legal and regulatory requirements applying to the Custodian; and (iii) protect against unauthorized access to or use of the Client’s data. 
+
+ 
+
+
+
+19
+
+ 
+
+28.4 Virus Detection. The Custodian will at all times employ a current version of one of the leading commercially available virus detection software programs to test the hardware and software applications used by it to deliver the Services for the presence of any computer code designed to disrupt, disable, harm, or otherwise impede operation. 
+
+29
+General
+29.1 Services Not Exclusive; Acting in Various Capacities. The Custodian, its Subcustodians and their Affiliates are part of groups of companies and businesses that, in the ordinary course of their business:
+
+29.1.1 provide a wide range of financial services to many clients of different kinds;
+
+29.1.2 engage in transactions for their own account (including acting as banker as outlined in Section 4.4 and acting as foreign exchange counterparty as outlined in Section 13) or for the account of other clients; 
+
+which may result in actual, perceived or potential conflicts between the interests of the Client and the interest of the Custodian, its Subcustodians and their Affiliates or between the interests of clients.  The Custodian maintains a conflicts of interest policy, and has implemented procedures and arrangements to identify and manage conflicts of interest.
+
+29.2 Disclosure of Conflicts. In connection with the matters outlined in Section 29.1.1, the Custodian, its Subcustodians and their Affiliates:
+
+29.2.1 may do business with each client on different contractual or financial terms;  
+
+29.2.2 will seek to profit and is entitled to receive and retain profits and compensation in connection with such activities without any obligation to account to the Client for the same;
+
+29.2.3 may act as principal in its own interests, or as agent for its other clients;  
+
+29.2.4 may act or refrain from acting based upon information derived from such activities that is not available to the Client;
+
+29.2.5 are not under a duty to notify or disclose to the Client any information which comes to their notice as a result of such activities; and
+
+29.2.6 do not have an obligation to consider,  act in, or provide information to the Client in respect of, the interests of the Client in connection with such activities, except to the extent (if any) expressly agreed in writing with the Client under the contractual arrangements governing those activities.  
+
+The Custodian may (but is not required to) make any disclosure or notification in connection with such activities to the Client via publication on MyStateStreet.com or other notification mechanism. 
+
+29.3 Notice. Unless otherwise specified, all notices, requests, demands and other communications under this Agreement (other than routine operational communications), will be in writing and will be taken to have been given:
+
+29.3.1 when delivered by hand;
+
+ 
+
+
+
+20
+
+ 
+
+29.3.2 on the next Business Day after being sent by e-mail (unless the sender receives an automated message that the e-mail has not been delivered); 
+
+29.3.3 on the next Business Day after being sent by overnight courier service for next Business Day delivery; or
+
+29.3.4 on the third Business Day after being sent by certified or registered mail, return receipt requested;
+
+in each case to the applicable Party at the address or e-mail address specified on Schedule 2, or such other address or e-mail address as a Party may specify by written notice from time to time.
+
+29.4 Waiver. No failure on the part of any Party to exercise, and no delay on its part in exercising, any right or remedy under this Agreement will operate as a waiver, nor will any single or partial exercise of any right or remedy preclude any other or further exercise of that right or remedy, or the exercise of any other right or remedy.
+
+29.5 Sole Remedy. Subject to the right to seek relief under the specific circumstances expressly permitted in this Agreement, each of the Custodian and the Client agrees that, to the maximum extent permitted by law, a claim for breach of contract under and consistent with the terms of this Agreement will be the sole and exclusive remedy available for any and all matters arising from or in any way relating to this Agreement, the provision of the Services or any conduct (including omissions and alleged conduct) relating to the Agreement or provision of the Services, whether before, during or after the term of this Agreement.  Accordingly, to the maximum extent permitted by law, each of the Custodian and the Client, on behalf of itself and its Affiliates, waives any and all other rights and remedies that otherwise would be available to such party in law or equity.
+
+29.6 Assignment and Successors. The terms of this Agreement are binding on the Parties’ representatives, successors and permitted assigns and this Agreement and any rights or obligations under this Agreement may not be assigned or transferred without the prior written consent of the other Party. However, in the event that either Party becomes the subject of an Insolvency Event, then such Party will have the right to assign or transfer its rights and obligations under this Agreement to any entity to which the Party transfers its business and assets (including a bridge bank or similar entity) and the other Party irrevocably consents to such assignment or transfer. 
+
+29.7 Entire Agreement. This Agreement is the complete and exclusive agreement of the Parties regarding the Services and supersedes, as of the Effective Date, all prior oral or written agreements, arrangements or understandings between the parties relating to the Services.
+
+29.8 Amendments. This Agreement may be amended by written agreement between the Parties.  However, the Custodian may amend this Agreement by giving written notice to the Client of such proposed amendment and the Client will be taken to have consented to the amendment if the Client does not affirmatively object in writing within thirty (30) days.
+
+29.9 Counterparts and Electronic Signatures. This Agreement may be executed in separate counterparts, each of which will be an original, but which together will constitute one and the same agreement. Counterparts may be executed in either original or electronically transmitted form (e.g., faxes or emailed portable document format (PDF) form), and the Parties adopt as original any signatures received in electronically transmitted form. This Agreement may be executed by electronic signature (whatever form the electronic signature takes) and the Parties agree that this method of 
+
+ 
+
+
+
+21
+
+ 
+
+signature is as conclusive of the intention to be bound by this Agreement as if signed by the Parties’ manuscript signatures.
+
+29.10 Severance. In the event that any part of this Agreement will be determined to be void or unenforceable for any reason, the rest of this Agreement will be unaffected (unless the essential purpose hereof is substantially frustrated by such determination) and will be enforceable in accordance with the rest of its terms as if the void or unenforceable part were not a part of this Agreement.
+
+29.11 Survival. The provisions of Sections 10 (Tax Withholding and Tax Relief), 17 (Standard of Care and Liability), 20 (Indemnity), 21 (Obligations of the Client-Fees), 23 (Creditors Rights), 24 (Confidentiality and Use of Data) and 25.3 (Actions on Termination) are continuing obligations and will survive termination of this Agreement for any reason.
+
+29.12 Governing Law and Jurisdiction. This Agreement is governed by and interpreted in accordance with the laws of the Commonwealth of Massachusetts, and any disputes which may arise out of, under or in connection with this Agreement will be determined by the exclusive jurisdiction of the Massachusetts courts.
+
+29.13 Reserved.
+
+29.14 Qualified Financial Contracts. In the event that the Client is domiciled and organized outside of the United States, such Client and the Custodian hereby agree to be bound by the terms of the QFC addendum attached hereto as Appendix B.
+
+29.15 The Parties; Additional Clients1
+
+29.15.1 All references in this Agreement to the “Client” are to each of the client entities listed on Appendix A, individually, as if this Agreement were between the relevant individual Client and the Custodian.  Any reference in this Agreement to “the Parties” shall mean the Custodian and the individual Client as to which the matter relates.
+
+29.15.2 If any entity in addition to those listed on Appendix A would like the Custodian to render Services under the terms of this Agreement, the entity may notify the Custodian in writing.  If the Custodian agrees in writing to provide the services, Appendix A will be taken to be amended to include such entity as a Client and that entity (together with the Custodian) will be bound by all Sections of this Agreement] .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+22
+
+ 
+
+Signed by the Parties:
+
+ 
+
+APOLLO DEBT SOLUTIONS BDC,
+
+acting through its trustee Joseph D. Glatt
+
+By:
+
+/s/ Joseph D. Glatt
+
+ 
+
+Name:
+
+Joseph D. Glatt
+
+ 
+
+Title:
+
+Chief Legal Officer
+
+ 
+
+Date:
+
+October 28, 2021
+
+ 
+
+STATE STREET BANK AND TRUST COMPANY
+
+By:
+
+/s/ James F Smith
+
+ 
+
+Name:
+
+James F Smith
+
+ 
+
+Title:
+
+ 
+
+ 
+
+Date:
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+23
+
+ 
+
+Schedule 1
+
+Definitions
+
+In this Agreement: 
+
+“1940 Act” means the U.S. Investment Company Act of 1940, as amended from time to time.
+
+“Affiliate” means, with respect to any person, any other person Controlling, Controlled by, or under common Control with, such person at the time in question. For these purposes. “Control” and its derivatives “Controlled” and “Controlling” mean, with regard to any person:  (i) the legal or beneficial ownership, directly or indirectly, of fifty percent (50%) or more of the issued share capital or capital stock of that person (or other ownership interest, if not a corporation); (ii) the ability to control, directly or indirectly, fifty per cent (50%) or more of the voting power in relation to that person; or (iii) the legal power to direct or cause the direction of the general management and policies of that person, provided that where Control is being determined with respect to a person that is a limited partnership, Control shall be determined by reference to the satisfaction of any of the above tests with respect to the general partner of the limited partnership
+
+“Alternative Assets” means derivatives, real estate, commodities, private placements, loans, infrastructure holdings, private equity holdings, hedge fund holdings or such other assets (i) not typically held in book-entry form and (ii) not typically held in accounts registered in the name of the Custodian or a Subcustodian, in each case as determined by the Custodian.
+
+“Authentication Procedures” means the use of security codes, passwords, tested communications or other authentication procedures as may be agreed upon in writing by Parties from time to time for purposes of enabling the Custodian to verify that purported Proper Instructions have been originated by an Authorized Person, and will include a Funds Transfer and Transaction Origination Policy Agreement.
+
+“Authorized Data Sources” means third party sources of data and information utilized by the Custodian in the provision of the Services, including issuer and issuer group data; security characteristics and classifications; security prices (OTC and exchange traded); ratings (issuer and issue); exchange, interest, discount and coupon rates; corporate action, dividend, income and tax data; benchmark, index, composite and indice related data (including values, constituents, weights and performance); and other reference and market data and information necessary for the performance of the Services.
+
+“Authorized Person” means a person authorized to give Proper Instructions and otherwise act on the Client’s behalf in connection with this Agreement.
+
+“Business Day” means a day on which the Custodian or the relevant Subcustodian is open for business in the market or country in which a transaction or an action by a Party takes place.
+
+“Board” means, in relation to a Client, the board of directors, trustees or other governing body of the Client.
+
+“Cash” means cash in any currency from time to time deposited with the Custodian or Subcustodian under this Agreement.
+
+“Cash Account” has the meaning given to it in Section 4.1.
+
+“Client” means the party named in the preamble.  
+
+“Client Publications” means the general client publications of the Custodian from time to time available to clients and their investment managers, including the Investment Managers’ Guide, Client Guide, Guide to Custody in World Markets, and FX Client Guide.
+
+“Collateral” has the meaning given to it in Section 23.1.
+
+“Confidential Information” means all information provided by or on behalf of a party (the “Disclosing Party”) to the other party (the “Receiving Party”), or collected by a Receiving Party, under or pursuant to this Agreement that is marked "confidential", "restricted", "proprietary" or with a similar designation, or that the Receiving Party knows or reasonably should know is confidential, proprietary or a trade secret.  The terms and conditions of this Agreement (including any related fee schedule or arrangement) and any Fees 
+
+ 
+
+
+
+
+
+24
+
+ 
+
+will be treated as Confidential Information as to which each Party is a Disclosing Party.  Confidential Information will not include information that: (i) is publicly available when provided or thereafter becomes publicly available, other than through a breach of this Agreement: (ii) was known to the Receiving Party (without an obligation of confidentiality) prior to its disclosure; (iii) is independently developed by the Receiving Party without the use of other Confidential Information; (iv) is rightfully obtained on a non-confidential basis from a third party source.  
+
+“Contractual Settlement” has the meaning given to it in Section 5.2.
+
+“Corporate Actions” means warrant and option exercises, conversions, exchanges and other capital reorganizations, calls, odd lot tenders/credits, bonus rights, subscription offers/rights, puts, maturities of securities, redemptions, mergers, tender or exchange offers, and rights exercises and expirations.  Corporate Actions do not include class actions.
+
+“Corporate Actions Deadline Date” has the meaning given to it in Section 6.2.
+
+“Covered Foreign Country” means a country listed on Schedule A, which list of countries may be amended from time to time at the request of any Client and with the agreement of the Foreign Custody Manager.
+
+“CSD” or “Central Securities Depository” means an entity or generally recognised book-entry or other settlement system or clearing house, central clearing counterparty or agency, acting as a local securities depository, central securities depository or international securities depository, the use of which is customary for securities settlement activities in the jurisdiction(s) in which it holds Securities or Cash in connection with this Agreement, and through which the Custodian may transfer, settle, clear, deposit or maintain Securities whether in certificated or uncertificated form and will include any services provided by any network service provider or carriers or settlement banks used by a CSD.
+
+“Data” means any Confidential Information of the Client relating to its holdings, transactions or other information that the Custodian obtains with respect to the Client in connection with the provision of the Services under this Agreement or any other agreement.
+
+“Delegate” means any agent, subcontractor, consultant and other third party, whether affiliated or unaffiliated with the Custodian. The term Delegate does not include Subcustodians, CSDs,  Authorized Data Sources, suppliers of information technology or related services, or Financial Market Utilities.
+
+“Effective Date” has the meaning given to it in the preamble.
+
+“Eligible Foreign Custodian” has the meaning set out in Section (a)(1) of Rule 17f-5.
+
+“Eligible Securities Depository” has the meaning set out in section (b)(1) of Rule 17f-7. 
+
+“Fees” means the fees charged by the Custodian in consideration for providing the Services and the costs, expenses and disbursements of the Custodian to be reimbursed by the Client, as agreed between the parties from time to time in a separate written fee schedule, or as otherwise agreed in writing.
+
+“Financial Market Utility” means any multilateral system for transferring, clearing, and settling payments, securities, and other financial transactions among or between financial institutions, including payment systems, central securities depositories, securities settlement systems, central counterparties and trade repositories.  
+
+“Force Majeure Event” means any event or circumstances beyond the reasonable control of the Custodian, including nationalization, expropriation, currency restrictions, suspension or disruption of the normal procedures and practices, or disruption of the infrastructure, of any securities market or CSD, interruptions in telecommunications or utilities, acts of war or terrorism, riots, revolution, acts of God or other similar events or acts.  
+
+“Foreign Assets” means a Client’s Securities or other investments (including non-U.S. Cash) for which the primary market is outside the United States, and any cash and cash equivalents that are reasonably necessary to effect transactions in those investments. 
+
+ 
+
+
+
+
+
+25
+
+ 
+
+“Foreign Custody Manager” has the meaning set forth in section (a)(3) of Rule 17f-5.
+
+“Foreign Securities System” means an Eligible Securities Depository listed on Schedule B.
+
+“Indemnified Claim”, “Indemnified Party”  and  “Indemnifying Party” each have the meaning given to them in Section 20.4.
+
+“Insolvency Event” means the occurrence of any of the following events in relation to any person: (i) the person generally does not pay its debts as such debts become due, or admits in writing its inability to pay its debts generally, or makes a general assignment for the benefit of creditors; or (ii) any proceeding is instituted by or against such person seeking to adjudicate it a bankrupt or insolvent, or seeking liquidation, winding up, reorganization, arrangement, adjustment, protection, relief, or composition of it or its debts under any law relating to bankruptcy, insolvency or reorganization or relief of debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee, or other similar official for it or for any substantial part of its property and, where any such proceeding is instituted against (but not by) such person, such person does not promptly seek dismissal of such proceeding or its motion or request to dismiss such proceeding is denied (whether or not on an initial, interim or final basis); or (iii) such person proposes or takes any corporate action to authorize any of the preceding actions or anything analogous to the foregoing events occurs in relation to such person under the laws of any jurisdiction. 
+
+“Investment Document” means any agreement, subscription, assignment or other document evidencing in physical form an investment of the Client, or providing for the ownership by the Client, in each case that is acceptable to the Custodian.  For the avoidance of doubt, it does not include any Security, instrument, certificate, title, agreement or other document that is accompanied by a stock power or instrument of assignment, endorsed to the Custodian or in blank.
+
+“Investment Manager” means each person specified as such by the Client, including its agents and delegates. 
+
+“Law” means any statute, ordinance, order, judgment, decree, subordinate legislation, rule or regulation promulgated by any regulatory, administrative or judicial authority or otherwise in force in any jurisdiction, applicable to a Party, that relates to the performance by such Party of the Services or obligations under this Agreement.
+
+“Local Market Practice” means the customary or established practices, procedures and terms in the jurisdiction or market where a transaction occurs, including the rules and procedures of any exchange or over the counter market and any practical constraints that exist with respect to the exercise of shareholder rights, realisation of entitlements or the sale, exchange, purchase, transfer or delivery of Cash or Securities.
+
+“Losses” means all direct losses, damages, claims, costs, expenses or other liabilities (including reasonable attorneys’ fees and other litigation expenses).
+
+“Market Participant” means any issuer, intermediary, exchange, transaction counterparty or other market participant.
+
+“Off Book Cash” has the meaning given to it in Section 4.2.
+
+“On Book Cash” has the meaning given to it in Section 4.2. 
+
+“Parties” means the parties set out at the beginning of this Agreement.
+
+“Portfolio” means the Securities and Cash delivered to and held by the Custodian which comprise the assets of the Client over which the Custodian provides the Services pursuant to this Agreement.
+
+“Proper Instructions” means instructions (which may be standing instructions and which includes any security trade advice) received by the Custodian through an agreed Authentication Procedure  in any of the following forms: 
+
+(i)
+in writing given by an Authorized Person including a facsimile transmission; 
+ 
+
+
+
+
+
+26
+
+ 
+
+(ii)
+in an electronic communication as may be agreed upon between the Custodian and the Client in writing from time to time; or 
+(i)
+by such other means as may be agreed from time to time by the Custodian and the Client .
+“Rule 17f-4, Rule 17f-5, and Rule17f-7” means Rule 17f-4, Rule 17f-5 and Rule 17f-7 promulgated under the 1940 Act.
+
+“Schedule” or “Schedules” are all of the schedules referenced herein and attached to this Agreement. 
+
+“Secured Liabilities” means all liabilities or obligations owed by the Client to the Custodian or its Affiliates relating to this Agreement, including:  (a) the obligations of the Client to the Custodian or its Affiliates in relation to any advance of cash or securities or any other extension of credit for any purpose; (b)  the obligations of the Client to compensate the Custodian for the provision of the Services; and (c)  the indemnity obligations of the Client to the Custodian under Section 20.
+
+“Securities” means securities and such other similar assets as the Custodian may from time to time accept into custody under this Agreement.
+
+“Securities Account” has the meaning given to it in Section 3.2.
+
+“Services” means the services to be provided by the Custodian to the Client in accordance with this Agreement.
+
+“Special Subcustodian” has the meaning given to it in Section 14.3.
+
+“Subcustodian” means any qualified bank, credit institution, trust company or other entity appointed by the Custodian to perform safekeeping, processing and other elements of the Services, including Affiliates or non-Affiliates of the Custodian.
+
+“Third Party Agent” means any provider of services to the Client (other than the Custodian, a Subcustodian or Delegate under this Agreement) including any Investment Manager, adviser or sub-advisor, distributor, broker, dealer, transfer agent, administrator, accounting agent, audit firm, tax firm, or law firm.
+
+“UCC” means the Uniform Commercial Code of the Commonwealth of Massachusetts, as in effect from time to time. 
+
+“U.S.” shall mean the United States of America. 
+
+“U.S. CSD” means a CSD authorized by the U.S. Department of the Treasury or a “clearing corporation” as defined in Section 8-102 of the UCC.
+
+Interpretation:  Capitalised terms used in this Agreement have the meanings given to them in this Schedule 1 unless otherwise defined.  In this Agreement references to “persons” will include legal as well as natural persons or entities, references importing the singular will include the plural (and vice versa), use of the masculine pronoun will include the feminine, use of the terms “include”, “includes” or “including” shall be deemed to be followed by the phrase “without limitation” and any specific examples given following the use of such terms shall be illustrative and in no way limit the general meaning of the words preceding them and numbered schedules, exhibits or Sections will (unless the contrary intention appears) be construed as references to such schedules and exhibits hereto and Sections herein bearing those numbers and any sub-sections thereof.  The schedules and exhibits hereto are hereby incorporated herein by reference.
+
+ 
+
+
+
+
+
+27
+
+ 
+
+Schedule 2
+
+Notices
+
+(Section 29)
+
+ 
+
+CUSTODIAN:
+
+STATE STREET BANK AND TRUST COMPANY]
+
+ 
+
+ 
+
+Attention:
+
+Fred Willshire
+
+ 
+
+ 
+
+CC:
+
+Legal Department
+
+ 
+
+ 
+
+Address:
+
+100 Summer Street, Floor 5
+
+Boston, MA 02110
+
+ 
+
+ 
+
+Telephone No:
+
+(617) 662-7245
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLIENT:
+
+APOLLO DEBT SOLUTIONS BDC
+
+c/o APOLLO CREDIT MANAGEMENT, LLC
+
+ 
+
+ 
+
+Attention:
+
+Amit Joshi
+
+ 
+
+ 
+
+Address:
+
+3 Bryant Park
+
+New York, NY 10036
+
+ 
+
+ 
+
+Telephone No:
+
+(917) 286-5698
+
+ 
+
+ 
+
+
+
+
+
+28
+
+ 
+
+Appendix A
+
+List of Client Entities
+
+ 
+
+ 
+
+Fund Name
+
+  
+
+Jurisdiction of Formation
+
+ 
+
+ 
+
+ 
+
+Apollo Debt Solutions BDC
+
+  
+
+Delaware
+
+ 
+
+ 
+
+
+
+
+
+29
+
+ 
+
+Appendix B
+
+QFC Addendum
+
+Opt-In to U.S. Special Resolution Regime.  Notwithstanding anything to the contrary in this Agreement or any other agreement, the parties hereto expressly acknowledge and agree that:
+
+(a) In the event the Custodian becomes subject to a proceeding under a U.S. Special Resolution Regime, the transfer or assignment of this Agreement (and any interest and obligation in or under, and any property securing, this Agreement) by the Custodian will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if this Agreement (and any interest and obligation in or under, and any property securing, this Agreement) were governed by the laws of the United States or a state of the United States; and 
+
+(b) In the event the Custodian becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights with respect to this Agreement that may be exercised against the Custodian are permitted to be exercised to no greater extent than the Default Rights could be exercised under the U.S. Special Resolution Regime if this Agreement (and any interest and obligation in or under, and any property securing, this Agreement) were governed by the laws of the United States or a state of the United States.
+
+Adherence to the ISDA Protocol.  At such times as the parties to this Agreement have adhered to the ISDA Protocol and this Agreement is or is deemed modified or amended by the ISDA Protocol, the terms of the ISDA Protocol will supersede the terms of this QFC Addendum as included as part of this Agreement, and in the event of any inconsistency between this QFC Addendum and the ISDA Protocol, the ISDA Protocol will prevail.  
+
+Definitions.  As used in this QFC Addendum:
+
+“Affiliate” has the meaning given in section 2(k) of the Bank Holding Company Act (12 U.S.C. §1841(k)) and section 225.2(a) of the Federal Reserve Board's Regulation Y (12 CFR § 225.2(a)).
+
+“Default Right” means any:  
+
+(i) right of a party, whether contractual or otherwise (including, without limitation, rights incorporated by reference to any other contract, agreement, or document, and rights afforded by statute, civil code, regulation, and common law), to liquidate, terminate, cancel, rescind, or accelerate such agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay, or defer payment or performance thereunder, or modify the obligations of a party thereunder, or any similar rights; and
+
+(ii) right or contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder, including by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral, or any similar amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or a custodian or that modifies a transferee's right to reuse collateral or margin (if such right previously existed), or any similar rights, in each case, other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure.
+
+“ISDA” refers to the International Swaps and Derivatives Association, Inc. 
+
+ 
+
+
+
+
+
+30
+
+ 
+
+“ISDA Protocol” means the ISDA 2018 U.S. Resolution Stay Protocol as published by ISDA as of July 31, 2018.
+
+“U.S. Special Resolution Regime” means the Federal Deposit Insurance Act (12 U.S.C. §1811–1835a) and regulations promulgated thereunder and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. § 5381–5394) and regulations promulgated thereunder.
+
+ 
+
+ 
+
+
+
+
+
+31
+

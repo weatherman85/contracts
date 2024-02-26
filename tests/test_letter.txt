@@ -1,0 +1,124 @@
+EX-99.(10)(7)(5) 3 d648413dex991075.htm COMMITMENT INCREASE REQUEST AND AMENDMENT
+Exhibit 10.7.5
+
+Commitment Increase Request and Amendment
+
+February 22, 2019
+
+JPMorgan Chase Bank, National Association,
+
+as Administrative Agent
+
+c/o JPMorgan Services Inc.
+
+500 Stanton Christiana Rd., 3rd Floor
+
+Attention: Ryan Hanks
+
+JPMorgan Chase Bank, National Association,
+
+as Administrative Agent
+
+383 Madison Avenue
+
+New York, New York 10179
+
+Attention: Louis Cerrotta
+
+Email:    louis.cerrotta@jpmorgan.com
+
+ruchira.patel@jpmorgan.com
+
+ct.financing.requests@jpmorgan.com
+
+de_custom_business@jpmorgan.com
+
+CAS_\Financig@jpmorgan.com
+
+JPMorgan Chase Bank, National Association,
+
+as Lender
+
+c/o JPMorgan Services Inc.
+
+500 Stanton Christiana Rd., 3rd Floor
+
+Newark, Delaware 19713
+
+Attention: Robert Nichols
+
+ 
+
+ 	cc:	
+State Street Bank and Trust Company, as Collateral Agent and Securities Intermediary
+
+ 	    	
+State Street Bank and Trust Company, as Collateral Administrator
+
+ 	    	
+Goldman Sachs Private Middle Market Credit LLC, as Portfolio Manager
+
+Ladies and Gentlemen:
+
+Reference is hereby made to the Loan and Security Agreement, dated as of November 21, 2017 (as amended by the First Amendment to Loan and Security Agreement dated as of August 17, 2018 and the Second Amendment to Loan and Security Agreement dated as of December 10, 2018 and as further amended or modified from time to time, the “Agreement”), among GOLDMAN SACHS PRIVATE MIDDLE MARKET CREDIT SPV LLC, as borrower (the “Company”), JPMorgan Chase Bank, National Association, as administrative agent (the “Administrative Agent”), Goldman Sachs Private Middle Market Credit LLC, as portfolio manager (the “Portfolio Manager”), the financing providers party thereto, and the collateral agent, collateral administrator and securities intermediary party thereto. Capitalized terms used herein and not otherwise defined herein shall have the respective meanings given such terms in the Agreement.
+
+(A)       Pursuant to the Agreement, you are hereby notified of the following:
+
+(1)       The Company hereby makes a Commitment Increase Request (this “Commitment Increase Request”) and requests an increase of the Financing Commitments by an amount equal to $115,000,000.00 on February 22, 2019 (such date, for purposes of this Commitment Increase Request, the “Commitment Increase Date”).
+
+(2)       The Company hereby certifies that no Event of Default has occurred and is continuing and no Market Value Event has occurred.
+
+(3)       The Company agrees to pay the Administrative Agent, for the account of each Lender, an upfront fee on or prior to the Commitment Increase Date in an aggregate amount equal to U.S.$575,000.00. The Company agrees that such fee shall be paid in immediately available funds on the date below the Administrative Agent’s signature, and without setoff, deduction or counterclaim, and that, once paid, such fee or any part thereof shall not be refundable under any circumstances.
+
+(B)       By their respective signatures below, each of the Agents, the Required Lenders, the Collateral Administrator, the Company and the Portfolio Manager hereby agree that, as of the Commitment Increase Date, the Agreement is hereby modified as follows:
+
+(1)       notwithstanding the requirements of the definition of the term Non-Call Period in the Agreement and Section 4.07(a) of the Agreement, the Company may, prior to September 1, 2019, reduce the Financing Commitment by an amount not to exceed $25,000,000 without the payment of any premium by providing notice in the manner required under Section 4.07(a) of the Agreement;
+
+(2)       during the period from and including the Commitment Increase Date to and including the last day of the Ramp-Up Period, the Company shall have no obligation to pay the commitment fee set forth in Section 4.03(d) of the Agreement in respect of unused Financing Commitment in an aggregate amount on any date of determination not greater than $40,000,000; and
+
+(3)       Section 6.02(ii) of the Agreement is hereby amended to add the following text at the end thereof: “; provided that solely for the purposes of the calculation of the Available Capacity in connection with the determination of Available Liquidity, the Net Asset Value shall be calculated on a pro-forma basis as if (i) the unfunded commitment amount with respect to each Delayed Funding Term Loan or Revolving Loan is funded and (ii) there are no amounts on deposit in the Unfunded Exposure Account.”
+
+Except as expressly set forth in the immediately preceding paragraph, the Administrative Agent (in its own capacity and in its capacity as agent of the Lenders) reserves all of its rights, privileges, powers and remedies under the Agreement and the other Loan Documents, as well as under applicable law (whether determined at law or in equity). Except as specifically provided herein, the Agreement shall remain in full force and effect and the execution of this Commitment Increase Request and Amendment shall not operate as a waiver of any violation of, or any right, privilege, power or remedy of any party under, the Agreement or any other Loan Document; all such rights, privileges, powers and remedies are expressly reserved. The Administrative Agent’s or any Lender’s exercise or failure to exercise any rights, privileges, powers and remedies under any of the foregoing in a particular instance shall not operate as a waiver of its right to exercise the same or different rights, privileges, powers and/or remedies in any other instance or instances.
+
+Very truly yours,
+GOLDMAN SACHS PRIVATE MIDDLE MARKET CREDIT SPV LLC., as Company (acting by its general partner)
+By:	 	/s/ Jonathan Lamm                                
+ 	Name: Jonathan Lamm
+ 	Title: Authorized Signatory
+The Administrative Agent hereby approves the Commitment Increase Request in accordance with the terms of the Agreement and the Administrative Agent and the Lender agree to the modifications of the Agreement set forth in this Commitment Increase Request and Amendment above.
+
+ 
+
+JPMORGAN CHASE BANK, NATIONAL ASSOCIATION, as Administrative Agent and Lender
+By:	 	/s/ Jacob Pollack                                    
+ 	Name: Jacob Pollack
+ 	Title: Managing Director
+Date:     2/22/19                                              
+Acknowledged and agreed as of the first date set forth above for purposes of the modifications of the Agreement set forth in this Commitment Increase Request and Amendment above:
+
+ 
+
+GOLDMAN SACHS PRIVATE MIDDLE MARKET CREDIT LLC, as Portfolio Manager
+By:
+
+ 	/s/ Jonathan Lamm                      
+ 	Name: Jonathan Lamm
+ 	Title: Authorized Signatory
+STATE STREET BANK AND TRUST COMPANY, as Collateral Agent
+By:
+
+ 	/s/ Thomas M. Sheehan                 
+ 	Name: Thomas M. Sheehan
+ 	Title: Assistant Vice President
+STATE STREET BANK AND TRUST COMPANY, as Securities Intermediary
+By:
+
+ 	/s/ Thomas M. Sheehan                
+ 	Name: Thomas M. Sheehan
+ 	Title: Assistant Vice President
+STATE STREET BANK AND TRUST COMPANY, as Collateral Administrator
+By:
+
+ 	/s/ Thomas M. Sheehan                
+ 	Name: Thomas M. Sheehan
+ 	Title: Assistant Vice President

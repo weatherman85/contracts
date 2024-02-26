@@ -1,0 +1,338 @@
+EX-10.10 3 a20191231exhibit1010.htm EXHIBIT 10.10
+Exhibit 10.10
+
+
+AMENDMENT NO. 1 TO CREDIT AGREEMENT AND LENDER JOINDER
+
+This Amendment No. 1 to Credit Agreement and Lender Joinder (this “Amendment”) is entered into as of February 3, 2020, by and among Morgan Stanley Direct Lending Fund, a Delaware corporation (the “Company”), CIBC Bank USA, as administrative agent (the “Administrative Agent”), the financial institutions party to the Credit Agreement (as defined below) immediately prior to the date hereof (the “Existing Lenders”) and the other financial institutions party hereto (the “New Lenders” and, together with Existing Lenders, the “Lenders”).
+
+RECITALS
+A.The Company, the Administrative Agent and the Existing Lenders are party to that certain Credit Agreement dated as of December 31, 2019 (the “Credit Agreement”). Unless otherwise specified herein, capitalized terms used in this Amendment shall have the meanings ascribed to them by the Credit Agreement.
+B.    The Company, the Administrative Agent, and each of the Lenders wish to amend the Credit Agreement pursuant to Section 15.1 of the Credit Agreement on the terms and conditions set forth below.
+Now, therefore, in consideration of the mutual execution hereof and other good and valuable consideration, the parties hereto agree as follows:
+1.    Amendments to Credit Agreement. Upon the “Amendment Effective Date” (as defined below), the Credit Agreement is hereby amended as follows:
+(a)    Section 1.1 of the Credit Agreement is amended by adding the following definitions in the appropriate alphabetical order:
+First Amendment Date means February 3, 2020.
+Undisclosed Administration means, in relation to a Lender or its direct or indirect parent company (that is a solvent person), the appointment of an administrator, provisional liquidator, conservator, receiver, trustee, custodian, or other similar official by a supervisory authority or regulator under or based on the law in the country where such Lender or such parent company is subject to home jurisdiction, if applicable law requires that such appointment not be disclosed.
+(b)    The defined term “Business Day” in Section 1.1 of the Credit Agreement is deleted and replaced with the following:
+Business Day means any day on which commercial banks in Chicago, Illinois are open for commercial banking business and, in the case of a Business Day which relates to a LIBOR Loan, on which dealings are carried on in the London interbank eurodollar market.
+
+ 
+ 
+ 
+
+Exhibit 10.10
+
+
+
+(c)    Section (d) within the defined term “Defaulting Lender” in Section 1.1 of the Credit Agreement is deleted and replaced with the following:
+(d) has, or has a direct or indirect parent company that has other than via Undisclosed Administration: (i) become the subject of a proceeding under any Debtor Relief Law; (ii) had publicly appointed for it a receiver, custodian, conservator, trustee, administrator, assignee for the benefit of creditors or similar Person charged with reorganization or liquidation of its business or assets, including the Federal Deposit Insurance Corporation or any other state or federal regulatory authority acting in such a capacity; (iii) taken any action in furtherance of, or indicated its consent to, approval of or acquiescence in such proceeding or appointment; or (iv) become the subject of a Bail-In Action; provided that a Lender shall not be a Defaulting Lender solely by virtue of  (i) the ownership or acquisition of any equity interest in that Lender or any direct or indirect parent company thereof by a Governmental Authority or (ii) if such Lender or its direct or indirect parent company is solvent, the appointment of an administrator, provisional liquidator, conservator, receiver, trustee, custodian, or other similar official by a supervisory authority or regulator under or based on the law in the country where such Lender or such parent company is subject to home jurisdiction, if applicable law requires that such appointment not be disclosed, in each case so long as such ownership interest does not result in or provide such Lender with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment on its assets or permit such Lender (or such Governmental Authority) to reject, repudiate, disavow or disaffirm any contracts or agreements made with such Lender.
+(d)    The defined term Governmental Authorities” in Section 1.1 of the Credit Agreement is deleted and replaced with the following:
+Governmental Authorities means (i) the United States; (ii) the state, county, city or other political subdivisions; (iii) all other governmental or quasi-governmental authorities, boards, bureaus, agencies, commissions, departments, administrative tribunals, instrumentalities and authorities; and (iv) all judicial authorities and public utilities having or exercising jurisdiction over the Company, the Company’s assets or the Collateral: including any supra-national bodies (such as the European Union or the European Central Bank). The term “Governmental Authority” means any one of the Governmental Authorities.
+(e)    The defined term “Prime Rate” in Section 1.1 of the Credit Agreement is deleted and replaced to include the following:
+Prime Rate means, for any day, the rate of interest per annum from time to time published in the money rates section of The Wall Street Journal or any successor publication thereto as the “prime rate” then in effect; provided that
+
+2
+
+Exhibit 10.10
+
+
+if such rate of interest, as set forth from time to time in the money rates section of The Wall Street Journal, becomes unavailable for any reason as determined by the Administrative Agent, “Prime Rate” shall mean the rate of interest in effect for such day as publicly announced from time to time by the Administrative Agent as its prime rate (whether or not such rate is actually charged by the Administrative Agent), which is not intended to be the Administrative Agent’s lowest or most favorable rate of interest at any one time. Any change in the Prime Rate announced by the Administrative Agent shall take effect at the opening of business on the day specified in the public announcement of such change; provided that the Administrative Agent shall not be obligated to give notice of any change in the Prime Rate; provided further that if the Prime Rate shall be less than zero, such rate shall be deemed to be zero for the purposes of this Agreement.
+(f)    The defined term “Revolving Commitment” in Section 1.1 of the Credit Agreement is deleted and replaced with the following:
+Revolving Commitment means as of the First Amendment Date, $325,000,000, as increased or reduced from time to time pursuant to Section 6.1.
+(g)    Section 1.4 is added to the Credit Agreement to read as follows:
+Divisions. For all purposes under the Loan Documents, in connection with any division or plan of division under Delaware law (or any comparable event under a different jurisdiction’s laws): (a) if any asset, right, obligation or liability of any Person becomes the asset, right, obligation or liability of a different Person, then it shall be deemed to have been transferred from the original Person to the subsequent Person, and (b) if any new Person comes into existence, such new Person shall be deemed to have been organized on the first date of its existence by the holders of its Equity Interests at such time.
+(h)    Section 6.4 of the Credit Agreement is amended and restated to read as follows:
+Repayments of Loans. The Loans of each Lender shall be paid in full and the Commitments shall terminate on the Termination Date.
+(i)    Section 8.1(b) of the Credit Agreement is amended and restated to read as follows:
+(b)    Capital Requirements. If any Lender shall reasonably determine that any Change in Law regarding liquidity and capital adequacy, has or would have the effect of reducing the rate of return on such Lender’s or any Person controlling such Lender’s capital as a consequence of such Lender’s obligations hereunder or under any Letter of Credit to a level below that which such Lender or such controlling Person could have achieved but for such Change in Law (taking into consideration such Lender’s or such controlling Person’s policies
+
+3
+
+Exhibit 10.10
+
+
+with respect to liquidity and capital adequacy) by an amount deemed by such Lender or such controlling Person to be material, then from time to time, upon demand by such Lender (which demand shall be accompanied by a statement setting forth the basis for such demand and a calculation of the amount thereof in reasonable detail, a copy of which shall be furnished to the Administrative Agent), the Company shall pay to such Lender such additional amount as will compensate such Lender or such controlling Person for such reduction so long as such amounts have accrued on or after the day which is 270 days prior to the date on which such Lender first made demand therefor (except that, if the Change in Law giving rise to such increased costs or reductions is retroactive, then the 270 day period referred to above shall be extended to include the period of retroactive effect thereof).
+(j)    Section 8.8 of the Credit Agreement is amended and restated to read as follows:
+Conclusiveness of Statements; Survival of Provisions. Determinations and statements of any Lender pursuant to Section 8.1, 8.2, 8.3 or 8.4 shall be conclusive absent demonstrable error, it being understood that any Lender seeking indemnification from the Borrower under Sections 8.1 or 8.4 shall not be indemnified unless they provide a statement setting forth the basis for such demand and a calculation of the amount thereof in reasonable detail; provided that no Lender shall be required to disclose (i) any confidential or price sensitive information or (ii) any information to the extent prohibited by applicable law. Lenders may use reasonable averaging and attribution methods in determining compensation under Sections 8.1 and 8.4, and the provisions of such Sections shall survive repayment of the Obligations, cancellation of any Notes, expiration or termination of the Letters of Credit and termination of this Agreement.
+(k)    Annex A of the Credit Agreement is deleted in its entirety and replaced with Annex A attached hereto.
+(l)    Exhibit B of the Credit Agreement is deleted in its entirety and replaced with Annex B attached hereto.
+2.    Representations and Warranties of the Company. The Company represents, warrants and certifies that:
+(a)    the execution, delivery and performance by the Company of this Amendment have been duly authorized by all necessary corporate action and that this Amendment is a legal, valid and binding obligation of the Company enforceable against the Company in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium and other laws affecting creditors’ rights generally and general equitable principles;
+(b)    at the time of and immediately after giving effect to this Amendment, each of the representations and warranties contained in the Credit Agreement (treating this Amendment as a Loan Document for purposes thereof) are true and correct in all material respects on and as of the date hereof as if made on the date hereof, except, in each case, to
+
+4
+
+Exhibit 10.10
+
+
+the extent any such representation or warranty (i) is stated to relate solely to an earlier date, in which case such representation or warranty shall have been true and correct in all material respects on and as of such earlier date and (ii) is already qualified by materiality or Material Adverse Effect, in which case such representation or warranty is true and correct in all respects; and
+(c)    at the time of and immediately after giving effect to this Amendment, no Event of Default or, to the Company’s knowledge, no Unmatured Event of Default has occurred and is continuing.
+3.    Amendment Effective Date. This Amendment shall become effective upon the date (the “Amendment Effective Date”) upon which all of the following conditions have been satisfied or waived:
+(a)    the execution and delivery of this Amendment by the Company, the Administrative Agent and the Lenders;
+(b)    receipt by each of the New Lenders of:
+i.a written opinion of Company’s counsel (or a reliance letter in respect of any such written opinion of Company’s counsel delivered on the Closing Date), addressed to the New Lenders, in form and substance reasonably acceptable to the Administrative Agent and such New Lenders; and
+(i)a Note, if so requested.
+(c)    Company shall have paid to the Administrative Agent (i) the First Facility Increase Fee as set forth in the Agent Fee Letter dated as of the Closing Date (hereunder, the “Agent Fee Letter”), and (ii) all other fees due and owing under any Loan Document.
+4.    New Lender Joinder. The parties hereto acknowledge and agree that upon the Amendment Effective Date, (a) each New Lender shall (i) be a party to the Credit Agreement and the other Loan Documents to which Lenders are parties and (ii) have the rights and obligations of a Lender under the Credit Agreement and other Loan Documents, (b) each Lender shall have the Revolving Commitment shown on Annex A of the Credit Agreement (as amended by this Amendment), and (c) the execution and delivery of this Amendment shall not constitute a novation of any Debt or other Obligations owing to Lenders or Administrative Agent under the Credit Agreement.
+5.    Reference to and Effect Upon the Loan Documents.
+(a)    Except as specifically amended hereby, the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby ratified and confirmed.
+(b)    The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Administrative Agent or any Lender under the Credit Agreement or any Loan Document, nor constitute a waiver of any provision
+
+5
+
+Exhibit 10.10
+
+
+of the Credit Agreement or any Loan Document, except as specifically set forth herein. Upon the effectiveness of this Amendment, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of similar import shall mean and be a reference to the Credit Agreement as amended hereby. This Amendment shall be deemed a Loan Document under the Credit Agreement.
+6.    Costs and Expenses. The Company hereby affirms its obligation under Section 15.5 of the Credit Agreement to reimburse the Administrative Agent for all reasonable and documented out-of-pocket costs and expenses of the Administrative Agent (including Attorney Costs) in connection with the preparation, negotiation, execution and delivery of this Amendment, the other Loan Documents and all other documents provided for herein or delivered or to be delivered hereunder or in connection herewith.
+7.    GOVERNING LAW. THIS AGREEMENT AND EACH NOTE SHALL BE A CONTRACT MADE UNDER AND GOVERNED BY THE INTERNAL LAWS OF THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED ENTIRELY WITHIN SUCH STATE, WITHOUT REGARD TO CONFLICT OF LAWS PRINCIPLES.
+8.    Headings. Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purposes.
+9.    Counterparts. This Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts and each such counterpart shall be deemed an original, but all such counterparts shall constitute one and the same Amendment. Receipt of an executed signature page to this Amendment by facsimile or other electronic transmission shall constitute effective delivery thereof. Electronic records of the executed Amendment maintained by the Administrative Agent and the Lenders shall deemed to be originals.
+10.    First Facility Increase. The parties hereto acknowledge and agree that, notwithstanding anything to the contrary in the Agent Fee Letter, the Facility Increase under and pursuant to this Amendment shall be deemed to be the First Facility Increase under and as defined in the Agent Fee Letter and the first installment of the First Facility Increase Fee as set forth in the Agent Fee Letter shall be due and payable as of the date of this Amendment and payment of each subsequent installment of the First Facility Increase Fee shall be payable in accordance with the terms of the Agent Fee Letter.
+
+
+
+6
+
+Exhibit 10.10
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date and year first above written.
+
+MORGAN STANLEY DIRECT LENDING FUND
+
+By: /s/ Venugopal Rathi____
+Name: Venugopal Rathi
+Title: Chief Financial Officer
+
+
+
+
+
+[Signature Page to Amendment No. 1 and Lender Joinder]
+
+Exhibit 10.10
+
+
+
+CIBC BANK USA, as Administrative Agent, as Issuing Lender and as a Lender
+
+
+By:    
+Name:
+Title:
+
+
+[Signature Page to Amendment No. 1 and Lender Joinder]
+
+Exhibit 10.10
+
+
+
+STATE STREET BANK AND TRUST COMPANY, as a Lender
+
+
+By:    
+Name:
+Title:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment No. 1 and Lender Joinder]
+
+Exhibit 10.10
+
+
+
+
+
+
+
+ING CAPITAL LLC, as a Lender
+
+
+By:    
+Name:
+Title:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Amendment No. 1 and Lender Joinder]
+
+Exhibit 10.10
+
+
+
+
+
+
+
+
+ZIONS BANCORPORATION, N.A. dba CALIFORNIA BANK & TRUST, as a Lender
+
+
+By:    
+Name:
+Title:
+
+[Signature Page to Amendment No. 1 and Lender Joinder]
+
+Exhibit 10.10
+
+
+Annex A
+LENDERS AND PRO RATA SHARES
+
+
+
+
+
+
+Lender
+
+
+
+
+Revolving
+Commitment Amount
+
+
+
+
+
+Pro Rata Share
+
+
+CIBC Bank USA
+
+
+$100,000,000
+30.769%
+
+State Street Bank and Trust Company
+$100,000,000
+30.769%
+
+ING Capital LLC
+$75,000,000
+23.077%
+Zions Bancorporation, N.A. dba California Bank & Trust
+$50,000,000
+15.385%
+
+TOTALS
+
+$325,000,000
+
+100%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit 10.10
+
+
+Annex B
+EXHIBIT B
+
+FORM OF COMPLIANCE CERTIFICATE
+
+To:        CIBC Bank USA, as Administrative Agent
+Please refer to the Credit Agreement dated as of December 31, 2019 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”) among Morgan Stanley Direct Lending Fund (the “Company”), various financial institutions and CIBC Bank USA, as Administrative Agent. Terms used but not otherwise defined herein are used herein as defined in the Credit Agreement.
+I.
+Reports. Enclosed herewith is a copy of the [annual audited/quarterly] report of the Company as at _____________, ____ (the “Computation Date”), which report fairly presents in all material respects the financial condition and results of operations [(subject to the absence of footnotes and to normal year-end adjustments)] of the Company as of the Computation Date and has been prepared in accordance with GAAP consistently applied.
+II.
+Defaulting Investors. To the Company’s knowledge, below is a list of Defaulting Investors and their unfunded Capital Commitments:
+1.    [______]
+III.
+Beneficial Ownership Certification. The Company certifies and warrants to you that there has been no change in the information provided in the Beneficial Ownership Certification form most recently delivered to the Administrative Agent.
+IV.
+Borrowing Base Certificate. [The Company certifies and warrants to you that the Borrowing Base Certificate dated as of [●] is still applicable as of the date hereof.] [Attached hereto is an updated Borrowing Base Certificate reflecting changes thereto since the Borrowing Base Certificate delivered as of [●].]
+The Company further certifies to you that no Event of Default or Unmatured Event of Default has occurred and is continuing.
+The Company has caused this Certificate to be executed and delivered by its duly authorized officer on _________, ____.
+MORGAN STANLEY DIRECT LENDING FUND
+
+By:                        
+Name:
+Title:
+
+
