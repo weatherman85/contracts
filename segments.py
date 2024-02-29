@@ -2,7 +2,7 @@ import re
 from typing import Generator
 from titles import find_segment_titles,score_title 
 from utils.clean_text import clean_text
-
+from street_endings import street_endings
 class DocumentSegment:
     def __init__(self,
                  start: int = 0,
@@ -33,113 +33,74 @@ class DocumentSegment:
                and self.title == other.title and self.title_start == other.title_start \
                and self.title_end == other.title_end and self.text == other.text
 
-# Constants for regex patterns
-COMBINED_PATTERN = re.compile(r"""
-    ^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z\d][^\r\n]*?)(=$|[^\w\s\-])(?:\.|\s|$)(?!\d+\.\d+)
-    | ^(ARTICLE|article)\s(\d+):?(.*)$
-    | (\s+IN\s+WITNESS\s+WHEREOF)|(\s+Signed\s+by\s+the\s+Parties\s+)
-    | ^(Schedule|Appendix|Addendum|Annex|Exhibit|Annexure)
-""", re.MULTILINE | re.VERBOSE | re.IGNORECASE)
+TITLE_PATTERNS = [
+    re.compile(r'\b(?:section|part|chapter|article)\s*[IVXLCDMivxlcdm]+(?:\s*[-–]\s*[IVXLCDMivxlcdm]+)?\b', re.IGNORECASE),
+    re.compile(r'\b(?:sub\s*[-–]?\s*section|subsection)\s*[A-Za-z0-9]+\b', re.IGNORECASE),
+    re.compile(r'\b(?:[IVXLCDMivxlcdm]+\.\s*)+[A-Za-z0-9]+\b'),
+    re.compile(r'^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z\d][^\r\n]*?)(=$|[^\w\s\-])(?:\.|\s|$)(?!(?:(?:\d{1,5}\s+[A-Za-z.,]+(?:\s+[A-Za-z.,]+)*)|(?:[A-Za-z.,]+\s*\d{1,5}(?:[A-Za-z.,]+\s*\d{1,5})*)))(?!%)'),
+    re.compile(r'^(ARTICLE|article)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$'),
+    re.compile(r'(IN\s+WITNESS\s+WHEREOF)'),
+    re.compile(r'(Signed\s+by\s+the\s+Parties\s+)'),
+    re.compile(r'^(Schedule|Appendix|Addendum|Annex|Exhibit|Annexure)\s.*$'),
+    re.compile(r'^(?:Dear\s(.+?)|(Ladies\sand\sGentlemen:))'),
+    re.compile(r'\n^(Best\sregards|Sincerely|Yours\ssincerely|Kind\sregards|Very\struly\syours)'),
+]
 
-def get_segments(text: str):
-    prev_start = None
-    accumulated_text = ""    
-    #for title_pattern in title_patterns:
-    for match in COMBINED_PATTERN.finditer(text):
-        #print(match.group())
-        start, end = match.span()
-        title_score = score_title(match.group(0), start)
-        if title_score >= 5:
-            #print(match.group())
-            # Yield the accumulated text if any
-            if accumulated_text:
-                yield accumulated_text
-                accumulated_text = ""            
-            # Yield the current text
-            if prev_start:
-                yield text[prev_start:start]
-            elif start != 0:
-                yield text[0:start]
-            prev_start = start
-        else:
-            # Accumulate text with a score under 5
-            accumulated_text += text[end: start]
-    # Yield the remaining accumulated text
-    if accumulated_text:
-        yield accumulated_text
-    # Yield the remaining text after the last match if any
-    if prev_start:
-        yield text[prev_start:]
+def identify_sections(text):
+    sections = []
+    current_section = {"start": 0, "end": 0, "title_start": 0, "title_end": 0, "section": None, "sub_section": None}
 
+    lines = text.split('\n')
+    text_index = 0
 
-def get_segment_spans(text: str, return_text: bool = True) -> Generator:
-    _start_index_counter = 0
-    segment_tokenizer = get_segments
-    for segment_text in get_segments(text):
-        try:
-            start_index = _start_index_counter + text[_start_index_counter:].index(segment_text)
-            end_index = start_index + len(segment_text)
-            _start_index_counter = end_index
-        except:
-            print(segment_text)
-        try:
-            title_start, title_end, section_title, subsection, title = find_segment_titles(segment_text)
-        except IndexError:
-            title_start = title_end =section_title= subsection= title = None
+    for index, line in enumerate(lines):
+        for pattern in TITLE_PATTERNS:
+            match = pattern.match(line)
+            if match:
+                if not any(ending in match.group() for ending in street_endings):
+                    current_section["end"] = text_index
+                    sections.append(current_section.copy())
+                    current_section["start"] = text_index
+                    if 'title' in pattern.groupindex and match.group("title"):
+                        current_section["title"] = match.group("title").strip()
+                        current_section["title_start"] = text_index + match.start("title")
+                        current_section["title_end"] = text_index + match.end("title")
+                    else:
+                        current_section["title"] = ""
+                        current_section["title_start"] = text_index
+                        current_section["title_end"] = text_index
+                    if 'section' in pattern.groupindex and match.group("section"):
+                        section_str = match.group("section")
+                        section_split = section_str.split(".", 1)
+                        current_section["section"] = section_split[0].rstrip(".")
+                        current_section["subsection"] = section_split[1].rstrip(".") if len(section_split) > 1 else None
+                    else:
+                        current_section["section"] = None
+                        current_section["subsection"] = None
+        text_index += len(line) + 1  # Add 1 for the newline character
 
-        res = DocumentSegment(
-            start=start_index,
-            end=end_index,
-            title=title,
-            title_start=title_start,
-            title_end=title_end,
-            section=section_title,
-            subsection=subsection
-        )
-        if return_text:
-            res.text = clean_text(
-                segment_text,lower=False, 
+    # Set the end of the last section after the loop
+    current_section["end"] = len(text)
+    sections.append(current_section)
+
+    return sections
+
+def get_segments(text: str) -> Generator:
+    sections = identify_sections(text)
+
+    for section in sections:
+       yield DocumentSegment(
+            start=section.get("title_start", 0),
+            end=section.get("title_end", len(text)),
+            title=section.get("title", None),
+            title_start=section.get("title_start", None),
+            title_end=section.get("title_end", None),
+            section=section.get("section", None),
+            subsection=section.get("subsection", None),
+            text=clean_text(
+                text[section.get("title_end", section.get("startsailp")):section.get("end", len(text))],
+                lower=False,
                 remove_num=False, 
                 add_stop_words=None, 
-                remove_stop_words=None)[title_end:].lstrip()
-        yield res
-
-class Map(dict):
-    """
-    Example:
-    m = Map(some_dict)
-    """
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        for arg in args:
-            if isinstance(arg, dict):
-                for k, v in arg.items():
-                    self[k] = v
-
-        if kwargs:
-            for k, v in kwargs.items():
-                self[k] = v
-
-        self.objectify(self)
-
-    def objectify(self, a_dict):
-        for key, val in a_dict.items():
-            if isinstance(val, dict):
-                a_dict[key] = Map(val)
-
-    def __getattr__(self, attr):
-        return self.get(attr)
-
-    def __setattr__(self, key, value):
-        self.__setitem__(key, value)
-
-    def __setitem__(self, key, value):
-        super().__setitem__(key, value)
-        self.__dict__.update({key: value})
-
-    def __delattr__(self, item):
-        self.__delitem__(item)
-
-    def __delitem__(self, key):
-        super().__delitem__(key)
-        del self.__dict__[key]
+                remove_stop_words=None).lstrip(".").lstrip("\n")
+        )

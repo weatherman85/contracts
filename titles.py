@@ -6,7 +6,7 @@ def find_segment_titles(text):
     SECTION_TITLE_RE1 = re.compile(r"""
         ^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z\d][^\r\n]*?)(?=$|[^\w\s\-])(?:\.|\s|$)(?!\d+\.\d+)
         """,re.MULTILINE | re.VERBOSE)
-    ARTICLE_TITLE_PATTERN = re.compile(r'^(ARTICLE|article)\s(?P<section>\d+):?(?P<title>.*)$',re.MULTILINE | re.VERBOSE)
+    ARTICLE_TITLE_PATTERN = re.compile(r'^(ARTICLE|article)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$',re.MULTILINE | re.VERBOSE)
     title_patterns = [SECTION_TITLE_RE1, ARTICLE_TITLE_PATTERN]
 
     for ptn in title_patterns:

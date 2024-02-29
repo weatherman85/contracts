@@ -1,0 +1,1458 @@
+﻿EX-10.26 7 exhibit10-26.htm EX-10.26
+ 
+Exhibit 10.26
+
+ 
+
+
+CUSTODY AGREEMENT
+
+
+Between
+
+
+ATAX TEBS I, LLC
+as Depositor,
+
+
+And
+
+
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A.,
+as Custodian
+
+
+Dated as of September 1, 2010
+
+
+
+
+With respect to
+Custodial Receipts, Series RA and RB
+relating to
+the Bonds
+Identified Herein
+
+
+
+
+
+
+ 
+ 
+ 
+TABLE OF CONTENTS
+Page
+ 
+
+
+ARTICLE I
+ 
+DEFINITIONS
+ 
+Section 1.01
+Definitions
+2
+ 
+ARTICLE II
+ 
+CUSTODY OF BONDS; DETAILS OF CUSTODIAL RECEIPTS
+ 
+Section 2.01
+Custody of Bonds; Execution and Delivery of Custodial Receipts. 
+4
+ 
+Section 2.02
+Form of Custodial Receipts. 
+5
+ 
+Section 2.03
+Registration and Registration of Transfer and Exchange of Custodial Receipts. 
+6
+ 
+Section 2.04
+Limitations on Execution and Delivery, Surrender, Registration of Transfer and Exchange of Custodial Receipts
+7
+ 
+Section 2.05
+Mutilated, Destroyed, Lost or Stolen Custodial Receipts
+7
+ 
+Section 2.06
+Ownership of Custodial Receipts
+7
+ 
+Section 2.07
+Subsequent Establishment of Book-Entry Only System for Senior Custodial Receipts. 
+7
+ 
+Section 2.08
+Limitations on Transfer. 
+9
+ 
+Section 2.09
+Surrender of Custodial Receipts and Withdrawal of Bonds
+10
+ 
+Section 2.10
+Withdrawal of Bonds Due to Certain Events
+10
+ 
+Section 2.11
+Exchange of Villages at Lost Creek Custodial Receipt
+11
+ 
+ARTICLE III
+ 
+REPRESENTATIONS AND WARRANTIES
+ 
+Section 3.01
+Representations of the Depositor
+11
+ 
+Section 3.02
+Representations and Warranties of the Custodian
+12
+ 
+Section 3.03
+Assignment of Bonds. 
+13
+ 
+ARTICLE IV
+ 
+CERTAIN OBLIGATIONS OF HOLDERS OF CUSTODIAL RECEIPTS
+ 
+Section 4.01
+Filing Proofs, Certificates and Other Information
+14
+ 
+Section 4.02
+Payment of Transfer Taxes or Other Governmental Charges
+14
+ 
+ARTICLE V
+ 
+PRINCIPAL AND INTEREST; REDEMPTION
+ 
+Section 5.01
+Application of Moneys on Payment Dates. 
+14
+ 
+Section 5.02
+Segregation of Moneys
+15
+ 
+Section 5.03
+Redemption. 
+15
+ 
+i
+ 
+ 
+ARTICLE VI
+ 
+THE CUSTODIAN AND THE DEPOSITOR
+ 
+Section 6.01
+No Liability of the Custodian and the Depositor on the Bonds. 
+16
+ 
+Section 6.02
+Maintenance of Offices and Agencies by the Custodian
+17
+ 
+Section 6.03
+Prevention or Delay in Performance by the Custodian or the Depositor
+17
+ 
+Section 6.04
+Obligations of the Custodian. 
+17
+ 
+Section 6.05
+Resignation and Removal of the Custodian; Appointment of Successor Custodian. 
+18
+ 
+Section 6.06
+Custodian Fee and Expenses
+19
+ 
+Section 6.07
+Indemnification by the Depositor
+19
+ 
+ 
+ARTICLE VII
+ 
+VOTING AND COMMUNICATION WITH HOLDERS
+ 
+Section 7.01
+Voting and Consents
+20
+ 
+Section 7.02
+Reports and Notices from Custodian to Holders. 
+20
+ 
+Section 7.03
+Voting and Other Actions of Bonds. 
+21
+ 
+ARTICLE VIII
+ 
+AMENDMENT AND TERMINATION
+ 
+Section 8.01
+Amendment
+21
+ 
+Section 8.02
+Termination. 
+22
+ 
+ARTICLE IX
+ 
+MISCELLANEOUS
+ 
+Section 9.01
+Notices. 
+22
+ 
+Section 9.02
+Payment on Non-Business Days
+24
+ 
+Section 9.03
+Severability
+24
+ 
+Section 9.04
+Counterparts
+24
+ 
+Section 9.05
+Exclusive Benefit of Parties and Holders of Custodial Receipts; Effective Date
+24
+ 
+Section 9.06
+Rights of Holders or Beneficial Owner
+24
+ 
+Section 9.07
+Governing Law
+25
+ 
+Section 9.08
+Headings
+25
+ 
+Section 9.09
+Waiver of Jury Trial
+25
+ 
+Section 9.10
+Tax Election
+25
+ 
+Section 9.11
+Successor Depositor
+25
+ 
+Section 9.12
+Rights of Freddie Mac Following Transfer
+25
+ 
+ii
+ 
+ 
+
+ 
+EXHIBIT A – Form of Senior Custodial Receipt
+EXHIBIT B – Form of Subordinate Custodial Receipt
+EXHIBIT C-1 – Senior Custodial Receipt Information
+EXHIBIT C-2 – Subordinate Custodial Receipt Information
+EXHIBIT D – Form of Notice of Deposit
+EXHIBIT E-1 – Form of Purchaser’s Letter (other than Depositor-Formed Trust)
+EXHIBIT E-2 – Form of Purchaser’s Letter (Depositor-Formed Trust)
+
+
+  iii
+ 
+ 
+
+CUSTODY AGREEMENT
+ 
+This CUSTODY AGREEMENT, dated as of September 1, 2010 (as amended, modified or supplemented from time to time, this “Agreement”), by and between ATAX TEBS I, LLC, a limited liability company organized and existing under the laws of the State of Delaware, in its capacity as the depositor of the municipal bonds hereinafter described (together with its permitted successors, the “Depositor”), and THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., a national banking association organized and existing under the laws of the United States of America, not in its individual capacity, but solely in its capacity as the custodian for the holders from time to time of the custodial receipts hereafter described (together with any successor custodian hereunder and their respective successors and assigns, the “Custodian”),
+ 
+WITNESSETH:
+ 
+WHEREAS, it is desired to provide, as hereinafter set forth in this Agreement, for the delivery by, or at the direction of, the Depositor of various series of municipal bonds, and for the delivery hereunder of various series of Custodial Receipts designated RA and RB, as applicable, representing an ownership interest in such municipal bonds; and
+ 
+WHEREAS, each series of Custodial Receipts designated RA and RB respectively (e.g., Series RA-1 and RB-1), together represent a 100% ownership interest in a related series of such Bonds deposited under this Agreement; and
+ 
+WHEREAS, each series of Custodial Receipts designated RA are Senior Custodial Receipts and also represents a right to receive payments in right and time prior to payments on each related series of Subordinate Custodial Receipts designated RB; and
+ 
+WHEREAS, a separate custodial account designated by series number as shown on Exhibit C hereto is required to be created with respect to each series of Custodial Receipts, and the Custodian is required to hold in each separate custodial account all payments or other property received with respect to the related series of Custodial Receipts or the underlying series of Bonds; and
+ 
+WHEREAS, it is desired to provide, as hereinafter set forth in this Agreement, for the delivery by the Depositor of additional municipal bonds for the purposes set forth in this Agreement;
+ 
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants expressed herein, it is hereby agreed by and between the parties hereto as follows:
+ 
+ 
+ 
+ 
+ARTICLE I 
+DEFINITIONS
+Section 1.01 Definitions.  The following definitions shall for all purposes, unless otherwise clearly indicated, apply to the respective terms used in this Agreement.  All initially capitalized terms included in this Agreement and not specifically defined in this Agreement shall have the meanings therefor contained in the Reimbursement Agreement.
+ 
+“Agreement” shall mean this Custody Agreement as the same may be amended or supplemented from time to time as provided herein.
+ 
+“Authorized Denomination” shall mean, with respect to any Senior Custodial Receipt, $5,000 or any integral multiple of $5,000 in excess thereof, and with respect to any Subordinate Custodial Receipt, shall mean $5,000 or any amount in excess thereof, subject in each case to any necessary adjustments due to partial redemptions following the initial issuance thereof.
+ 
+“Beneficial Owner” shall mean any person owning Custodial Receipts through a DTC Participant or through an indirect DTC Participant as such terms are used in the rules and regulations of DTC.
+ 
+“Bond Interest Payment Dates” shall mean with respect to each series of Custodial Receipts, the Bond Interest Payment Dates specified in Exhibit C hereto, or, as applicable, specified in any Notice of Deposit delivered pursuant to Section 2.01 hereof.
+ 
+“Bond Principal Payment Date” shall mean the Maturity Date and the date of any redemption, purchase in lieu of redemption or payment upon acceleration of the Bonds prior to the Maturity Date.
+ 
+“Bond Rate” shall mean with respect to each series of Custodial Receipts the Bond Rate specified in Exhibit C hereto or, as applicable, specified in any Notice of Deposit delivered pursuant to Section 2.01 hereof.
+ 
+“Bonds” shall mean with respect to each series of Senior Custodial Receipts or Subordinate Custodial Receipts, the Bonds or, as applicable, the certificates representing ownership interests therein, specified in Exhibit C hereto, or, as applicable, specified in any Notice of Deposit delivered pursuant to Section 2.01 hereof.
+ 
+“Business Day” shall mean any day other than (a) a Saturday or a Sunday, (b) a day on which commercial banks in the City of New York, New York or the city in which the principal office of the Custodian is located are required or authorized by law or executive order to be closed or are otherwise closed to the public, or (c) a day on which the New York Stock Exchange is authorized or obligated by law or executive order to be closed.
+ 
+“Code” shall mean the Internal Revenue Code of 1986, as amended.
+ 
+“Custodial Receipt” shall mean each Senior Custodial Receipt and each Subordinate Custodial Receipt.
+ 
+ 
+2
+ 
+“Custodial Receipt Register” shall have the meaning given to such term in Section 2.03 hereof.
+ 
+“Custodial Receipts Payment Date” shall mean each Business Day on which the Custodian holds amounts received by the Custodian with respect to principal or redemption price of or interest on the Bonds in immediately available funds.
+ 
+“Custodian” shall have the meaning given to such term in the first paragraph hereof.
+ 
+“Depositor” shall have the meaning given to such term in the first paragraph hereof.
+ 
+“Designated Office” shall mean, with respect to the Custodian, an office maintained in accordance with Section 6.02(a) hereof, designated by the Custodian and located at North 20th Street, Suite 950 Birmingham, Alabama 38654.
+ 
+“DTC” shall mean The Depository Trust Company (or other securities depository registered with the Securities and Exchange Commission designated by the Depositor), and its successor or successors, and its nominee or nominees.
+ 
+“DTC Participant” shall mean a member of, or participant in, DTC as provided in the rules and regulations of DTC.
+ 
+“Freddie Mac” shall mean the Federal Home Loan Mortgage Corporation and its successors and assigns.
+ 
+“Holder” shall mean a person in whose name a Custodial Receipt is registered in the Custodial Receipt Register.
+ 
+“Investment Company Act” shall mean the Investment Company Act of 1940, as amended.
+ 
+“Issuer” shall mean with respect to each series of Custodial Receipts the issuer specified in Exhibit C hereto or, as applicable, specified in any Notice of Deposit delivered pursuant to Section 2.01 hereof.
+ 
+“Mail” shall mean first-class mail, postage prepaid, to each Holder of Custodial Receipts at the address shown in the Custodial Receipt Register.
+ 
+“Maturity Date” shall have the meaning for each series of Bonds specified on Exhibit C or given pursuant to a Notice of Deposit (subject to earlier redemption or acceleration in accordance with the terms of such Bonds).
+ 
+“Notice of Deposit” shall have the meaning given to such term in Section 2.01 hereof.
+ 
+“Opinion of Counsel” shall mean an opinion in writing signed by any nationally recognized firm of attorneys acceptable to the Depositor and Freddie Mac, who may, but need not be, counsel to the Depositor.
+ 
+ 
+3
+ 
+“Record Date” shall mean, with respect to any Bond Interest Payment Date, the day preceding such Bond Interest Payment Date.
+ 
+“Reimbursement Agreement” shall mean the Bond Exchange, Reimbursement, Pledge and Security Agreement, dated as of September 1, 2010, between Freddie Mac and the Depositor, as amended.
+ 
+“Securities Act” shall mean the Securities Act of 1933, as amended.
+ 
+“Senior Custodial Receipt” shall mean each receipt designated as a “Senior Custodial Receipt, Series RA” as designated in Exhibit C, or with respect to any additional series of senior custodial receipts, as designated in the Notice of Deposit delivered pursuant to Section 2.01 hereof, evidencing an ownership interest in a Bond or Bonds of the issue and maturity specified in the definition of “Bonds” in this Section 1.01, and the right to receive principal and interest payments with respect thereto on a senior basis.
+ 
+“Standard & Poor’s” shall mean Standard & Poor’s Ratings Services, a division of The McGraw Hill Companies, Inc.
+ 
+“Subordinate Custodial Receipt” shall mean each receipt designated as a “Subordinate Custodial Receipt, Series RB” as designated in Exhibit C, or with respect to any additional series of subordinate custodial receipts, as designated in the Notice of Deposit delivered pursuant to Section 2.01 hereof, evidencing an ownership interest in a Bond or Bonds of the issue and maturity specified in the definition of “Bonds” in this Section 1.01, and the right to receive principal and interest payments with respect thereto on a subordinate basis.
+ 
+ARTICLE II                      
+CUSTODY OF BONDS; DETAILS OF CUSTODIAL RECEIPTS
+Section 2.01 Custody of Bonds; Execution and Delivery of Custodial Receipts.
+ 
+(a) Concurrently with the execution and delivery hereof, the Depositor shall deposit with (or cause to be deposited with), if not already deposited with, and deliver to (or cause to be delivered to), if not already delivered to, the Custodian the Bonds in definitive form. Concurrently with such delivery, the Custodian, in accordance with the provisions of this Agreement, shall execute and deliver (i) the Senior Custodial Receipts to Freddie Mac or upon its written order and (ii) to the Depositor, the Subordinate Custodial Receipts, each in Authorized Denominations in the various series and having the terms designated on Exhibit C hereto, evidencing the aggregate outstanding principal amount of the Bonds so delivered to the Custodian and the right to receive principal, including redemption price, and premium, if any, and interest payments thereon pursuant to Section 5.03 hereof and as otherwise provided herein.
+ 
+With the prior written consent of Freddie Mac, the Depositor may deliver one or more additional series of Bonds to the Custodian on any Business Day, upon delivery to the Custodian at least five Business Days prior to such Business Day of a written notice substantially in the form set forth in Exhibit D hereto (a “Notice of Deposit”) setting forth the series designation for the Custodial Receipts to be executed and delivered on such Business Day and the Authorized Denomination, Bond Interest Payment Dates, Bond Rate, Bonds and Issuer with respect thereto.
+ 
+ 
+4
+ 
+(b) The Custodian shall accept each series of the Bonds as Custodian for the Holders of the related series of Custodial Receipts which shall be delivered hereunder to evidence ownership interests in such Bonds and the right to receive amounts thereon and shall hold the Bonds as provided hereunder.  Each Custodial Receipt shall evidence the ownership by the Holder thereof, to the extent indicated thereby, of the Bonds delivered to the Custodian with respect to such series.  If the Bonds as delivered by the Depositor are not DTC eligible securities, upon the request of the Holder of the Senior Custodial Receipts, the Custodian shall cooperate with the Issuer in taking all necessary steps to convert the definitive Bonds into DTC eligible securities.  Thereafter, the Bonds shall be credited to an account of the Custodian with DTC.
+ 
+(c) The Custodian shall hold the Bonds delivered to it pursuant to this Agreement in custody only, identified separate and apart from the general assets of the Custodian.  The Custodian shall not have the authority to assign, transfer, pledge, setoff or otherwise dispose of the Bonds, or of any interests therein, except as provided hereunder or as required by law.  The Custodian, by its execution and delivery hereof, acknowledges receipt in physical form of each series of Bonds listed in Exhibit C hereto, together with executed appropriate instruments of transfer from the Depositor to the Custodian with respect thereto.
+ 
+A reasonable time prior to the delivery of Bonds to the Custodian, the Depositor shall furnish the Custodian with written instructions as to the name, address and taxpayer identification number in which the Custodial Receipts shall initially be registered, the denominations in which such Custodial Receipts shall initially be recorded, the persons and addresses of such persons in whose name such Custodial Receipts are to be delivered and such other information as may be requested by the Custodian in connection with the issuance of such Custodial Receipts.  Each Custodial Receipt shall evidence the ownership by the Holder thereof, to the extent indicated thereby, of the Bonds delivered in definitive form to the Custodian.
+ 
+Notwithstanding anything to the contrary contained herein, the rights and interests of the Holder of a series of Subordinate Custodial Receipts hereunder shall be subordinate in right of payment and in all other respects to the rights of the Holder of the same series of Senior Custodial Receipts.  The Holder of a series of Senior Custodial Receipts shall exclusively hold and have all of the rights of the holder of the related Bonds with respect to any directions, notices, consents, exercise of remedies or other actions with respect to such Bonds.  No remedy shall be available to Holders of Subordinate Custodial Receipts if the Subordinate Custodial Receipts are not timely paid; provided, however, any amounts not timely paid on the Subordinate Custodial Receipts (including accruals of interest) shall remain due until paid.  The Depositor acknowledges and agrees (and each holder of Subordinate Custodial Receipts, by their acceptance thereof, shall be deemed to have acknowledged and agreed) to such subordination.
+ 
+Section 2.02 Form of Custodial Receipts.
+ 
+(a) Each Senior Custodial Receipt shall be substantially in the form set forth in Exhibit A hereto and each Subordinate Custodial Receipt shall be substantially in the form set forth in Exhibit B hereto, in each case with such appropriate variations, omissions and insertions as may be necessary or appropriate to conform to the provisions of this Agreement.  All Custodial Receipts may have endorsed thereon such letters, numbers or other marks of identification and such legends or text as may be necessary or appropriate to conform to any applicable rules and regulations of any governmental authority or of any securities exchange on which the Custodial Receipts may be listed or any usage or requirement of law with respect thereto.  The Depositor shall furnish the Custodian with all information necessary for the completion of any legend on the Custodial Receipts required by the federal income taxation or securities laws or regulations and for the completion of any forms determined by the Depositor to be required to be furnished to Holders or the Internal Revenue Service by such laws or regulations to the extent such information is obtainable at the time of original issuance of Custodial Receipts.
+ 
+ 
+5
+ 
+(b) Custodial Receipts shall be authenticated by the Custodian by the manual or facsimile signature of a duly authorized signatory of the Custodian.  No Custodial Receipt shall be entitled to any benefits under this Agreement or be valid or obligatory for any purpose, unless it shall have been authenticated by the Custodian by the manual or facsimile signature of a duly authorized signatory.  The Custodian shall record in the Custodial Receipt Register each Custodial Receipt so signed and delivered as herein provided.
+ 
+Section 2.03 Registration and Registration of Transfer and Exchange of Custodial Receipts.
+ 
+(a) The Custodian shall keep at its designated office in Birmingham, Alabama, a register (the “Custodial Receipt Register”) in which, subject to such reasonable regulations as it may prescribe, the Custodian shall provide for the registration and the registration of transfers or exchanges of Custodial Receipts.  Transfers of ownership of the Custodial Receipts shall be recorded by the Custodian in the Custodial Receipt Register.
+ 
+(b) Subject to the provisions of Section 2.08 upon surrender for registration of transfer of any Custodial Receipt at the Custodian’s Designated Office, the Custodian shall execute and deliver, in the name of the designated transferee or transferees, one or more new Custodial Receipts of any Authorized Denominations of the same series and seniority and of like aggregate principal amount, and evidencing, in the aggregate, the same beneficial ownership interest in the Bonds; provided, however, that the Subordinate Custodial Receipts may be transferred in whole but not in part and only with the prior written consent of Freddie Mac.
+ 
+(c) At the option of the Holder, Senior Custodial Receipts may be exchanged for other Senior Custodial Receipts of any Authorized Denominations of same series and seniority and of like aggregate principal amount, and evidencing, in the aggregate, the same beneficial ownership interest in the Bonds, upon surrender of the Custodial Receipts to be exchanged to the Custodian’s Designated Office.  Subordinate Custodial Receipts may only be outstanding in a single certificate.
+ 
+(d) Each Custodial Receipt and all ownership interests therein issued upon any registration of transfer or exchange of any Custodial Receipt shall evidence ownership, in accordance with the terms of such Custodial Receipt, of the related series of Bonds, the right to receive principal, including redemption price of, and premium, if any, and interest payments on such Bonds, but subject to the subordination of the related Subordinate Custodial Receipts to the related Senior Custodial Receipts as herein provided.  Each Custodial Receipt of the same series and seniority shall be entitled to the same benefits under this Agreement as the ownership interests in such Custodial Receipts surrendered upon such registration of transfer or exchange.
+ 
+ 
+6
+ 
+(e) Every Custodial Receipt  presented for registration of transfer or for exchange shall (if so required by the Custodian) be duly endorsed by, or be accompanied by a written instrument of transfer in form satisfactory to the Custodian and duly executed by, the Holder thereof or such Holder’s attorney duly authorized in writing.
+ 
+Section 2.04 Limitations on Execution and Delivery, Surrender, Registration of Transfer and Exchange of Custodial Receipts.  As a condition precedent to the execution and delivery, surrender or registration of transfer or exchange of any Custodial Receipt, the Custodian may require payment, by the Holder requesting such action, of the then applicable service charge of the Custodian and of a sum sufficient for reimbursement of any tax or other governmental charge with respect thereto, may require the production of proof reasonably satisfactory to it as to the identity and genuineness of any signature and may also require compliance with such regulations, if any, as the Custodian may reasonably establish consistent with the provisions of this Agreement.
+ 
+Section 2.05 Mutilated, Destroyed, Lost or Stolen Custodial Receipts.  In case any Custodial Receipt shall be mutilated, the Custodian in its discretion may execute and deliver a Custodial Receipt of like form, tenor and seniority, and in the same denomination and bearing a number not contemporaneously outstanding, in exchange and substitution for such mutilated Custodial Receipt.  In case any Custodial Receipt shall be destroyed, lost or stolen, the Custodian may execute and deliver a Custodial Receipt of like form, tenor and seniority, and in the same denomination and bearing a number not contemporaneously outstanding, in lieu of and in substitution for such destroyed, lost or stolen Custodial Receipt, only upon (i) the filing by the Holder thereof with the Custodian of evidence satisfactory to the Custodian of the destruction, loss or theft of such Custodial Receipt and of the authenticity of such Holder’s ownership thereof, and (ii) the furnishing to the Custodian of reasonable security and/or indemnification satisfactory to it.  All expenses and charges associated with such security and/or indemnity and with the preparation, execution and delivery of a new Custodial Receipt shall be borne by the Holder of the Custodial Receipt mutilated, destroyed, lost or stolen.
+ 
+Section 2.06 Ownership of Custodial Receipts.  The Custodian and the Depositor and any of their respective agents may treat the person in whose name any Custodial Receipt is registered on the Custodial Receipt Register, including, without limitation, DTC or its nominee, as the owner of such Custodial Receipt for the purpose of receiving distributions of principal and interest on or purchase price in respect of, such Custodial Receipt, and for all other purposes whatsoever, whether or not such Custodial Receipt is overdue, and, to the extent permitted by law, neither the Custodian, the Depositor nor any such agent shall be affected by notice to the contrary.
+ 
+Section 2.07 Subsequent Establishment of Book-Entry Only System for Senior Custodial Receipts.
+ 
+(a) Initially, the Custodial Receipts shall be delivered in the form of physical certificates, provided Freddie Mac as Holder of the  Senior Custodial Receipts may direct that the Custodian establish a book-entry only system of registration for the Senior Custodial Receipts through the facilities of DTC, in which case, the Senior Custodial Receipts will be registered in the name of Cede & Co., as the nominee of DTC.  (The Depositor shall be responsible for any costs in connection with the establishment of such book-entry only system for the Senior Custodial Receipts.)  Transfers of beneficial ownership interests in the Senior Custodial Receipts which are registered in the name of Cede & Co. will be accomplished by book entries made by DTC and in turn by the DTC Participants who act on behalf of the Beneficial Owners of Senior Custodial Receipts.  Notwithstanding the foregoing, each series of Subordinate Custodial Receipts may only be issued in physical certificated form and shall not be in the book-entry only system.
+ 
+ 
+7
+ 
+(b) At any time the Senior Custodial Receipts are registered in the name of DTC or its nominee to establish a book-entry system of registration, neither the Custodian, Freddie Mac, the Depositor, nor any of their respective affiliates shall have any responsibility or obligation with respect to:
+ 
+(i) the accuracy of the records of DTC or any DTC Participant with respect to any beneficial ownership interest in the Senior Custodial Receipts;
+ 
+(ii) the delivery to any DTC Participant, any Beneficial Owner or any other person, other than DTC, of any notice with respect to the Senior Custodial Receipts;
+ 
+(iii) the payment to any DTC Participant, any Beneficial Owner or any other person, other than DTC, of any amount distributable with respect to the Senior Custodial Receipts; or
+ 
+(iv) the failure of DTC to effect any transfer.
+ 
+(c) So long as the Senior Custodial Receipts are registered in the name of DTC or its nominee, the Custodian may treat DTC as, and deem DTC to be, the absolute owner of the Senior Custodial Receipts for all purposes whatsoever, including without limitation:
+ 
+(i) the payment of distributions to Holders of the Senior Custodial Receipts;
+ 
+(ii) giving notices of redemption, tender and other matters with respect to the Senior Custodial Receipts;
+ 
+(iii) registering transfers with respect to the Senior Custodial Receipts; and
+ 
+(iv) the selection of Senior Custodial Receipts for redemption or tender.
+ 
+(d) If at any time following the establishment of a book-entry system for the Senior Custodial Receipts, DTC notifies the Custodian that it is unwilling or unable to continue as Securities Depository with respect to the Senior Custodial Receipts, or if at any time DTC shall no longer be registered or in good standing under the Securities Exchange Act or other applicable statute or regulation and a successor Securities Depository is not appointed by Freddie Mac as Holder of the Senior Custodial Receipts within ninety (90) days after it receives notice or becomes aware of such condition, as the case may be, or if the Freddie Mac as Holder of the Senior Custodial Receipts determines that it is in its best interest to obtain the Senior Custodial Receipts in certificated form, then the Custodian shall execute and deliver physical certificates representing the Senior Custodial Receipts in exchange for the global certificates which shall be registered in the name of Freddie Mac or upon its order.
+ 
+ 
+8
+ 
+Section 2.08 Limitations on Transfer.
+ 
+(a) Neither the Custodial Receipts nor any interest therein may be transferred or resold (i) except as permitted under the Securities Act pursuant to registration or an exemption therefrom or (ii) to a transferee that is an employee benefit plan (within the meaning of Section 3(3) of ERISA) that is subject to Title I of ERISA, a plan as defined in Section 4975(e)(1) of the Code, or an entity whose underlying assets include the assets of any such plan by reason of a plan’s investment in the entity, or otherwise or (iii) to a transferee that is not a “qualified purchaser” as defined in Section 2(a)(51) of the Investment Company Act.  The Subordinate Custodial Receipts can only be held by a single Holder and can only be transferred with the consent of Freddie Mac.
+ 
+(b) For the purpose of monitoring compliance with the foregoing restrictions, each transferee of a Custodial Receipt or a beneficial interest therein (other than Freddie Mac) shall deliver a completed and duly executed purchaser’s letter to the Custodian in the form attached hereto as Exhibit E-1, or in the case of a trust which the Depositor has formed, Exhibit E-2 (each, a “Purchaser’s Letter”).  Any Purchaser’s Letter shall be available for inspection by the Depositor during normal business hours.  The Depositor and the Custodian may rely conclusively upon the information contained in any such Purchaser’s Letter in the absence of actual knowledge to the contrary.  In connection with any transfer, Custodian shall be provided with an unqualified Opinion of Counsel to the effect that such transfer may be effected without registration under the Securities Act or the registration requirements of any person under the Investment Company Act.
+ 
+(c) All Custodial Receipts shall bear legends stating that they have not been registered under the Securities Act and are subject to the transfer requirements described in Section 2.08(a) and (b) hereof.  By purchasing a Custodial Receipt or any interest therein, each purchaser shall be deemed to have agreed to these transfer requirements.
+ 
+(d) The Custodial Receipts and related documentation including this Agreement may be amended or supplemented from time to time by the Depositor (with the prior written consent of Freddie Mac) to modify the restrictions on and procedures for resale and other transfers of the Custodial Receipts and interests therein to reflect any change in applicable law or regulation (or the interpretation thereof) or in practices relating to the resale or other transfer of restricted securities generally if the Depositor, the Custodian and Freddie Mac shall have received an Opinion of Counsel to the effect that such amendment or supplement is necessary or appropriate.
+ 
+(e) In order to preserve the exemption for resales and transfers provided by Rule 144A under the Securities Act, the Depositor shall provide to any Holder of a Custodial Receipt and any prospective purchaser designated by such Holder, upon request of such Holder or such prospective purchaser, such information which is reasonably available to the Depositor and required by Rule 144A as will enable the resale of such Custodial Receipt to be made pursuant to Rule 144A.  In addition (with the prior written consent of Freddie Mac, the Depositor may from time to time modify the foregoing restrictions on resale and other transfers (including the form of Purchaser’s Letter), without the consent but upon notice to the Holders of the Custodial Receipts, in order to reflect any amendment to Rule 144A or change in the interpretation thereof or practices there under if the Depositor, Custodian and Freddie Mac shall have received an Opinion of Counsel to the effect that such amendment or supplement is necessary or appropriate.
+ 
+ 
+9
+ 
+Section 2.09 Surrender of Custodial Receipts and Withdrawal of Bonds.  At any time a Holder may withdraw a series of Bonds from the custody of this Agreement by surrendering all of the related Senior Custodial Receipts and Subordinate Custodial Receipts, with the assignment fully completed, at the Designated Office (including where the Depositor is the Holder of a Senior Custodial Receipt due to a Release Event funded by the Sponsor pursuant to the Reimbursement Agreement).  At the time of such surrender, the Custodian shall, without unreasonable delay, either deliver such Bonds, with all necessary endorsements, to such Holder or upon request of the Holder, the Custodian will register such Bonds in the name of such person; provided that the Custodian may require payment of a sum sufficient for reimbursement of any tax or other governmental charge with respect thereto.  Upon delivery of such Bonds by the Custodian to such Holder, the Bonds shall cease to be entitled to the benefit of this Agreement and the Custodian shall have no further obligation to the Holder with respect thereto.
+ 
+Section 2.10 Withdrawal of Bonds Due to Certain Events
+ 
+(a) In addition to any other rights granted to Holders of Senior Custodial Receipts pursuant to this Agreement, in the event (i) a Senior Custodial Receipt ever receives less than a full payment on any related bond payment date, (ii) a separate Release Event not including a payment default has occurred with respect to a series of underlying Bonds and Freddie Mac as Holder of the related series of Senior Custodial Receipts has exercised its right to cause a Release Event of such Senior Custodial Receipt which Release Event is funded by Freddie Mac pursuant to the Reimbursement Agreement, or (iii) an “Event of Default” has occurred and is continuing under the Reimbursement Agreement, then the Custodian shall, upon written direction from Freddie Mac as holder of the applicable Senior Custodial Receipts, release and deliver all the related Bonds from the custody of this Agreement to Freddie Mac and shall assign (pursuant to such documentation requested by Freddie Mac) all of its rights, title and interests in such Bonds to Freddie Mac.  Upon receipt of such Bonds pursuant to the foregoing, Freddie Mac shall have the right (in its sole discretion) to exercise any and all rights and remedies as the sole holder of such Bonds under the related Bond Documents and Bond Mortgage Documents, including, but not limited to, the right to foreclose on the related mortgage.  Any proceeds resulting from Freddie Mac’s exercise of its rights and remedies with respect to a series of Bonds pursuant to this Section 2.10(a) shall be used first to reimburse Freddie Mac in full for any unpaid amounts then owed Freddie Mac in connection with any such Bonds (including any costs or expenses of collection or enforcement associated with the taking of any such remedial actions) or otherwise owed in connection with any such Release Event or Event of Default under the Reimbursement Agreement.  Any amounts remaining after Freddie Mac’s reimbursement in accordance with the foregoing sentence shall be distributed by Freddie Mac to the Depositor.
+ 
+(b) The Depositor acknowledges and agrees (and each holder (including holders of a beneficial interest) of Subordinate Custodial Receipts, by their acceptance thereof, shall be deemed to have acknowledged and agreed) that Freddie Mac shall have the right to direct the removal of Bonds from the custody of this Agreement pursuant to this Section 2.10.  The Depositor hereby appoints (and each holder shall be deemed to have appointed) Freddie Mac as its attorney-in-fact, with full authority in the place and stead of the Depositor and in the name of the Depositor, from time to time in Freddie Mac’s discretion, to take any action and to execute any instrument which Freddie Mac may reasonably deem necessary or advisable to accomplish the purposes of this Section 2.10.  The power of attorney established pursuant to this Section 2.10 shall be deemed coupled with an interest and shall be irrevocable.
+ 
+ 
+10
+ 
+Section 2.11 Exchange of Villages at Lost Creek Custodial Receipts.  In the event the Custodian receives from the Administrator or Freddie Mac the Senior Custodial Receipt designated RA-7-2 (the “RA-7-2 Senior Custodial Receipt”) in connection with a Release Event directed by Freddie Mac in accordance with Section 3.24 of the Reimbursement Agreement, the Custodian shall promptly cancel and destroy the RA-7-2 Senior Custodial Receipt and shall simultaneously issue to the Depositor a new Subordinate Custodial Receipt to be designated RB-7-2 (the “RB-7-2 Subordinate Custodial Receipt”) in substantially the form attached hereto as Exhibit B (which RB-7-2 Subordinate Receipt shall be in form satisfactory to Freddie Mac).  The RB-7-2 Subordinate Receipt shall be issued in an original principal amount equal to the outstanding principal balance of the delivered RA-7-2 Senior Custodial Receipt and shall represent a subordinate ownership interest in the underlying Villages at Lost Creek Bonds subject in all respects to the terms of this Agreement, including those governing Subordinate Custodial Receipts.
+ 
+ARTICLE III 
+REPRESENTATIONS AND WARRANTIES
+Section 3.01 Representations of the Depositor.  The Depositor hereby represents to the Custodian and for the benefit of the Holders that:
+ 
+(a) The Depositor has been duly organized and is validly existing and in good standing as a limited liability company under the laws of the State of Delaware, with power and authority and all governmental licenses, authorizations, consents and approvals required to execute and deliver this Agreement, perform its obligations hereunder and perform the transactions contemplated herein.
+ 
+(b) The execution, delivery and performance by the Depositor of this Agreement, the transfer of the Bonds by the Depositor to the Custodian, the consummation by the Depositor of the transactions herein contemplated, and the fulfillment of the terms of this Agreement are and will be within the legal power of the Depositor, have been duly authorized by the Depositor and do not and will not (i) violate or contravene any judgment, injunction, order or decree binding upon the Depositor, (ii) violate, contravene or constitute a default under any provision of the Depositor’s organizational documents, (iii) conflict with, result in a breach, violation or acceleration of, or constitute a default under, the terms of any indenture or other agreement or instrument to which the Depositor is a party or by which it is bound or any statute or regulation applicable to the Depositor or (iv) result in the creation or imposition of any lien, charge or encumbrance upon any properties of the Depositor pursuant to the terms of any indenture, agreement or instrument.
+ 
+(c) There is no action, suit or proceeding before or by any court or governmental agency or body now pending or, to the best knowledge of the Depositor, threatened against the Depositor which would have a material and adverse effect on the transactions contemplated hereby or the ability of the Depositor to perform its obligations hereunder.
+ 
+ 
+11
+ 
+(d) No consent, approval, authorization or order of, or filing with, any court or regulatory, supervisory or governmental agency or body is required to be obtained or made by the Depositor in connection with (i) the execution and delivery by the Depositor of this Agreement or (ii) the consummation by the Depositor of the transactions contemplated by this Agreement, including the transfer of the Bonds to the Custodian.
+ 
+(e) This Agreement constitutes the legal, valid and binding obligation of the Depositor enforceable against the Depositor in accordance with its terms, except as enforcement hereof may be limited by bankruptcy, insolvency or other similar laws affecting creditors’ rights generally or by the exercise of judicial discretion in accordance with general principles of equity.
+ 
+(f) Immediately prior to transfer of the Bonds to the Custodian, (i) the Depositor will have been the sole owner of and held good and marketable title to the Bonds, free and clear of any claim, lien, mortgage, pledge, charge, security interest, counterclaim or other encumbrance, (ii) the Depositor has not sold, assigned or pledged any of its interest in the Bonds to any Person other than the Custodian and has not entered into any agreement to effect such a sale, assignment or pledge (other than this Agreement), and (iii) that upon such delivery, the Depositor releases all right, title and interest in and to such Bonds.
+ 
+(g) The Depositor is solvent and no transfer of Bonds to the Custodian in the manner contemplated by this Agreement (i) will cause the Depositor to become insolvent or (ii) is intended by the Depositor to hinder, delay or defraud any of its creditors.
+ 
+(h) The consideration (including the Subordinate Custodial Receipt) received by the Depositor and the considerations set forth in the Reimbursement Agreement in connection with each transfer of Bonds to the Custodian constitutes fair consideration and reasonably equivalent value for such transfer and the obligations of the Depositor under this Agreement.
+ 
+(i) The consummation of the transactions contemplated by this Agreement (and each agreement executed and delivered by the Depositor in connection herewith) is in the ordinary course of business of the Depositor, and the transfer, assignment and conveyance of the Bonds by the Depositor to the Custodian pursuant to this Agreement are not subject to the bulk transfer or any similar statutory provisions in effect in any applicable jurisdiction.
+ 
+(j) The Depositor has provided notice to each applicable Owner (as defined in the Reimbursement Agreement) in a form satisfactory to Freddie Mac that the Bonds have been transferred to the Custodian in exchange for Senior Custodial Receipts and Subordinate Custodian Receipts.
+ 
+Section 3.02 Representations and Warranties of the Custodian.  The Custodian represents and warrants to the Depositor and for the benefit of the Holders that:
+ 
+ 
+12
+ 
+(a) The Custodian is a national banking association duly organized, validly existing and in good standing under the laws of the United States of America with full power and authority and all governmental licenses, authorizations, consents and approvals required to carry on its trust business as now conducted and to execute and deliver this Agreement, perform its obligations hereunder and perform all transactions contemplated hereby.
+ 
+(b) Other than as might occur by reason of its duties as Custodian under this Agreement, the Custodian is not “affiliated,” as such term is defined in Rule 405 under the Securities Act, with the Depositor.
+ 
+(c) The execution, delivery and performance by the Custodian of this Agreement, and the execution and delivery of the Custodial Receipts by the Custodian pursuant to this Agreement, are within the corporate power of the Custodian, have been duly authorized by all necessary corporate action on the part of the Custodian and do not and will not (i) violate or contravene any judgment, injunction, order or decree binding on the Custodian, (ii) violate, contravene or constitute a default under any provision of the organizational documents of the Custodian, (iii) violate, contravene or constitute a default under any agreement or instrument to which the Custodian is a party or by which it is bound or any statute or regulation applicable to the Custodian or (iv) result in the creation or imposition of any lien, charge or encumbrance attributable to the Custodian on the Bonds and not permitted by the transactions contemplated by this Agreement.
+ 
+(d) No consent, approval, authorization or order of, or filing with, any court or regulatory, supervisory or governmental agency or body is required to be obtained or made by the Custodian in connection with (i) the execution, delivery and performance by the Custodian of this Agreement, (ii) the execution and delivery of the Custodial Receipts by the Custodian pursuant to this Agreement, or (iii) the consummation by the Custodian of the transactions contemplated hereby.
+ 
+(e) This Agreement constitutes the legal, valid and binding obligation of the Custodian enforceable against the Custodian in accordance with its terms, except as enforcement hereof may be limited by bankruptcy, insolvency or other laws affecting creditors’ rights generally or by the exercise of judicial discretion in accordance with general principles of equity.
+ 
+Section 3.03 Assignment of Bonds.
+ 
+(a) The Depositor conveys and transfers to the Custodian, without recourse, for the benefit of the Holders and Beneficial Owners of each applicable series of Custodial Receipts, all of its right, title and interest in, to and under the related Bonds and all related moneys and securities from time to time held by the Custodian hereunder, free and clear of all claims, liens, security interests and encumbrances.
+ 
+(b) The Depositor hereby irrevocably assigns, conveys and transfers to Freddie Mac as Holder of the Senior Custodial Receipts, without recourse, all rights related to the Bonds underlying the Custodial Receipts that an owner or holder of a Bond underlying such Custodial Receipts may have under the related Bond documents to vote, to consent, to act or to direct the Bond trustee to act, including the power to direct remedial actions subsequent to an event of default on the Bonds.
+ 
+ 
+13
+ 
+ARTICLE IV
+CERTAIN OBLIGATIONS OF HOLDERS OF CUSTODIAL RECEIPTS
+ 
+Section 4.01 Filing Proofs, Certificates and Other Information.  Any Holder presenting Custodial Receipts for payment or for registration of transfer or exchange may be required (a) to file proof of residence, its taxpayer identification number, or other information, (b) to execute such certificates, and (c) to make such representations and warranties, in each case as the Custodian may reasonably deem necessary or proper.  The Custodian may withhold the delivery or delay the surrender, registration of transfer or exchange of any Custodial Receipt until such information is provided, such certificates are executed or such representations and warranties are made.
+ 
+Section 4.02 Payment of Transfer Taxes or Other Governmental Charges.  If any transfer tax or other governmental charge shall become payable by or on behalf of the Custodian, including any transfer tax or charge required to be withheld from any payment made to or by the Custodian under the provisions of any applicable law with respect to the Bonds or any Custodial Receipt, such transfer tax or governmental charge shall be payable by the Holders of the Custodial Receipts, and may be so withheld by the Custodian from any amount payable to such Holder hereunder.  The surrender, registration of transfer or exchange of any Custodial Receipt may be refused until such payment is made.
+ 
+ARTICLE V 
+PRINCIPAL AND INTEREST; REDEMPTION
+Section 5.01 Application of Moneys on Payment Dates.
+ 
+(a) On each Custodial Receipts Payment Date, the Custodian shall pay amounts received by the Custodian as principal or redemption price (as defined with respect to such Bonds) of and interest on the Bonds, from the Issuer thereof or any other entity obligated to make payments to such Issuer (or its trustee or other applicable fiduciary) with respect to the Bonds, to the Holders of the Custodial Receipts of the applicable series evidencing ownership of such Bonds.  The foregoing notwithstanding, if amounts received by and on deposit with the Custodian with respect to any series of Bonds are insufficient on any Custodial Receipts Payment Date to make all payments then due and owing on the related series of the Senior Custodial Receipts, then the Custodian shall make no payment to the Holders of the related series of Subordinate Custodial Receipts from such amounts on deposit with the Custodian unless and until all amounts due to the Holders of such Senior Custodial Receipts on such Custodial Receipts Payment Date have been paid in full.
+ 
+The Subordinate Custodial Receipts shall be and are hereby subordinated in priority and in right and time of payment to all amounts currently due and payable to the Holders of the Senior Custodial Receipts of the applicable series evidencing ownership of the same Bonds.  Payment of a series of Subordinate Custodial Receipts shall be made by the Custodian only from excess moneys or assets not required to pay the same series of Senior Custodial Receipts, and no payment shall be due or payable on such Subordinate Custodial Receipts (and the Holders of the Subordinate Custodial Receipts, by acceptance of the Subordinate Custodial Receipts, expressly agree and acknowledge that no payment shall be due and payable on the Subordinate Custodial Receipts as described herein) (i) if the Custodian does not hold sufficient funds to make such payment or (ii) if any monies then due and payable in respect of the same series of Senior Custodial Receipts are unpaid, until such monies are paid in full.
+ 
+ 
+14
+ 
+The Holder of a series of Senior Custodial Receipts shall exclusively hold and have all of the rights of the holder of the related Bonds with respect to any directions, notices, consents, exercise of remedies or other actions with respect to such Bonds.  No remedy shall be available to Holders of Subordinate Custodial Receipts if a default in payment of the Subordinate Custodial Receipts then exists; provided, however, any amounts not timely paid on the Subordinate Custodial Receipts shall remain due until paid.
+ 
+(b) Each payment by the Custodian to a Holder as of the applicable Record Date of principal of and interest on Custodial Receipts shall be sent by the Custodian on each Custodial Receipts Payment Date by check Mailed to its address appearing on the Custodial Receipt Registrar on the applicable Record Date (or via electronic transfer in accordance with wiring instructions provided by such Holder), except that in the case of Freddie Mac or the Depositor, payment shall be made by wire transfer of immediately available funds to such entities pursuant to wire instructions provided thereby or as directed by Freddie Mac and the Depositor.  Any such request shall remain in effect until revoked or revised by such Holder by an instrument in writing delivered to the Custodian. Custodial Receipts shall be surrendered at the Designated Office of the Custodian upon termination of this Agreement following the final Custodial Receipts Payment Date.  Surrender of Custodial Receipts shall not be a condition of payment thereof.
+ 
+(c) Each Custodial Receipt surrendered to the Custodian for the payment thereof shall be promptly cancelled and destroyed by the Custodian and shall no longer be outstanding for any purchase under this Agreement.
+ 
+Section 5.02 Segregation of Moneys.  All moneys received from the Issuer or otherwise by the Custodian in respect of a series of Bonds shall be held by it (i) in trust for the benefit of the Holders of the related series of Custodial Receipts and (ii) uninvested without interest in separate accounts designated to match the related series of Custodial Receipts until required to be disbursed in accordance with the provisions of this Agreement or as otherwise required by law and such moneys will be segregated from the general assets of the Custodian and from any other money held by the Custodian by separate recordation on the books and records of the Custodian.  In no event shall moneys received by the Custodian on account of a series of Bonds be applied or available for any purpose for any series of Custodial Receipts other than the series of Custodial Receipts related to such series of Bonds.
+ 
+Section 5.03 Redemption.
+ 
+(a) If all the outstanding Bonds underlying any series of Custodial Receipts are redeemed in full in accordance with the terms of the Bonds, the Custodian, in accordance with the provisions of this Section 5.03, shall redeem in full the related series of Custodial Receipts.  Upon such redemption of any Custodial Receipt, the Holder will have no right (other than claw back rights under the United States Bankruptcy Code) to receive payments after the Redemption Date, except to receive amounts payable under Section 5.01 hereof (the “Redemption Price”).  Any mandatory tender of or purchase in lieu of redemption of the Bonds pursuant to the constituent bond (and, as applicable, trust) documents shall be treated by the Custodian in the same manner as a redemption of the Bonds in full.  Upon any mandatory tender of or purchase in lieu of redemption of the Bonds the Custodian shall deliver such Bonds to the trustee therefor upon payment therefor.
+ 
+ 
+15
+ 
+(b) In the event of a partial redemption of the Bonds underlying any series of Custodial Receipts, the related series of Senior Custodial Receipts and Subordinate Custodial Receipts shall be redeemed on a pro rata basis, except in the event of any shortfall in payment of the scheduled principal due with respect to such series of Bonds in connection with any such partial redemption, the related Senior Custodial Receipts shall be redeemed prior to any use of such redemption payment to pay principal of the related Subordinate Custodial Receipts.  In the case of a partial redemption, to the extent practical, the Custodian shall redeem Custodial Receipts so that not more than one is other than an Authorized Denomination.
+ 
+(c) Notice of redemption of Custodial Receipts shall be given by the Custodian by mail to each Holder of any Custodial Receipt to be redeemed within five (5) days after notice of redemption of the underlying Bonds has been received by the Custodian.  All notices of redemption shall state the date fixed for redemption of the Custodial Receipts, the place at which Custodial Receipts are to be surrendered for payment, whether the payment upon redemption includes any redemption premium and the amount thereof, that interest on amounts of Custodial Receipts redeemed will cease to accrue from and after the Redemption Date and, if less than the full principal amount of a Holder’s Custodial Receipt is to be redeemed, the principal amounts of the Custodial Receipt to be redeemed, and that upon surrender of such Custodial Receipt for payment the Custodian shall deliver to, or upon written order of, such Holder a new Custodial Receipt, evidencing the amount not redeemed in Authorized Denominations (subject to Section 5.01(b) hereof with respect to payments by wire transfer).
+ 
+ARTICLE VI 
+THE CUSTODIAN AND THE DEPOSITOR
+Section 6.01 No Liability of the Custodian and the Depositor on the Bonds.
+ 
+(a) The sole obligor with respect to any Bonds is the Issuer thereof or any other entity obligated to make payments to the Issuer thereof (or its trustee or other applicable fiduciary) with respect to the Bond.  Neither the Custodian nor the Depositor shall have any obligation on or with respect to the Bonds (other than the obligation of the Custodian to receive and pass through payments received in respect of the Bonds and except as set forth in Section 7.03 with respect to voting and other actions). The obligations of the Depositor and the Custodian with respect to Custodial Receipts shall be solely as set forth in this Agreement and as provided by applicable law, and neither the Depositor nor the Custodian shall have any obligation to make any payment on or in respect of the Custodial Receipts (other than the Custodian’s aforesaid obligation to receive and pass through payments thereon).  The Custodian shall be responsible for performing such duties and only such duties as are specifically set forth in this Agreement and no implied covenants, duties or obligations (whether of a fiduciary nature or otherwise) shall be read into this Agreement or implied in law or equity against the Custodian.
+ 
+ 
+16
+ 
+(b) Neither the Custodian nor the Depositor is authorized to proceed against the Issuer in the event of a default or to assert the rights and privileges of Holders of Custodial Receipts and neither has any duty to do so, except that the Custodian upon being furnished indemnity reasonably satisfactory to it, subject to the terms of this Agreement, at the request of any Holder of a Custodial Receipt (but at the expense and risk of the Holder), shall take such action as it is directed to take by such Holder, in its capacity as Custodian and as the registered owner or nominal holder and custodian of the Bond to which the Custodial Receipt relates, including to proceed directly and individually against the Issuer of the Bonds or any other entity obligated to make payments to the Issuer thereof (or its trustee or other applicable fiduciary) with respect to the Bonds.  The foregoing shall not impair any rights a Holder (including Freddie Mac), or the Depositor may have to take such actions directly if any such parties subsequently become the holder of Bonds.
+ 
+(c) Neither the Custodian nor the Depositor shall be under any obligation whatsoever to appear in, prosecute or defend any action, suit or other proceeding in respect of the Bonds or the Custodial Receipts, except as specifically provided herein.
+ 
+Section 6.02 Maintenance of Offices and Agencies by the Custodian.  Until termination of this Agreement in accordance with its terms, the Custodian shall maintain (a) facilities in Birmingham, Alabama, for the execution and delivery, payment, surrender and registration of transfer and exchange of Custodial Receipts, all in accordance with the provisions of this Agreement, and (b) such other agents, if any, according to the terms and conditions as to which the Custodian and the Depositor, with the consent of the Holder of the Senior Custodial Receipts, may agree from time to time.
+ 
+Section 6.03 Prevention or Delay in Performance by the Custodian or the Depositor.  Neither the Custodian nor the Depositor shall incur any liability to any Holder of any Custodial Receipt, if by reason of any provision of any present or future law, or regulation thereunder, any decree, order or act or refusal to act of any governmental authority, or by any reason of any act of God or war or other circumstance beyond the control of the relevant party, the Custodian or the Depositor shall be prevented or forbidden from doing or performing any act or thing which the terms of this Agreement provide shall be done or performed; and neither the Custodian nor the Depositor shall incur any liability to any Holder of a Custodial Receipt by reason of any non-performance or delay, caused as aforesaid, in the performance of any act or thing which the terms of this Agreement provide shall or may be done or performed, or by reason of any exercise of, or failure to exercise, any discretion provided for in this Agreement.
+ 
+Section 6.04 Obligations of the Custodian.
+ 
+(a) The Custodian assumes no obligation nor shall be subject to any liability under this Agreement to Holders of Custodial Receipts, other than by reason of willful misconduct, bad faith or gross negligence in the performance of such duties as are specifically set forth in  this Agreement.  No provision of this Agreement shall require the Custodian to expend or risk its own funds or otherwise incur any financial liability in the performance of any of its duties hereunder, or in the exercise of any of its rights or powers, if it shall have reasonable grounds for believing that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured to it.
+ 
+ 
+17
+ 
+(b) The Custodian shall not be liable to any Holder of any Custodial Receipt for any action or non-action by it in reliance upon the advice of or information from legal counsel or accountants.  The Custodian may conclusively rely and shall be fully protected in acting upon any written notice, request, direction or other document reasonably believed by it to be genuine and to have been signed or presented by the proper party or parties.
+ 
+(c) Except for the authority and authenticity of any signatures of signatories of the Custodian appearing on the Custodial Receipts, the Custodian makes no representations as to the validity or sufficiency of the Custodial Receipts, as to the validity, sufficiency, worth or tax exempt status of the Bonds.
+ 
+(d) The Custodian may consult with counsel of its selection and the advice of such counsel or any opinion of counsel shall be full and complete authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in reasonable reliance thereon.
+ 
+(e) The Custodian may conclusively rely and shall be protected in acting or refraining from acting upon any resolution, certificate, statement, instrument, opinion, report, notice, request, direction, consent, order, bond, debenture, note, other evidence of indebtedness or other paper or document reasonably believed by it to be genuine and to have been signed or presented by the proper party or parties.
+ 
+Section 6.05 Resignation and Removal of the Custodian; Appointment of Successor Custodian.
+ 
+(a) The Custodian may at any time resign as Custodian hereunder by written notice of its election to do so, delivered to the Depositor and Freddie Mac, and such resignation shall take effect upon the appointment of a successor Custodian and its acceptance of such appointment as hereinafter provided; provided, however, that, in the event of such resignation, the Custodian shall reimburse the Depositor for any fees or charges previously paid to the Custodian in respect of duties not yet performed under this Agreement which remain to be performed by a successor Custodian.
+ 
+(b) The Depositor may, with the prior written consent of Freddie Mac, at any time remove the Custodian with or without cause as Custodian hereunder by written notice of its election to do so, delivered to the Custodian as provided in Section 9.01 hereof, and such removal shall take effect upon the appointment of a successor Custodian by the Depositor and its acceptance of such appointment as provided in the succeeding paragraphs.  No successor Custodian shall be appointed hereunder without the prior written consent of Freddie Mac, and if an “Event of Default” is existing under the Reimbursement Agreement, Freddie Mac shall have the sole right to remove and appoint a Custodian under this Agreement.
+ 
+ 
+18
+ 
+(c) In case at any time the Custodian acting hereunder notifies the Depositor and Freddie Mac that it elects to resign or is incapable of acting hereunder or the Depositor notifies the Custodian and Freddie Mac that it elects to remove the Custodian as Custodian, the Depositor with the consent of Freddie Mac shall, within ninety (90) days after the delivery of the notice of resignation or removal, appoint a successor Custodian, which shall be a bank with trust powers or trust company having its principal office in the United States of America and having a combined capital and surplus of at least $100,000,000 or whose obligations hereunder are guaranteed by a person whose capital and surplus or net worth is at least that amount.  If no successor Custodian has been appointed as successor Custodian within ninety (90) days after the Custodian has give written notice of its election to resign or the Depositor has given written notice to the Custodian of its election to remove the Custodian, as the case may be, the Custodian may petition any court of competent jurisdiction for the appointment of a successor Custodian.  Every successor Custodian shall execute and deliver to its predecessor and to the Depositor an instrument in writing accepting its appointment hereunder and shall notify the Depositor and Freddie Mac of its Designated Office, and thereupon such successor Custodian, without any further act or deed, shall become fully vested with all the rights, powers, duties and obligations of its predecessor and for all purposes shall be the Custodian under this Agreement, and such predecessor, upon payment of all sums due it and on the written request of the Depositor, shall execute and deliver an instrument transferring to such successor all rights, obligations and powers of such predecessor hereunder, shall duly assign, transfer and deliver all right, title and interest in the Bonds and parts thereof to such successor Custodian.  Any successor Custodian shall promptly give notice of its appointment to the Holders of Custodial Receipts for which it is successor Custodian as provided in Section 9.01 hereof.
+ 
+(d) Any corporation into or with which the Custodian may be merged, consolidated or converted or to which it shall transfer all or substantially all of its corporate trust business shall be the successor of such Custodian without the execution or filing of any document or any further act; provided such successor is a bank with trust powers or trust company having its principal office in the United States of America that satisfies the financial criteria for a successor custodian set forth in Section 6.05(c) hereof..
+ 
+Section 6.06 Fees; Costs and Expenses.  The Custodian hereby acknowledges that it has made arrangements satisfactory to it with affiliate(s) of the Depositor for payment of its fees, costs and expenses for serving as Custodian hereunder, as well as for any other costs or expenses owed by the Depositor hereunder.  The Custodian further acknowledges that it has no lien or any right of set-off against any Bonds held hereunder (or payments received thereon) with respect to the payment of such costs, fees and expenses.
+ 
+Section 6.07 Obligations of the Custodian.  The Custodian shall designate to the Depositor its Designated Office, if different from the address set forth in this Agreement, by a written instrument delivered to the Depositor and shall make such arrangements as are necessary to:
+ 
+(a) provide for registration of transfer of Custodial Receipts pursuant to the terms of this Agreement;
+ 
+(b) keep such books and records as shall be consistent with this Agreement and with prudent corporate trust practice;  and
+ 
+ 
+19
+ 
+(c) subject to Section 7.02 hereof, give such notices to Holders, including, but not limited to any notice communicated by any obligor, paying agent or trustee for the Bonds, and to perform such duties of the Custodian as are specifically set forth herein with respect to Custodial Receipts.
+ 
+(d) provide a monthly report to Freddie Mac, Director of Multifamily Loan Accounting, on or prior to 10th day of each month listing the following:
+ 
+(i) unpaid principal balance of each series of Senior Custodial Receipts and Subordinate Custodial Receipts and the underlying Bonds;
+ 
+(ii) principal balance of cash held in accounts related to each series of Senior Custodial Receipts and Subordinate Custodial Receipts.
+ 
+The Custodian may fulfill its obligations under subsection (d) by providing Freddie Mac electronic access to the electronic files and accounts related to each series of Subordinate Custodial Receipts.
+ 
+ARTICLE VII 
+VOTING AND COMMUNICATION WITH HOLDERS
+ 
+Section 7.01 Voting and Consents.  In the event of any action requiring the vote, consent, direction, approval or other involvement of the registered owners of any Bonds, the Custodian shall deliver to Freddie Mac as Holder of the Senior Custodial Receipts its proxy or request for direction with respect to such action, returnable to the Custodian, who shall act solely in accordance with the proxy or direction received from Freddie Mac (provided Freddie Mac may delegate its response to such proxy or request to its Servicer by written notice provided to the Custodian).
+ 
+Section 7.02 Reports and Notices from Custodian to Holders.
+ 
+(a) The Custodian shall promptly forward copies of any and all notices, reports and information received by the Custodian as a registered owner of the Bonds to the Depositor and Freddie Mac.  The Custodian shall take reasonable steps to request that copies of any and all such notices, reports and information obtained by the trustee for the Bonds with respect to the obligor on the Bonds and the project financed thereby be forwarded to the Custodian as such registered owner of the Bonds.
+ 
+(b) The Custodian shall also furnish upon request of the Depositor or Freddie Mac, a list of the names, addresses and such other matters contained in the Custodial Receipt Register as the Depositor or Freddie Mac may request.  The Depositor or Freddie Mac, as appropriate, shall pay to the Custodian any reasonable or customary charge for the furnishing of the requested information.
+ 
+(c) The Custodian shall give notice to Freddie Mac of each of the following events, at least fifteen (15) days prior to the effective date of such event (provided that, if the Custodian itself receives less than fifteen (15) days prior notice of the effectiveness of such event, no later than the Business Day following receipt by the Custodian of notice thereof): (i) any amendment, modification or adjustment of this Agreement or (ii) any assignment of this Agreement to a successor Depositor pursuant to Section 9.10.
+ 
+ 
+20
+ 
+Section 7.03 Voting and Other Actions of Bonds.
+ 
+(a) In the event that the Custodian receives a timely written request from an obligor, trustee or servicer in respect of the Bonds for its consent to any amendment, modification, waiver or other action modifying any Bonds or any document relating thereto, or receives any other written solicitation for any action with respect to any Bonds, or in the event the Custodian, as registered owner of the Bonds, is entitled to direct certain actions under the Bonds or the documents relating thereto, the Custodian shall provide notice of such proposed direction, amendment, modification, waiver or solicitation to Freddie Mac as Holder of the Senior Custodial Receipts and the Depositor within two (2) Business Days following receipt thereof (all such notices shall be given by email at the addresses shown in Section 9.01 promptly followed by overnight delivery of the same).  The Custodian shall request instructions from Freddie Mac as Holder of the Senior Custodial Receipts as to whether or not to give such direction or to consent to or vote to accept such amendment, modification, waiver or solicitation.  The Custodian shall consent or vote, or refrain from consenting or voting, in accordance with the instructions given, or not given, by Freddie Mac as Holder of the Senior Custodial Receipts (provided Freddie Mac may delegate the giving of such instructions to its Servicer by written notice to the Custodian and the Depositor).
+ 
+(b) Except as set forth in Section 7.03(a), the Custodian shall not take any action as the nominal holder or owner of any of the Bonds, either alone or as part of a group of holders or owners of such Bonds, except in accordance with the affirmative written direction of Freddie Mac as Holder of the Senior Custodial Receipts.
+ 
+(c) The Custodian shall have no liability for any failure to act resulting from the late return of, or failure to return, any such request for instruction sent by the Custodian to Freddie Mac as Holder of the Senior Custodial Receipts.
+ 
+(d) Upon receipt of notice of any default on the Bonds from any obligor, trustee or servicer for the Bonds, the Custodian shall promptly give notice of such default to Freddie Mac as Holder of the Senior Custodial Receipts and to the Depositor.  Such notice shall set forth (i) the date and nature of such default, (ii) the amount of principal and the amount of interest to which such default relates or if such default is a nonpayment default, the nature of such default, and (iii) any other information which the Custodian deems appropriate.  The Custodian shall not be deemed to have notice of any such default unless the Custodian has actual knowledge thereof or unless written notice of such a default is received by the Custodian.
+ 
+(e) If any action to be taken by the trustee for the Bonds in connection with a default on the Bonds, including, without limitation, the determination to accelerate the Bonds, requires the vote, consent or other direction from the owners of such Bonds, the Custodian shall so vote, consent or otherwise direct solely as directed in writing by Freddie Mac as Holder of the Senior Custodial Receipts as provided in Section 7.03(a).
+ 
+ 
+21
+ 
+ARTICLE VIII
+AMENDMENT AND TERMINATION
+Section 8.01 Amendment.  The form of the Custodial Receipts and any provisions of this Agreement may at any time and from time to time be amended by agreement between the Depositor and the Custodian but only with the prior written consent of Freddie Mac, in any respect which the Custodian and the Depositor may deem necessary or desirable; provided that (i) the Custodian shall give notice to the Holders of any such amendment prior to the effectiveness of such amendment, in accordance with Section 7.02(c) hereof, (ii) the Custodian shall have received an opinion of nationally recognized bond or tax counsel to the effect that the proposed amendment will not adversely affect the federal tax opinion delivered in respect of the Custodial Receipts on the date of issuance thereof; and (iii) in no event, without the consent of the Holders of all affected Custodial Receipts shall any such amendment adversely affect the rights of the Holder of any Custodial Receipt to receive a pass-through of timely payments of principal and redemption price (including premium, if any) of and interest on the related series of Bonds or otherwise materially prejudice any substantial existing right of any such Holder.
+ 
+Section 8.02 Termination.
+ 
+(a) This Agreement shall terminate on the date on which no Custodial Receipts remain outstanding hereunder.
+ 
+(b) If, upon termination hereof, funds for payment have been made available in accordance herewith and any Custodial Receipts have not been surrendered (when and if required hereunder) for payment following any Custodial Receipts Payment Date, this Agreement shall nonetheless terminate and the Custodian shall not perform any further acts under this Agreement in respect of such Custodial Receipts, except that the Custodian shall hold the funds available for such payment, without liability for interest, for first, the pro rata benefit of the Holders of any series of Senior Custodial Receipts which have not theretofore been surrendered for payment and second, the pro rata benefit of the Holders of the related series of Subordinate Custodial Receipts which have not theretofore been surrendered for payment, unless otherwise required by applicable law.
+ 
+(c) Upon the termination of this Agreement, the Depositor shall be discharged from all obligations under this Agreement except for its obligations to the Custodian under Section 6.06 and 6.07 hereof.
+ 
+ARTICLE IX 
+MISCELLANEOUS
+Section 9.01 Notices.
+ 
+(a) Any and all notices to be given shall be deemed to have been duly given if personally delivered or sent by mail or telecopy confirmed by letter addressed as follows:
+ 
+ 
+22
+ 
+if to the Depositor:                                ATAX TEBS I, LLC
+1004 Farnam Street, Suite 400
+Omaha, Ne 68102
+Attention: Chad L. Daffer
+Facsimile:  (402) 930-3047
+Telephone:  (402) 930-3085
+ 
+With a copy to:
+Thomas Mcleay, Esq., General Counsel
+1004 Farnam Street, Suite 400
+Omaha, Nebraska 68102
+Attention: Chad L. Daffer
+Phone: 402.930.3085
+Fax: 402.930.3047
+
+with a copy to:
+Kutak Rock LLP
+1650 Farnam Street
+Omaha, Nebraska 68102
+Attention:  Patricia A. Burdyny
+Facsimile:  (402) 346-1148
+Telephone: (402) 346-6000
+ 
+
+if to the Custodian:              The Bank of New York Mellon Trust Company, N.A.
+North 20th Street, Suite 950
+Birmingham, Alabama 35203
+Attention:  Carmen Kilgore
+Telephone:  (205) 214-0229
+Facsimile: (205) 328-3986
+E-mail:  Carmen.kilgore@bnymellon.com
+
+if to Freddie Mac:                 Federal Home Loan Mortgage Corporation
+8100 Jones Branch Drive
+McLean, VA 22102
+ 
+Attention:  Loan Servicing Director, Mail Stop B4Q
+Facsimile:   (703) 714-3273
+Telephone:  (703) 714-2000
+
+with a copy to:                      Federal Home Loan Mortgage Corporation
+8200 Jones Branch Drive
+McLean, VA  22102
+ 
+Attention:  Associate General Counsel
+ 
+Multifamily Legal Department, Mail Stop 204
+Facsimile:  (703) 903-2885
+Telephone: (703) 903-2000
+
+ 
+23
+ 
+with a copy to:                      Federal Home Loan Mortgage Corporation
+8100 Jones Branch Drive
+McLean, VA 22102
+Attention:  Director of Multifamily Loan Servicing, Mail Stop B4F
+Facsimile:  (703) 714-3003
+Telephone:  (703) 903-2000
+
+or, in each case, to such other place as such person may have designated in writing to the other parties.
+ 
+(b) Except as otherwise provided herein, all notices to be given to any Holder shall be deemed to have been duly given, whether or not received, if given by first-class mail, postage prepaid, to each Holder at such Holder’s address as it appears in the Custodial Receipt Register.  Neither the failure to mail such notice, nor any defect in any notice so mailed, to any particular Holder shall affect the sufficiency of such notice with respect to other Holders.
+ 
+Section 9.02 Payment on Non-Business Days.  Notwithstanding any other provision herein, in any case where a Custodial Receipts Payment Date is not a Business Day, payment of the Custodial Receipts need not be made on such date but shall be made on the next succeeding Business Day with the same force and effect as if made on the date scheduled for payment and no additional interest shall accrue on the Custodial Receipt as a result of such later payment.
+ 
+Section 9.03 Severability.  Any provision of this Agreement or the Custodial Receipts that is prohibited, unenforceable or not authorized in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition, unenforceability or lack of authorization without invalidating the remaining provisions hereof or thereof or affecting the validity, unenforceability or legality of such provision in any other jurisdiction.
+ 
+Section 9.04 Counterparts.  This Agreement may be executed by the parties hereto in any number of counterparts, each of which, when so executed and delivered, shall be deemed an original, but all such counterparts shall together constitute one and the same instrument.  Copies of this Agreement shall be filed with the Custodian and shall be open to inspection during business hours at the Custodian’s Designated Office by any Holder of a Custodial Receipt.
+ 
+Section 9.05 Exclusive Benefit of Parties and Holders of Custodial Receipts; Effective Date.  This Agreement is for the exclusive benefit of the parties hereto and their respective successors hereunder; Freddie Mac and the Holders or Beneficial Owners of the Custodial Receipts shall be express third party beneficiaries hereof.  Except as described in the preceding sentence, this Agreement shall not be deemed to give any legal or equitable right, remedy or claim to any other person whatsoever.  The Holders or Beneficial Owners from time to time shall be beneficiaries of this Agreement and shall be bound by all the  terms and conditions hereof and of the Custodial Receipts by acceptance of delivery thereof.  This Agreement shall become effective upon its execution and delivery by the parties hereto, and upon the receipt by the Custodian of the Bonds deposited concurrently therewith.
+ 
+Section 9.06 Rights of Holders or Beneficial Owner.  The parties hereto agree that the Custodian is acting on behalf of the Holders or Beneficial Owners of the Custodial Receipts and that such Holders or Beneficial Owners retain beneficial interests in the rights and obligations created hereby.  Accordingly, in the event that (i) any party hereunder defaults in the performance of any action required on its part to be taken hereunder and such default materially adversely affects any Holder or Beneficial Owner of a Custodial Receipt, and (ii) such Holder or Beneficial Owner notifies such party of such default and such party shall thereafter fail or refuse to take such action or remedy such default, then such Holder or Beneficial Owner may individually proceed to take any action with respect to such defaulting party as it deems necessary to compel compliance with the provisions hereof.
+ 
+ 
+24
+ 
+Section 9.07 Governing Law.  This Agreement and the Custodial Receipts shall be governed by, and construed in accordance with, the laws of the State of New York, without regard to conflicts of laws principles.
+ 
+Section 9.08 Headings.  The headings of articles and sections in this Agreement and in the form of the Custodial Receipts set forth in Exhibit A and Exhibit B hereto have been inserted for convenience only and are not to be regarded as a part of this Agreement or to have any bearing upon the meaning or  interpretation of any provision contained herein or in the Custodial Receipts.
+ 
+Section 9.09 Waiver of Jury Trial.  EACH OF THE PARTIES HERETO IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE CUSTODIAL RECEIPTS OR THE TRANSACTION CONTEMPLATED HEREBY.
+ 
+Section 9.10 Tax Election.  Each Holder of Custodial Receipts acknowledges and agrees that, for federal, state and local income tax purposes, each related series of Senior Custodial Receipts and the corresponding series of Subordinate Custodial Receipts, and the custodial arrangement applicable thereto as provided herein, will be treated as a separate partnership in which such Holder is a partner.  Each Holder of Custodial Receipts authorizes the Sponsor, the Custodian and Freddie Mac to take the necessary steps to make a “monthly closing election” on behalf of each such partnership in accordance with IRS Revenue Procedure 2003-84, in which case each Holder of Custodial Receipts will be deemed to have consented to such election.  No Person is authorized to elect to have any series of Senior Custodial Receipts and the corresponding series of Subordinate Custodial Receipts, and the custodial arrangement applicable thereto as provided herein, classified as a corporation (or association) for federal or any applicable state or local income tax purposes.
+ 
+Section 9.11 Successor Depositor.  Subject to the prior consent of the Custodian and Freddie Mac, such consent not to be unreasonably withheld, the Depositor may assign its rights and obligations under this Agreement to a successor depositor.
+ 
+Section 9.12 Rights of Freddie Mac Following Transfer.  Notwithstanding any other provision of this Agreement, at any time following Freddie Mac’s transfer of ownership of any series of Senior Custodial Receipts, all of its rights and benefits as Holder thereof as indicated herein with respect to the series of related Bonds (including but not limited to all rights to give directions, give or receive notices or consents, direct or vote or otherwise control the exercise the remedies upon a bond default or take any other action with respect to such series of Bonds) shall terminate (other than its rights to receive any payment due with respect to such series of Senior Custodial Receipts prior to such transfer), and thereafter all such rights and benefits shall vest in the transferee of such series of Senior Custodial Receipts, as the new Holder thereof (or in the case of multiple transferees, in the Holder of the majority principal amount of such series of Senior Custodial Receipts).
+ 
+ 
+25
+ 
+Section 9.13 Force Majeure.  In no event shall the Custodian be responsible or liable for any failure or delay in the performance of its obligations hereunder arising out of or caused by, directly or indirectly, forces beyond its control, including, without limitation, strikes, work stoppages, accidents, acts of war or terrorism, civil or military disturbances, nuclear or natural catastrophes or acts of God, and interruptions, loss or malfunctions of utilities, communications or computer (software and hardware) services; it being understood that the Custodian shall use reasonable efforts which are consistent with accepted practices in the banking industry to resume performance as soon as practicable under the circumstances.
+ 
+
+ 
+26
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Custody Agreement to be duly executed and delivered by their respective officers thereunto duly authorized as of the date first above written.
+ 
+ATAX TEBS I, LLC,  a Delaware limited liability company
+
+ 
+By:
+AMERICA FIRST TAX EXEMPT INVESTORS, L.P., a Delaware limited partnership, Member
+ 
+ 
+By:
+AMERICA FIRST CAPITAL ASSOCIATES LIMITED PARTNERSHIP TWO, a Delaware limited partnership
+ 
+Its:
+General Partner
+ 
+ 
+By:
+THE BURLINGTON CAPITAL GROUP LLC, a Delaware limited liability company
+Its:         General Partner
+ 
+By:             /s/ Michael J. Draper                                              
+Michael J. Draper
+Chief Financial Officer
+
+(Signature Page to Custody Agreement)
+S-1
+ 
+ 
+ 
+
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A.
+
+
+
+By:     /s/ Carmen Kilgore                                                                
+Carmen Kilgore
+Vice President
+
+
+
+
+
+
+(Signature Page to Custody Agreement)
+S-2
+ 
+ 
+ 
+
+EXHIBIT A
+
+FORM OF SENIOR CUSTODIAL RECEIPT
+
+THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR ANY STATE SECURITIES LAWS.  NEITHER THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT NOR ANY INTEREST THEREIN MAY BE TRANSFERRED OR RESOLD (A) EXCEPT AS PERMITTED UNDER THE SECURITIES ACT PURSUANT TO REGISTRATION OR AN EXEMPTION THEREFROM, OR (B) TO A TRANSFEREE THAT IS AN EMPLOYEE BENEFIT PLAN (WITHIN THE MEANING OF SECTION 3(3) OF ERISA) THAT IS SUBJECT TO TITLE I OF ERISA, A PLAN AS DEFINED IN SECTION 4975(E)(1) OF THE CODE, OR AN ENTITY WHOSE UNDERLYING ASSETS INCLUDE THE ASSETS OF ANY SUCH PLAN BY REASON OF A PLAN’S INVESTMENT IN THE ENTITY, OR OTHERWISE OR (C) TO A TRANSFEREE THAT IS NOT A “QUALIFIED PURCHASER” AS DEFINED IN SECTION 2(A)(51) OF THE INVESTMENT COMPANY ACT.  THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT ARE SUBJECT TO CERTAIN RESTRICTIONS ON TRANSFER SET FORTH IN THE CUSTODY AGREEMENT (AS DEFINED BELOW).
+ 
+FOR PAYMENTS DUE WITH RESPECT TO
+THE BONDS INDICATED BELOW
+SENIOR CUSTODIAL RECEIPT, SERIES RA-[]
+
+relating to:
+
+$[_____]
+[NAME OF ISSUER]
+[NAME OF BONDS]
+
+NUMBER:  CR-______ PRINCIPAL AMOUNT:$________
+ 
+CUSTODIAL RECEIPT CUSIP NO.:__________BOND CUSIP NO.:_____________
+ 
+BOND RATE:  %_____ BOND MATURITY:____________
+ 
+BOND INTEREST PAYMENT DATES:_________________________
+ 
+REGISTERED OWNER:_____________________________
+ 
+The Registered Owner or registered assigns, is the owner of this Senior Custodial Receipt (the “Senior Custodial Receipt”) evidencing beneficial ownership interest in the above-referenced portion of the principal of the above-named municipal obligations (the “Bonds”), together with the interest payments thereon accruing from and including September 1, 2010 at the Bond Rate, on the indicated payment dates, and subject to certain rights as set forth below.  The Bonds are being held by The Bank of New York Mellon Trust Company, N.A., as custodian (together with any successor custodian and their respective successors and assigns, the “Custodian”) pursuant to the terms of a Custody Agreement, dated as of September 1, 2010 (as amended, modified or supplemented from time to time, the “Custody Agreement”), between ATAX TEBS I, LLC (the “Depositor”), and the Custodian.  This Senior Custodial Receipt is subject to the provisions of and is entitled to the benefits of the Custody Agreement, including certain rights of the Depositor and Freddie Mac set forth therein, a copy of which is available for inspection by the Holder hereof at the designated corporate trust office of the Custodian in Birmingham, Alabama.  A Subordinate Custodial Receipt, Series RB-[__], representing an interest in a portion of the interest on and a principal amount of the Bonds and certain other rights, has also been issued under the Custody Agreement.  The Senior Custodial Receipt and the rights of the Holders hereof are senior to the rights of the Holders of the Subordinate Custodial Receipts, subject in all respects to the terms of the Custody Agreement (including, without limitation, the right of the Holder to receive and retain payments under the Subordinate Custodial Receipts so long as the Senior Custodial Receipts are being paid currently).
+A-1
+ 
+ 
+ 
+The Bonds evidenced by this Senior Custodial Receipt shall be held in custody by the Custodian.  Principal and interest payments on such Bonds are payable to the Holder in the manner set forth in the Custody Agreement.
+ 
+As provided in the Custody Agreement and subject to certain limitations therein set forth, the transfer of this Senior Custodial Receipt is registrable in the Senior Custodial Receipt Register, upon surrender of this Senior Custodial Receipt for registration of transfer at the designated office of the Custodian in Birmingham, Alabama, duly endorsed by, or accompanied by a written instrument of transfer in form satisfactory to the Custodian duly executed by the Holder or such Holder’s attorney duly authorized in writing, together with cash in the amount required by the Custody Agreement, and thereupon one or more new Senior Custodial Receipts of the Authorized Denominations and evidencing the same aggregate principal amount of the Bonds will be issued to the designated transferee or transferees.
+ 
+As provided in the Custody Agreement and subject to certain limitations therein set forth, Senior Custodial Receipts are exchangeable for Senior Custodial Receipts of a like aggregate principal amount of the Senior Custodial Receipts of a different Authorized Denomination, as requested by the Holder surrendering the same.
+ 
+For any such registration of transfer or exchange, the Custodian may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+ 
+Prior to due presentment of this Senior Custodial Receipt for registration of transfer, the Custodian and any agent of the Custodian may treat the person in whose name this Senior Custodial Receipt is registered as the owner hereof for all purposes, whether or not this Senior Custodial Receipt is overdue, and neither the Custodian nor any such agent shall be affected by notice to the contrary.
+ 
+In the event of any conflict between the terms of this Custodial Receipt and the terms of the Custody Agreement, the terms of the Custody Agreement shall control.
+ 
+
+  A-2
+ 
+ 
+
+This Senior Custodial Receipt shall not be valid or become obligatory for any purpose unless and until duly executed by manual signature.
+ 
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., as Custodian
+
+
+
+By:                                                                
+Authorized Signatory
+
+Date Issued:  ____________
+
+A-3 
+ 
+ 
+
+ASSIGNMENT
+
+FOR VALUE RECEIVED, the undersigned does hereby sell, assign and transfer unto
+(Name, Address and Taxpayer Identification Number of Assignee)
+
+all its right, title and interest in and to the within Custodial Receipt and hereby irrevocably constitutes and appoints ____________________ attorney to register the transfer of the within Custodial Receipt on the books kept for the registration thereof, with full power of substitution in the premises.
+
+Dated:________________
+
+Signature(s) Guaranteed:
+ 
+___________________________________
+ 
+Notice:  Signature(s) must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Custodian, which requirements will include membership or participation in STAMP or such other “signature guarantee program” as may be determined by the Custodian in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+Signature:
+ 
+_____________________________________
+ 
+Notice:  The signature on this assignment must correspond with the name as written upon the face of this Custodial Receipt in every particular, without alteration or enlargement or any change whatsoever.
+
+
+A-4 
+ 
+ 
+
+EXHIBIT B
+
+FORM OF SUBORDINATE CUSTODIAL RECEIPT
+
+THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR ANY STATE SECURITIES LAWS.  NEITHER THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT NOR ANY INTEREST THEREIN MAY BE TRANSFERRED OR RESOLD (A) EXCEPT AS PERMITTED UNDER THE SECURITIES ACT PURSUANT TO REGISTRATION OR AN EXEMPTION THEREFROM, OR (B) TO A TRANSFEREE THAT IS AN EMPLOYEE BENEFIT PLAN (WITHIN THE MEANING OF SECTION 3(3) OF ERISA) THAT IS SUBJECT TO TITLE I OF ERISA, A PLAN AS DEFINED IN SECTION 4975(E)(1) OF THE CODE, OR AN ENTITY WHOSE UNDERLYING ASSETS INCLUDE THE ASSETS OF ANY SUCH PLAN BY REASON OF A PLAN’S INVESTMENT IN THE ENTITY, OR OTHERWISE OR (C) TO A TRANSFEREE THAT IS NOT A “QUALIFIED PURCHASER” AS DEFINED IN SECTION 2(A)(51) OF THE INVESTMENT COMPANY ACT.  THE SECURITIES REPRESENTED BY THIS CUSTODIAL RECEIPT ARE SUBJECT TO CERTAIN RESTRICTIONS ON TRANSFER SET FORTH IN THE CUSTODY AGREEMENT (AS DEFINED BELOW).
+ 
+THIS SUBORDINATE CUSTODIAL RECEIPT AND THE RIGHTS OF THE HOLDERS HEREOF ARE SUBORDINATE IN ALL RESPECTS TO THE RIGHTS OF THE HOLDERS OF THE SENIOR CUSTODIAL RECEIPTS, SUBJECT IN ALL RESPECTS TO THE TERMS OF THE CUSTODY AGREEMENT.
+ 
+FOR PAYMENTS DUE WITH RESPECT TO
+THE BONDS INDICATED BELOW
+
+SUBORDINATE CUSTODIAL RECEIPT, SERIES RB-[]
+
+relating to:
+
+$[_____]
+[NAME OF ISSUER]
+[NAME OF BONDS]
+
+NUMBER:  CR-______ PRINCIPAL AMOUNT:$________
+ 
+CUSTODIAL RECEIPT CUSIP NO.:__________BOND CUSIP NO.:_____________
+ 
+BOND RATE:  %_____ BOND MATURITY:____________
+ 
+BOND INTEREST PAYMENT DATES: ____________________
+ 
+REGISTERED OWNER:  ______________________________
+ 
+
+THE REGISTERED OWNER OR REGISTERED ASSIGNS, IS THE OWNER OF THIS SUBORDINATE CUSTODIAL RECEIPT (THE “SUBORDINATE CUSTODIAL RECEIPT”) EVIDENCING A SUBORDINATE BENEFICIAL OWNERSHIP INTEREST IN THE ABOVE-REFERENCED PORTION OF THE PRINCIPAL OF THE ABOVE-NAMED MUNICIPAL OBLIGATIONS (THE “BONDS”), TOGETHER WITH THE INTEREST PAYMENTS THEREON ACCRUING FROM AND INCLUDING SEPTEMBER 1, 2010 AT THE BOND RATE, ON THE INDICATED PAYMENT DATES, AND SUBJECT TO CERTAIN RIGHTS AS SET FORTH BELOW.  THE BONDS ARE BEING HELD BY THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., AS CUSTODIAN (TOGETHER WITH ANY SUCCESSOR CUSTODIAN AND THEIR RESPECTIVE SUCCESSORS AND ASSIGNS, THE “CUSTODIAN”) PURSUANT TO THE TERMS OF A CUSTODY AGREEMENT, DATED AS OF SEPTEMBER 1, 2010 (AS AMENDED, MODIFIED OR SUPPLEMENTED FROM TIME TO TIME, THE “CUSTODY AGREEMENT”), BETWEEN ATAX TEBS I, LLC (THE “DEPOSITOR”), AND THE CUSTODIAN.  THIS SUBORDINATE CUSTODIAL RECEIPT IS SUBJECT TO THE PROVISIONS OF AND IS ENTITLED TO THE BENEFITS OF THE CUSTODY AGREEMENT, INCLUDING CERTAIN RIGHTS OF THE DEPOSITOR AND FREDDIE MAC SET FORTH THEREIN, A COPY OF WHICH IS AVAILABLE FOR INSPECTION BY THE HOLDER HEREOF AT THE DESIGNATED CORPORATE TRUST OFFICE OF THE CUSTODIAN IN BIRMINGHAM, ALABAMA.  A SENIOR CUSTODIAL RECEIPT, SERIES RA-[__], REPRESENTING AN INTEREST IN A PORTION OF THE INTEREST ON AND A PRINCIPAL AMOUNT OF THE BONDS AND CERTAIN OTHER RIGHTS, HAS ALSO BEEN ISSUED UNDER THE CUSTODY AGREEMENT.  THE SENIOR CUSTODIAL RECEIPT AND THE RIGHTS OF THE HOLDERS THEREOF ARE SENIOR TO THE RIGHTS OF THE HOLDERS OF THE SUBORDINATE CUSTODIAL RECEIPTS, SUBJECT IN ALL RESPECTS TO THE TERMS OF THE CUSTODY AGREEMENT (INCLUDING, WITHOUT LIMITATION, THE RIGHT OF THE HOLDER TO RECEIVE AND RETAIN PAYMENTS UNDER THE SUBORDINATE CUSTODIAL RECEIPTS SO LONG AS THE SENIOR CUSTODIAL RECEIPTS ARE BEING PAID CURRENTLY).
+B-1
+ 
+ 
+ 
+The Bonds evidenced by this Subordinate Custodial Receipt shall be held in custody by the Custodian.  Principal and interest payments on such Bonds are payable to the Holder in the manner set forth in the Custody Agreement.
+ 
+As provided in the Custody Agreement and subject to certain limitations therein set forth, the transfer of this Subordinate Custodial Receipt is registrable in the Subordinate Custodial Receipt Register, upon surrender of this Subordinate Custodial Receipt for registration of transfer at the designated office of the Custodian in Birmingham, Alabama, duly endorsed by, or accompanied by a written instrument of transfer in form satisfactory to the Custodian duly executed by the Holder or such Holder’s attorney duly authorized in writing, together with cash in the amount required by the Custody Agreement, and thereupon one or more new Subordinate Custodial Receipts of the Authorized Denominations and evidencing the same aggregate principal amount of the Bonds will be issued to the designated transferee or transferees.
+ 
+As provided in the Custody Agreement and subject to certain limitations therein set forth, Subordinate Custodial Receipts are exchangeable for Subordinate Custodial Receipts of a like aggregate principal amount of the Subordinate Custodial Receipts of a different Authorized Denomination, as requested by the Holder surrendering the same.
+ 
+For any such registration of transfer or exchange, the Custodian may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+ 
+Prior to due presentment of this Subordinate Custodial Receipt for registration of transfer, the Custodian and any agent of the Custodian may treat the person in whose name this Subordinate Custodial Receipt is registered as the owner hereof for all purposes, whether or not this Subordinate Custodial Receipt is overdue, and neither the Custodian nor any such agent shall be affected by notice to the contrary.
+ 
+In the event of any conflict between the terms of this Custodial Receipt and the terms of the Custody Agreement, the terms of the Custody Agreement shall control.
+ 
+
+B-2 
+ 
+ 
+
+This Subordinate Custodial Receipt shall not be valid or become obligatory for any purpose unless and until duly executed by manual signature.
+ 
+THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A., as Custodian
+
+
+
+By:                                                                
+Authorized Signatory
+
+Date Issued:  ____________
+
+B-3 
+ 
+ 
+
+ASSIGNMENT
+
+FOR VALUE RECEIVED, the undersigned does hereby sell, assign and transfer unto
+(Name, Address and Taxpayer Identification Number of Assignee)
+
+all its right, title and interest in and to the within Custodial Receipt and hereby irrevocably constitutes and appoints ____________________ attorney to register the transfer of the within Custodial Receipt on the books kept for the registration thereof, with full power of substitution in the premises.
+
+Dated:________________
+
+Signature(s) Guaranteed:
+ 
+___________________________________
+ 
+Notice:  Signature(s) must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Custodian, which requirements will include membership or participation in STAMP or such other “signature guarantee program” as may be determined by the Custodian in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+Signature:
+ 
+__________________________________
+ 
+Notice:  The signature on this assignment must correspond with the name as written upon the face of this Custodial Receipt in every particular, without alteration or enlargement or any change whatsoever.
+
+
+  B-4
+ 
+ 
+
+EXHIBIT C-1
+ 
+
+ 
+SENIOR CUSTODIAL RECEIPTS, SERIES RA
+ 
+ISSUER
+UNDERLYING BONDS
+CUSTODIAL RECEIPT DESIGNATION
+ORIGINAL PRINCIPAL  AMOUNT
+MATURITY DATE
+BOND INTEREST PAYMENT DATES
+INTEREST RATE (%)
+Iowa Finance Authority
+Multifamily Mortgage Revenue Refunding Bonds (The Mill Apartments Project) Series 1999A
+RA-1
+$4,805,000
+December 1, 2025
+First day of each month
+6.25
+Texas Department of Housing and Community Affairs
+Multifamily Housing Revenue Bonds (Bella Vista Apartments) Series 2006
+RA-2
+$5,510,000
+April 1, 2046
+April 1 and October 1
+6.15
+South Carolina State Housing Finance and Development Authority
+Multifamily Rental Housing Revenue Refunding Bonds (Bent Tree Apartments Project) Series 2000H-1
+RA-3
+$7,160,000
+December 15, 2030
+First day of each month
+6.25
+The County of Lake, Illinois
+Multifamily Housing Revenue Bonds (Brookstone Apartments Project) Series 2007
+RA-4
+$6,763,000
+May 1, 2040
+First day of each month
+5.445
+South Carolina State Housing Finance and Development Authority
+Multifamily Rental Housing Revenue Bonds (Cross Creek Apartments Project) Series 2005
+RA-5
+$7,832,000
+March 1, 2049
+First day of each month
+6.15
+Florida Housing Finance Corporation
+Senior Beneficial Ownership Interest Certificate relating to Multifamily Housing Revenue Refunding Bonds 2001 Series G (Lake Forest Apartments)
+RA-6
+$8,930,000
+December 1, 2031
+First day of each month
+6.25
+Bexar County Housing Finance Authority
+Multifamily Housing Revenue Bonds (The Villages at Lost Creek Apartments Project) Series 2006A-1
+RA-7-1
+9,635,000
+June 1, 2041
+June 1 and December 1
+6.25
+Bexar County Housing Finance Authority
+Multifamily Housing Revenue Bonds (The Villages at Lost Creek Apartments Project) Series 2006A-1
+RA-7-2
+6,420,000
+June 1, 2041
+June 1 and December 1
+6.25
+City of Maplewood, Minnesota
+Multifamily Housing Revenue Bonds (Woodlynn Village Project) Series 2007
+RA-8
+$3,933,000
+November 1, 2042
+May 1 and November 1
+6.00
+
+ 
+
+C-1-1 
+ 
+ 
+
+EXHIBIT C-2
+ 
+
+ 
+SUBORDINATE CUSTODIAL RECEIPTS, SERIES RB
+ 
+ISSUER
+UNDERLYING BONDS
+CUSTODIAL RECEIPT DESIGNATION
+ORIGINAL PRINCIPAL  AMOUNT
+MATURITY DATE
+BOND INTEREST PAYMENT DATES
+INTEREST RATE (%)
+Iowa Finance Authority
+Multifamily Mortgage Revenue Refunding Bonds (The Mill Apartments Project) Series 1999A
+RB-1
+$563,000
+December 1, 2025
+First day of each month
+6.25
+Texas Department of Housing and Community Affairs
+Multifamily Housing Revenue Bonds (Bella Vista Apartments) Series 2006
+RB-2
+$1,185,000
+April 1, 2046
+April 1 and October 1
+6.15
+South Carolina State Housing Finance and Development Authority
+Multifamily Rental Housing Revenue Refunding Bonds (Bent Tree Apartments Project) Series 2000H-1
+RB-3
+$603,000
+December 15, 2030
+First day of each month
+6.25
+The County of Lake, Illinois
+Multifamily Housing Revenue Bonds (Brookstone Apartments Project) Series 2007
+RB-4
+$2,814,794
+May 1, 2040
+First day of each month
+5.445
+South Carolina State Housing Finance and Development Authority
+Multifamily Rental Housing Revenue Bonds (Cross Creek Apartments Project) Series 2005
+RB-5
+$880,029
+March 1, 2049
+First day of each month
+6.15
+Florida Housing Finance Corporation
+Multifamily Housing Revenue Refunding Bonds 2001 Series G (Lake Forest Apartments)
+RB-6
+$388,000
+December 1, 2031
+First day of each month
+6.25
+Bexar County Housing Finance Authority
+Multifamily Housing Revenue Bonds (The Villages at Lost Creek Apartments Project) Series 2006A-1
+RB-7
+$2,445,000
+June 1, 2041
+June 1 and December 1
+6.25
+City of Maplewood, Minnesota
+Multifamily Housing Revenue Bonds (Woodlynn Village Project) Series 2007
+RB-8
+$603,000
+November 1, 2042
+May 1 and November 1
+6.00
+
+ 
+
+  C-2-1
+ 
+ 
+
+EXHIBIT D
+
+FORM OF NOTICE OF DEPOSIT
+
+
+[DATE]
+
+
+
+
+The Bank of New York Mellon Trust Company, N.A.,
+      as Custodian
+North 20th Street, Suite 950
+Birmingham, Alabama 38654
+
+Ladies and Gentlemen:
+
+This notice is delivered pursuant to Section 2.01 of the Custody Agreement, dated as of September 1, 2010 (as amended, restated and/or supplemented from time to time, the “Custody Agreement”), between the undersigned, as Depositor, you, as Custodian and others.
+ 
+On [____________], 200[____] [a Business Day at least five Business Days after the date of this Notice], the undersigned will deliver the following additional Bonds.
+ 
+Set forth below is the information concerning such Bonds as required by Section 2.01 of the Custody Agreement and attached hereto is the consent of Freddie Mac required thereby:
+ 
+Authorized Denomination:                            $[                                ]
+
+Bond Interest Payment Dates:                        [                                ]
+
+Bond Rate:                                                         [                                ]
+
+Bonds:                                                                [                                ]
+
+Issuer:                                                                 [                                ]
+
+
+
+
+
+
+
+[Remainder of page intentionally left blank]
+
+
+  D-1
+ 
+ 
+
+The Custodian shall accept such Bonds pursuant to the Custody Agreement and shall execute and deliver a Senior Custodial Receipt, Series RA-[___] [and a Subordinate Custodial Receipt, Series RB-[__]] in accordance therewith.
+ 
+ATAX TEBS I, LLC, AS DEPOSITOR
+
+
+
+By:                                                                
+Authorized Signatory
+
+
+D-2 
+ 
+ 
+
+EXHIBIT E-1
+
+FORM OF PURCHASER’S LETTER
+(other than for Depositor-Formed Trust)
+
+TO BE SUBMITTED TO THE CUSTODIAN
+
+
+PURCHASER’S LETTER
+Relating to Private Placement of
+Custodial Receipts
+
+
+[_____________], 200[____]
+
+
+The Bank of New York Mellon Trust Company, N.A.,
+    as Custodian
+
+ 
+Re:
+$[______], [Senior/Subordinate] Custodial Receipts, Series R[A][B]-[_____]
+
+Ladies and Gentlemen:
+
+1. This letter applies to the above-referenced series of Custodial Receipts (the “Receipts”), which are issued pursuant to a Custody Agreement, dated as of September 1, 2010 (as amended, restated and/or supplemented from time to time, the “Custody Agreement”), between ATAX TEBS I, LLC, as Depositor (the “Depositor”) and The Bank of New York Mellon Trust Company, N.A., as Custodian (the “Custodian”).  Capitalized terms not defined herein shall have the meaning assigned to them in the Custody Agreement.
+ 
+2. The Undersigned (hereinafter “we” or the “Undersigned”) agrees that this letter shall apply to all transfers by us of Receipts and beneficial interests in Receipts including sales of and offers to sell Receipts and beneficial interest in Receipts and any voluntary or involuntary transfer, pledge, assignment or other disposition of Receipts (hereinafter collectively “Transfers” or to “Transfer”).  We agree that:
+ 
+(a)           Transfers of Receipts and beneficial interests in Receipts by us shall be made only in the Authorized Denominations set forth in the Custody Agreement,
+ 
+(b)           we will only Transfer Receipts and beneficial interests therein held by us from time to time subject to and in accordance with the restrictions imposed by the Custody Agreement and any other transfer restrictions or other related procedures as described in the Custody Agreement,
+ 
+(c)           we will make Transfers of Receipts and we will permit the Transfers of beneficial interests in Receipts only to a purchaser or transferee that has signed and delivered to the Custodian, a letter in form and substance substantially identical to this letter,
+ 
+E-1-1
+ 
+ 
+(d)           we shall advise the Custodian of each Transfer of Receipts and beneficial interests in Receipts and the identity of each transferee,
+ 
+(e)           we understand that a restrictive legend will be placed on the Receipts, and
+ 
+(f)           no Transfer of the Receipts or beneficial interests in the Receipts may be made unless the Custodian shall consent to such Transfer.
+ 
+3. We authorize and instruct our DTC Participant to disclose to the Custodian such information concerning our beneficial ownership of Receipts as the Custodian shall request.
+ 
+4. This letter is not a commitment by us to purchase any Receipts.
+ 
+5. Our DTC Participant with The Depository Trust Company is [give both name and number], and our taxpayer identification number is [_____________].
+ 
+6. We represent and agree as follows:
+ 
+(a)           We understand and expressly acknowledge that the Receipts have not been and will not be registered under the Securities Act of 1933, as amended (the “1933 Act”), or any applicable state securities laws, and accordingly, that the Receipts and beneficial interests in the Receipts may not be Transferred, pledged or hypothecated unless an applicable exemption from the registration requirements of the 1933 Act and any applicable state securities laws are available.
+ 
+(b)           We understand that the arrangement evidenced by the Custody Agreement is not registered as an investment company under the Investment Company Act of 1940, as amended (the “1940 Act”), but that such arrangement is exempt from registration as such by virtue of Section 3(c)(7) of the 1940 Act, which in general excludes from the definition of an investment company any issuer whose outstanding securities are beneficially owned by only “qualified purchasers” (as such term is defined in the 1940 Act) and which has not made and does not propose to make a public offering of its securities.  We are a “qualified purchaser” as such term is defined in the 1940 Act and the regulations of the Securities and Exchange Commission thereunder.
+ 
+(c)           The Undersigned: is acquiring the Receipts or a beneficial ownership interest in the Receipts as principal for its own account for investment and not for sale in connection with any distribution thereof; was not formed solely for the purpose of investing in the Receipts; is not a (i) partnership, (ii) common trust fund, or (iii) special trust, pension fund or retirement plan in which the partners, beneficiaries or participants, as the case may be, may designate the particular investments to be made or the allocation thereof; agrees that it shall not hold such Receipts or such beneficial interest in the Receipts for the benefit of any other person and shall be the sole beneficial owner thereof for all purposes; shall not sell participation interests in the Receipts or beneficial ownership interests in the Receipts or enter into any other arrangement pursuant to which any other person shall be entitled to a beneficial interest in the distributions on the Receipts.  The purchase of the amount of Receipts or beneficial interest in the Receipts indicated above (together with any other Receipts in the same series owned directly or indirectly by the purchaser) constitutes an investment of no more than 40% of the purchaser’s assets.
+ 
+E-1-2
+ 
+ 
+(d)           We are either “accredited investors” within the meaning of Section 501(a)(1)-(4), (7) or (8) of Regulation D under the 1933 Act (an “Accredited Investor”) or “qualified institutional buyers” within the meaning of Rule 144A under the 1933 Act (a “QIB”) with respect to the Receipts to be purchased by us, with such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of an investment in the Receipts, and are able and prepared to bear the economic risk of investing in and holding such Receipts.  The Undersigned will not Transfer the Receipts or permit beneficial interests in the Custodial Receipts to be transferred except to a purchaser that (i) (A) (1) is a QIB, (2) is aware that the sale of the Receipts to it is being made in reliance on the exemption from registration provided by Rule 144A under the 1933 Act and (3) is acquiring the Receipts (or beneficial interests therein) for its own account or for one or more accounts, each of which is a QIB and as to each of which the purchaser exercises sole investment discretion, or (B) (1) is an Accredited Investor and (2) is acquiring the Receipts for its own account, and (ii) has such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of an investment in the Receipts and such purchaser and any accounts for which it is acting are each able to bear the economic risk of the purchaser’s or account’s the investment.
+ 
+(e)           Neither we nor anyone acting on our behalf has offered or sold or will offer or sell any Receipt or beneficial interest therein by means of any form of general solicitation or general advertising or has taken or will take any action that would constitute a distribution of a Receipt or beneficial interest therein under the 1933 Act, would render the disposition of a Receipt or a beneficial interest therein a violation of Section 5 of the 1933 Act or any state or other securities law or would require registration or qualification pursuant thereto.
+ 
+(f)           We have received a copy of the Custody Agreement, and to the extent we have required additional documents or information concerning the Receipts or the securities underlying the Receipts, we have obtained such other documents or information.
+ 
+(g)           We are not an employee benefit plan (within the meaning of Section 3(3) of the Employee Retirement Income Security Act (“ERISA”)) that is subject to Title I of ERISA, a plan as defined in Section 4975(e)(1) of the Internal Revenue Code of 1986, or an entity whose underlying assets include the assets of any such plan by reason of a plan’s investment in the entity, or otherwise.
+ 
+(h)           We acknowledge that we will treat the custodial arrangement established with respect to each series of Receipts as a partnership for federal, state and local income tax purposes and that we intend and expect to be treated as a partner for such purposes.  We acknowledge that no Person is authorized under Treas. Reg. Section 301.7701-3(c) or any applicable state or local law to have the custodial arrangement established with respect to each series of Receipts classified as a corporation for federal, state or local income tax purposes.  We consent to an election under Revenue Procedure 2003-84 (or any successor Revenue Procedure or other guidance issued by the Internal Revenue Service) to account for items of Receipts tax-exempt income, taxable income (if any), gain, loss and deduction on the basis of a monthly closing of the books, and agrees to comply with the alternative reporting requirements prescribed by Revenue Procedure 2003-84, if such election is made.
+ 
+E-1-3
+ 
+ 
+(i)           The Undersigned acknowledges that the foregoing are ongoing representations and hereby agrees to notify the Custodian in writing if it becomes aware that any of the representations are no longer accurate.
+ 
+7. This letter shall be for the benefit of the Custodian, any DTC Participant through which the Undersigned holds Receipts, DTC, the Depositor and any transferor to or transferee from the Undersigned.  We recognize that such parties will rely upon the truth and accuracy of the representations and agreements set forth in this letter and we agree that each of our purchases of Receipts now or in the future shall be deemed to constitute our concurrence in and ratification of the entire contents of this letter and shall apply equally to any such subsequent purchase.
+ 
+Date:           [___________]
+
+
+
+(Name of Purchaser)
+
+Mailing Address of Purchaser:
+ 
+________________________________
+ 
+_________________________________
+ 
+__________________________________
+ 
+ 
+By:_________________________________
+ 
+Printed Name:________________________
+ 
+Title:_______________________________
+
+
+
+[Custodial Receipts, Series  [RA/RB]-[_______]]
+
+
+
+
+E-1-4 
+ 
+ 
+
+EXHIBIT E-2
+ 
+
+ 
+FORM OF PURCHASER’S LETTER
+ 
+(Depositor-Formed Trust)
+ 
+TO BE SUBMITTED TO THE CUSTODIAN
+
+
+PURCHASER’S LETTER
+Relating to Private Placement of
+Custodial Receipts
+
+
+[_____________], 200[____]
+
+
+The Bank of New York Mellon Trust Company, N.A.,
+    as Custodian
+
+ 
+Re:
+$[______], [Senior/Subordinate] Custodial Receipts, Series R[A][B]-[_____]
+
+Ladies and Gentlemen:
+
+1. This letter applies to the above-referenced series of Custodial Receipts (the “Receipts”), which are issued pursuant to a Custody Agreement, dated as of September 1, 2010 (as amended, restated and/or supplemented from time to time, the “Custody Agreement”), between ATAX TEBS I, LLC, as Depositor (the “Depositor”) and The Bank of New York Mellon Trust Company, N.A., as Custodian (the “Custodian”).  Capitalized terms not defined herein shall have the meaning assigned to them in the Custody Agreement.
+ 
+2. The Undersigned (hereinafter “we” or the “Undersigned”) agrees that this letter shall apply to all transfers by us of Receipts and beneficial interests in Receipts including sales of and offers to sell Receipts and beneficial interest in Receipts and any voluntary or involuntary transfer, pledge, assignment or other disposition of Receipts (hereinafter collectively “Transfers” or to “Transfer”).  We agree that:
+ 
+(a)           Transfers of Receipts and beneficial interests in Receipts by us shall be made only in the Authorized Denominations set forth in the Custody Agreement,
+ 
+(b)           we will only Transfer Receipts and beneficial interests therein held by us from time to time subject to and in accordance with the restrictions imposed by the Custody Agreement and any other transfer restrictions or other related procedures as described in the Custody Agreement,
+ 
+(c)           we will make Transfers of Receipts and we will permit the Transfers of beneficial interests in Receipts only to a purchaser or transferee that has signed and delivered to the Custodian, a letter in form and substance substantially identical to this letter,
+ 
+E-2-1
+ 
+ 
+(d)           we shall advise the Custodian of each Transfer of Receipts and beneficial interests in Receipts and the identity of each transferee,
+ 
+(e)           we understand that a restrictive legend will be placed on the Receipts, and
+ 
+(f)           no Transfer of the Receipts or beneficial interests in the Receipts may be made unless the Custodian shall consent to such Transfer.
+ 
+3. We authorize and instruct our DTC Participant to disclose to the Custodian such information concerning our beneficial ownership of Receipts as the Custodian shall request.
+ 
+4. This letter is not a commitment by us to purchase any Receipts.
+ 
+5. Our DTC Participant with The Depository Trust Company is [give both name and number], and our taxpayer identification number is [_____________].
+ 
+6. We represent and agree as follows:
+ 
+(a)           We understand and expressly acknowledge that the Receipts have not been and will not be registered under the Securities Act of 1933, as amended (the “1933 Act”), or any applicable state securities laws, and accordingly, that the Receipts and beneficial interests in the Receipts may not be Transferred, pledged or hypothecated unless an applicable exemption from the registration requirements of the 1933 Act and any applicable state securities laws are available.
+ 
+(b)           We understand that the arrangement evidenced by the Custody Agreement is not registered as an investment company under the Investment Company Act of 1940, as amended (the “1940 Act”), but that such arrangement is exempt from registration as such by virtue of Section 3(c)(7) of the 1940 Act, which in general excludes from the definition of an investment company any issuer whose outstanding securities are beneficially owned by only “qualified purchasers” (as such term is defined in the 1940 Act) and which has not made and does not propose to make a public offering of its securities.  We are a “qualified purchaser” as such term is defined in the 1940 Act and the regulations of the Securities and Exchange Commission thereunder.
+ 
+(c)           [Reserved].
+ 
+(d)           We are either “accredited investors” within the meaning of Section 501(a)(1)-(4), (7) or (8) of Regulation D under the 1933 Act (an “Accredited Investor”) or “qualified institutional buyers” within the meaning of Rule 144A under the 1933 Act (a “QIB”) with respect to the Receipts to be purchased by us, with such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of an investment in the Receipts, and are able and prepared to bear the economic risk of investing in and holding such Receipts.  The Undersigned will not Transfer the Receipts or permit beneficial interests in the Custodial Receipts to be transferred except to a purchaser that (i) (A) (1) is a QIB, (2) is aware that the sale of the Receipts to it is being made in reliance on the exemption from registration provided by Rule 144A under the 1933 Act and (3) is acquiring the Receipts (or beneficial interests therein) for its own account or for one or more accounts, each of which is a QIB and as to each of which the purchaser exercises sole investment discretion, or (B) (1) is an Accredited Investor and (2) is acquiring the Receipts for its own account, and (ii) has such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of an investment in the Receipts and such purchaser and any accounts for which it is acting are each able to bear the economic risk of the purchaser’s or account’s the investment.
+ 
+E-2-2
+ 
+ 
+(e)           Neither we nor anyone acting on our behalf has offered or sold or will offer or sell any Receipt or beneficial interest therein by means of any form of general solicitation or general advertising or has taken or will take any action that would constitute a distribution of a Receipt or beneficial interest therein under the 1933 Act, would render the disposition of a Receipt or a beneficial interest therein a violation of Section 5 of the 1933 Act or any state or other securities law or would require registration or qualification pursuant thereto.
+ 
+(f)           We have received a copy of the Custody Agreement, and to the extent we have required additional documents or information concerning the Receipts or the securities underlying the Receipts, we have obtained such other documents or information.
+ 
+(g)           We are not an employee benefit plan (within the meaning of Section 3(3) of the Employee Retirement Income Security Act (“ERISA”)) that is subject to Title I of ERISA, a plan as defined in Section 4975(e)(1) of the Internal Revenue Code of 1986, or an entity whose underlying assets include the assets of any such plan by reason of a plan’s investment in the entity, or otherwise.
+ 
+(h)           We acknowledge that we will treat the custodial arrangement established with respect to each series of Receipts as a partnership for federal, state and local income tax purposes and that we intend and expect to be treated as a partner for such purposes.  We acknowledge that no Person is authorized under Treas. Reg. Section 301.7701-3(c) or any applicable state or local law to have the custodial arrangement established with respect to each series of Receipts classified as a corporation for federal, state or local income tax purposes.  We consent to an election under Revenue Procedure 2003-84 (or any successor Revenue Procedure or other guidance issued by the Internal Revenue Service) to account for items of Receipts tax-exempt income, taxable income (if any), gain, loss and deduction on the basis of a monthly closing of the books, and agrees to comply with the alternative reporting requirements prescribed by Revenue Procedure 2003-84, if such election is made.
+ 
+(i)           The Undersigned acknowledges that the foregoing are ongoing representations and hereby agrees to notify the Custodian in writing if it becomes aware that any of the representations are no longer accurate.
+ 
+7. The Undersigned (the “Trust”) is a trust the sponsor of which is the Depositor. Notwithstanding anything to the contrary provided elsewhere in this letter, the requirements of paragraphs 2 and 6(d)(except for the first sentence thereof), shall not apply to Transfers by the owners or holders of the trust receipts issued by the Trust (the “Trust Receipts”) or beneficial interests therein. The Undersigned represents that the constituent documents of the Trust require that neither the Trust  Receipts nor beneficial interests therein may be Transferred to any Person unless such Person has delivered an investor letter representing that such Person is both (i) either an Institutional Accredited Investor or a QIB, and (ii) a qualified purchaser as defined in the 1940 Act and containing provisions substantially similar to those of this letter, but referring to the Trust Receipts and the related documents rather than the Receipts.
+ 
+E-2-3
+ 
+ 
+8. This letter shall be for the benefit of the Custodian, any DTC Participant through which the Undersigned holds Receipts, DTC, the Depositor and any transferor to or transferee from the Undersigned.  We recognize that such parties will rely upon the truth and accuracy of the representations and agreements set forth in this letter and we agree that each of our purchases of Receipts now or in the future shall be deemed to constitute our concurrence in and ratification of the entire contents of this letter and shall apply equally to any such subsequent purchase.
+ 
+Date:           [___________]
+
+
+
+(Name of Trust)
+
+Mailing Address of Purchaser:
+ 
+________________________________
+ 
+_________________________________
+ 
+__________________________________
+By: ATAX TEBS I, LLC
+ 
+By:_________________________________
+ 
+Printed Name:________________________
+ 
+Title:_______________________________
+
+
+
+[Custodial Receipts, Series  [RA/RB]-[_______]]
+
+E-2-4 
+ 
+ 

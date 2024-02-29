@@ -1,0 +1,449 @@
+EX-10.6 4 d826673dex106.htm EX-10.6
+Exhibit 10.6
+
+AMENDED AND RESTATED SHAREHOLDERS’ AGREEMENT
+
+This Amended and Restated Shareholders’ Agreement (this “Agreement”), among The Goldman Sachs Group, Inc., a Delaware corporation (“GS Inc.”), and the Covered Persons (hereinafter defined) listed on Appendix A hereto, as such Appendix A may be amended from time to time pursuant to the provisions hereof.
+
+WITNESSETH:
+
+WHEREAS, the Covered Persons are beneficial owners of shares of Common Stock, par value $0.01 per share, of GS Inc. (the “Common Stock”).
+
+WHEREAS, GS Inc. entered into the Shareholders’ Agreement (hereinafter defined) in connection with the initial public offering of GS Inc. to address certain relationships among the parties thereto with respect to the voting and disposition of shares of Common Stock and various other matters, and to give to the Shareholders’ Committee (hereinafter defined) the power to enforce their agreements with respect thereto.
+
+WHEREAS, the GS Inc. Board of Directors has determined that it is in the best interests of GS Inc. to maintain the firm’s retention requirement applicable to Management Committee Members through a Board-level policy rather than through this Agreement.
+
+WHEREAS, the Shareholders’ Committee and GS Inc. accordingly desire to amend the Shareholders’ Agreement to remove the transfer restrictions previously set forth in Section 2.1 thereof and to amend other provisions of the Shareholders’ Agreement to reflect such removal, in accordance with Section 7.2(h) thereof.
+
+NOW, THEREFORE, in consideration of the premises and of the mutual agreements, covenants and provisions herein contained, the parties hereto agree to amend and restate the Shareholders’ Agreement in its entirety as follows:
+
+ARTICLE I
+
+DEFINITIONS AND OTHER MATTERS
+
+Section 1.1 Definitions. The following words and phrases as used herein shall have the following meanings, except as otherwise expressly provided or unless the context otherwise requires:
+
+(a) This “Agreement” shall have the meaning ascribed to such term in the Recitals.
+
+(b) A “beneficial owner” of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of, such security and/or (ii) investment power, which includes the power to dispose, or to direct the disposition, of such security, but for purposes of this Agreement a person shall not be deemed a beneficial owner of Common Stock (A)
+
+solely by virtue of the application of Exchange Act Rule 13d-3(d) or Exchange Act Rule 13d-5, (B) solely by virtue of the possession of the legal right to vote securities under applicable state or other law (such as by proxy or power of attorney) or (C) held of record by a “private foundation” subject to the requirements of Section 509 of the Code. “Beneficially own” and “beneficial ownership” shall have correlative meanings.
+
+(c) “Code” shall mean the United States Internal Revenue Code of 1986, as amended from time to time, and the applicable rulings and regulations thereunder.
+
+(d) “Common Stock” shall have the meaning ascribed to such term in the Recitals.
+
+(e) “Company” shall mean GS Inc., together with its Subsidiaries.
+
+(f) “Continuing Provisions” shall have the meaning ascribed to such term in Section 7.1(b).
+
+(g) “Covered Persons” shall mean the Participating Managing Directors, whose names are listed on Appendix A hereto, and all persons who may become Participating Managing Directors, whose names will be added to Appendix A hereto.
+
+(h) “Covered Shares” shall mean the aggregate of any shares of Common Stock, including any shares underlying restricted or performance-based stock units, granted under a Goldman Sachs Compensation Plan as compensation for each year for which they were Covered Persons that are delivered to Covered Persons from time to time, calculated on an after-tax basis using the Specified Tax Rate.
+
+(i) “Effective Date” shall mean the close of business on December 31, 2019.
+
+(j) “Exchange Act” shall mean the United States Securities Exchange Act of 1934, as amended from time to time.
+
+(k) A reference to an “Exchange Act Rule” shall mean such rule or regulation of the SEC under the Exchange Act, as in effect from time to time or as replaced by a successor rule thereto.
+
+(l) “Goldman Sachs 401(k) Plan” shall mean The Goldman Sachs 401(k) Plan, as amended or supplemented from time to time, and any successors to such Plan (previously known as The Goldman Sachs Employees’ Profit Sharing Retirement Income Plan). The Plan is intended to be a profit sharing plan for purposes of the qualification requirements for Section 401(a) of the Code.
+
+(m) “Goldman Sachs Compensation Plan” shall mean the Stock Incentive Plan or any other deferred compensation or employee benefit plan of GS Inc. adopted by the Board of Directors of GS Inc. and specified by the Shareholders’ Committee as a Goldman Sachs Compensation Plan (other than the Goldman Sachs 401(k) Plan).
+
+ 
+
+2
+
+(n) “GS Inc.” shall have the meaning ascribed to such term in the Recitals.
+
+(o) “Management Committee Members” shall mean the members of the Management Committee of GS Inc.
+
+(p) “Participating Managing Director” shall mean a Managing Director of the Company who at the time in question participates in the Partner Compensation Plan or any other compensation or benefit plan specified by the Shareholders’ Committee.
+
+(q) “Partner Compensation Plan” shall mean The Goldman Sachs Partner Compensation Plan adopted by the Board of Directors of GS Inc., and approved by the stockholders of GS Inc., on May 7, 1999, as amended or supplemented from time to time, and any successors to such Plan.
+
+(r) A “person” shall include, as applicable, any individual, estate, trust, corporation, partnership, limited liability company, unlimited liability company, foundation, association or other entity.
+
+(s) “Preliminary Vote” shall have the meaning ascribed to such term in Section 4.1(a) hereof.
+
+(t) “Restricted Person” shall mean any person who is not (i) a Covered Person or (ii) a director, officer or employee of the Company acting in such person’s capacity as a director, officer or employee.
+
+(u) “SEC” shall mean the United States Securities and Exchange Commission.
+
+(v) “Shareholders’ Agreement” shall mean the Shareholders’ Agreement adopted by the Board of Directors of GS Inc. on May 7, 1999, as amended or supplemented from time to time up to but excluding the Effective Date.
+
+(w) “Shareholders’ Committee” shall mean the body constituted to administer the terms and provisions of this Agreement pursuant to Article V hereof.
+
+(x) “SIP Committee” shall mean the committee authorized to administer the Stock Incentive Plan.
+
+(y) “Sole Beneficial Owner” shall mean a person who is the beneficial owner of shares of Common Stock, who does not share beneficial ownership of such shares of Common Stock with any other person (other than pursuant to this Agreement or applicable community property laws) and who is the only person (other than pursuant to applicable community property laws) with a direct economic interest in such shares of Common Stock. The interest of a spouse or a domestic partner in a joint account, and an economic interest of the Company as pledgee, shall be disregarded for this purpose.
+
+ 
+
+3
+
+(z) “Specified Tax Rate” shall mean the rate determined from time to time by the SIP Committee (or any person authorized thereby), in its sole discretion, to be applicable to the calculation of Covered Shares.
+
+(aa) “Stock Incentive Plan” shall mean The Goldman Sachs Amended and Restated Stock Incentive Plan adopted by the Board of Directors of GS Inc. on January 16, 2003 and approved by the stockholders of GS Inc. on April 1, 2003, as amended or supplemented from time to time, and any predecessors or successors to such Plan.
+
+(bb) “Subsidiary” shall mean any person in which GS Inc. owns, directly or indirectly, a majority of the equity economic or voting ownership interest.
+
+(cc) “vote” shall include actions taken or proposed to be taken by written consent.
+
+(dd) “Voting Shares” shall have the meaning ascribed to such term in Section 4.1(a).
+
+Section 1.2 Gender. For the purposes of this Agreement, the words “he,” “his” or “himself” shall be interpreted to include the masculine, feminine and corporate, other entity or trust form.
+
+ARTICLE II
+
+LIMITATIONS ON TRANSFER OF SHARES
+
+Section 2.1 Holding of Common Stock in GS Inc. Brokerage Accounts or in Custody and in Nominee Name.
+
+(a) Each Covered Person understands and agrees that all shares of Common Stock beneficially owned by him (other than shares of Common Stock held of record by a trustee in the Goldman Sachs 401(k) Plan or in any plan designated as a Goldman Sachs Compensation Plan) shall, as determined by the Shareholders’ Committee from time to time, be held either in a brokerage account with a Subsidiary in his name or in the custody of a custodian (and registered in the name of a nominee for such Covered Person). If shares of Common Stock are required to be held in the custody of a custodian as provided in this Section 2.1(a), each Covered Person agrees (i) to assign, endorse and register for transfer into such nominee name or deliver to such custodian any such shares of Common Stock which are not so registered or so held, as the case may be, and (ii) that the form of the custody agreement and the identity of the custodian and nominee must be satisfactory in form and substance to the Shareholders’ Committee and GS Inc.
+
+(b) For such time as shares of Common Stock are required to be held in the custody of a custodian in accordance with Section 2.1(a), whenever the nominee holder shall receive any dividend or other distribution upon any shares of Common Stock other than in shares of Common Stock, the Shareholders’ Committee will give
+
+ 
+
+4
+
+or cause to be given notice or direction to the applicable nominee and/or custodian referred to in paragraph (a) to permit the prompt distribution of such dividend or distribution to the beneficial owner of such shares of Common Stock, net of any tax withholding amounts required to be withheld by the nominee, unless the distribution of such dividend or distribution is restricted by the terms of another agreement between the Covered Person and the Company known to the Shareholders’ Committee.
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES OF THE PARTIES
+
+Section 3.1 Each Covered Person severally represents and warrants for himself that:
+
+(a) Such Covered Person has (and, with respect to shares of Common Stock to be acquired, will have) the right to vote pursuant to Section 4.1 of this Agreement all shares of Common Stock of which the Covered Person is the Sole Beneficial Owner; and
+
+(b) (if the Covered Person is other than a natural person, with respect to subsections (i) through (x), and if the Covered Person is a natural person, with respect to subsections (iv) through (x) only):
+
+ 
+
+ 	(i)	
+such Covered Person is duly organized and validly existing in good standing under the laws of the jurisdiction of such Covered Person’s formation;
+
+ 
+
+ 	(ii)	
+such Covered Person has full right, power and authority to enter into and perform this Agreement;
+
+ 
+
+ 	(iii)	
+the execution and delivery of this Agreement and the performance of the transactions contemplated herein have been duly authorized, and no further proceedings on the part of such Covered Person are necessary to authorize the execution, delivery and performance of this Agreement; and this Agreement has been duly executed by such Covered Person;
+
+ 
+
+ 	(iv)	
+the person signing this Agreement on behalf of such Covered Person has been duly authorized by such Covered Person to do so;
+
+ 
+
+ 	(v)	
+this Agreement constitutes the legal, valid and binding obligation of such Covered Person, enforceable against such Covered Person in accordance with its terms (subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights and to general equity principles);
+
+ 
+
+5
+
+ 	(vi)	
+neither the execution and delivery of this Agreement by such Covered Person nor the consummation of the transactions contemplated herein conflicts with or results in a breach of any of the terms, conditions or provisions of any agreement or instrument to which such Covered Person is a party or by which the assets of such Covered Person are bound (including without limitation the organizational documents of such Covered Person, if such Covered Person is other than a natural person), or constitutes a default under any of the foregoing, or violates any law or regulation;
+
+ 
+
+ 	(vii)	
+such Covered Person has obtained all authorizations, consents, approvals and clearances of all courts, governmental agencies and authorities, and any other person, if any (including the spouse of such Covered Person with respect to the interest of such spouse in the shares of Common Stock of such Covered Person if the consent of such spouse is required), required to permit such Covered Person to enter into this Agreement and to consummate the transactions contemplated herein;
+
+ 
+
+ 	(viii)	
+there are no actions, suits or proceedings pending, or, to the knowledge of such Covered Person, threatened against or affecting such Covered Person or such Covered Person’s assets in any court or before or by any federal, state, municipal or other governmental department, commission, board, bureau, agency or instrumentality which, if adversely determined, would impair the ability of such Covered Person to perform this Agreement;
+
+ 
+
+ 	(ix)	
+the performance of this Agreement will not violate any order, writ, injunction, decree or demand of any court or federal, state, municipal or other governmental department, commission, board, bureau, agency or instrumentality to which such Covered Person is subject; and
+
+ 
+
+ 	(x)	
+no statement, representation or warranty made by such Covered Person in this Agreement, nor any information provided by such Covered Person for inclusion in a report filed pursuant to Section 6.3 hereof or in a registration statement filed by GS Inc. contains or will contain any untrue statement of a material fact or omits or will omit to state a material fact necessary in order to make the statements, representations or warranties contained herein or information provided therein not misleading.
+
+Each Covered Person severally agrees for himself that the foregoing provision of this Article III shall be a continuing representation and covenant by him during the period that he shall be a Covered Person, and he shall take all actions as shall from time to time be necessary to cure any breach or violation and to obtain any authorizations, consents, approvals and clearances in order that such representations shall be true and correct during that period.
+
+ 
+
+6
+
+ARTICLE IV
+
+VOTING AGREEMENT
+
+Section 4.1 Preliminary Vote of Covered Persons; Voting Procedures.
+
+(a) Prior to any vote of the stockholders of GS Inc., there shall be a separate, preliminary vote, on each matter upon which a stockholder vote is proposed to be taken (each, a “Preliminary Vote”), of all of the shares of Common Stock of which a Covered Person is the Sole Beneficial Owner (excluding shares of Common Stock held by the trust underlying the Goldman Sachs 401(k) Plan) and any shares of Common Stock held by the trust underlying any plan designated as a Goldman Sachs Compensation Plan and allocated to a Covered Person (collectively, the “Voting Shares”).
+
+(b) Other than in elections of directors, every Voting Share shall be voted in accordance with the vote of the majority of the votes cast on the matter in question by the Voting Shares in the Preliminary Vote.
+
+(c) In elections of directors, every Voting Share shall be voted in favor of the election of those persons, equal in number to the number of such positions to be filled, receiving the highest numbers of votes cast by the Voting Shares in the Preliminary Vote.
+
+Section 4.2 Irrevocable Proxy and Power of Attorney.
+
+(a) By his signature hereto, each Covered Person hereby gives the Shareholders’ Committee, with full power of substitution and resubstitution, an irrevocable proxy to vote or otherwise act with respect to all of the Covered Person’s Voting Shares as of the relevant record date or other date used for purposes of determining holders of Common Stock entitled to vote or take any action, as fully, to the same extent and with the same effect as such Covered Person might or could do under any applicable laws or regulations governing the rights and powers of stockholders of a Delaware corporation, as follows:
+
+ 
+
+ 	(i)	
+such proxy shall be voted in connection with such matters as are the subject of a Preliminary Vote as provided in this Agreement in accordance with such Preliminary Vote;
+
+ 
+
+ 	(ii)	
+the holder of such proxy shall be authorized to vote on such other matters as may come before a meeting of stockholders of GS Inc. or any adjournment thereof and as are related, directly or indirectly, to the matter which was the subject of the Preliminary Vote as the holder of such proxy sees fit in his discretion but in a manner consistent with the Preliminary Vote; and
+
+ 
+
+ 	(iii)	
+the holder of such proxy shall be authorized to vote on such other matters as may come before a meeting of stockholders of GS Inc. or any adjournment thereof (including matters related to adjournment thereof) as the holder of such proxy sees fit in his discretion but not
+
+ 
+
+7
+
+ 	to cast any vote under this clause (iii) which is inconsistent with the Preliminary Vote or which would achieve an outcome that would frustrate the intent of the Preliminary Vote. Each Covered Person hereby affirms that this proxy is given as a term of this Agreement and as such is coupled with an interest and is irrevocable.
+It is further understood and agreed by each Covered Person that this proxy may be exercised by the holder of such proxy with respect to all Voting Shares of such Covered Person for the period beginning on the Effective Date and ending on the earlier of (a) the date this Agreement shall have been terminated pursuant to Section 7.1(a) hereof or, (b) in the case of a Covered Person, Section 7.1(b) hereof.
+
+(b) By his signature hereto, each Covered Person appoints the Shareholders’ Committee, with full power of substitution and resubstitution, his true and lawful attorney-in-fact to direct, in accordance with the provisions of this Article IV, the voting of any Voting Shares held of record by any other person but beneficially owned by such Covered Person (including any Voting Shares held by the trust underlying any plan designated as a Goldman Sachs Compensation Plan and allocated to such Covered Person), granting to such attorneys, and each of them, full power and authority to do and perform each and every act and thing whatsoever that such attorney or attorneys may deem necessary, advisable or appropriate to carry out fully the intent of Section 4.1 and Section 4.2(a) as such Covered Person might or could do personally, hereby ratifying and confirming all acts and things that such attorney or attorneys may do or cause to be done by virtue of this power of attorney. It is understood and agreed by each Covered Person that this appointment, empowerment and authorization may be exercised by the aforementioned persons with respect to all Voting Shares of such Covered Person, and held of record by another person, for the period beginning on the Effective Date and ending on (a) the earlier of the date this Agreement shall have been terminated pursuant to Section 7.1(a) hereof or, (b) in the case of a Covered Person, Section 7.1(b) hereof.
+
+ARTICLE V
+
+SHAREHOLDERS’ COMMITTEE
+
+Section 5.1 Membership. The Shareholders’ Committee shall at all times consist of all of those individuals who are both Covered Persons and members of the Board of Directors of GS Inc. and who agree to serve as members of the Shareholders’ Committee.
+
+Section 5.2 Additional Members. If there are less than three individuals who are both Covered Persons and members of the Board of Directors of GS Inc. and who agree to serve as members of the Shareholders’ Committee, the Shareholders’ Committee shall consist of each such individual plus such additional individuals who are Covered Persons and who are selected pursuant to procedures established by the Shareholders’ Committee as shall assure a Shareholders’ Committee of not less than three members who are Covered Persons.
+
+ 
+
+8
+
+Section 5.3 Determinations of and Actions by the Shareholders’ Committee.
+
+(a) All determinations necessary or advisable under this Agreement (including determinations of beneficial ownership) shall be made by the Shareholders’ Committee, whose determinations shall be final and binding. The Shareholders’ Committee’s determinations under this Agreement and actions (including waivers) hereunder need not be uniform and may be made selectively among Covered Persons (whether or not such Covered Persons are similarly situated).
+
+(b) Each Covered Person recognizes and agrees that the members of the
+
+Shareholders’ Committee in acting hereunder shall at all times be acting in their capacities as members of the Shareholders’ Committee and not as directors or officers of the Company and in so acting or failing to act shall not have any fiduciary duties to the Covered Persons as a member of the Shareholders’ Committee by virtue of the fact that one or more of such members may also be serving as a director or officer of the Company or otherwise.
+
+(c) The Shareholders’ Committee shall act through a majority vote of its members and such actions may be taken in person at a meeting (in person or telephonically) or by a written instrument signed by all of the members.
+
+Section 5.4 Certain Obligations of the Shareholders’ Committee. The Shareholders’ Committee shall be obligated (a) to attend as proxy, or cause a person designated by it and acting as lawful proxy to attend as proxy, each meeting of the stockholders of GS Inc. and to vote or to cause such designee to vote the Voting Shares over which it has the power to vote in accordance with the results of the Preliminary Vote as set forth in Section 4.1, and (b) to develop procedures governing Preliminary Votes and other votes and actions to be taken pursuant to this Agreement.
+
+ARTICLE VI
+
+OTHER AGREEMENTS OF THE PARTIES
+
+Section 6.1 Standstill Provisions. Each Covered Person agrees that such Covered Person shall not, directly or indirectly, alone or in concert with any other person:
+
+(a) make, or in any way participate in, any “solicitation” of “proxies” (as such terms are defined in Exchange Act Rule 14a-1) relating to any securities of the Company to or with any Restricted Person;
+
+(b) deposit any shares of Common Stock in a voting trust or subject any shares of Common Stock to any voting agreement or arrangement that includes as a party any Restricted Person;
+
+(c) form, join or in any way participate in a group (as contemplated by Exchange Act Rule 13d-5(b)) with respect to any securities of the Company (or any securities the ownership of which would make the owner thereof a beneficial owner of securities of the Company (for this purpose as determined by Exchange Act Rule 13d-3 and Exchange Act Rule 13d-5)) that includes as a party any Restricted Person;
+
+ 
+
+9
+
+(d) make any announcement subject to Exchange Act Rule 14a-1(l)(2)(iv) to any Restricted Person;
+
+(e) initiate or propose any “shareholder proposal” subject to Exchange Act
+
+Rule 14a-8;
+
+(f) together with any Restricted Person, make any offer or proposal to acquire any securities or assets of GS Inc. or any of its Subsidiaries or solicit or propose to effect or negotiate any form of business combination, restructuring, recapitalization or other extraordinary transaction involving, or any change in control of, GS Inc., its Subsidiaries or any of their respective securities or assets;
+
+(g) together with any Restricted Person, seek the removal of any directors or a change in the composition or size of the board of directors of GS Inc.;
+
+(h) together with any Restricted Person, in any way participate in a call for any special meeting of the stockholders of GS Inc.; or
+
+(i) assist, advise or encourage any person with respect to, or seek to do, any of the foregoing.
+
+Section 6.2 Expenses.
+
+(a) GS Inc. shall be responsible for all expenses of the members of the Shareholders’ Committee incurred in the operation and administration of this Agreement, including expenses of proxy solicitation for and tabulation of the Preliminary Vote, expenses incurred in preparing appropriate filings and correspondence with the SEC, lawyers’, accountants’, agents’, consultants’, experts’, investment banking and other professionals’ fees, expenses incurred in enforcing the provisions of this Agreement, expenses incurred in maintaining any necessary or appropriate books and records relating to this Agreement and expenses incurred in the preparation of amendments to and waivers of provisions of this Agreement.
+
+(b) Each Covered Person shall be responsible for all expenses incurred by him in connection with compliance with his obligations under this Agreement, including expenses incurred by the Shareholders’ Committee or GS Inc. in enforcing the provisions of this Agreement relating to such obligations.
+
+Section 6.3 Filing of Schedule 13D or 13G.
+
+(a) In the event that a Covered Person is required to file a report of beneficial ownership on Schedule 13D or 13G with respect to the shares of Common Stock beneficially owned by him (for this purpose as determined by Exchange Act Rule 13d-3 and Exchange Act Rule 13d-5), such Covered Person agrees that, unless otherwise directed by the Shareholders’ Committee, he will not file a separate such report, but will file a report together with the other Covered Persons, containing the information required by the Exchange Act, and he understands and agrees that such report shall be filed on his behalf by the Shareholders’ Committee, any member
+
+ 
+
+10
+
+thereof or any person authorized thereby. Such Covered Person shall cooperate fully with the other Covered Persons and the Shareholders’ Committee to achieve the timely filing of any such report and any amendments thereto as may be required, and such Covered Person agrees that any information concerning him which he furnishes in connection with the preparation and filing of such report will be complete and accurate.
+
+(b) By his signature hereto, each Covered Person appoints the Shareholders’ Committee and each member thereof, with full power of substitution and resubstitution, his true and lawful attorney-in-fact to execute such reports and any and all amendments thereto and to file such reports with all exhibits thereto and other documents in connection therewith with the SEC, granting to such attorneys, and each of them, full power and authority to do and perform each and every act and thing whatsoever that such attorney or attorneys may deem necessary, advisable or appropriate to carry out fully the intent of this Section 6.3 as such Covered Person might or could do personally, hereby ratifying and confirming all acts and things that such attorney or attorneys may do or cause to be done by virtue of this power of attorney. Each Covered Person hereby further designates such attorneys as such Covered Person’s agents authorized to receive notices and communications with respect to such reports and any amendments thereto. It is understood and agreed by each Covered Person that this appointment, empowerment and authorization may be exercised by the aforementioned persons for the period beginning on May 7, 1999 and ending on the date such Covered Person is no longer subject to the provisions of this Agreement (and shall extend thereafter for such time as is required to reflect, and only to reflect, that such Covered Person is no longer a party to this Agreement).
+
+Section 6.4 Representatives, Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the respective legal representatives, successors and assigns of the Covered Persons; provided, however, that a Covered Person may not assign this Agreement or any of his rights or obligations hereunder without the prior written consent of GS Inc., and any assignment without such consent by a Covered Person shall be void; and provided further that no assignment of this Agreement by GS Inc. or to a successor of GS Inc. (by operation of law or otherwise) shall be valid unless such assignment is made to a person which succeeds to the business of GS Inc. substantially as an entirety.
+
+Section 6.5 Further Assurances. Each Covered Person agrees to execute such additional documents and take such further action as may be reasonably necessary to effect the provisions of this Agreement.
+
+ 
+
+11
+
+ARTICLE VII
+
+MISCELLANEOUS
+
+Section 7.1 Term of the Agreement; Termination of Certain Provisions.
+
+(a) The term of this Agreement shall continue until the first to occur of January 1, 2050 and such time as this Agreement is terminated by the affirmative vote of not less than 66 2/3% of the outstanding Covered Shares.
+
+(b) Unless this Agreement is previously terminated pursuant to Section 7.1(a) hereof, any Covered Person who ceases to be a Covered Person for any reason other than death shall no longer be bound by the provisions of this Agreement (other than Sections 5.3, 6.2, 6.3, 6.5, 7.4, 7.5, 7.6, 7.8 and 7.10 (the “Continuing Provisions”)), and such Covered Person’s name shall be removed from Appendix A to this Agreement.
+
+(c) Unless this Agreement is theretofore terminated pursuant to Section 7.1(a) hereof, the estate of any Covered Person who ceases to be a Covered Person by reason of death shall from and after the date of such death be bound only by the Continuing Provisions, and such Covered Person’s name shall be removed from Appendix A to this Agreement.
+
+Section 7.2 Amendments.
+
+(a) Except as provided in this Section 7.2, provisions of this Agreement may be amended only by the affirmative vote of the holders of a majority of the outstanding Covered Shares.
+
+(b) This Section 7.2(b) and Section 7.1(a) may be amended only by the affirmative vote of the holders of 66 2/3% of the outstanding Covered Shares. Any amendment of any other provision of this Agreement that would have the effect, in connection with a tender or exchange offer by any person other than the Company as to which the Board of Directors of GS Inc. is recommending rejection, of permitting transfers which would not be permitted by the terms of this Agreement as then in effect shall also require the affirmative vote of the holders of 66 2/3% of the outstanding Covered Shares.
+
+(c) This Section 7.2(c), Article V and any other provision the amendment (or addition) of which has the effect of materially changing the rights or obligations of the Shareholders’ Committee hereunder may be amended (or added) either (i) with the approval of the Shareholders’ Committee and the affirmative vote of the holders of a majority of the Covered Shares or (ii) by the affirmative vote of the holders of 66 2/3% of the outstanding Covered Shares.
+
+(d) In addition to any other vote or approval that may be required under this Section 7.2, any amendment of this Agreement that has the effect of changing the obligations of GS Inc. hereunder to make such obligations materially more onerous to GS Inc. shall require the approval of GS Inc.
+
+(e) Each Covered Person understands that it is intended that each Participating Managing Director of the Company will be a Covered Person under this Agreement or will become a Covered Person upon his appointment to such position, and each Covered Person further understands that from time to time certain other persons may
+
+ 
+
+12
+
+become Covered Persons and certain Covered Persons will cease to be bound by provisions of this Agreement pursuant to the terms hereof when they cease to be Participating Managing Directors. Accordingly, this Agreement may be amended by action of the Shareholders’ Committee from time to time and without the approval of any other person, but solely for the purposes of (i) adding to Appendix A such persons as shall be made party to this Agreement pursuant to the terms hereof, such addition to be effective as of the time of such action or appointment, and (ii) removing from Appendix A such persons as shall cease to be bound by the provisions of this Agreement pursuant to Sections 7.1(b) or (c) hereof, which additions and removals shall be given effect from time to time by appropriate changes to Appendix A
+
+Section 7.3 Waivers. The provisions of this Agreement may be waived only as provided in this Section 7.3.
+
+(a) In all circumstances other than those set forth in Section 7.2, the provisions of this Agreement may be waived only by the affirmative vote of the holders of a majority of the outstanding Covered Shares.
+
+(b) In connection with any waiver granted under this Agreement, the Shareholders’ Committee or the holders of the percentage of Covered Shares required for the waiver, as the case may be, may impose such conditions as they determine on the granting of such waivers.
+
+(c) The failure of the Company or the Shareholders’ Committee at any time or times to require performance of any provision of this Agreement shall in no manner affect the rights at a later time to enforce the same. No waiver by the Company or the Shareholders’ Committee of the breach of any term contained in this Agreement, whether by conduct or otherwise, in any one or more instances, shall be deemed to be or construed as a further or continuing waiver of any such breach or the breach of any other term of this Agreement.
+
+Section 7.4 GOVERNING LAW. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE, WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAWS.
+
+Section 7.5 Resolution of Disputes.
+
+(a) The Shareholders’ Committee shall have the sole and exclusive power to enforce the provisions of this Agreement. The Shareholders’ Committee may in its sole discretion request GS Inc. to conduct such enforcement, and GS Inc. agrees to conduct such enforcement as requested and directed by the Shareholders’ Committee.
+
+(b) Without diminishing the finality and conclusive effect of any determination by the Shareholders’ Committee of any matter under this Agreement (and subject to the provisions of paragraphs (c) and (d) hereof), any dispute, controversy or claim arising out of or relating to or concerning the provisions of this Agreement shall be finally settled by arbitration in New York City before, and in accordance with the rules then obtaining of, the New York Stock Exchange, Inc. (“NYSE”), or if the NYSE declines to arbitrate the matter, the American Arbitration Association (“AAA”) in accordance with the commercial arbitration rules of the AAA.
+
+ 
+
+13
+
+(c) Notwithstanding the provisions of paragraph (b), and in addition to its right to submit any dispute or controversy to arbitration, the Shareholders’ Committee may bring, or may cause GS Inc. to bring, on behalf of the Shareholders’ Committee or on behalf of one or more Covered Persons, an action or special proceeding in a state or federal court of competent jurisdiction sitting in the State of Delaware, whether or not an arbitration proceeding has theretofore been or is ever initiated, for the purpose of temporarily, preliminarily or permanently enforcing the provisions of this Agreement and, for the purposes of this paragraph (c), each Covered Person (i) expressly consents to the application of paragraph (d) to any such action or proceeding, (ii) agrees that proof shall not be required that monetary damages for breach of the provisions of this Agreement would be difficult to calculate and that remedies at law would be inadequate and (iii) irrevocably appoints each General Counsel of GS Inc., c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, Delaware 19801 as such Covered Person’s agent for service of process in connection with any such action or proceeding, who shall promptly advise such Covered Person of any such service of process.
+
+(d) Each Covered Person hereby irrevocably submits to the exclusive jurisdiction of any state or federal court located in the State of Delaware over any suit, action or proceeding arising out of or relating to or concerning this Agreement that is not otherwise arbitrated according to the provisions of paragraph (b) hereof. This includes any suit, action or proceeding to compel arbitration or to enforce an arbitration award. The parties acknowledge that the forum designated by this paragraph (d) has a reasonable relation to this Agreement, and to the parties’ relationship with one another. Notwithstanding the foregoing, nothing herein shall preclude the Shareholders’ Committee or GS Inc. from bringing any action or proceeding in any other court for the purpose of enforcing the provisions of this Section 7.5.
+
+The agreement of the parties as to forum is independent of the law that may be applied in the action, and they each agree to such forum even if the forum may under applicable law choose to apply non-forum law. The parties hereby waive, to the fullest extent permitted by applicable law, any objection which they now or hereafter may have to personal jurisdiction or to the laying of venue of any such suit, action or proceeding brought in any court referred to in paragraph (d). The parties undertake not to commence any action arising out of or relating to or concerning this Agreement in any forum other than a forum described in paragraph (d). The parties agree that, to the fullest extent permitted by applicable law, a final and non-appealable judgment in any such suit, action or proceeding in any such court shall be conclusive and binding upon the parties.
+
+ 
+
+14
+
+Section 7.6 Relationship of Parties. The terms of this Agreement are intended not to create a separate entity for United States federal income tax purposes, and nothing in this Agreement shall be read to create any partnership, joint venture or separate entity among the parties or to create any trust or other fiduciary relationship between them.
+
+Section 7.7 Notices.
+
+(a) Any communication, demand or notice to be given hereunder will be duly given (and shall be deemed to be received) when delivered in writing by hand or first class mail or by telecopy to a party at its address as indicated below:
+
+If to a Covered Person,
+
+c/o The Goldman Sachs Group, Inc.
+
+200 West Street
+
+15th Floor
+
+New York, New York 10282-2198
+
+Fax: (212) 341-5638
+
+Attention: General Counsel;
+
+If to the Shareholders’ Committee, at
+
+Shareholders’ Committee under the Shareholders’ Agreement,
+
+c/o The Goldman Sachs Group, Inc.
+
+200 West Street
+
+15th Floor
+
+New York, New York 10282-2198
+
+Fax: (212) 341-5638
+
+Attention: General Counsel;
+
+and
+
+If to GS Inc., at
+
+The Goldman Sachs Group, Inc.
+
+200 West Street
+
+15th Floor
+
+New York, New York 10282-2198
+
+Fax: (212) 341-5638
+
+Attention: General Counsel.
+
+GS Inc. shall be responsible for notifying each Covered Person of the receipt of a communication, demand or notice under this Agreement relevant to such Covered Person at the address of such Covered Person then in the records of GS Inc. (and each Covered Person shall notify GS Inc. of any change in such address for communications, demands and notices).
+
+(b) Unless otherwise provided to the contrary herein, any notice which is required to be given in writing pursuant to the terms of this Agreement may be given by telecopy.
+
+ 
+
+15
+
+Section 7.8 Severability. If any provision of this Agreement is finally held to be invalid, illegal or unenforceable, (a) the remaining terms and provisions hereof shall be unimpaired and (b) the invalid or unenforceable term or provision shall be deemed replaced by a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision.
+
+Section 7.9 Right to Determine Tender Confidentially. In connection with any tender or exchange offer for all or any portion of the outstanding Common Stock, subject to compliance with all applicable restrictions on transfer in this Agreement or any other agreement with GS Inc., each Covered Person will have the right to determine confidentially whether such Covered Person’s Covered Shares will be tendered in such tender or exchange offer.
+
+Section 7.10 No Third-Party Rights. Nothing expressed or referred to in this Agreement will be construed to give any person other than the parties to this Agreement any legal or equitable right, remedy, or claim under or with respect to this Agreement or any provision of this Agreement. This Agreement and all of its provisions and conditions are for the sole and exclusive benefit of the parties to this Agreement and their successors and assigns.
+
+Section 7.11 Section Headings. The headings of sections in this Agreement are provided for convenience only and will not affect its construction or interpretation.
+
+Section 7.12 Execution in Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original, but all such counterparts shall together constitute but one and the same instrument.
+
+ 
+
+16
+
+IN WITNESS WHEREOF, the parties hereto have duly executed or caused to be duly executed this Agreement.
+
+ 
+
+THE GOLDMAN SACHS GROUP, INC.
+By:	 	/s/ Karen P. Seymour
+ 	Name:	 	Karen P. Seymour
+ 	Title:	 	Executive Vice President
+ 		 	and General Counsel
+Dated: December 31, 2019
+
+ 
+
+17

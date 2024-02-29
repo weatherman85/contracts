@@ -1,5 +1,5 @@
-EX-10.10 3 a20191231exhibit1010.htm EXHIBIT 10.10
-Exhibit 10.10
+EX-10.10 3 a20191231exhibit1010.htm 
+
 
 
 AMENDMENT NO. 1 TO CREDIT AGREEMENT AND LENDER JOINDER
@@ -21,7 +21,7 @@ Business Day means any day on which commercial banks in Chicago, Illinois are op
  
  
 
-Exhibit 10.10
+
 
 
 
@@ -34,7 +34,7 @@ Prime Rate means, for any day, the rate of interest per annum from time to time 
 
 2
 
-Exhibit 10.10
+
 
 
 if such rate of interest, as set forth from time to time in the money rates section of The Wall Street Journal, becomes unavailable for any reason as determined by the Administrative Agent, “Prime Rate” shall mean the rate of interest in effect for such day as publicly announced from time to time by the Administrative Agent as its prime rate (whether or not such rate is actually charged by the Administrative Agent), which is not intended to be the Administrative Agent’s lowest or most favorable rate of interest at any one time. Any change in the Prime Rate announced by the Administrative Agent shall take effect at the opening of business on the day specified in the public announcement of such change; provided that the Administrative Agent shall not be obligated to give notice of any change in the Prime Rate; provided further that if the Prime Rate shall be less than zero, such rate shall be deemed to be zero for the purposes of this Agreement.
@@ -49,7 +49,7 @@ Repayments of Loans. The Loans of each Lender shall be paid in full and the Comm
 
 3
 
-Exhibit 10.10
+
 
 
 with respect to liquidity and capital adequacy) by an amount deemed by such Lender or such controlling Person to be material, then from time to time, upon demand by such Lender (which demand shall be accompanied by a statement setting forth the basis for such demand and a calculation of the amount thereof in reasonable detail, a copy of which shall be furnished to the Administrative Agent), the Company shall pay to such Lender such additional amount as will compensate such Lender or such controlling Person for such reduction so long as such amounts have accrued on or after the day which is 270 days prior to the date on which such Lender first made demand therefor (except that, if the Change in Law giving rise to such increased costs or reductions is retroactive, then the 270 day period referred to above shall be extended to include the period of retroactive effect thereof).
@@ -63,7 +63,7 @@ Conclusiveness of Statements; Survival of Provisions. Determinations and stateme
 
 4
 
-Exhibit 10.10
+
 
 
 the extent any such representation or warranty (i) is stated to relate solely to an earlier date, in which case such representation or warranty shall have been true and correct in all material respects on and as of such earlier date and (ii) is already qualified by materiality or Material Adverse Effect, in which case such representation or warranty is true and correct in all respects; and
@@ -81,7 +81,7 @@ i.a written opinion of Company’s counsel (or a reliance letter in respect of a
 
 5
 
-Exhibit 10.10
+
 
 
 of the Credit Agreement or any Loan Document, except as specifically set forth herein. Upon the effectiveness of this Amendment, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of similar import shall mean and be a reference to the Credit Agreement as amended hereby. This Amendment shall be deemed a Loan Document under the Credit Agreement.
@@ -95,7 +95,7 @@ of the Credit Agreement or any Loan Document, except as specifically set forth h
 
 6
 
-Exhibit 10.10
+
 
 
 IN WITNESS WHEREOF, the parties have executed this Amendment as of the date and year first above written.
@@ -112,7 +112,7 @@ Title: Chief Financial Officer
 
 [Signature Page to Amendment No. 1 and Lender Joinder]
 
-Exhibit 10.10
+
 
 
 
@@ -126,7 +126,7 @@ Title:
 
 [Signature Page to Amendment No. 1 and Lender Joinder]
 
-Exhibit 10.10
+
 
 
 
@@ -176,7 +176,7 @@ Title:
 
 [Signature Page to Amendment No. 1 and Lender Joinder]
 
-Exhibit 10.10
+
 
 
 
@@ -227,7 +227,7 @@ Title:
 
 [Signature Page to Amendment No. 1 and Lender Joinder]
 
-Exhibit 10.10
+
 
 
 
@@ -245,7 +245,7 @@ Title:
 
 [Signature Page to Amendment No. 1 and Lender Joinder]
 
-Exhibit 10.10
+
 
 
 Annex A
@@ -308,7 +308,7 @@ $325,000,000
 
 
 
-Exhibit 10.10
+
 
 
 Annex B
