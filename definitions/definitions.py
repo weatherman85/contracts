@@ -33,22 +33,24 @@ class Definition:
         self.end = end
 
 class Glossary:
-    def __init__(self, sents):
-        self.glossary = DefinitionFinder()(sents)
+    def __init__(self):
+        self.glossary = []
     @property
     def terms(self):
         return [definition.term for definition in self.glossary]            
     def __iter__(self):
-        return iter(self.glossary)   
+        return iter(self.glossary)
+    def append(self,definition):
+        self.glossary.append(definition) 
     
 class DefinitionFinder(object):
     def __init__(self):
         pass
-    def __call__(self,sents):
-        glossary = []
+    def __call__(self,contract):
+        glossary = Glossary()
         terms = set()
 
-        for sent in sents:
+        for sent in contract.sentences:
             text = re.sub(r"\s+", ' ', sent.text).strip()
 
             for ptn in DefinitionPatterns.patterns:
@@ -86,5 +88,6 @@ class DefinitionFinder(object):
                                             terms.add(term_lower)
                                             glossary.append(Definition(term, ' '.join(word for word in candidate), text, start, end))
                                             break
-        return glossary
+        contract.glossary = glossary
+        return contract
                                 

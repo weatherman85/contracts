@@ -4,6 +4,8 @@ import torch
 from torch import nn
 import numpy as np
 from transformers import AutoTokenizer,BertModel
+from ner.named_entity_recognizer import NamedEntityRecognizer
+from ner.named_entity import NamedEntity
 
 class ClassifierNER(BertPreTrainedModel):
     def __init__(self,config):
@@ -82,3 +84,25 @@ class ClassifierNER(BertPreTrainedModel):
                 )
             idx += 1
         return results
+    
+class CLF_NER(NamedEntityRecognizer):
+    def __init__(self, model=None, keywords=None, normalizer=None):
+        super().__init__(keywords=keywords, normalizer=normalizer)
+        self.model = ClassifierNER.from_pretrained(model)
+
+    def predict(self, text):
+        res =  self.model.predict(text)
+        clf_prediction = res["classification"]
+        ner_prediction = res["entities"]
+        if clf_prediction != "Negative":
+            for ent in ner_prediction:
+                named_ent = NamedEntity(
+                    name=ent["entity"],
+                    label=ent['label'],
+                    start=ent['start'],
+                    end=ent["end"]
+                )
+                yield named_ent
+                
+    def __call__(self, text):
+        return super().__call__(text)

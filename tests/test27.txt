@@ -1,0 +1,1615 @@
+EX-10.42 3 tm221030d2_ex10-42.htm EXHIBIT 10.42
+ 
+
+Exhibit 10.42
+
+ 
+
+Execution Version
+
+ 
+
+BAIN CAPITAL SENIOR LOAN PROGRAM, LLC
+
+AMENDED AND RESTATED
+
+LIMITED LIABILITY COMPANY AGREEMENT
+
+ 
+
+THE SECURITIES REPRESENTED BY THIS AGREEMENT HAVE NOT BEEN REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR REGISTERED OR QUALIFIED UNDER THE SECURITIES LAWS OF ANY STATES OR OTHER JURISDICTIONS. THEY ARE BEING OFFERED AND SOLD IN RELIANCE ON EXEMPTIONS FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND THE REGISTRATION AND QUALIFICATION REQUIREMENTS OF SUCH LAWS. THE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AS SET FORTH HEREIN. NEITHER THE U.S. SECURITIES AND EXCHANGE COMMISSION (THE “SEC”) NOR ANY STATE OR OTHER SECURITIES COMMISSION OR OTHER REGULATORY AUTHORITY HAS APPROVED OR DISAPPROVED OF THESE SECURITIES. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+Page
+
+ 
+
+ARTICLE 1 DEFINITIONS	1
+ 	 	 
+Section 1.1	Definitions	1
+ 	 	 
+ARTICLE 2 GENERAL PROVISIONS	7
+ 	 	 
+Section 2.1	Formation of the Limited Liability Company	7
+Section 2.2	Company Name	8
+Section 2.3	Place of Business; Agent for Service of Process	8
+Section 2.4	Purpose and Powers of the Company	8
+Section 2.5	Fiscal Year	8
+Section 2.6	Liability of Members	8
+Section 2.7	Member List	8
+ 	 	 
+ARTICLE 3 COMPANY CAPITAL AND INTERESTS	9
+ 	 	 
+Section 3.1	Classes of Interests	9
+Section 3.2	Capital Commitments	9
+Section 3.3	Defaulting Members	10
+Section 3.4	Interest or Withdrawals	11
+Section 3.5	Admission of Additional Members	11
+ 	 	 
+ARTICLE 4 ALLOCATIONS	11
+ 	 	 
+Section 4.1	Capital Accounts	11
+Section 4.2	Allocations	12
+Section 4.3	Changes of Interests	12
+Section 4.4	Tax Matters	13
+ 	 	 
+ARTICLE 5 DISTRIBUTIONS	14
+ 	 	 
+Section 5.1	General	14
+Section 5.2	Withholding	15
+Section 5.3	Certain Limitations	16
+ 	 	 
+ARTICLE 6 MANAGEMENT OF COMPANY	16
+ 	 	 
+Section 6.1	Management Generally	16
+Section 6.2	Member Designees’ Committee	16
+Section 6.3	Meetings of the Member Designees’ Committee	17
+Section 6.4	Committee Quorum; Acts of the Members (Acting Through the Committee)	17
+Section 6.5	Investment Restrictions	17
+Section 6.6	Electronic Communications	17
+Section 6.7	Compensation; Expenses	17
+Section 6.8	Removal and Resignation; Vacancies	18
+Section 6.9	Duties of Committee	18
+Section 6.10	Reliance by Third Parties	18
+Section 6.11	Members’ Outside Transactions; Investment Opportunities	18
+Section 6.12	Indemnification	19
+Section 6.13	Partnership Representative	20
+ 
+
+-i-
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+(continued)
+
+ 
+
+Page
+
+ 
+
+ARTICLE 7 TRANSFERS OF COMPANY INTERESTS; WITHDRAWALS	22
+ 	 	 
+Section 7.1	Transfers by Members	22
+Section 7.2	Withdrawal or Resignation by Members	25
+ 	 	 
+ARTICLE 8 TERM, DISSOLUTION AND LIQUIDATION OF COMPANY	25
+ 	 	 
+Section 8.1	Term	25
+Section 8.2	Dissolution	25
+Section 8.3	Wind-down	26
+ 	 	 
+ARTICLE 9 ACCOUNTING, REPORTING AND VALUATION PROVISIONS	28
+ 	 	 
+Section 9.1	Books and Accounts	28
+Section 9.2	Financial Reports; Tax Return	28
+Section 9.3	Tax Elections	30
+Section 9.4	Confidentiality	30
+Section 9.5	Valuation	31
+ 	 	 
+ARTICLE 10 EXPENSES	32
+ 	 	 
+Section 10.1	Company Expenses	32
+ 	 	 
+ARTICLE 11 MISCELLANEOUS PROVISIONS	32
+ 	 	 
+Section 11.1	Governing Law; Jurisdiction; Jury Waiver	32
+Section 11.2	Other Documents	32
+Section 11.3	Force Majeure	32
+Section 11.4	Waivers	33
+Section 11.5	Notices	33
+Section 11.6	Construction	33
+Section 11.7	Amendments	34
+Section 11.8	Legal Counsel	34
+Section 11.9	Fees and Expenses	35
+Section 11.10	Execution	35
+Section 11.11	Binding Effect	35
+Section 11.12	Severability	35
+Section 11.13	Computation of Time	35
+Section 11.14	Entire Agreement	35
+ 
+
+Schedules:
+
+Schedule A – Capitalization
+
+Schedule B – Prior Committee Approval
+
+Schedule C –Representations and Warranties of Members
+
+ 
+
+-ii-
+
+ 
+
+ 
+
+BAIN CAPITAL SENIOR LOAN PROGRAM, LLC
+
+AMENDED AND RESTATED
+
+LIMITED LIABILITY COMPANY AGREEMENT
+
+ 
+
+This Amended and Restated Limited Liability Company Agreement, dated as of December 27, 2021 (the “Effective Date”) (as amended from time to time, this “Agreement”), of Bain Capital Senior Loan Program, LLC, a Delaware limited liability company (the “Company”), is entered into by and among the members of the Company from time to time (each, a “Member,” and collectively, the “Members”).
+
+ 
+
+WHEREAS, the Company was formed as a limited liability company pursuant to the Act by filing the Certificate of Formation with the Secretary of State of the State of Delaware on December 21, 2021;
+
+ 
+
+WHEREAS, on December 21, 2021, BCSF, in its capacity as sole member of the Company, entered into that certain Limited Liability Company Agreement of the Company, effective as of December 21, 2021 (the “Original LLC Agreement”);
+
+ 
+
+WHEREAS, as of the Effective Date, the Company wishes to admit Amberstone Credit Partners Limited as an additional Member of the Company; and
+
+ 
+
+WHEREAS, BCSF, in its capacity as the sole member of the Company, desires to amend and restate the Original LLC Agreement in its entirety, and agrees that this Agreement shall govern the rights of the Members and other matters as set forth in this Agreement.
+
+ 
+
+NOW THEREFORE, in consideration of the mutual agreements set forth below, and intending to be legally bound, the Members hereby agree as follows:
+
+ 
+
+ARTICLE 1
+DEFINITIONS
+
+ 
+
+Section 1.1               Definitions. For purposes of this Agreement, the following terms shall have the following meanings:
+
+ 
+
+“Acceptance Period” has the meaning set forth in Section 7.1(g)(ii).
+
+ 
+
+“Act” means the Delaware Limited Liability Company Act, 6 Del. Code §18-101 et seq., as in effect on the Effective Date and as it may be amended hereafter from time to time.
+
+ 
+
+“Administration Agreement” means the Administration Agreement between the Company and the Administrative Agent, as amended from time to time in accordance with the terms hereof and thereof.
+
+ 
+
+“Administrative Agent” means BCFS Advisors, LP and any successor thereto, or any other entity retained by the Company with Prior Committee Approval to perform administrative services for the Company.
+
+ 
+
+“Administration Fee” means the fee payable by the Company to the Administrative Agent pursuant to the Administration Agreement. As of the Effective Date, the Administration Fee is an amount equal to an annual rate of 0.10% of the cost of the Company’s Investments and its Subsidiaries investments (without duplication), including those purchased with borrowing, and including the amount of any unfunded delayed draw and revolver investment, plus the Servicing Fee.
+
+ 
+
+“Advisers Act” has the meaning set forth in Section 6.11(b).
+
+ 
+
+1
+ 
+
+ 
+
+“Affiliate” means, with respect to a Person, any other Person that directly, or indirectly through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such Person; provided, however, that, (i) except as required by applicable law, no Member shall be deemed an Affiliate of any other Member and no Member shall be deemed an Affiliate of the Company (or vice versa), in each case solely on account of ownership of interests in the Company or being party to this Agreement, and (ii) with respect to Bain Credit, the term “Affiliate” shall only include its direct and indirect Subsidiaries which are not direct or indirect portfolio companies of investment funds advised or managed by Bain Credit or any of its respective Affiliates.
+
+ 
+
+“Agreement” has the meaning set forth in the preamble.
+
+ 
+
+“Amberstone” means, Amberstone Credit Partners Limited, or any Person substituted for Amberstone Credit Partners Limited pursuant to the terms of this Agreement.
+
+ 
+
+“Amberstone Counsel” has the meaning set forth in Section 11.8(b).
+
+ 
+
+“Amberstone Disabling Conduct” means Amberstone has committed a material breach of any provision of this Agreement that has not been cured within thirty (30) days following written notice of such breach or that is not curable.
+
+ 
+
+“Amberstone Representative” has the meaning set forth in Section 6.13(a).
+
+ 
+
+“Applicable Entity” means the Company and any other vehicle treated as a partnership for U.S. federal income tax purposes that is organized and Controlled by the Company or its applicable Affiliates in accordance with this Agreement or any organizational documents governing an Applicable Entity and in which each of BCSF and Amberstone holds a direct or indirect interest through one or more Applicable Entities.
+
+ 
+
+“Approved Liquid Securities List” shall have the meaning set forth in Item 2 of Schedule B hereto.
+
+ 
+
+“Available Cash” at the time of any distribution means the excess of (a) all cash and cash equivalents then held by the Company (other than cash from Capital Contributions) to the extent not otherwise required to pay Expenses as determined by the Administrative Agent over (b) the amount of reserves established by the Members (acting through the Committee).
+
+ 
+
+“Bain Credit” means Bain Capital Credit, LP and any successor thereto.
+
+ 
+
+“Bain Disabling Conduct” means (a) the Administrative Agent (or any officer or senior investment professional of the Administrative Agent to the extent such employee or investment professional has not been promptly terminated by the Administrative Agent) (i) has been indicted for or convicted of a felony under U.S. federal law; (ii) has been determined by a court of competent jurisdiction to have committed acts or omissions that constitute fraud, gross negligence or willful misconduct in carrying out its services to the Company pursuant to the Administration Agreement; provided, that a loss in connection with any Investment of the Company or any Subsidiary will not, by itself, constitute fraud, gross negligence or willful misconduct; or (iii) has committed a material breach of any provision of this Agreement or the Administration Agreement, in each case of this clause (iii), that has not been cured within thirty (30) days following written notice of such breach or that is not curable or (b) BCSF has committed a material breach of any provision of this Agreement, in each case of this clause (b), that has not been cured within thirty (30) days following written notice of such breach or that is not curable.
+
+ 
+
+2
+ 
+
+ 
+
+“Base Return” means an IRR, as calculated using the Microsoft Excel XIRR function, of 10% on the principal amount of Amberstone’s Subordinated Note based upon the cash flows distributed to Amberstone pursuant to Section 5.1 with respect to their Subordinated Note.
+
+ 
+
+“BCSF” means Bain Capital Specialty Finance, Inc. and any successor thereto.
+
+ 
+
+“BCSF Entity” means BCSF and each Affiliate of BCSF.
+
+ 
+
+“Business Day” means a day in which equity financial markets are open in both New York and Korea.
+
+ 
+
+“Capital Account” means, as to a Member, the capital account maintained on the books of the Company for such Member in accordance with the terms hereof.
+
+ 
+
+“Capital Commitment” means, as to each Member, the total amount set forth on Schedule A hereto, which is contributed or agreed to be contributed to the Company by such Member. The Capital Commitment of any Member may be increased by such Member with Prior Committee Approval. Capital Commitments of the Members shall be denominated in U.S. dollars.
+
+ 
+
+“Capital Contribution” means, as to each Member, the aggregate amount of cash actually contributed to the capital of the Company by such Member or the fair market value of any property contributed to the capital of the Company by such Member (as determined by the Members (acting through the Committee)), including amounts advanced under the Subordinated Notes, each in accordance with the terms hereof. All Capital Contributions of the Members shall be made in U.S. dollars.
+
+ 
+
+“Capital Gains” means the Company’s aggregate realized capital gains less aggregate realized capital losses . For this purpose, aggregate realized capital gains, if any, equals the sum of the differences between the net sales price of each Investment, when sold, and the cost of such Investment. Aggregate realized capital losses equals the sum of the amounts by which the net sales price of each Investment, when sold, is less than the cost of such Investment.
+
+ 
+
+“Certificate of Formation” means the certificate of formation of the Company filed under the Act, as amended from time to time.
+
+ 
+
+“Change of Control” means the occurrence of any of the following: (a) the direct or indirect sale, assignment, transfer, or other disposition of all or substantially all of the assets of the Administrative Agent (other than to an Affiliate of Bain Credit that has succeeded to all of the obligations of the Administrative Agent under the Administrative Agreement); (b) Bain Credit or an Affiliate of Bain Credit that is the successor to all or substantially all of the assets of Bain Credit shall cease to own and Control a majority of the equity interests in the Administrative Agent (whether as a result of a merger, consolidation, recapitalization or other transaction); (c) BCSF ceases to be externally managed by BCSF Advisors, LP or an Affiliate of Bain Credit that has succeeded to all of the obligations of the Administrative Agent under the Administrative Agreement.
+
+ 
+
+“Class” has the meaning set forth in Section 3.1(a).
+
+ 
+
+“Class A Preferred Interests” has the meaning and economic rights set forth in Section 5.1.
+
+ 
+
+“Class B Interests” has the meaning and economic rights set forth in Section 5.1.
+
+ 
+
+“Code” means the United States Internal Revenue Code of 1986, as amended from time to time.
+
+ 
+
+3
+ 
+
+ 
+
+“Committee” means the Member Designees’ Committee of the Company.
+
+ 
+
+“Company” has the meaning set forth in the preamble.
+
+ 
+
+“Company Counsel” has the meaning set forth in Section 11.8(a).
+
+ 
+
+“Contribution and Sale Agreement” has the meaning set forth in Section 3.2(a).
+
+ 
+
+“Control” means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise. “Controlled” has a corresponding meaning.
+
+ 
+
+“Covered Party” has the meaning set forth in Section 2.1(c).
+
+ 
+
+“Default Date” has the meaning set forth in Section 3.3(a).
+
+ 
+
+“Default Loan” has the meaning set forth in Section 3.3(a)(iv).
+
+ 
+
+“Defaulting Member” has the meaning set forth in Section 3.3(a).
+
+ 
+
+“Effective Date” has the meaning set forth in the preamble.
+
+ 
+
+“Electing Member” has the meaning set forth in Section 8.3(e).
+
+ 
+
+“Emergency Funding” shall have such meaning as set forth in Section 3.2(c) hereof.
+
+ 
+
+“Entire Interest” means all of a Member’s interests in the Company, including the Member’s transferable interest and all management and other rights.
+
+ 
+
+“Expenses” means all costs and expenses, of whatever nature, directly or indirectly borne by the Company.
+
+ 
+
+“FATCA” has the meaning set forth in Section 4.4(g).
+
+ 
+
+“GAAP” means United States generally accepted accounting principles, in effect from time to time.
+
+ 
+
+“GAAP Profit or GAAP Loss” means, as to any transaction or fiscal period, the net income or loss of the Company determined in accordance with GAAP.
+
+ 
+
+“Implementation Rules” has the meaning set forth in Section 9.2(e).
+
+ 
+
+“Investment” means an investment of any type held, directly or indirectly, by the Company, other than interests in Subsidiaries.
+
+ 
+
+“Investment Income” means the Company’s interest income, dividend income and any other income (including any other fees such as commitment, origination, structuring, diligence and consulting fees or other fees that the Company receives from Investments) accrued during the quarter. Investment Income includes, in the case of Investments with a deferred interest feature such as market discount, original issue discount, debt instruments with PIK interest, preferred stock with PIK dividends and zero-coupon securities, accrued income that the Company has not yet received in cash.
+
+ 
+
+4
+ 
+
+ 
+
+“IRS” means the United States Internal Revenue Service.
+
+ 
+
+“Legal Organization Costs” means all fees charged by Dechert LLP and Shin & Kim LLC in connection with the formation, organization and capitalization of the Company and the preparation by the Company to commence its business operations, including the preparation of this Agreement, the Transaction Documents and other related agreements.
+
+ 
+
+“Loan Holder” has the meaning set forth in Section 3.3(a)(iv).
+
+ 
+
+“Loss” has the meaning set forth in Section 6.12(a).
+
+ 
+
+“Material Modification” shall have the meaning set forth in Item 4(b)(iii) of Schedule B hereto.
+
+ 
+
+“Member” and “Members” have the respective meanings set forth in the preamble and also include any Person that becomes a Member of the Company after the Effective Date under the terms of this Agreement.
+
+ 
+
+“Member Designee” means each individual elected, designated or appointed by a Member to serve as a member of the Committee; provided, that (a) such individual is acting as a representative of such Member (such Member acting in its capacity as a Member with respect to the management of the Company) and (b) such individual is an employee, officer, partner, member or owner of such Member, its investment adviser or any of their respective Affiliates.
+
+ 
+
+“Member List” has the meaning set forth in Section 2.7.
+
+ 
+
+“Notice of Intent” has the meaning set forth in Section 7.1(g)(i).
+
+ 
+
+“Offer to Purchase” has the meaning set forth in Section 8.3(e).
+
+ 
+
+“Organization Costs” means all out-of-pocket Expenses, including Legal Organizational Costs, reasonably incurred directly by the Company or for or on behalf of the Company by a Member, the Administrative Agent or any of their respective Affiliates in connection with the formation, organization and capitalization of the Company and the preparation by the Company to commence its business operations.
+
+ 
+
+“Original LLC Agreement” has the meaning set forth in the recitals.
+
+ 
+
+“Permitted Transfer” has the meaning set forth in Section 7.1(a).
+
+ 
+
+“Person” means an individual, corporation, partnership, association, joint venture, company, limited liability company, trust, governmental authority or other entity.
+
+ 
+
+“PFIC” has the meaning set forth in Section 4.4(f).
+
+ 
+
+“Portfolio Company” means, with respect to any Investment, any Person that is the issuer of any securities or the debtor under any loan or other debt obligations that is the subject of such Investment.
+
+ 
+
+“Prior Committee Approval” means, as to any matter requiring Prior Committee Approval hereunder, the prior approval of the Committee in accordance with Section 6.4.
+
+ 
+
+“Proceeding” has the meaning set forth in Section 6.12(a).
+
+ 
+
+5
+ 
+
+ 
+
+“Profit or Loss” means, as to any transaction or fiscal period, the GAAP Profit or GAAP Loss with respect to such transaction or period, with such adjustments thereto as may be required by this Agreement; provided that in the event that the Value of any Company asset is adjusted under Section 9.5, the amount of such adjustment shall in all events be taken into account in the same manner as gain or loss from the disposition of such asset for purposes of computing Profit or Loss, and the gain or loss from any disposition of such asset shall be calculated by reference to such adjusted Value; and provided further, that GAAP Profit or GAAP Loss may be adjusted by the Members (acting through the Committee) to amortize Organization Costs over four (4) years.
+
+ 
+
+“Proportionate Share” means, as to any Member, the percentage set forth next to such Member’s name on Schedule A hereto.
+
+ 
+
+“Sale Period” has the meaning set forth in Section 7.1(g)(iii).
+
+ 
+
+“SEC” has the meaning set forth on the cover page.
+
+ 
+
+“Securities Act” has the meaning set forth on the cover page.
+
+ 
+
+“Servicing Fee” means the servicing fee payable by the Company to the Administrative Agent pursuant to the Administration Agreement. As of the Effective Date, the Servicing Fee is an amount equal to an annual rate of 0.25% of the cost of the Company’s Investments and its Subsidiaries investments (without duplication), including those purchased with borrowing, and including the amount of any unfunded delayed draw and revolver investments.
+
+ 
+
+“Subordinated Note” means each subordinated note made by the Company in favor of a Member in the form approved by the Members (with Prior Committee Approval).
+
+ 
+
+“Subordinated Note Interest” means the interest on each Subordinated Note pursuant to the terms of such Subordinated Note. The Subordinated Note Interest shall accrue on the outstanding principal balance of each Subordinated Note commencing on the date funds are advanced under such Subordinated Note, and shall not accrue on the day on which any amounts are repaid (with respect to those amounts). Subordinated Note Interest for each Subordinated Note shall be computed for each period during which it accrues by multiplying the outstanding principal amount of such Subordinated Note on each day, by (i) 10% and by (ii) a fraction, the numerator of which is the number of days in such period and the denominator of which is 360.
+
+ 
+
+“Subsidiary” as to the Company, means any Affiliate Controlled by the Company directly, or indirectly through one or more intermediaries. For the avoidance of doubt, Portfolio Companies shall not be included within the definition of Subsidiary.
+
+ 
+
+“Tax Liability” has the meaning set forth in Section 6.13(b).
+
+ 
+
+“Term” has the meaning set forth in Section 8.1.
+
+ 
+
+“Transaction Document” means each of the following: (a) this Agreement; (b) the Administration Agreement; (c) any Subordinated Notes and (d) the Contribution and Sale Agreement.
+
+ 
+
+“Transfer” or “transfer” means, with respect to any Member’s interest in the Company, the direct or indirect sale, assignment, transfer, withdrawal, mortgage, pledge, hypothecation, exchange or other disposition of any part or all of such interest, whether or not for value and whether such disposition is voluntary, involuntary, by operation of law or otherwise, and a “transferee” or “transferor” means a Person that receives or makes a transfer.
+
+ 
+
+6
+ 
+
+ 
+
+“Treasury Regulations” means all final and temporary U.S. federal income tax regulations, as amended from time to time, issued under the Code by the U.S. Department of the Treasury.
+
+ 
+
+“Value” means, as of the date of computation with respect to some or all of the assets of the Company or any assets acquired by the Company, the value of such assets determined in accordance with Section 9.5.
+
+ 
+
+“Withholding Payment” has the meaning set forth in Section 5.2.
+
+ 
+
+“Year-to-Date Capital Gains” means the total Capital Gains earned for a given fiscal year, measured as of any relevant period.
+
+ 
+
+ARTICLE 2
+GENERAL PROVISIONS
+
+ 
+
+Section 2.1               Formation of the Limited Liability Company.
+
+ 
+
+(a)                The Company was formed under and pursuant to the Act upon the filing of the Certificate of Formation with the office of the Secretary of State of the State of Delaware on December 21, 2021. The Members hereby agree to continue the Company under and pursuant to the Act. The Members agree that the rights, duties, obligations and liabilities of the Members shall be as provided in the Act, except as otherwise provided herein. Each Person admitted as a Member as of the Effective Date shall be admitted as a Member at the time such Person has executed this Agreement or a counterpart of this Agreement.
+
+ 
+
+(b)                BCSF hereby represents and warrants to Amberstone that the Company has not engaged in any activities or business, and has not incurred any liabilities or obligations, in each case, prior to the date of this Agreement other than its organization.
+
+ 
+
+(c)                BCSF hereby represents and warrants to Amberstone that (i) neither the Company, the Administrative Agent nor any member, officer, director or employee of the Company, the Administrative Agent or any Affiliate of the Administrative Agent who, in the case of any such Affiliate or any member, officer, director or employee thereof (a “Covered Party”), has, or will have, access to funds under management by the Company has (A) at any time during the five (5) years preceding the Effective Date been indicted for or convicted of any misdemeanor involving the misapplication or misuse of money of another, or (B) has ever been indicted for or convicted of any felony (other than, in the case of (A) and (B), for which such Person has been acquitted), and (ii) there is no action, proceeding or investigation pending or, to the knowledge of BCSF, threatened in writing against any Covered Party, and (iii) during the five (5) years prior to the Effective Date, no Covered Party has been the subject of any action, proceeding or, to the knowledge of BCSF, investigation that relates to a claim or allegation of fraud, the misapplication or misuse of money of another, or violation of any U.S. federal or state securities law, or material rule or regulation. Except as otherwise disclosed to Amberstone in writing, there is no legal action, suit, arbitration or other legal, administrative or other governmental investigation, inquiry or proceeding (whether U.S. federal, state, local or foreign) pending or, to the knowledge of BCSF, threatened in writing against (x) the Company or any of its properties, assets or business, and (y) any Subsidiary and Portfolio Company of the Company or any of such Subsidiary’s or Portfolio Company’s respective properties, assets or business, in each case, to the extent that any matter described in the foregoing clause (x) or (y) would be reasonably expected to have a material adverse effect on the Company. BCSF shall, as soon as reasonably practicable (and in no event more than ten (10) Business Days after having knowledge) provide Amberstone with written notice of (1) the commencement of any legal action, suit or arbitration involving the Company, any of its Subsidiaries, any of its Portfolio Companies, or any officer or investment professional of the Company that would reasonably be expected to have a material adverse effect on the Company, BCSF or the Administrative Agent or (2) any Bain Disabling Conduct.
+
+ 
+
+7
+ 
+
+ 
+
+Section 2.2               Company Name. The name of the Company shall be “Bain Capital Senior Loan Program, LLC” or such other name as approved by Prior Committee Approval.
+
+ 
+
+Section 2.3               Place of Business; Agent for Service of Process.
+
+ 
+
+(a)                The registered office of the Company in the State of Delaware is located at 4001 Kennett Pike, Suite 302, Wilmington, Delaware 19807, or such other place as the Members may designate. The name of its registered agent for service at such address is Maples Fiduciary Services (Delaware) Inc. or such other Person as the Members may designate.
+
+ 
+
+(b)                The initial principal business office of the Company shall be at 200 Clarendon Street, 37th Floor, Boston, Massachusetts 02116.
+
+ 
+
+Section 2.4               Purpose and Powers of the Company.
+
+ 
+
+(a)                The purpose and business of the Company shall be (i) to make and hold Investments, either directly or indirectly, as may be approved from time to time in accordance with the terms hereof and (ii) to engage in any other lawful acts or activities as the Members (acting through the Committee) deem reasonably necessary or advisable for which limited liability companies may be organized under the Act.
+
+ 
+
+(b)                Subject to any limitations in this Agreement, the Company shall have the power and authority to take any and all actions necessary, appropriate, proper, advisable, convenient or incidental to, or for the furtherance of, the purposes set forth in Section 2.4(a).
+
+ 
+
+(c)                The Company may enter into and perform under (i) the Subordinated Notes between the Company and each Member and (ii) the Contribution and Sale Agreement, each in the form approved by the Members (with Prior Committee Approval).
+
+ 
+
+Section 2.5               Fiscal Year. The fiscal year of the Company shall be the period ending on December 31 of each year.
+
+ 
+
+Section 2.6               Liability of Members. Subject to the provisions of the Act and other applicable law, no Member shall be liable for the repayment, satisfaction or discharge of any Company liabilities. No Member shall be personally liable for the return of any portion of the Capital Contributions (or any return thereon) of any other Member.
+
+ 
+
+Section 2.7               Member List. The Administrative Agent shall maintain a list (the “Member List”) setting forth, with respect to each Member, such Member’s name, address, Class, Capital Commitment, Capital Contributions and such other information as the Administrative Agent may deem necessary or desirable or as required by the Act. The Administrative Agent shall from time to time update the Member List as necessary in its discretion to reflect accurately the information therein. Any reference in this Agreement to the Member List shall be deemed to be a reference to the Member List as in effect from time to time. No action of the Members shall be required to supplement or amend the Member List. Revisions to the Member List as a result of changes to the information set forth therein made in accordance with the terms of this Agreement or to evidence the making of Capital Commitments or Capital Contributions shall not constitute an amendment of this Agreement.
+
+ 
+
+8
+ 
+
+ 
+
+ 
+
+ARTICLE 3
+COMPANY CAPITAL AND INTERESTS
+
+ 
+
+Section 3.1               Classes of Interests. The Members (acting through the Committee) have the right to establish separate classes of interests in the Company (each, a “Class”). Each Member understands and acknowledges that except as expressly provided in this Agreement, (i) such Member may participate in a Class solely to the extent specifically agreed in writing by the other Members (acting through the Committee) and (ii) no Member shall have any right or claim to participation of any type in any Class other than the particular Class for which such Member’s interests have been issued in accordance with this Agreement. Each Member’s Class of interests is set forth on Schedule A hereto. Except as expressly set forth in this Agreement, all Classes shall be identical and shall entitle the holders thereof to the same rights and privileges, and references to “membership interests” or “interests” without reference to any Class shall refer to all interests in the Company irrespective of Class.
+
+ 
+
+Section 3.2               Capital Commitments.
+
+ 
+
+(a)                Each Member’s Capital Commitment in respect of a Class shall be set forth on the Member List and shall be payable in cash in U.S. dollars, as set forth on Schedule A hereto, or, with Prior Committee Approval, other property. Upon the approval of any Investment by Prior Committee Approval of a Capital Contribution, the Administrative Agent shall issue a notice to each Member setting forth the terms of the associated Capital Contribution, including the payment date (provided that notice shall be provided no less than ten (10) Business Days prior to the payment date). Capital Contributions shall be made by all Members pro rata based on their respective Proportionate Share. In connection with the initial Capital Contribution by the Members, BCSF and the Company shall enter into a contribution and sale agreement in the form approved by the Members (with Prior Committee Approval) (the “Contribution and Sale Agreement”), pursuant to which BCSF will contribute to the capital of the Company certain investments in exchange for interests in the Company and a Subordinated Note in an amount to be approved by the Company (by Prior Committee Approval). As of the Effective Date, the Classes, Capital Commitments, Capital Contributions and Proportionate Share of the Members shall be as set forth on Schedule A hereto.
+
+ 
+
+(b)                As of the date hereof, each Member makes those representations set forth on Schedule C to the Company, and such representations shall be deemed repeated and reaffirmed by each such Member to the Company as of each date that such Member makes a Capital Contribution to the Company. If the representations and warranties of a Member set forth on Schedule C cease to be true at any time during the term of the Company, such Member shall promptly so notify the Company in writing.
+
+ 
+
+(c)                BCSF may expend funds by or on behalf of the Company or any Subsidiary thereof in order to fund an existing Investment, avoid or cure any immediate borrowing base deficiency, default or event of default or termination event related to indebtedness of the Company or any Subsidiary or to otherwise avert or mitigate significant immediate damage to the Company (such expenditure, “Emergency Funding”); provided, that in each case BCSF or the Administrative Agent determines in good faith and on a reasonable basis that (i) such expenditure directly relates to a sudden or unexpected event, (ii) such expenditure needs to be made within 36 hours of the Administrative Agent becoming aware of such expenditure and it is not reasonably practicable to obtain Prior Committee Approval prior to making such expenditure, (iii) the Company and its Subsidiaries has insufficient available cash to make such expenditure, (iv) the failure to make such expenditure would reasonably be expected to adversely affect one or more Investments in any material respect, and (v) after giving effect to such expenditure, the total amount of all Emergency Funding outstanding at such time does not exceed $25,000,000. The Members agree that any Emergency Funding shall be treated as a Capital Contribution for all purposes of this Agreement and shall not accrue any interest or entitle BCSF to any fees or the like; provided, that in no event shall any Emergency Funding affect any Proportionate Share or any rights related thereto or derived therefrom (including the rights to vote, receive distributions or be allocated Profit or Loss) except as set forth in Section 5.1(b)(i).
+
+ 
+
+9
+ 
+
+ 
+
+Section 3.3               Defaulting Members.
+
+ 
+
+(a)                Upon the failure of any Member (a “Defaulting Member”) to pay in full any portion of such Member’s Capital Commitment within ten (10) Business Days after written notice from any other Member that such payment is overdue (the “Default Date”), any other Member, in its sole discretion, shall have the right to pursue one or more of the following remedies on behalf of the Company, with respect to sub-clauses (i) and (ii), or directly, with respect to sub-clauses (iii) and (iv), if such failure has not been cured in full within such ten (10) Business Day period:
+
+ 
+
+(i)                 seek to collect such unpaid portion (and all attorneys’ fees and other costs incident thereto) by exercising or pursuing any legal remedy the Company may have;
+
+ 
+
+(ii)               upon ten (10) Business Days’ written notice to the other Members (which period may commence during the ten (10) Business Day notice period provided above), and provided that the overdue payment has not been made, dissolve and wind down the Company in accordance with Article 8;
+
+ 
+
+(iii)             so long as it is not also a Defaulting Member, compel the Defaulting Member to sell or transfer the Defaulting Member’s Entire Interest and all of such Defaulting Member’s Subordinated Notes at the price and in accordance with the procedures set forth in Section 8.3(e); and
+
+ 
+
+(iv)              so long as it is not also a Defaulting Member, fund all or any portion of the defaulted amount on behalf of the Defaulting Member with notice to the Administrative Agent and the other Members; provided, that the Members hereby agree and acknowledge (A) that any amount so funded shall be treated as a loan to the Defaulting Member (a “Default Loan”) by the other Member (the “Loan Holder”), the proceeds of which are used by the Defaulting Member to make a Capital Contribution to the Company which, if in amount, may cure a related default by such Defaulting Member; (B) a Default Loan (together with all reasonable and documented costs and expenses incurred by the Loan Holder in connection making such Default Loan, including reasonable legal fees and expenses, which shall be added to the principal of any Default Loan if and when incurred) shall (I) bear interest from the date of such funding until repaid by the Defaulting Member at a rate equal to 10% per annum, compounded annually, (II) be pre-payable by the Defaulting Member at any time, and (III) be fully recourse to the Defaulting Member; (C) until such time that there is no outstanding balance owed under any Default Loan (including any accrued interest thereon), (x) any amounts that would otherwise be distributable to the Defaulting Member under Section 5.1 or Section 8.3(d) shall instead be distributed to the Loan Holder and (y) any purchase price payable to the Defaulting Member in connection with any sale of its interests in the Company shall first be paid to the Loan Holder and in each case of sub-clauses (x) and (y), as repayment of the Default Loan(s) until the repayment in full of such Default Loan(s) (and accrued interest thereon) proportionate to the amount of Default Loan(s) so extended by the Loan Holder to such Defaulting Member; and (D) any amounts distributed to the Loan Holder pursuant to the previous sentence shall be treated for all purposes of this Agreement and for U.S. federal, state and local income tax purposes as having been made by the Company to the Defaulting Member, notwithstanding the Company’s distribution of such amounts to the Loan Holder, and any amounts distributed or payable to the Loan Holder pursuant to the previous sentence shall reduce the amounts owed to the Loan Holder under the related Default Loan, first as to interest and then as to principal.
+
+ 
+
+10
+ 
+
+ 
+
+Except as set forth in Section 3.3(b), the non-Defaulting Member’s election to pursue any one of such remedies shall not be deemed to preclude such Member from pursuing any other such remedy, or any other available remedy, simultaneously or subsequently.
+
+ 
+
+(b)                Notwithstanding any provision of this Agreement to the contrary:
+
+ 
+
+(i)                 a Defaulting Member shall not be entitled to distributions made after the Default Date until the default is cured and any such distributions to which such Defaulting Member would otherwise have been entitled if such default had not occurred shall be debited against the Capital Account of the Defaulting Member so as to reduce the remaining amount of the default; and
+
+ 
+
+(ii)               the Company shall not make new Investments after the Default Date until the default is cured.
+
+ 
+
+Section 3.4               Interest or Withdrawals. No Member shall be entitled to receive any interest on any Capital Contribution to the Company (except as otherwise specifically contemplated by the Subordinated Note or set forth herein). Except as otherwise specifically provided herein, no Member shall be entitled to withdraw any part of its Capital Contributions or Capital Account balance.
+
+ 
+
+Section 3.5               Admission of Additional Members.
+
+ 
+
+(a)                The Members (acting through the Committee) may (i) admit additional Members upon terms approved by Prior Committee Approval, (ii) permit existing Members to subscribe for additional interests in the Company and increase their respective Capital Commitments and (iii) admit a substitute Member in accordance with Section 7.1.
+
+ 
+
+(b)                Each additional Member shall execute and deliver a written instrument satisfactory to the existing Members whereby such Member becomes a party to this Agreement, as well as any other documents reasonably required by the Members (acting through the Committee). Each such additional Member shall thereafter be entitled to all the rights and subject to all the obligations of Members as set forth herein. Upon the admission of or the increase in the interest of any Member as herein provided, the Administrative Agent shall update the Member List to reflect such admission or increase.
+
+ 
+
+ARTICLE 4
+ALLOCATIONS
+
+ 
+
+Section 4.1               Capital Accounts.
+
+ 
+
+(a)                A Capital Account shall be maintained for each Member consisting of such Member’s Capital Contributions, increased or decreased by Profit or Loss allocated to such Member, decreased by the cash or Value of property distributed to such Member (giving net effect to any liabilities the property is subject to, or which the Member assumes), and otherwise maintained consistent with this Agreement. In the event that the Administrative Agent determines that it is prudent to modify the manner in which Capital Accounts, including all debits and credits thereto, are computed in order to be maintained consistent with this Agreement, including to take into account reserves, if needed, as contemplated by Section 8.3(d), the Administrative Agent is authorized to make such modifications to the extent that they do not result in a material adverse effect to any Member. For U.S. federal income tax purposes, Capital Accounts shall be maintained in a manner consistent with the Code and applicable Treasury Regulations.
+
+ 
+
+11
+ 
+
+ 
+
+(b)                Profit or Loss shall be allocated among Members as of the end of each fiscal year of the Company; provided that Profit or Loss shall also be allocated at the end of (i) each period terminating on the date of any withdrawal by any Member, (ii) each period terminating immediately before the date of any admission or increase in Capital Commitment of any Member, (iii) the liquidation of the Company, or (iv) any period which is determined by the Members (acting through the Committee) to be appropriate. Organization Costs shall be amortized over four (4) years or such other period deemed appropriate by the Members (acting through the Committee).
+
+ 
+
+Section 4.2               Allocations.
+
+ 
+
+(a)                Profit or Loss for each fiscal year shall be allocated among the Members in a manner such that, as of the end of such fiscal year and taking into account all prior allocations of Profit or Loss of the Company and all distributions made by the Company through such date, the Capital Account of each Member is, as nearly as possible, equal to the distributions that would be made to such Member if the Company were dissolved, its affairs wound up and assets sold for cash equal to their book value, all the Company liabilities were satisfied (limited with respect to each nonrecourse liability to the adjusted tax basis of the assets securing such liability), and the net assets of the Company were distributed immediately after such allocation.
+
+ 
+
+(b)                Regulatory Allocations. In the event any Member unexpectedly receives any adjustments, allocations or distributions described in Sections 1.704-1(b)(2)(ii)(d)(4), 1.704-1(b)(2)(ii)(d)(5) or 1.704-1(b)(2)(ii)(d)(6) of the Treasury Regulations, items of income (including gross income) and gain shall be specially allocated to such Member in an amount and manner sufficient to eliminate the deficit balance in such Member’s Capital Account (in excess of (i) the amount such Member is obligated to restore upon liquidation of the Company or upon liquidation of such Member’s interest in the Company and (ii) such Member’s share of the Minimum Gain (as defined in Section 1.704-2 of the Treasury Regulations)) created by such adjustments, allocations or distributions as quickly as possible. Additionally, there are hereby incorporated herein such special allocation provisions governing the allocation of income, deduction, gain, and loss for U.S. federal income tax purposes as may be necessary under, and in the manner required by, the Treasury Regulations to ensure that this Schedule complies with all requirements of Section 1.704-2 of the Treasury Regulations relating to “minimum gain” and “partner nonrecourse debt minimum gain” and the allocation and chargeback of so-called “nonrecourse deductions” and “partner nonrecourse deductions”, including a “qualified income offset”.
+
+ 
+
+Section 4.3               Changes of Interests. For purposes of allocating Profit or Loss for any fiscal year or other fiscal period between any permitted transferor and transferee of a Company interest, or between any Members whose relative Company interests have changed during such period, or to any withdrawing Member that is no longer a Member in the Company, the Company shall allocate according to any method allowed by the Code and selected by the Members (acting through the Committee). Distributions with respect to an interest in the Company shall be payable to the owner of such interest on the date of distribution. For purposes of determining the Profit or Loss allocable to or the distributions payable to a permitted transferee of an interest in the Company or to a Member whose interest has otherwise increased or decreased, Profit or Loss allocations and distributions made to predecessor owners with respect to such transferred interest or increase of interest shall be deemed allocated and made to the permitted transferee or other holder.
+
+ 
+
+12
+ 
+
+ 
+
+Section 4.4               Tax Matters.
+
+ 
+
+(a)                The Company shall be properly classified as a partnership for U.S. federal income tax purposes, and neither the Company nor any Member shall elect to treat the Company as a corporation for U.S. federal income tax purposes. Each Subsidiary shall be properly classified as a disregarded entity for U.S. federal income tax purposes, and the Company shall not elect to treat any such Subsidiary as a corporation for U.S. federal income tax purposes.
+
+ 
+
+(b)                Except as otherwise provided in this Agreement, each item of income, gain, loss, deduction or credit determined in accordance with the Code and the applicable Treasury Regulations shall be allocated in the same manner as such item is allocated pursuant to Section 4.2 or Section 4.3, as appropriate.
+
+ 
+
+(c)                The allocation methodology set forth in this Article 4 is intended to comply with certain requirements of the Treasury Regulations. In the event of any variation between the adjusted tax basis and value of any Company property reflected in the Members’ Capital Accounts maintained for U.S. federal income tax purposes, such variation shall be taken into account in allocating taxable income or loss for income tax purposes in accordance with, and to the extent consistent with, the principles under Section 704 of the Code and applicable Treasury Regulations; provided, however, that the Company shall utilize the “traditional method” provided in Treasury Regulation Section 1.704-3(b) with respect to the property contributed or deemed contributed to the Company by any Member on or about the Effective Date. A decision to use a method to allocate such variation pursuant to Treasury Regulation Section 1.704-3, other than as described above, shall be considered a tax election requiring Prior Committee Approval.
+
+ 
+
+(d)                Notwithstanding anything to the contrary herein, if the Code or Treasury Regulations require an adjustment to be made to a Capital Account of a Member, or some other event or events occurs or occur necessitating or justifying, in the Members’ judgment, an adjustment deemed equitable to the Members, the Members (acting through the Committee) shall make such adjustment in the determination and allocation among the Members of Capital Accounts, or items of income, deduction, gain, or loss for tax purposes, accounting procedures or such other financial or tax items as shall equitably take into account such event and applicable provisions of law, and the determination thereof in the sole discretion of the Members (acting through the Committee) shall be final and conclusive as to all of the Members.
+
+ 
+
+(e)                Each Member and the Company agrees to treat the membership interests in the Company, together with the Subordinated Notes, as a single interest constituting equity in the Company for U.S. federal income tax purposes.
+
+ 
+
+(f)                 If the Company determines that it has invested (directly or indirectly) in a “passive foreign investment company” within the meaning of Section 1297 of the Code (a “PFIC”), the Company shall notify each Member of such determination. With respect to each PFIC, for each fiscal year of the Company commencing with the first fiscal year of the Company in which the Company determined that such entity was a PFIC, the Company (i) shall use commercially reasonable efforts to provide each Member, upon request, within one hundred and twenty (120) days after the end of each fiscal year of the Company in which such Member holds (directly or indirectly) an interest in such PFIC, with (A) all information in the Company’s possession or reasonably obtainable by the Company without undue burden or expense reasonably necessary to permit such Member (or the beneficial owners of such Member, as applicable) to complete IRS Form 8621 with respect to such PFIC, and (B) a “PFIC Annual Information Statement” prepared in accordance with Treasury Regulation Section 1.1295-1(g) with respect to such PFIC; and (ii) shall timely make and maintain a “qualified electing fund” election within the meaning of Section 1295 of the Code with respect to such PFIC, unless the Members (acting through the Committee) reasonably determine that it is in the best interest of the Company not to make such election.
+
+ 
+
+13
+ 
+
+ 
+
+(g)                The Company shall seek to take all necessary steps prescribed by Sections 1471 through 1474 of the Code, any Treasury Regulations, rules or guidance issued thereunder, and any laws, rules, guidance or other requirements relating to an applicable intergovernmental agreement (collectively, “FATCA”) to avoid any withholding tax on distributions to the Company and to any Members under such provisions. Furthermore, the Company agrees that prior to taking any of the actions outlined in this Section 4.4(g) with respect to a Member’s failure to timely comply with its FATCA-related obligations under this Agreement, the Company shall provide such Member with written notice of such non-compliance and a reasonable opportunity to cure any such failure.
+
+ 
+
+ARTICLE 5
+DISTRIBUTIONS
+
+ 
+
+Section 5.1               General.
+
+ 
+
+(a)                Unless otherwise determined by Prior Committee Approval, the Company shall distribute to the Members all Available Cash promptly following receipt thereof in no event less frequently than quarterly. The Company may also distribute assets of the Company with Prior Committee Approval and subject to the provisions of Section 5.3(b). Distributions made to the Members pursuant to this Section 5.1(a) shall be made in accordance with Section 5.1(b), Section 5.1(c) and Section 5.1(d) below; provided that the amount of any such distribution may be reduced as provided by Section 5.2 and Section 5.3.
+
+ 
+
+(b)                Available Cash derived from Investment Income shall be distributed to the Members as follows:
+
+ 
+
+(i)                 100% to BCSF until any outstanding Emergency Funding is repaid; and then
+
+ 
+
+(ii)               100% to the Subordinated Notes pro rata based on the total amount of the Subordinated Notes then outstanding until such time as Amberstone’s Subordinated Notes have received all Subordinated Note Interest due and payable as of the date of such distribution under the Subordinated Notes, including any penalties thereon; and then
+
+ 
+
+(iii)             100% to the Class A Preferred Interests, until the Class A Preferred Interests have received an amount equal to 15% of Available Cash derived from Investment Income; and thereafter
+
+ 
+
+(iv)              100% to the Class B Interests pro rata in accordance with the Member’s respective Class B Interests.
+
+ 
+
+(c)                Available Cash derived from Capital Gains shall be distributed to the Members as follows:
+
+ 
+
+(i)                 100% to BCSF until any outstanding Emergency Funding is repaid; and then
+
+ 
+
+(ii)               100% to the Subordinated Notes pro rata based on the total amount of the Subordinated Notes then outstanding until such time as Amberstone’s Subordinated Notes have received all Subordinated Note Interest due and payable as of the date of such distribution, including any penalties thereon, taking into account all amounts paid in Section 5.1(b)(ii); and then
+
+ 
+
+14
+ 
+
+ 
+
+(iii)             100% to the Class A Preferred Interests, until the Class A Preferred Interests have received the lower of an amount equal to 15% of (A) Available Cash derived from Capital Gains received in such quarter or (B) Available Cash derived from Year-to-Date Capital Gains; and thereafter
+
+ 
+
+(iv)              100% to the Class B Interests pro rata in accordance with the Member’s respective Class B Interests.
+
+ 
+
+(d)                Notwithstanding anything to the contrary in the foregoing, (x) if any Member is in default in its obligation to make Capital Contributions or to reimburse the Company for any amounts as and when such Capital Contributions are required to be made or amounts are required to be reimbursed, as applicable, distributions pursuant to Section 5.1(b) and Section 5.1(c) shall be withheld and applied against such Capital Contributions or reimbursement obligations and treated for all purposes hereof as having been distributed to such Member and contributed to the Company as a Capital Contribution or paid to the Company as a reimbursement, as applicable, and (y)to the extent any amounts are owed by a Defaulting Member to a Loan Holder under a Default Loan, any amounts that would otherwise be distributable to the Defaulting Member under Sections 5.1(b)(ii) and (iv) or Sections 5.1(c)(ii) and (iv) shall instead be distributed to the Loan Holder pursuant to the terms of Section 3.3(a)(iv).
+
+ 
+
+Section 5.2               Withholding. The Company may withhold from any distribution to any Member any amount which the Company has paid or is obligated to pay in respect of any withholding or other foreign, U.S. federal, state or local tax, including any interest, penalties or additions with respect thereto (a “Withholding Payment”), imposed on any interest or income of or distributions to such Member, and such withheld amount shall be considered a distribution to such Member for purposes hereof. If no payment is then being made to such Member in an amount sufficient to pay the Company’s withholding obligation, any amount which the Company is obligated to pay shall be deemed an interest-free advance from the Company to such Member, payable by such Member by withholding from subsequent distributions or within seven (7) Business Days after receiving written request for payment from the Company. If the proceeds to the Company from an Investment are reduced on account of taxes withheld by any other Person (such as an entity in which the Company owns an interest, directly or indirectly), and such taxes are imposed on or otherwise are attributable to one or more Members, the amount of the reduction shall be treated as if it were paid by the Company as a Withholding Payment with respect to the relevant Member. Each Member hereby agrees to indemnify the Company for, and hold the Company harmless from, any Withholding Payment that is attributable to such Member (as reasonably determined by the Members (acting through the Committee)), including any interest, penalties and additions to tax with respect thereto. The obligations set forth in this Section 5.2 shall survive a Member’s ceasing to be a Member of the Company, the termination, dissolution, liquidation or winding up of the Company and the termination of this Agreement. The Company shall use commercially reasonable efforts to obtain on behalf of each Member any available exemption from, reduction in, or refund of withholding or other taxes imposed on such Member (or any beneficial owner of such Member) in connection with income or distributions from the Company or otherwise provide a Member, at such Member’s expense, with reasonable assistance and such reasonably available information as may be required by such Member (or any beneficial owner of such Member) to itself obtain any such available exemption, reduction or refund.
+
+ 
+
+15
+ 
+
+ 
+
+Section 5.3               Certain Limitations. Notwithstanding the foregoing provisions:
+
+ 
+
+(a)                In no event shall the Company make a distribution to the extent that it would violate Section 18-607(a) of the Act or other applicable law.
+
+ 
+
+(b)                Distributions shall be made in cash or, in the sole discretion of the Members (with Prior Committee Approval), in-kind in such Company assets as may be selected by the Members (with Prior Committee Approval) in their sole discretion. The value of any asset distributed in-kind shall equal the fair market value of such asset on the date of distribution as determined by Prior Committee Approval; provided that, for the avoidance of doubt, the Company shall not be required to distribute the same Company assets to each Member in any in-kind distribution. Securities listed on a national securities exchange that are not restricted as to transferability and unlisted securities for which an active trading market exists and that are not restricted as to transferability shall be valued in the manner contemplated by Section 9.5 as of the close of business on the day preceding the distribution, and all other securities and non-cash assets shall be valued as determined in the last valuation made pursuant to Section 9.5.
+
+ 
+
+ARTICLE 6
+MANAGEMENT OF COMPANY
+
+ 
+
+Section 6.1               Management Generally.
+
+ 
+
+(a)                The management of the Company and its business and affairs shall be vested in the Members who shall, for administrative convenience, act through the Committee as described in Section 6.2.
+
+ 
+
+(b)                Concurrently with the execution of this Agreement, the Company entered into the Administration Agreement with the Administrative Agent, pursuant to which the Administrative Agent agreed to provide certain services to the Company. Any amendments to the Administration Agreement shall require Prior Committee Approval. Subject to obtaining Prior Committee Approval for any such sub-administration agreement, the Administrative Agent shall be authorized to enter into one or more sub-administration agreements at the expense of the Company.
+
+ 
+
+Section 6.2               Member Designees’ Committee.
+
+ 
+
+(a)                For administrative convenience, the Members desire to act through their representatives serving on the Committee. The Members may determine at any time by mutual agreement the number of Member Designees to constitute the Committee and the authorized number of Member Designees may be increased or decreased by the Members at any time by mutual agreement, upon notice to all Member Designees; provided that at all times each of BCSF and Amberstone has an equal number of Member Designees on the Committee. The initial number of Member Designees shall be four (4), and each of BCSF and Amberstone shall elect, designate or appoint two (2) Member Designees, in each case in their respective sole discretion. Each Member Designee elected, designated or appointed by BCSF or Amberstone, as applicable, shall hold office until a successor is elected and qualified by BCSF or Amberstone, as applicable, or until such Member Designee’s earlier death, resignation, expulsion or removal. As of the Effective Date, the two (2) Member Designees elected, designated and appointed by BCSF are Michael J. Boyle and Michael A. Ewald and the two (2) Member Designees elected, designated and appointed by Amberstone are Dong houg Lee and Sangeon Lee.
+
+ 
+
+16
+ 
+
+ 
+
+(b)                Matters to be decided by the Members (acting through the Committee) on behalf of the Company or any Subsidiary requiring Prior Committee Approval are set forth in further detail in Schedule B hereto, which is incorporated by reference herein.
+
+ 
+
+Section 6.3               Meetings of the Member Designees’ Committee. The Committee may hold meetings, both regular and special, within or outside the State of Delaware. Meetings of the Committee may be called by any Member Designee on not less than five (5) Business Days’ notice to each Member Designee by telephone, facsimile, mail, email or any other similar means of communication, with such notice stating the place, date, time and other necessary details of the meeting (and the means by which each Member Designee may participate by telephone or video conference) and the purpose or purposes for which such meeting is called. Attendance of a Member Designee at any meeting shall constitute a waiver of notice of such meeting, except where a Member Designee attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
+
+ 
+
+Section 6.4               Committee Quorum; Acts of the Members (Acting Through the Committee).
+
+ 
+
+(a)                At all meetings of the Committee, the presence of at least two (2) Member Designees shall constitute a quorum for the transaction of business, provided that at least one (1) Member Designee is present that was elected, designated or appointed by each of BCSF and Amberstone. If a quorum shall not be present at any meeting of the Committee, the Member Designees present at such meeting may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present.
+
+ 
+
+(b)                Every act or decision done or made by the Members (acting through the Committee) shall require the unanimous approval of all Member Designees present at a meeting duly held at which a quorum is present. The Company shall not have the authority without the Members (acting through the Committee) to approve or undertake any item set forth in Schedule B hereto (as such schedule may be amended from time to time by the Members (acting through the Committee)). Any action required or permitted to be taken at any meeting of the Committee may be taken without a meeting, without notice and without a vote if at least one (1) Member Designee elected, designated or appointed by each of BCSF and Amberstone provides its consent thereto by written instrument executed by such Member Designee or by email from such Member Designee.
+
+ 
+
+Section 6.5               Investment Restrictions. Except with Prior Committee Approval, (i) the Company and its Subsidiaries shall not incur indebtedness for borrowed money (including entering into guarantees relating to the incurrence of borrowed money by any Person but excluding incurring debt under the Subordinated Notes) and (ii) balance sheet securitizations through subsidiaries will have a maximum of 80% debt securities and minimum of 20% equity securities measured at the time of securitization based on principal value.
+
+ 
+
+Section 6.6               Electronic Communications. Member Designees may participate in meetings of the Committee by means of telephone or video conference, and such participation in a meeting shall constitute presence in person at the meeting to the extent permissible by applicable law.
+
+ 
+
+Section 6.7               Compensation; Expenses. The Member Designees will not receive any compensation from the Company or its Subsidiaries for their service as Member Designee. However, the Member Designees shall be reimbursed for their reasonable out-of-pocket expenses, if any, of attendance at meetings of the Committee.
+
+ 
+
+17
+ 
+
+ 
+
+Section 6.8               Removal and Resignation; Vacancies. Any Member Designee may be removed or expelled, with or without cause, at any time solely by the Member that elected, designated or appointed such individual in its sole discretion. Any Member Designee may resign at any time by giving written notice to the Member who elected, designated or appointed such individual with a copy to the Company. Such resignation shall take effect at the time specified therein and, unless tendered to take effect upon acceptance thereof, the acceptance of such resignation shall not be necessary to make it effective. Any vacancy caused by removal or expulsion of a Member Designee or the resignation of a Member Designee in accordance with this Section 6.8 shall be filled solely by the action of the Member who previously elected, designated or appointed such individual in its sole discretion in order to fulfill the Committee composition requirements of Section 6.2(a).
+
+ 
+
+Section 6.9               Duties of Committee. To the extent that, at law or in equity, a Member Designee of the Company has duties (including fiduciary duties) and liabilities relating thereto to the Company or to any Member, such individual acting in good faith pursuant to the terms of this Agreement shall not be liable to the Company or to any Member for its good faith reliance on the provisions of this Agreement and no Member Designee shall otherwise owe any duty (including any fiduciary duty) to the Company or to any Member or any of their respective Affiliates, officers, directors, members, partners, shareholders, employees or agents of any of the foregoing, or any of their respective heirs, successors or assigns (other than the duty of good faith and fair dealing). The provisions of this Agreement, to the extent that they restrict the duties and liabilities of such individual otherwise existing at law or in equity, are agreed by the parties hereto to replace such other duties and liabilities of such individual.
+
+ 
+
+Section 6.10            Reliance by Third Parties. Notwithstanding any other provision of this Agreement, any contract, instrument or act on behalf of the Company by an officer or any other Person delegated by Prior Committee Approval shall be conclusive evidence in favor of any third party dealing with the Company that such Person has the authority, power and right to execute and deliver such contract or instrument and to take such act on behalf of the Company. This Section 6.10 shall not be deemed to limit the liabilities and obligations of such Person to seek Prior Committee Approval.
+
+ 
+
+Section 6.11            Members’ Outside Transactions; Investment Opportunities.
+
+ 
+
+(a)                No Member or Member Designee shall be required to devote any fixed portion of its time to the activities and affairs of the Company and its Subsidiaries; provided, that each of BCSF and Amberstone shall devote such time and effort as is reasonably necessary to diligently conduct the activities and affairs of the Company and its Subsidiaries.
+
+ 
+
+(b)                The Administrative Agent and its Affiliates manage, advise or administer other investment funds and other accounts and may manage, advise or administer additional funds and other accounts in the future, some of which may have similar mandates as the Company. The Administrative Agent and its Affiliates are subject to the provisions of the U.S. Investment Advisers Act of 1940, as amended (the “Advisers Act”), and the rules, regulations and interpretations thereof, with respect to the allocation of investment opportunities among such other investment funds and other accounts and the Company. Except for any obligations under the Advisers Act, neither the Administrative Agent nor its Affiliates shall be obligated to offer any investment opportunity, or portion thereof, to the Company.
+
+ 
+
+18
+ 
+
+ 
+
+(c)                Subject to the provisions of this Agreement, each of the Members, the Administrative Agent and each of their respective Affiliates and members may engage in, invest in, participate in or otherwise enter into other business ventures of any kind, nature and description, individually and with others, including the formation and management of other investment funds, with or without the same or similar purposes as the Company, and the ownership of and investment in securities, and neither the Company nor any other Member shall have any right in or to any such activities or the income or profits derived therefrom. In connection therewith, it is expressly agreed that, subject to the provisions of this Agreement, in no event shall it be considered a violation of this Agreement (whether under Section 6.11(a) with respect to time devotion or under any other section herein with respect to investment allocations or otherwise) for a Member or any of its Affiliates or their respective owners, principals, shareholders, members, directors, officers, employees and agents to continue to engage in such investments and transactions nor shall the provisions of this Agreement in any way limit or prohibit any future investments or transactions by a Member or any of its Affiliates (or any of their investment managers or sponsors) or their respective owners, principals, shareholders, members, directors, officers, employees and agents directly or with third parties or in any way constrain the ability of a Member or any of its Affiliates (or any of their investment managers or sponsors) or their respective owners, principals, shareholders, members, directors, officers, employees and agents to manage and invest their assets.
+
+ 
+
+(d)                No Member, in its capacity as Member of the Company, shall owe any duty (including any fiduciary duty) to the Company, to any other Member or any of their respective Affiliates, officers, directors, members, partners, shareholders, employees or agents of any of the foregoing, or any of their respective heirs, successors or assigns (other than the duty of good faith and fair dealing).
+
+ 
+
+Section 6.12            Indemnification.
+
+ 
+
+(a)                Subject to the limitations and conditions as provided in this Section 6.12, each Person who was or is made a party to or is threatened to be made a party to or is involved in any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative, investigative or arbitrative or in the nature of an alternative dispute resolution in lieu of any of the foregoing (hereinafter a “Proceeding”), or any appeal in such a Proceeding or any inquiry or investigation that could lead to such a Proceeding, by reason of the fact that such Person, or a Person of which such Person is the legal representative, is or was a Member or Affiliate thereof, a Member Designee, Partnership Representative or a representative, officer, director or employee of any of the foregoing, shall be indemnified by the Company to the fullest extent permitted by applicable law, as the same exists or may hereafter be amended (but, in the case of any such amendment, only to the extent that such amendment permits the Company to provide broader indemnification rights than said law permitted the Company to provide prior to such amendment) against all liabilities and expenses (including judgments, penalties (including excise and similar taxes and punitive damages), losses, fines, settlements and reasonable expenses (including reasonable attorneys’ and experts’ fees)) actually incurred by such Person in connection with such Proceeding, appeal, inquiry or investigation (each a “Loss”), unless such Loss shall have been primarily the result of bad faith, gross negligence, fraud or intentional misconduct by the Person seeking indemnification hereunder (or, in the case of the Administrative Agent, a breach of its duties under the Administration Agreement), in which case such indemnification shall not cover such Loss to the extent resulting from such bad faith, gross negligence, fraud, or intentional misconduct (or, in the case of the Administrative Agent, a breach of its duties under the Administration Agreement). A Person who has ceased to serve in the capacity which initially entitled such Person to indemnity hereunder shall continue to be entitled to indemnity hereunder. The rights granted pursuant to this Section 6.12 shall be contract rights to the indemnified Persons hereunder, and no amendment, modification or repeal of this Section 6.12 shall have the effect of limiting or denying any such rights with respect to actions taken or Proceedings, appeals, inquiries or investigations arising prior to any such amendment, modification or repeal. To the fullest extent permitted by law, no Person entitled to indemnification under this Section 6.12 shall be liable to the Company or any Member for any act or omission performed or omitted by or on behalf of the Company; provided that such act or omission has not been fully adjudicated to constitute bad faith, gross negligence, fraud or intentional misconduct (or, in the case of the Administrative Agent, a breach of its duties under the Administration Agreement). In addition, any Person entitled to indemnification under this Section 6.12 may consult with legal counsel selected with reasonable care and shall incur no liability to the Company or any Member to the extent that such Person acted or refrained from acting in good faith in reliance upon the opinion or advice of such counsel.
+
+ 
+
+19
+ 
+
+ 
+
+ 
+
+(b)                The right to indemnification conferred in Section 6.12(a) shall include the right to be paid or reimbursed by the Company for the reasonable expenses incurred by a Person entitled to be indemnified under Section 6.12(a) who was, is or is threatened to be made, a named defendant or respondent in a Proceeding in advance of the final disposition of the Proceeding and without any determination as to the Person’s ultimate entitlement to indemnification; provided, however, that the payment of such expenses incurred by any such Person in advance of the final disposition of a Proceeding shall be made only upon delivery to the Company of a written undertaking by such Person to repay all amounts so advanced if it shall be finally adjudicated that such indemnified Person is not entitled to be indemnified under this Section 6.12 or otherwise; provided, further, that such advancement of expenses by the Company shall not be made to such Person in the event that the Proceeding involves a Member, the Administrative Agent or any of their respective Affiliates, on the one hand, and another Member, the Administrative Agent, or any of their respective Affiliates, on the other hand.
+
+ 
+
+(c)                The Company, with Prior Committee Approval, may indemnify and advance expenses to an employee or agent of the Company to the same extent and subject to the same conditions under which it may indemnify and advance expenses to a Member under Sections 6.12(a) and (b).
+
+ 
+
+(d)                The right to indemnification and the advancement and payment of expenses conferred in this Section 6.12 shall not be exclusive of any other right that a Member or other Person indemnified pursuant to this Section 6.12 may have or hereafter acquire under any law (common or statutory) or provision of this Agreement.
+
+ 
+
+(e)                The indemnification rights provided by this Section 6.12 shall inure to the benefit of the heirs, executors, administrators, successors, and assigns of each Person indemnified pursuant to this Section 6.12.
+
+ 
+
+(f)                 The Administrative Agent shall promptly provide JV Partner with written notice of any indemnification or advancements of fees and expenses to BCSF or any of its Affiliates or representatives pursuant to Section 6.12(a) or 6.12(b), as applicable.
+
+ 
+
+Section 6.13            Partnership Representative.
+
+ 
+
+(a)                BCSF will serve as the “partnership representative” of the Company as provided in Section 6223(a) of the Code (or any successor or similar provision of U.S. federal, state or local law) and a “designated individual” that is subject to the control of BCSF will be appointed by the Company through whom the partnership representative will act (individually and collectively referred to as the “Partnership Representative”). In such capacity, subject to the last sentence of this paragraph, the Partnership Representative shall have sole discretion to make or refrain from making any election or otherwise act on behalf of the Company (at the Company’s expense) in connection with all examinations of the Company’s affairs by tax authorities, including resulting administrative and judicial proceedings. The Partnership Representative shall have the right to retain professional assistance in respect of any audit of the Company and all reasonable, documented out-of-pocket expenses and fees incurred by the Partnership Representative on behalf of the Company as Partnership Representative shall be reimbursed by the Company. Each Member agrees to cooperate with the Partnership Representative and provide such information as may be reasonably requested by the Partnership Representative in relation to carrying out its responsibilities under Section 6223 of the Code (and the regulations promulgated thereunder). The Company agrees to indemnify the Partnership Representative and its agents and save and hold them harmless, from and in respect to all Losses incurred by the Partnership Representative in connection with or resulting from any claim, action, or demand against the Partnership Representative or the Company that arise out of or in any way relate to the Partnership Representative’s status as “partnership representative” of the Company. Notwithstanding the foregoing, the Partnership Representative shall not take any action requiring Prior Committee Approval prior to such Prior Committee Approval being obtained.
+
+ 
+
+20
+ 
+
+ 
+
+(b)                If the Company is subject to any tax liability imposed under Subchapter C of Chapter 63 of the Code, as well as any related interest, penalties, or other charges or expenses (collectively, a “Tax Liability”), the Members (acting through the Committee) (or the Partnership Representative, in consultation with the Members (acting through the Committee)) shall allocate among the Members any Tax Liability in a manner it determines to be fair and equitable and the Capital Accounts hereunder by deducting amounts from Capital Accounts or reducing amounts otherwise distributable to Members, taking into account any modifications attributable to a Member pursuant to Section 6225(c) of the Code and any similar state and local authority. To the extent that a portion of a Tax Liability for a prior tax year relates to a former Member, the Members (acting through the Committee) (or the Partnership Representative, in consultation with the Members (acting through the Committee)) may require a former Member to indemnify the Company for its allocable portion of such tax. Each Member acknowledges that, notwithstanding the Transfer or withdrawal of all or any portion of its interest in the Company, pursuant to this Section 6.13, it may remain liable for Tax Liabilities with respect to its allocable share of income and gain of the Company for the Company’s tax years (or portions thereof) prior to such Transfer or withdrawal, as applicable, under Subchapter C of Chapter 63 of the Code or any similar state or local provisions. Any Tax Liability that is payable by the Company shall, to the extent attributable to a Member’s (or a former Member’s) interest in the Company, be treated as distributed or otherwise paid to such Member in the same manner as a withholding tax. The Members acknowledge and agree that the Members (acting through the Committee) or the Partnership Representative shall be permitted to take any actions to avoid Tax Liability being imposed on the Company or any of its Subsidiaries or Portfolio Companies under Subchapter C of Chapter 63 of the Code. To the fullest extent permitted by law, each Member hereby agrees to indemnify and hold harmless the Company and the other Members from and against any Tax Liability incurred by the Company or such other Members with respect to income attributable to or distributions or other payments to such Member, except in the event such liability arises due to the Company’s bad faith, gross negligence, fraud or intentional misconduct (or, in the case of the Administrative Agent, a breach of its duties under the Administration Agreement). Each Member agrees that, notwithstanding the Transfer of all or any portion of its interest in the Company, if requested by the Committee, it shall provide an IRS Form W-9, the appropriate IRS Form W-8 or any other certificate or documentation, which, the Committee reasonably determines, is necessary.
+
+ 
+
+(c)                Company Audits.
+
+ 
+
+(i)                 The Partnership Representative shall (or with respect to any Applicable Entity other than the Company, BCSF shall cause the applicable general partner or other Affiliate thereof serving in a like capacity to) use commercially reasonable efforts to secure any reduction in any imputed underpayment within the meaning of Section 6225 of the Code, and for which any Applicable Entity has not made the election provided in Section 6226 of the Code, that is available by reason of a Member’s status (including by means of any procedures provided pursuant to Section 6225(c)(3) of the Code) and the Company shall apportion the benefit of any such reduction to such Member (or, with respect to any Applicable Entity other than the Company, the entity through which such Member directly or indirectly invests in such entity) pursuant to this Agreement (or, with respect to any Applicable Entity other than the Company, the applicable organizational documents of such Applicable Entity), provided that in no event shall the Partnership Representative be required to take any action under this paragraph to the extent the Partnership Representative determines such action could have an adverse impact on the Company, or any other Member (or, with respect to any Applicable Entity other than the Company, such Applicable Entity or its owners).
+
+ 
+
+21
+ 
+
+ 
+
+(ii)               If the Company (or, with respect to any Applicable Entity other than the Company, the applicable general partner or other Affiliate thereof serving in a like capacity) determines, consistent with applicable legal or regulatory requirements or its fiduciary duties to allocate the economic burden (including the responsibility for funding or payment) of any liability for taxes, penalties, additions to tax or interest imposed on any Applicable Entity under Sections 6225 and 6232 of the Code, in whole or in part, to a Member (directly or indirectly), then the Company, as promptly as reasonably possible and, to the extent reasonably practicable, prior to payment of any tax, penalty, addition to tax, or interest, shall use commercially reasonable efforts to provide such Member with a written notice that sets forth the amount of the liability for taxes, penalties, additions to tax, and interest imposed on such Member, and if such notice cannot be provided prior to payment, to provide such notice as promptly as reasonably possible after such payment is made. Each of the Company and the Partnership Representative shall use its commercially reasonable efforts to provide such additional documentation and reasonable assistance to such Member as reasonably requested by such Member, at the Member’s expense, to permit such Member to oppose the imposition of such taxes, penalties, additions to tax, or interest by the IRS or to otherwise use any other reasonably available means to reduce such amount.
+
+ 
+
+(iii)             The Partnership Representative shall inform each Member as to the initiation of an audit of the Company’s tax affairs by the IRS. If an audit of any of the Company’s tax returns shall occur, neither the Company nor the Partnership Representative shall settle or otherwise compromise assertions of the auditing agent which may be materially adverse to the Members or their respective investors without first advising such Members in writing of the proposed action.
+
+ 
+
+(iv)              This Section 6.13(c) shall apply, to the extent applicable, to any substantively similar and material U.S. state and local tax audit regimes.
+
+ 
+
+(d)                Each Member’s obligation to comply with the requirements of this Section 6.13 shall survive such Member’s ceasing to be a Member of the Company, the termination, dissolution, liquidation or winding up of the Company, or the termination of this Agreement.
+
+ 
+
+ARTICLE 7
+TRANSFERS OF COMPANY INTERESTS; WITHDRAWALS
+
+ 
+
+Section 7.1               Transfers by Members.
+
+ 
+
+(a)                Subject to the requirements of this Article 7, any portion of a Member’s interest in the Company may be Transferred with Prior Committee Approval. Notwithstanding the foregoing, any Member may make a transfer in accordance with Section 8.3(e), in each case if such Transfer is otherwise in accordance with the requirements of this Article 7 (each, a “Permitted Transfer”); provided, that in each case, the transferor remains liable for its Capital Commitment.
+
+ 
+
+(b)                No Transfer by a Member shall be binding upon the Company until the Company receives an executed copy of such documentation as reasonably requested by the other Members to demonstrate that such Transfer is in accordance with this Article 7.
+
+ 
+
+22
+ 
+
+ 
+
+(c)                Any Person which acquires an interest in the Company by Transfer in accordance with the provisions of this Agreement shall be admitted as a substitute Member, provided that the requirements of this Agreement are satisfied. The admission of a transferee as a substitute Member shall be conditioned upon the transferee’s written assumption, in form and substance reasonably satisfactory to the other Members, of all obligations of the transferor in respect of the Transferred interest and execution of an instrument reasonably satisfactory to the other Members whereby such transferee becomes a party to this Agreement. Any transferee of the interest of a Member, irrespective of whether such transferee has accepted and adopted in writing the terms and provisions of this Agreement, shall be deemed by the acceptance of such Transfer to have agreed to be subject to the terms and provisions of this Agreement in the same manner as its transferor.
+
+ 
+
+(d)                The Capital Contribution of a Member that is an assignee of all or a portion of an membership interest in the Company shall include the Capital Contribution of the assignor (or a pro rata portion thereof in the case of an assignment of less than the Entire Interest of the assignor).
+
+ 
+
+(e)                In the event any Member shall be adjudicated as bankrupt, or in the event of the winding up or liquidation of a Member, the legal representative of such Member shall, upon written notice to the other Members of the happening, become a transferee of such Member’s interest, subject to all of the terms of this Agreement as then in effect.
+
+ 
+
+(f)                 As additional conditions to the validity of any Transfer of a Member’s interest, such assignment shall not:
+
+ 
+
+(i)                 violate the registration provisions of the Securities Act or the securities laws of any applicable jurisdiction;
+
+ 
+
+(ii)               cause the Company to cease to be entitled to the exemption from the definition of an “investment company” pursuant to either Section 3(c)(1) or Section 3(c)(7) of the U.S. Investment Company Act of 1940, as amended;
+
+ 
+
+(iii)             result in the Company having more than ninety (90) members;
+
+ 
+
+(iv)              cause the Company to be treated as a “publicly traded partnership” subject to tax as a corporation within the meaning of Section 7704 of the Code;
+
+ 
+
+(v)                unless each of the other Members waives in writing the application of this clause (v) with respect to such assignment (which any of the other Members may refuse to do in its absolute discretion), be to a Person which is an employment benefit plan within the meaning of the U.S. Employee Retirement Income Security Act of 1974, as amended from time to time; or
+
+ 
+
+(vi)              cause the Company or any other Member to be in violation of, or effect an assignment to a Person that is in violation of, applicable law.
+
+ 
+
+The non-Transferring Member may require reasonable evidence as to the foregoing, including an opinion of counsel reasonably acceptable to the non-Transferring Member (which may be in-house counsel of such Transferring Member). Any purported Transfer as to which the conditions set forth in clauses (i) through (vi) of this Section 7.1(f) are not satisfied shall be void ab initio. A Transferring Member shall be responsible for all Expenses incurred by the Company, including reasonable legal fees and expenses, in connection with any assignment or proposed assignment.
+
+ 
+
+23
+ 
+
+ 
+
+(g)                BCSF hereby unconditionally and irrevocably grants to Amberstone, and Amberstone hereby unconditionally and irrevocably grants to BCSF, a right of first offer to purchase or designate a third party to purchase all, but not less than all, of any interest in the Company that such Member may propose to Transfer to another Person in accordance with the following:
+
+ 
+
+(i)                 The Member proposing to make a Transfer that would be subject to this Section 7.1(g) must deliver written notice of its intention to Transfer such interest (the “Notice of Intent”) to the other Members not later than twenty (20) Business Days prior to the proposed closing date of such Transfer. Such Notice of Intent shall contain the proposed purchase price for the interest subject of such proposed Transfer and the other material terms and conditions of such proposed Transfer and shall identify the proposed transferee of such interest, if known.
+
+ 
+
+(ii)               The Member receiving the Notice of Intent shall have the right, for a period of fifteen (15) Business Days from the date of receipt of the Notice of Intent (the “Acceptance Period”), to accept the interest or to designate a third-party purchaser to accept such interest at the valuation most recently approved in accordance with Section 9.5 and on the other terms stated in the Notice of Intent. Such acceptance shall be made by delivering a written notice to the selling Member and the Company within the Acceptance Period stating that it elects to exercise its right of first offer and, if applicable, providing the identity of any Person that the non-transferring Member designates as the purchaser.
+
+ 
+
+(iii)             Following expiration of the Acceptance Period, the selling Member shall be free to sell its interest in the Company to a third party in a Transfer that otherwise meets the requirements of this Section 7.1 on terms and conditions it deems acceptable (but at a price not less than the price and on terms not more favorable to the purchaser thereof than the price and terms stated in the Notice of Intent); provided that such sale takes place within one hundred and eighty (180) calendar days after the expiration of the Acceptance Period (the “Sale Period”). To the extent the selling Member Transfers its interest in the Company during the Sale Period, the selling Member shall promptly notify the Company, and the Company shall promptly notify the other Members, as to the terms of such Transfer and the name of the owner(s) to whom the interest was Transferred. If no such sale occurs during the Sale Period, any attempted Transfer of such interest shall again be subject to the right of first offer set forth in this Section 7.1(g) and such procedures shall be repeated de novo.
+
+ 
+
+(iv)              To the extent any amounts are owed by a Defaulting Member to a Loan Holder with respect to a Default Loan, any purchase price that would otherwise be payable to such Defaulting Member under this Section 7.1(g) shall instead first be paid to the Loan Holder pursuant to the terms of Section 3.3(a)(iv) hereof, until each such Default Loan (and any interest thereon) has been repaid in full with the remainder thereof, if any, payable to the Defaulting Member.
+
+ 
+
+(h)                Notwithstanding any provision contained in this Agreement to the contrary, (i) this Section 7.1 shall apply mutatis mutandis to the Subordinated Notes as if such Subordinated Notes constituted an interest in the Company and (ii) a Transfer by a Member of its interest in the Company and its Subordinated Notes shall be effective only if the Transferring Member simultaneously transfers or assigns the same proportion of its interest in the Company and its Subordinated Notes to the same Person.
+
+ 
+
+24
+ 
+
+ 
+
+Section 7.2               Withdrawal or Resignation by Members(a). Except as otherwise specifically permitted in this Agreement, a Member may not resign or withdraw from the Company without Prior Committee Approval. The remaining Members may, in their sole discretion, cause the Company to distribute to the resigning or withdrawing Member the balance in its Capital Account on the date of such resignation or withdrawal. Upon the distribution to the resigning or withdrawing Member of the balance in such Member’s Capital Account, the resigning or withdrawing Member shall have no further rights with respect to the Company. Any Member resigning or withdrawing in contravention of this Section 7.2 shall indemnify, defend and hold harmless the Company and all other Members from and against any Losses suffered or incurred by the Company or any such other Member arising out of or resulting from such resignation or withdrawal.
+
+ 
+
+ARTICLE 8
+TERM, DISSOLUTION AND LIQUIDATION OF COMPANY
+
+ 
+
+Section 8.1               Term and Investment Period. Except as provided in Section 8.2, the Company’s investment period shall continue for a four-year period. This period may be extended thereafter in one-year increments upon Prior Committee Approval. The Company shall continue without dissolution until the twelfth (12th) anniversary of the Effective Date (the “Term”). The Term may be extended thereafter in one-year increments upon Prior Committee Approval.
+
+ 
+
+Section 8.2               Dissolution. The Company shall be dissolved and its affairs wound up upon the occurrence of any of the following events:
+
+ 
+
+(a)                (i) at the election of Amberstone at any time following the occurrence of (A) Bain Disabling Conduct or (B) a Change of Control, or (ii) at the election of BCSF at any time following the occurrence of Amberstone Disabling Conduct;
+
+ 
+
+(b)                the expiration of the Term of the Company determined pursuant to Section 8.1;
+
+ 
+
+(c)                distribution of all assets of the Company;
+
+ 
+
+(d)                at the election of BCSF by providing written notice to Amberstone if (i) there is a determination by any regulatory agency to subject BCSF’s participation in the Company to an accounting or reporting treatment or other consequence which BCSF, in its reasonable discretion and upon the advice of the independent outside auditor of BCSF and counsel, determines to be materially adverse to it or (ii) there is a change in any accounting rule or guidance that would subject BCSF’s participation in the Company to an accounting treatment which BCSF and counsel, in its reasonable discretion and upon the advice of the independent outside auditor of BCSF, determines to be materially adverse to it;
+
+ 
+
+(e)                (i) the full resignation and withdrawal of BCSF or Amberstone without Prior Committee Approval, or (ii) a bankruptcy, insolvency, dissolution or liquidation of BCSF or Amberstone, as applicable, or (iii) the making of an assignment for the benefit of creditors by BCSF or Amberstone, as applicable, or (iv) a default under Section 3.3 by BCSF or Amberstone, as applicable, which remains uncured or unwaived after the expiration of the cure period set forth in Section 3.3, in each case of clauses (ii) through (iv) above unless resolved otherwise by the other Member; or
+
+ 
+
+(f)                 the entry of a decree of judicial dissolution pursuant to the Act, in which event the provisions of Section 8.3, as modified by said decree, shall govern the winding up of the Company’s affairs.
+
+ 
+
+25
+ 
+
+ 
+
+Section 8.3               Wind-down.
+
+ 
+
+(a)                Upon the dissolution of the Company, the Company shall be liquidated in accordance with this Article 8 and the Act. The liquidation shall be conducted and supervised by the Members (acting through the Committee) in the same manner provided by Article 6 with respect to the operation of the Company during its term; provided, that in the case of a dissolution and winding up of the Company pursuant to Section 8.2(d) or Section 8.2(e), the Member that elects such dissolution and winding up (or in the case of a full withdrawal of a Member under Section 8.2(e), the non-withdrawing Member) may elect further, by written notice to the other Members, to exercise as liquidating agent all of the rights, powers and authority with respect to the assets and liabilities of the Company in connection with the liquidation of the Company, to the same extent as the Members (acting through the Committee) would have during the term of the Company. In the case of a dissolution and winding up of the Company, subject to and without limiting any provision of this Agreement, the Members shall use commercially reasonable efforts to complete, and to cause the Company and the Administrative Agent to complete, the liquidation as set forth in this Section 8.3 within two (2) years from the date on which an event set forth in Section 8.3 becomes effective (which, if such liquidation has not been completed by such time, may be extended by Prior Committee Approval for up to an additional twelve (12) months).
+
+ 
+
+(b)                From and after the earlier of the date on which an event set forth in Section 8.2 becomes effective or the Company’s investment period as set forth in Section 8.1 ends, the Company shall cease to make Investments after that date, except for (i) Investments which the Company was committed to make in whole or in part (as evidenced by a commitment letter, term sheet or letter of intent, or definitive legal documents under which less than all advances have been made) on or before such effective date and (ii) at the election of the Members (acting through the Committee). Capital calls against the Capital Commitment of the Members shall cease from and after such effective date; provided that capital calls against the Capital Commitment of the Members may continue to fund the allocable share of Investments in which the Company continues to participate (as set forth in the immediately preceding sentence), Expenses and all other obligations of the Company. Subject to the foregoing, from and after an event in Section 8.2(a) becomes effective, the Members shall continue to bear an allocable share of Expenses and other obligations of the Company until all Investments in which the Company participates are repaid or otherwise disposed of in the normal course of the Company’s activities.
+
+ 
+
+(c)                Distributions of Available Cash to the Members during the winding down of the Company shall be made no less frequently than quarterly. Unless waived by the Members (with Prior Committee Approval), the Company also shall withhold five percent (5%) of distributions in any calendar year, which withheld amount shall be distributed within sixty (60) days after the completion of the annual audit covering such fiscal period ended with or within such calendar year. A Member shall remain a member of the Company until all Investments are repaid or otherwise disposed of, the Member’s allocable share of all Expenses and all other obligations (including contingent obligations) of the Company are paid, and all distributions are made hereunder, at which time the Member shall have no further rights under this Agreement.
+
+ 
+
+(d)                Upon dissolution of the Company, final allocations of all items of Profit or Loss shall be made in accordance with Section 4.2. Upon dissolution of the Company, the assets of the Company shall be applied in the following order of priority:
+
+ 
+
+(i)                 To creditors (other than Members) in satisfaction of liabilities of the Company (whether by payment or by the making of reasonable provision for payment thereof), including to establish any reasonable reserves which the Members (acting through the Committee), in their reasonable judgment, deem necessary or advisable for any contingent, conditional or unmatured liability of the Company;
+
+ 
+
+(ii)               To creditors who are Members in satisfaction of liabilities of the Company (whether by payment or by the making of reasonable provision for payment thereof), including to establish any reasonable reserves which the Members (acting through the Committee), in their reasonable judgment, deem necessary or advisable for any contingent, conditional or unmatured liability of the Company;
+
+ 
+
+26
+ 
+
+ 
+
+(iii)             To establish any reserves which the Members (acting through the Committee), in their reasonable judgment, deem necessary or advisable for any contingent, conditional or unmatured liability of the Company to Members;
+
+ 
+
+(iv)              The balance, if any, to the Members in accordance with Section 5.1(b) and Section 5.1(c); provided, however, in connection with the Company’s final liquidating distribution, the profit allocation paid to BCSF with respect to the Class A Preferred Interests will be subject to a make-whole provision to be paid to Amberstone if Amberstone did not earn at least the Base Return. The final liquidating distribution shall be adjusted to the extent possible to provide Amberstone with its Base Return; provided, however, that to the extent the amount of the liquidating distribution is not sufficient to provide Amberstone with its Base Return, BCSF will make a Capital Contribution to the Company in an amount to cure such deficiency, provided that the contribution, or the adjustment, will not exceed (a) the total distributions to BCSF with respect to the Class A Preferred Interests that has not been reversed minus (b) taxes on such amount. The Administrative Agent will use commercially reasonable efforts to manage reserves, if needed, during the dissolution period to seek to ensure that, to the extent reasonably practicable under the circumstances, the Company has sufficient cash to make a final liquidating distribution that will provide JV Partner with its Base Return, subject to the foregoing limitation.
+
+ 
+
+(e)                Notwithstanding the foregoing, in the case of an event described in Section 8.2(e), the Member(s) not subject to such event (BCSF or Amberstone, as the case may be, the “Electing Member”) may elect alternatively by written notice to the other Member, for a period of twenty (20) Business Days following the occurrence of such event, to purchase the other Member’s Entire Interest and all of such other Member’s Subordinated Notes or designate a third party to effect such purchase or designate a third party to effect such purchase (such election, the “Offer to Purchase”). The purchase price for such Entire Interest and such Subordinated Notes shall be payable in cash within sixty (60) Business Days after the Offer to Purchase is delivered to the other Member, and shall be no less than fair value of the other Member’s Entire Interest and all of such Other Member’s Subordinated Notes determined in accordance with Section 9.5; provided, however, that to the extent any amounts are owed by a Defaulting Member to a Loan Holder with respect to a Default Loan, any purchase price that would otherwise be payable to the Defaulting Member under this Section 8.3(e) shall instead first be paid to the Loan Holder pursuant to the terms of Section 3.3(a)(iv) hereof, until each such Default Loan (and any interest thereon) has been repaid in full with the remainder thereof, if any, payable to the Defaulting Member. Each Member hereby agrees to sell its Entire Interest and all of such Member’s Subordinated Notes to the Electing Member or the third party designated by the Electing Member at such price if the Offer to Purchase is timely exercised by the Electing Member. If the Electing Member does not exercise the Offer to Purchase within the twenty (20)-Business Day period set forth in this Section 8.3(e) or if the Electing Member or its third-party designee does not purchase the other Member’s Entire Interest and all of such other Member’s Subordinated Notes within sixty (60) Business Days after the Offer to Purchase is delivered to such other Member, then the Offer to Purchase (and such other Member’s acceptance of such offer) shall terminate and the other Member shall withdraw its or their Entire Interest pursuant to Section 7.2 and the Company shall terminate as provided by this Article 8. After any purchase pursuant to an Offer to Purchase, the other Member shall no longer be a member of the Company, and the Electing Member, or third-party designee of the Electing Member that has consummated the purchase, may dissolve or continue the Company as it may determine.
+
+ 
+
+27
+ 
+
+ 
+
+(f)                 In the event that an audit or reconciliation relating to the fiscal year in which a Member receives a distribution under this Section 8.3 reveals that such Member received a distribution in excess of that to which such Member was entitled, each other Member may, in its discretion, seek repayment of such distribution to the extent that such distribution exceeded what was due to such Member.
+
+ 
+
+(g)                Each Member shall be furnished with a statement prepared by the Company’s accountant, which shall set forth the assets and liabilities of the Company as of the date of complete liquidation, and each Member’s share thereof. Upon compliance with the distribution plan set forth in this Section 8.3, the Members shall cease to be such, and either Member may execute, acknowledge and cause to be filed a certificate of cancellation of the Company.
+
+ 
+
+ARTICLE 9
+ACCOUNTING, REPORTING AND VALUATION PROVISIONS
+
+ 
+
+Section 9.1               Books and Accounts.
+
+ 
+
+(a)                Complete and accurate books and accounts shall be kept and maintained for the Company at its principal office. Such books and accounts shall be kept on the accrual basis method of accounting and shall include separate Capital Accounts for each Member. Each Member or its duly authorized representative, at its own expense, shall at all reasonable times and upon reasonable prior written notice to the Administrative Agent have access to, and may inspect, such books and accounts and any other records of the Company for any purpose reasonably related to its interest in the Company.
+
+ 
+
+(b)                All Company funds shall be deposited in the name of the Company in such bank account or accounts or with such custodian, and securities owned by the Company may be deposited with such custodian, as may be designated by Prior Committee Approval from time to time and withdrawals therefrom shall be made upon such signature or signatures on behalf of the Company as may be designated by Prior Committee Approval from time to time.
+
+ 
+
+Section 9.2               Financial Reports; Tax Return.
+
+ 
+
+(a)                The Company shall engage or cause to be engaged an independent certified public accountant for itself selected and approved by Prior Committee Approval to act as the accountant for the Company and to audit the Company’s books and accounts as of the end of each fiscal year. The accountant for the Company shall initially be PricewaterhouseCoopers LLP. As soon as practicable, but no later than ninety (90) days after the end of such fiscal year, the Company shall cause the Administrative Agent to deliver, by any of the methods described in Section 11.5, to each Member and to each former Member who withdrew during such fiscal year:
+
+ 
+
+(i)                 audited financial statements of the Company as of the end of and for such fiscal year, including a balance sheet and statement of income, together with the report thereon of the Company’s independent certified public accountant, which annual financial statements shall be approved by Prior Committee Approval;
+
+ 
+
+(ii)               a schedule of Investments of the Company, including both the cost and the valuation of such securities as determined pursuant to Section 9.5, and a statement of such Member’s Capital Account; and
+
+ 
+
+(iii)             such other financial information and documents with respect to each of the Company, and its business as the Administrative Agent deems appropriate, or as a Member may reasonably require and request, to enable such Member to comply with regulatory requirements applicable to it or to prepare its U.S. federal and state income tax returns.
+
+ 
+
+28
+ 
+
+ 
+
+(b)                The Company shall cause the Administrative Agent to prepare and timely file after the end of each tax year of the Company all U.S. federal and state income tax returns of the Company for such tax year. As soon as practicable, but no later than one hundred and twenty (120) days after the end of each tax year of the Company, the Company shall cause the Administrative Agent to deliver, by any of the methods described in Section 11.5, to each Member and to each former Member who withdrew during such tax year, to the extent that the requisite information is then available, a IRS Form 1065, Schedule K-1 (and state equivalents) for such Member with respect to such tax year, prepared in accordance with the Code, together with corresponding forms for state income tax purposes, setting forth such Member’s distributive share of Company items of Profit or Loss for such tax year and the amount of such Member’s Capital Account determined in accordance with Section 4.4 at the end of such tax year. For purposes of this Section 9.2, a Member’s distributive share of Company items of Profit or Loss shall mean an amount equal to such Member’s distributive share of the Company’s taxable income or loss for a tax year (or portion of such tax year), determined in accordance with Section 703(a) of the Code (for this purpose, all items of income, gain, loss, or deduction required to be stated separately pursuant to Section 703(a)(1) of the Code shall be included in taxable income or loss), with the corresponding adjustments required to be made to such Member’s Capital Account in accordance with the capital accounting maintenance rules of Section 704 of the Code and Treasury Regulations Sections 1.704-1 and 1.704-2, as appropriate.
+
+ 
+
+(c)                If any Member (or any beneficial owner of such Member), solely as a result of such Member’s investment in the Company, is required to file a tax return or other document or pay a tax (excluding for the avoidance of doubt any form or right to claim the benefit of any applicable tax treaty or any exemption from or reduced rate of withholding, income or similar taxes, or in connection with an application for a refund of withholding, income or similar taxes) with respect to the income of the Member from the Company, the Company shall use commercially reasonable efforts (i) to notify such Member of such requirement (to the extent the Company is aware of such requirement) within a commercially reasonable period of time after becoming aware of such requirement, (ii) to timely furnish such Member, at such Member’s written request and expense with respect to out-of-pocket expenses borne by the Company, with such information as may be reasonably necessary to enable such Member (and the beneficial owners of such Member) to make such filing or pay such tax, and (iii) to comply with its obligation to withhold on state sourced income for such state(s) in which the Company deems the Company to have a material state tax withholding obligation, and furnish to such Member the appropriate state form (e.g., withholding statement, state equivalent to IRS Form 1065, Schedule K-1) as is relevant to the Member’s state tax filing or state tax payment obligations or application for a material refund or credit of withholding taxes, if any, in either case arising out of the Member’s investment in the Company. Notwithstanding any of the foregoing, in no event will the Company be responsible for preparing or filing tax reports on behalf of any Member.
+
+ 
+
+(d)                As soon as practicable, but in no event later than forty-five (45) days after the end of each of the first three fiscal quarters of a fiscal year, the Company shall cause the Administrative Agent to prepare and deliver, by any of the methods described in Section 11.5, to each Member (i) unaudited financial information (to include a statement of assets and liabilities, statement of operations and statement of cash flows) with respect to such Member’s allocable share of Profit or Loss and changes to its Capital Account as of the end of such fiscal quarter and for the portion of the fiscal year then ended, (ii) a statement of holdings of securities of the Company as to which such Member participates, including both the cost and the valuation of such securities as determined pursuant to Section 9.5, and (iii) such other financial information as the Administrative Agent deems appropriate, or as a Member may reasonably require and request, to enable such Member to comply with regulatory requirements applicable to it.
+
+ 
+
+29
+ 
+
+ 
+
+ 
+
+Section 9.3               Tax Elections.
+
+ 
+
+(a)                The Company shall timely and properly make an election pursuant to Section 754 of the Code for its first taxable year and shall not revoke such election for any subsequent year without the prior written consent of each Member. The Company may, by Prior Committee Approval, but shall not be required to, make (i) any election pursuant to the provisions of Section 1045 of the Code, or (ii) any other election required or permitted to be made by the Company under the Code.
+
+ 
+
+(b)                Each Member agrees to furnish to the Committee such information as may be required for the Company to comply with any tax accounting, withholding or reporting obligations, including any obligation to make any mandatory basis adjustments to Company property pursuant to Section 754 of the Code
+
+ 
+
+Section 9.4               Confidentiality.
+
+ 
+
+(a)                Each Member agrees to maintain the confidentiality of the Company’s records, reports and affairs, and all information and materials furnished to such Member by the Company, BCSF, BCSF’s investment adviser, the Administrative Agent or their respective Affiliates with respect to their respective businesses and activities; each Member agrees not to provide to any other Person copies of any financial statements, tax returns or other records or reports, or other information or materials, provided or made available to such Member; and each Member agrees not to disclose to any other Person any information contained therein (including any information respecting Portfolio Companies), without the express prior written consent of the disclosing party; provided that:
+
+ 
+
+(i)                 BCSF and Bain Credit may disclose (A) any such information as may be required by law in connection with its respective filings with the SEC and (B) the names of borrowers of loans made by the Company and summaries of such loan transactions in any marketing materials of BCSF, Bain Credit and their respective Affiliates; and
+
+ 
+
+(ii)               The Members hereby acknowledge that (A) Amberstone has a need to report to its own investors, clients and equity holders regarding the nature and performance of its investment in the Company, (B) the manager or adviser of Amberstone may receive such confidential information and (C) Amberstone and its manager or adviser may disclose to Amberstone investors, clients and equity holders, or prospective investors, clients and equity holders, the following information regarding the Company provided that the recipients are informed of the confidential nature of the information: (1) the name and address of the Company and the Administrative Agent; (2) the total size, currency and the year of formation of the Company and a brief description of the investment strategy of the Company (geography, style, stage); (3) the amount of Amberstone’s Capital Commitment and original principal amount of its Subordinated Notes; (4) and the amount of Amberstone’s Capital Commitment drawn down and the amount thereof remaining uncalled; (5) the amount of any distributions received by Amberstone; (6) the net asset value of Amberstone’s investment in the Company; (7) such ratios and performance information calculated by the investment manager or investment adviser of Amberstone using the information in sub-clauses (3)-(6) above (including the internal rate of return of the Company); (8) the name and a brief description of each Investment and information regarding the industry and geographic location of each such Investment; (9) the costs of the Company’s investment in an Investment acquired by the Company; (10) the book value of an Investment on the last day of the quarter (as reported by the Company to Amberstone in the Company’s financial statements); (11) with respect to any distribution in-kind of securities the name and issuer of such securities, the number of such securities distributed to Amberstone and the fair market value at the time of distribution as determined under this Agreement; and (12) such other information as may be required by law or regulation or the accounting principles or standards applicable to Amberstone. Notwithstanding the foregoing, Amberstone shall not disclose any confidential information to any Person unless the proposed recipient of such confidential information is first required to maintain the confidentiality of such information on terms no less restrictive than those set forth in this Section 9.4 and Amberstone shall be liable to the Company, BCSF and the Administrative Agent for any losses arising from the breach of such confidentiality provisions.
+
+ 
+
+30
+ 
+
+ 
+
+(iii)             Any Member may provide financial statements, tax returns and other information contained therein: (A) to such Member’s general partner, investment manager and investment adviser, accountants, internal and external auditors, legal counsel, financial advisors and other fiduciaries and representatives (who may be Affiliates of such Member) as long as such Member instructs such Persons to maintain the confidentiality thereof and not to disclose to any other Person any information contained therein; (B) to bona fide potential transferees of such Member’s Entire Interest that agree in writing, for the benefit of the Company, to maintain the confidentiality thereof, but only after reasonable advance notice to the Company; (C) if and to the extent required by law (including judicial or administrative order); provided that, to the extent legally permissible, the Company is given prior notice to enable it to seek a protective order or similar relief; (D) to representatives of any governmental regulatory agency or authority with jurisdiction over such Member, or as otherwise may be necessary to comply with regulatory requirements applicable to such Member; and (E) in order to enforce rights under this Agreement.
+
+ 
+
+(b)                Notwithstanding the foregoing, the following shall not be considered confidential information for purposes of this Agreement: (i) information generally known to the public; (ii) information obtained by a Member from a third party who is not prohibited from disclosing the information; (iii) information in the possession of a Member prior to its disclosure by the disclosing party; or (iv) information which a Member can show by written documentation was developed independently of disclosure by the disclosing party. Without limitation to the foregoing, no party shall engage in the purchase, sale or other trading of securities or derivatives thereof based upon confidential information.
+
+ 
+
+Section 9.5               Valuation.
+
+ 
+
+(a)                The Administrative Agent shall cause a valuation of the asset(s) of the Company and its Subsidiaries to be made as of the end of each fiscal quarter of the Company and as of and upon liquidation of the Company in accordance with following provisions and the Company’s valuation guidelines then in effect (which shall be consistent with BCSF’s valuation guidelines then in effect):
+
+ 
+
+(i)                 Each asset of the Company and its Subsidiaries for which there is no active broker-dealer quote indicative of an orderly market shall be valued by an independent valuation expert. The initial independent valuation experts for the Company shall be the independent valuation experts engaged by BCSF as of the Effective Date. Any changes to the independent valuation experts of the Company after the Effective Date shall be approved by the Members (with Prior Committee Approval).
+
+ 
+
+(ii)               Liabilities of the Company shall be taken into account at the amounts at which they are carried on the books of the Company, and provision shall be made in accordance with GAAP for contingent or other liabilities not reflected on such books and, in the case of the liquidation of the Company, for the expenses (to be borne by the Company) of the liquidation and winding up of the Company’s affairs.
+
+ 
+
+31
+ 
+
+ 
+
+(iii)             No value shall be assigned to the Company name and goodwill or to the office records, files, statistical data, or any similar intangible assets of the Company not normally reflected in the Company’s accounting records.
+
+ 
+
+(b)                All valuations shall be made in accordance with this Section 9.5 shall be final and binding on all Members, absent actual and apparent error. Valuations of the Company’s assets by independent valuation experts shall be at the Company’s expense.
+
+ 
+
+ARTICLE 10
+EXPENSES
+
+ 
+
+Section 10.1            Company Expenses. By virtue of its interest in the Company, each Member shall indirectly bear a pro rata share of Expenses and other obligations of the Company and its Subsidiaries unless otherwise specified herein. Such Expenses will include (i) the Organization Costs of the Company (including all Legal Organization Costs); (ii) the Administration Fee; (iii) extraordinary Expenses, such as extraordinary Expenses associated with Investments, litigation Expenses and including legal Expenses related thereto and indemnification obligations; (iv) taxes (if any); and (v) Expenses arising out of, or relating to, any indebtedness of the Company or its Subsidiaries, including in connection with structuring of any Subsidiaries that are securitizations.
+
+ 
+
+ARTICLE 11
+MISCELLANEOUS PROVISIONS
+
+ 
+
+Section 11.1            Governing Law; Jurisdiction; Jury Waiver. This Agreement shall be governed by, and construed in accordance with, the law of the State of Delaware. To the fullest extent permitted by law, in the event of any dispute or controversy arising out of the terms and conditions of this Agreement, the parties hereto consent and submit to the jurisdiction of the courts of the State of New York in the county of New York and of the U.S. District Court for the Southern District of New York.
+
+ 
+
+EACH OF THE PARTIES HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+ 
+
+Section 11.2            Other Documents. The Members agree to execute such instruments and documents as may be required by law or which a Member deems necessary or appropriate to carry out the intent of this Agreement.
+
+ 
+
+Section 11.3            Force Majeure. Whenever any act or thing is required of the Company or a Member hereunder to be done within any specified period of time, the Company and the Member shall be entitled to such additional period of time to do such act or thing as shall equal any period of delay resulting from causes beyond the reasonable control of the Company or the Member, including bank holidays, and actions of governmental agencies, and excluding, without limitation, economic hardship; provided that this provision shall not have the effect of relieving the Company or the Member from the obligation to perform any such act or thing.
+
+ 
+
+32
+ 
+
+ 
+
+Section 11.4            Waivers.
+
+ 
+
+(a)                No waiver of the provisions hereof shall be valid unless in writing and then only to the extent set forth in such writing. Any right or remedy of the Members hereunder may be waived by Prior Committee Approval, and any such waiver shall be binding on all Members, other than situations where such rights or remedies are non-waivable under applicable law. Except as specifically herein provided, no failure or delay by any party in exercising any right or remedy hereunder shall operate as a waiver thereof, and the waiver of a particular right or remedy on one occasion shall not be deemed a waiver of any other right or remedy or a waiver on any other occasion.
+
+ 
+
+(b)                Except as otherwise provided in this Agreement or for situations in which the approval or consent of all or certain Members is required by non-waivable provisions of applicable law, any approval or consent of the Members may be given by the Members (acting through the Committee), and any such approval or consent shall be binding on all Members.
+
+ 
+
+Section 11.5            Notices. All notices, demands, solicitations of consent or approval, and other communications hereunder shall be in writing or by electronic mail (with or without attached PDFs), and shall be sufficiently given if personally delivered or sent by postage prepaid, registered or certified mail, return receipt requested, or sent by electronic mail, overnight courier or facsimile transmission, addressed as follows: if intended for the Company, to the Company’s principal office determined pursuant to Section 2.3; and if intended for any Member, to the address of such Member set forth on the Member List, or to such other address as any Member may designate by written notice to the Company. Notices shall be deemed to have been given (i) when personally delivered, (ii) if sent by registered or certified mail, on the earlier of (A) three days after the date on which deposited in the mails or (B) the date on which received, or (iii) if sent by electronic mail, overnight courier or facsimile transmission, on the date on which received; provided that notices of a change of address shall not be deemed given until the actual receipt thereof. The provisions of this Section 11.5 shall not prohibit the giving of written notice in any other manner; however, any such written notice shall be deemed given only when actually received.
+
+ 
+
+Section 11.6            Construction.
+
+ 
+
+(a)                The captions used herein are intended for convenience of reference only and shall not modify or affect in any manner the meaning or interpretation of any of the provisions of this Agreement.
+
+ 
+
+(b)                As used herein, the singular shall include the plural, the masculine gender shall include the feminine and neuter, and the neuter gender shall include the masculine and feminine, unless the context otherwise requires.
+
+ 
+
+(c)                The words “hereof,” “herein,” and “hereunder,” and words of similar import, when used in this Agreement, shall refer to this Agreement as a whole and not to any particular provision of this Agreement.
+
+ 
+
+(d)                The words “including” and “include” and other words of similar import shall be deemed to be followed by the phrase “without limitation.”
+
+ 
+
+(e)                The word “or” shall be disjunctive but not necessarily exclusive.
+
+ 
+
+(f)                 References in this Agreement to Articles, Sections and Schedules are intended to refer to Articles, Sections and Schedules of this Agreement unless otherwise specifically stated.
+
+ 
+
+(g)                Unless otherwise specified, references herein to applicable statutes or other laws are references to the federal laws of the United States.
+
+ 
+
+(h)                References in this Agreement to “$” refer to U.S. dollars, the lawful currency of the United States.
+
+ 
+
+33
+ 
+
+ 
+
+(i)                 Nothing in this Agreement shall be deemed to create any right in or benefit for any creditor of the Company that is not a party hereto, and this Agreement shall not be construed in any respect to be for the benefit of any creditor of the Company that is not a party hereto.
+
+ 
+
+(j)                 Wherever in this Agreement a Member or other Person is empowered to take or make a decision, direction, consent, vote, determination, election, action or approval, such Member or Person is entitled to consider, favor and further such interests and factors as it desires, including its own interests, and has no duty or obligation to consider, favor or further any other interest of the Company, any Subsidiary of the Company or any other Member or Person.
+
+ 
+
+Section 11.7            Amendments(a). This Agreement may be amended at any time and from time to time by a written instrument executed by each Member.
+
+ 
+
+Section 11.8            Legal Counsel.
+
+ 
+
+(a)                BCSF has engaged Dechert LLP (“Company Counsel”), as legal counsel to the Company and BCSF. Moreover, Company Counsel has previously represented or concurrently represents the interests of the Company, BCSF or parties related thereto in connection with matters other than the preparation of this Agreement and may represent such Persons in the future. Each Member: (i) approves Company Counsel’s representation of the Company and BCSF in the preparation of this Agreement; and (ii) acknowledges that Company Counsel has not been engaged by any other Member to protect or represent the interests of such Member vis-à-vis the Company or the preparation of this Agreement, and that actual or potential conflicts of interest may exist among the Members in connection with the preparation of this Agreement. In addition, each Member: (i) acknowledges the possibility of a future conflict or dispute among Members or between any Member or Members and the Company; and (ii) acknowledges the possibility that, under the laws and ethical rules governing the conduct of attorneys, Company Counsel may be precluded from representing the Company or BCSF (or any equity holder thereof) in connection with any such conflict or dispute. Nothing in this Section 11.8(a) shall preclude BCSF or the Company from selecting different legal counsel to represent it at any time in the future and no Member shall be deemed by virtue of this Section 11.8(a) to have waived its right to object to any conflict of interest relating to matters other than this Agreement or the transactions contemplated herein provided that any Member may otherwise waive such right.
+
+ 
+
+(b)                Amberstone has engaged Shin & Kim LLC (“Amberstone Counsel”), as legal counsel to Amberstone. Moreover, Amberstone Counsel has previously represented or concurrently represents the interests of Amberstone or parties related thereto in connection with matters other than the preparation of this Agreement and may represent such Persons in the future. Each Member: (i) approves Amberstone Counsel’s representation of Amberstone in the preparation of this Agreement; and (ii) acknowledges that Amberstone Counsel has not been engaged by any other Member to protect or represent the interests of such Member vis-à-vis the Company or the preparation of this Agreement, and that actual or potential conflicts of interest may exist among the Members in connection with the preparation of this Agreement. In addition, each Member: (i) acknowledges the possibility of a future conflict or dispute among Members or between any Member or Members and the Company; and (ii) acknowledges the possibility that, under the laws and ethical rules governing the conduct of attorneys, Amberstone Counsel may be precluded from representing Amberstone (or any equity holder thereof) in connection with any such conflict or dispute. Nothing in this Section 11.8(b) shall preclude Amberstone from selecting different legal counsel to represent it at any time in the future and no Member shall be deemed by virtue of this Section 11.8(b) to have waived its right to object to any conflict of interest relating to matters other than this Agreement or the transactions contemplated herein provided that any Member may otherwise waive such right.
+
+ 
+
+34
+ 
+
+ 
+
+Section 11.9            Fees and Expenses. The Company shall pay the reasonable fees and expenses of Shin & Kim LLC, the legal counsel for Amberstone, and Dechert LLP, the legal counsel for BCSF, in each case incurred with respect to any of the Transaction Documents.
+
+ 
+
+Section 11.10        Execution. This Agreement may be executed in any number of counterparts and all such counterparts together shall constitute one agreement binding on all Members.
+
+ 
+
+Section 11.11        Binding Effect. This Agreement shall be binding upon and shall inure to the benefit of the respective heirs, executors, administrators, legal representatives, successors and assigns of the parties hereto; provided that this provision shall not be construed to permit any assignment or transfer which is otherwise prohibited hereby.
+
+ 
+
+Section 11.12        Severability. If any one or more of the provisions contained in this Agreement, or any application thereof, shall be invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein and all other applications thereof shall not in any way be affected or impaired thereby.
+
+ 
+
+Section 11.13        Computation of Time. In computing any period of time under this Agreement, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, Sunday or legal holiday on which banks in New York or Korea are closed, in which event the period shall run until the end of the next day which is not a Saturday, Sunday or such a legal holiday.
+
+ 
+
+Section 11.14        Entire Agreement. Except as provided in this Section 11.14, this Agreement and the Administration Agreement, constitute the entire agreement between the parties and supersede all prior agreements, understandings and arrangements with respect to the subject matter hereof.
+
+ 
+
+[Remainder of this page intentionally left blank. Signatures appear on next page.]
+
+ 
+
+35
+ 
+
+ 
+
+IN WITNESS WHEREOF, the undersigned Members have caused this Agreement to be executed and delivered as of the date first above written.
+
+ 
+
+ 	BAIN CAPITAL SPECIALTY FINANCE, INC.
+ 	 
+ 	By:	        
+ 	Name:
+ 	Title:
+ 
+
+[Signature Page to A&R Limited Liability Company Agreement]
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 	AMBERSTONE CREDIT PARTNERS LIMITED
+ 	 
+ 	By:	        
+ 	Name:
+ 	Title:
+ 
+
+[Signature Page to A&R Limited Liability Company Agreement]
+
+ 
+
+ 
+
+ 

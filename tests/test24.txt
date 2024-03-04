@@ -1,0 +1,198 @@
+EX-10.38 6 tmus12312021ex1038.htm TMUS EXHIBIT 10.38
+EXHIBIT 10.38
+AMENDED AND RESTATED PERFORMANCE GUARANTY
+This AMENDED AND RESTATED PERFORMANCE GUARANTY, dated as of November 10, 2021 (as amended, restated, supplemented or otherwise modified from time to time, this “Performance Guaranty”), is made by T-Mobile US, Inc., a corporation organized under the laws of the State of Delaware, and T-Mobile USA, Inc., a corporation organized under the laws of the State of Delaware, as performance guarantors (each a “Performance Guarantor” and, collectively, the “Performance Guarantors”), in favor of each Guaranteed Party (as defined below), and amends and restates, in its entirety, that certain performance guaranty, dated as of April 3, 2018 (the “Existing Performance Guaranty”), by the Performance Guarantors in favor of the Guaranteed Parties (as defined therein). Capitalized terms used, but not otherwise defined herein shall have the respective meanings assigned thereto in the Receivables Purchase and Administration Agreement (as defined below) or, if not defined therein, in the other Related Documents (as defined in the Receivables Purchase and Administration Agreement).
+PRELIMINARY STATEMENTS:
+(1)    T-Mobile Financial LLC (“Finco”), as purchaser (in such capacity, the “RCA Purchaser”), and each of Sprint Spectrum LLC and SprintCom, Inc., as sellers (together with each Other TMUS Originator that may, from time to time, become a party to the Conveyancing Agreement as an additional seller thereunder, the “RCA Sellers” and, each an “RCA Seller”), have entered into that certain Sale and Conveyancing Agreement (as amended, restated, supplemented or otherwise modified from time to time, the “Conveyancing Agreement”), dated as of the date hereof, pursuant to which each RCA Seller may from time to time sell, assign, set-over, transfer and otherwise convey to the RCA Purchaser Receivables, Related Rights and other related collateral.
+(2)    T-Mobile Handset Funding LLC (the “Transferor”), as purchaser, and Finco, as seller (in such capacity, the “RSA Seller”), have entered into that certain Third Amended and Restated Receivables Sale Agreement (as amended through the November 2021 Amendment Closing Date and as further amended, restated, supplemented or otherwise modified from time to time, the “Sale Agreement”), dated as of October 23, 2018, pursuant to which the RSA Seller has sold, and will, from time to time, sell, Receivables, Related Rights and other related collateral to the Transferor.
+(3)    The Transferor, Finco, in its individual capacity and as servicer (in such capacity, the “Servicer”), Royal Bank of Canada, as administrative agent (the “Administrative Agent”), each Performance Guarantor, the Conduit Purchasers (as defined in the Receivables Purchase and Administration Agreement) party thereto from time to time, the Committed Purchasers (as defined in the Receivables Purchase and Administration Agreement) party thereto from time to time and the Funding Agents (as defined in the Receivables Purchase and Administration Agreement) for the Ownership Groups (as defined in the Receivables Purchase and Administration Agreement) party thereto from time to time have entered into that certain Third Amended Receivables Purchase and Administration Agreement, dated as of October 23, 2018, as amended by (i) the First Amendment thereto, dated December 21, 2018, (ii) the Second Amendment thereto, dated February 14, 2020, (ii) the Third Amendment thereto, dated April 30, 2020, (iv) the Fourth Amendment thereto, dated November 2, 2020, (v) the Fifth Amendment thereto, dated August 16, 2021, and (vi) the Sixth Amendment thereto, dated as of the date hereof (as amended, restated, supplemented or otherwise modified from time to time, the “Receivables Purchase and Administration Agreement”), pursuant to which the Transferor has transferred, and will from time to time transfer, Receivables, Related Rights and other related assets to the Administrative Agent for the benefit of the Owners, and the Servicer has agreed to service the Receivables and perform certain other obligations in connection therewith.
+
+
+(4)    Each Performance Guarantor is the direct or indirect owner of 100% of the outstanding membership interests of Finco.
+(5)    As a condition to the obligations pursuant to the Receivables Purchase and Administration Agreement, each Performance Guarantor has agreed to provide this Performance Guaranty.
+NOW, THEREFORE, for valuable consideration, the receipt and sufficiency of which are hereby acknowledged, each Performance Guarantor hereby agrees as follows:
+SECTION 1.UNCONDITIONAL UNDERTAKING; ENFORCEMENT.
+Each Performance Guarantor hereby unconditionally and irrevocably guarantees, jointly and severally, to each of the Owners, the Funding Agents and the Administrative Agent (on behalf of the Owners) (collectively, the “Guaranteed Parties”) to cause the due and punctual performance and observance of all the obligations, agreements and undertakings of the RCA Sellers, the RCA Purchaser, the RSA Seller, the Servicer and any Successor Servicer which is an Affiliate of the Servicer (each, a “Guarantee Party”), under the Related Documents to which such Guarantee Party is a party and each other document identified by such Performance Guarantor (in its sole discretion) in writing as a Guaranteed Document (collectively, the “Guaranteed Documents”) to be performed or observed by such Guarantee Party pursuant to the Guaranteed Documents (all such obligations, agreements and undertakings on the part of the Guarantee Parties to be performed or observed under the Guaranteed Documents being collectively called the “Guaranteed Obligations”). Without limiting or expanding the foregoing, it is understood and agreed that the Guaranteed Obligations shall not include, and each Performance Guarantor shall not guaranty or otherwise be liable to any Person for (w) any losses, claims, damages, liabilities or expenses (except to the extent the Guarantee Party would be liable to any such Guaranteed Party under a Guaranteed Document for such losses, claims, damages, liabilities or expenses), (x) losses resulting from the performance or collectibility of the Receivables on account of insolvency, bankruptcy or lack of creditworthiness of the obligors, (y) the non-payment or late payment of any Receivable by the obligor thereof, or (z) any act, inaction, obligation or liability of the Transferor, the Administrative Agent, the Funding Agents or any other Person other than a Guarantee Party or the failure of any of them to fully and punctually pay, perform or comply with any of the terms, covenants, conditions, agreements, undertakings and obligations on the part of such Person to be paid, performed or complied with by it under any of the Related Documents, this Performance Guaranty or otherwise. Each Performance Guarantor shall be liable for the payment of all reasonable costs and expenses paid or incurred by a Guaranteed Party in connection with the collection of all or part of the Guaranteed Obligations from each Performance Guarantor to the extent such costs and expenses are not paid to the Guaranteed Party under the Receivables Purchase and Administration Agreement.
+SECTION 2.VALIDITY OF OBLIGATIONS.
+Each Performance Guarantor agrees that its obligations under this Agreement shall be absolute and unconditional, irrespective of (i) the validity, enforceability, disaffirmance, settlement or compromise (by any Person other than one of the Guaranteed Parties, including a trustee in bankruptcy) of the Guaranteed Obligations due to the inability of a Guarantee Party to pay or perform such obligation, (ii) the absence of any attempt to collect the Guaranteed Obligations from a Guarantee Party, (iii) any change of the time, manner or place of performance or payment, or any other term of any of the Guaranteed Obligations, (iv) any law, regulation or order of any jurisdiction affecting any terms of any of the Guaranteed Obligations or rights of the Guaranteed Parties with respect hereto due to the inability of a Guarantee Party to pay or perform such obligation (including any estimation, reduction or valuation of the Guaranteed Obligations
+    2
+
+
+made in connection with any proceedings involving a Guarantee Party or either Performance Guarantor filed under the Federal Bankruptcy Code, whether pursuant to Section 502 of the Federal Bankruptcy Code or any other Section thereof), and (v) any other circumstance that would otherwise constitute a legal or equitable discharge or defense of a guarantor. Each Performance Guarantor further agrees that, to the extent that a Guarantee Party on its own behalf pursuant to the Related Documents, makes a payment or payments to the Guaranteed Parties in respect of the Guaranteed Obligations which payment or payments or any part thereof are subsequently invalidated, declared to be fraudulent or preferential, set aside or required to be repaid to its estate, trustee, receiver or any other party, under any bankruptcy law, state or federal law, common law or equitable cause, then to the extent of such payment or repayment, the Guaranteed Obligations or part thereof that has been paid, reduced or satisfied by such amount shall be reinstated and continue in full force and effect as of the date such initial payment, reduction or satisfaction occurred. Each Performance Guarantor waives all set-offs and counterclaims and all presentments, demands for performance, notices of dishonor and notices. After all of the Guaranteed Obligations have been performed or satisfied in full, the relevant Performance Guarantor shall be subrogated to the rights and remedies of the Guaranteed Parties with respect to any Guarantee Party. Each Performance Guarantor agrees that its obligations under this Performance Guaranty shall be irrevocable.
+SECTION 3.REPRESENTATIONS AND WARRANTIES OF EACH PERFORMANCE GUARANTOR.
+Each Performance Guarantor hereby represents and warrants that this Performance Guaranty has been duly authorized, executed and delivered on its behalf and is its legal, valid and binding agreement enforceable against it in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws relating to or affecting creditors’ rights generally and except as such enforceability may be limited by general principles of equity (whether considered in a suit at law or in equity).
+SECTION 4.AMENDMENTS, ETC.
+No amendment or waiver of any provision of this Performance Guaranty, and no consent to any departure by either Performance Guarantor herefrom, shall in any event be effective unless the same shall be in writing and signed by each Performance Guarantor and consented to by or otherwise approved by all of the Funding Agents, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given.
+SECTION 5.ADDRESSES FOR NOTICES.
+All notices and other communications provided for hereunder shall, unless otherwise stated herein be in writing (including email and facsimile communication) and shall be delivered or sent by email or facsimile, or by mail, overnight mail or messenger, to the intended Person at the mailing address or facsimile number of such Person set forth, with respect to each Performance Guarantor, under its name on the signature pages hereof and, with respect to any Guaranteed Party or any other Person, the address specified for such Person in the Related Documents, or, in each case, at such other address, email address or facsimile number as shall be designated by such Person in a written notice to the other signatories hereto. All such notices and communications shall be effective (i) if delivered by standard mail, overnight mail or messenger, when received, and (ii) if transmitted by email or facsimile, when sent, receipt confirmed by telephone or electronic means.
+    3
+
+
+SECTION 6.NO WAIVER; REMEDIES.
+No failure on the part of any party hereto or beneficiary hereof to exercise, and no delay in exercising, any right hereunder shall operate as a waiver thereof; nor shall any single or partial exercise of any right hereunder preclude any other or further exercise thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies provided by law.
+SECTION 7.NONPETITION.
+Notwithstanding any prior termination of this Performance Guaranty, each Performance Guarantor agrees that it shall not, prior to the date that is one year and one day after the Receivables Purchase and Administration Agreement is no longer in effect, acquiesce, petition or otherwise invoke or cause the Transferor to invoke the process of any court or government authority for the purpose of commencing or sustaining a case against the Transferor under any federal or state bankruptcy, insolvency or similar law, or appointing a receiver, liquidator, assignee, trustee, custodian, sequestrator or similar official of the Transferor or any substantial portion of their property, or ordering the winding up or liquidation of the affairs of the Transferor.
+SECTION 8.TERMINATION.
+The obligations of each Performance Guarantor hereunder for the benefit of any Guaranteed Party shall terminate upon the payment in full of the payment obligations owed to such Guaranteed Party under the Receivables Purchase and Administration Agreement, and this Performance Guaranty shall terminate in whole upon the repayment in full of the payment obligations for all Guaranteed Parties under the Receivables Purchase and Administration Agreement.
+SECTION 9.THIRD PARTY BENEFICIARIES.
+Each Performance Guarantor hereby acknowledges and agrees that each of the Guaranteed Parties is an express third party beneficiary of this Performance Guaranty and each of the Guaranteed Parties is entitled to enforce the provisions hereof.
+SECTION 10.GOVERNING LAW; JURISDICTION.
+THIS PERFORMANCE GUARANTY SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK WITHOUT REFERENCE TO CONFLICTS OF LAW PRINCIPLES (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW). ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS PERFORMANCE GUARANTY MAY BE BROUGHT IN THE COURTS OF THE STATE OF NEW YORK OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF NEW YORK; AND, BY EXECUTION AND DELIVERY OF THIS PERFORMANCE GUARANTY, EACH PARTY HERETO HEREBY CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, TO THE NON-EXCLUSIVE JURISDICTION OF THOSE COURTS.
+SECTION 11.CONSENT TO JURISDICTION.
+ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS PERFORMANCE GUARANTY MAY BE BROUGHT IN THE COURTS OF THE STATE OF NEW YORK OR OF THE UNITED STATES FEDERAL COURT SITTING IN THE
+    4
+
+
+SOUTHERN DISTRICT OF NEW YORK AND BY EXECUTION AND DELIVERY OF THIS PERFORMANCE GUARANTY, EACH PERFORMANCE GUARANTOR CONSENTS, FOR ITSELF AND IN RESPECT OF ITS PROPERTY, TO THE NON-EXCLUSIVE JURISDICTION OF THOSE COURTS. EACH PERFORMANCE GUARANTOR IRREVOCABLY WAIVES, TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANY OBJECTION, INCLUDING ANY OBJECTION TO THE LAYING OF VENUE OR BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER HAVE TO THE BRINGING OF ANY ACTION OR PROCEEDING IN SUCH JURISDICTION IN RESPECT OF THIS PERFORMANCE GUARANTY OR ANY DOCUMENT RELATED HERETO. EACH PERFORMANCE GUARANTOR WAIVES PERSONAL SERVICE OF ANY SUMMONS, COMPLAINT OR OTHER PROCESS, WHICH MAY BE MADE BY ANY OTHER MEANS PERMITTED BY NEW YORK LAW.
+SECTION 12.WAIVER OF JURY TRIAL.
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS PERFORMANCE GUARANTY OR THE ACTIONS OF THE GUARANTEED PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT THEREOF.
+SECTION 13.COUNTERPARTS.
+This Performance Guaranty may be executed by the parties in separate counterparts, each of which when so executed and delivered shall be an original but all such counterparts shall together constitute but one and the same instrument. The words “execution,” “signed,” “signature,” and words of like import in this Performance Guaranty shall be deemed to include electronic signatures or electronic records, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+[Signature Pages Follow]
+
+    5
+
+
+IN WITNESS WHEREOF, each Performance Guarantor has caused this Performance Guaranty to be duly executed and delivered by its officer thereunto duly authorized as of the date first above written.
+T-MOBILE US, INC.,
+as Performance Guarantor
+
+
+By:/s/ Johannes Thorsteinsson
+Name: Johannes Thorsteinsson
+Title: Senior Vice President, Treasury & Treasurer
+
+
+12920 SE 38th Street
+Bellevue, WA 98006
+Attn: Treasury
+Facsimile: (425) 383-4840
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+T-MOBILE USA, INC.,
+as Performance Guarantor
+
+
+By:/s/ Johannes Thorsteinsson
+Name: Johannes Thorsteinsson
+Title: Senior Vice President, Treasury & Treasurer
+
+
+12920 SE 38th Street
+Bellevue, WA 98006
+Attn: Treasury
+Facsimile: (425) 383-4840
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+
+Consented to as of the date hereof:
+
+ROYAL BANK OF CANADA,
+as a Funding Agent
+
+
+By:/s/ Thomas C. Dean
+Name: Thomas C. Dean
+Title: Authorized Signatory
+
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Accepted as of the date hereof:
+
+
+ROYAL BANK OF CANADA,
+as Administrative Agent
+
+
+By:/s/ Thomas C. Dean
+Name: Thomas C. Dean
+Title: Authorized Signatory
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Consented to as of the date hereof:
+
+LANDESBANK HESSEN-THÜRINGEN GIROZENTRALE,
+as Funding Agent
+
+
+By:/s/ H. Johnsdorf
+Name: Johnsdorf
+Title: Associate
+
+
+By:/s/ Osterloh
+Name: Osterloh
+Title: VP
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Consented to as of the date hereof:
+
+MUFG BANK, LTD.,
+as a Funding Agent
+
+
+By:/s/ Christopher Pohl
+Name: Christopher Pohl
+Title: Managing Director
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Consented to as of the date hereof:
+
+BNP PARIBAS,
+as Funding Agent
+
+
+By:/s/ Advait Joshi
+Name: Advait Joshi
+Title: Director
+
+By:/s/ Chris Fukuoka
+Name: Chris Fukuoka
+Title: Director
+ 
+
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Consented to as of the date hereof:
+
+MIZUHO BANK, LTD.,
+as Funding Agent
+
+
+By:/s/ Richard A. Burke
+Name: Richard A. Burke
+Title: Managing Director
+
+    [Signature Page to A&R Performance Guaranty]
+
+
+Consented to as of the date hereof:
+
+BARCLAYS BANK PLC,
+as Funding Agent
+
+
+By:/s/ Chin-Yong Choe
+Name: Chin-Yong Choe
+Title: Director
+
+    [Signature Page to A&R Performance Guaranty]

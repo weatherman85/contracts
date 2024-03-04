@@ -1,0 +1,108 @@
+EX-10.16 3 exhibit1016-pmi10k2018.htm EXHIBIT 10.16
+Exhibit 10.16
+AMENDMENT NO. 5 TO ADMINISTRATION AGREEMENT
+THIS AMENDMENT NO. 5 TO ADMINISTRATION AGREEMENT (this “Amendment”), dated as of November 12, 2018 and made effective as of October 1, 2018, is entered into by and among PROSPER FUNDING LLC (the “Company” and the “Licensor”), PROSPER MARKETPLACE, INC., in its capacity as the Licensee (“Licensee”), PROSPER MARKETPLACE, INC., in its separate capacity as the Corporate Administrator (the “Corporate Administrator”), PROSPER MARKETPLACE, INC., in its separate capacity as the Loan Platform Administrator (the “Loan Platform Administrator”), and PROSPER MARKETPLACE, INC., in its separate capacity as the Loan and Note Servicer (the “Loan and Note Servicer”).
+RECITALS
+WHEREAS, the parties hereto entered into that certain Administration Agreement dated as of January 22, 2013 and made effective as of February 1, 2013, pursuant to which Prosper Marketplace, Inc. provides Prosper Funding LLC certain corporate administration services and platform administration services, and services all Borrower Loans and Securities (as heretofore amended or otherwise modified, the “Administration Agreement”);
+WHEREAS, the parties hereto have previously amended the Administration Agreement pursuant to that certain Amendment No. 1 to Administration Agreement dated as of January 1, 2014, that certain Amendment No. 2 to Administration Agreement dated as of January 1, 2015, that certain Amendment No. 3 to Administration Agreement dated as of November 8, 2016 and made effective as of July 1, 2016, and that certain Amendment No. 4 to Administration Agreement dated as of January 25, 2018; and
+WHEREAS, the parties hereto desire to further amend the Administration Agreement as set forth herein.
+NOW, THEREFORE, in consideration of the foregoing and of other good and valuable consideration, the receipt and sufficiency of which hereby are acknowledged, the parties hereby agree as follows:
+ARTICLE 1.
+DEFINITIONS 
+1.1 Any capitalized terms used in this Amendment but not otherwise defined shall have the meanings ascribed to those terms under the Administration Agreement.
+ARTICLE 2.
+MODIFICATIONS
+2.1 Effective as of October 1, 2018, the “Loan Platform Servicing Fee” section of Exhibit C to the Administration Agreement is hereby deleted in its entirety and replaced with the following:
+On the last Business Day of each calendar month, the Company shall pay to the Loan Platform Administrator (in respect of its provision of the services described in Article IV of this
+
+
+Agreement) an amount equal to the product of $135.00 and the number of Borrower Loans funded since the last monthly fee payment date.
+ARTICLE 3.
+MISCELLANEOUS
+3.1 Reference to and Effect on the Administration Agreement.
+(a) Upon the effectiveness of this Amendment, (i) each reference in the Administration Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import shall mean and be a reference to the Administration Agreement as amended or otherwise modified hereby and (ii) each reference to the Administration Agreement or any other document, instrument or agreement executed and/or delivered in connection with the Administration Agreement, shall mean and be a reference to the Administration Agreement as amended or otherwise modified hereby.
+(b) Except as specifically waived, amended or otherwise modified above, the terms and conditions of the Administration Agreement and any other documents, instruments and agreements executed and/or delivered in connection therewith, shall remain in full force and effect and are hereby ratified and confirmed.
+(c) The execution, delivery and effectiveness of this Amendment shall not constitute a waiver of any provision contained in the Administration Agreement, except as specifically set forth herein.
+3.2 Execution in Counterparts. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by telecopier or other electronic imaging system shall be effective as delivery of a manually executed counterpart of this Amendment.
+3.3 GOVERNING LAW. THIS AMENDMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO ITS CONFLICTS OF LAW RULES, OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW.
+3.4 Headings. Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose.
+3.5 Successors and Assigns. This Amendment shall be binding upon each party hereto and their respective successors and assigns, and shall inure to the benefit of each party hereto and their successors and assigns.
+3.6 Entire Agreement. This Amendment, taken together with the Administration Agreement, embodies the entire agreement and understanding of the parties hereto and
+2
+
+
+supersedes all prior agreements and understandings, written and oral, relating to the subject matter hereof.
+
+[Signature page follows.]
+
+
+3
+
+
+IN WITNESS WHEREOF, each Party has caused this Amendment to be signed in its corporate name on its behalf by its proper official duly authorized as of the day, month and year first above written.
+Company:
+PROSPER FUNDING LLC
+By:______________________________________
+Name:  Julie Hwang
+Title:  Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 45-4526070
+
+Licensor:
+PROSPER FUNDING LLC
+By:______________________________________
+Name:  Julie Hwang
+Title:  Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 45-4526070
+
+Licensee:
+PROSPER MARKETPLACE, INC.
+
+By:______________________________________
+Name:  Julie Hwang
+Title:  General Counsel and Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 73-1733867
+[Signature page to Amendment No. 5 to Administration Agreement]
+
+Corporate Administrator:
+PROSPER MARKETPLACE, INC.
+
+By:______________________________________
+Name:  Julie Hwang 
+Title:  General Counsel and Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 73-1733867
+
+Loan Platform Administrator:
+PROSPER MARKETPLACE, INC.
+
+By:______________________________________
+Name:  Julie Hwang
+Title:  General Counsel and Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 73-1733867
+
+Loan and Note Servicer:
+PROSPER MARKETPLACE, INC.
+
+By:______________________________________
+Name:  Julie Hwang
+Title:  General Counsel and Secretary
+Address: 221 Main Street, 3rd Floor
+San Francisco, CA 94105
+
+Tax Identification No.: 73-1733867
+
+[Signature page to Amendment No. 5 to Administration Agreement]

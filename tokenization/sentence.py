@@ -7,13 +7,15 @@ class Sentence:
         self.text = text
 
 class Sentences:
-    def __init__(self, text):
-        self.sentences = SentenceTokenizer()(text)
+    def __init__(self):
+        self.sentences = []
     @property
     def text(self):
         return [sentence.text for sentence in self.sentences]
     def __iter__(self):
         return iter(self.sentences)
+    def append(self, sentence):
+        self.sentences.append(sentence)
 
 class SentenceTokenizer:
     def __init__(self):
@@ -34,11 +36,12 @@ class SentenceTokenizer:
 
         return Sentence(start=i, end=j, text=sentence_text)
 
-    def __call__(self, doc):
-        tokens = [t.text for t in doc if not t.is_space]
+    def __call__(self,contract):
+        text = contract.tokens
+        tokens = [t.text for t in text if not t.is_space]
         len_tks = len(tokens)
         i, j = 0, 0
-        sentences = []
+        sentences = Sentences()
 
         while j < len_tks:
             if self.is_potential_line_break(tokens[j]) or self.is_potential_line_break(tokens[j - 1] + tokens[j]):
@@ -63,4 +66,5 @@ class SentenceTokenizer:
             j += 1
 
         sentences.append(self.create_sentence(tokens, i, j))  # Handle the last sentence
-        return sentences
+        contract.sentences = sentences
+        return contract

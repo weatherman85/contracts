@@ -1,46 +1,89 @@
 from typing import List, Union, Dict, Generator
-import spacy
-from sentence import *
-from segments import *
-from utils.clean_text import clean_text
+from tokenization.tokenizer import Tokenizer
+from tokenization.sentence import SentenceTokenizer
+from tokenization.segments import SectionSegmenter
+from utils.clean_text import TextCleaner
 import pandas as pd
-from definitions import Glossary
-from governing_law import regex_gov_law,gov_law_clf_ner
-from named_entity import Entities
-
-nlp = spacy.blank("en")
+from definitions.definitions import DefinitionFinder
 
 class Contract(object):
-    def __init__(self, text: str):
-        self.text = clean_text(text, lower=False, remove_num=False, add_stop_words=None, remove_stop_words=None)
+    def __init__(self, 
+                 text: str,
+                 tokens=None,
+                 sentences=None,
+                 segments=None,
+                 segment_count=0,
+                 glossary=None,
+                 table_of_contents=None,
+                 ents=None):
+        self.text = text
         self.raw = text
         self.char_length = len(self.text)
-        self.tokens = [token for token in nlp.tokenizer(self.text)]
-        self.sentences = Sentences(self.tokens)
-        self.segments = self.extract_segments()
-        self.segment_count = len(self.segments)
-        self.glossary = Glossary(self.sentences)
-        self.table_of_contents = self.create_table_of_contents()
-        self.ents = Entities()
-        self.ents = self.extract_entities()
-        
-    def create_table_of_contents(self):
-        return [(segment.section, segment.subsection, segment.title) for segment in self.segments]
-
-    def extract_segments(self):
-        sections = list(get_segments(self.text))
-        self.segments = sections
-        return sections
-    
-    def extract_entities(self):
-        self.governing_law = []
-        ents = list(gov_law_clf_ner(self))
+        self.tokens = tokens
+        self.sentences = sentences
+        self.segments = segments
+        self.segment_count = segment_count
+        self.glossary = glossary
+        self.table_of_contents = table_of_contents
         self.ents = ents
-        for ent in self.ents:
-            if ent.label == "gov_law":
-                self.governing_law.append(ent.name)
-        return ents
-        
-        
+     
+class ContractPipeline:
+    def __init__(self,defaults=True):
+        if defaults:
+            tokenizer = Tokenizer(default=True)
+            section_segmenter = SectionSegmenter()
+            sentence_tokenizer = SentenceTokenizer()
+            pre_process = TextCleaner()
+            definitions = DefinitionFinder()
+            self.pipeline = [
+                {"component":pre_process,"name":"clean_text","params":{"lower":False, 
+                                                                       "remove_num":False, 
+                                                                       "add_stop_words":None, 
+                                                                       "remove_stop_words":None}},
+                {"component":tokenizer,"name":"tokenizer"},
+                {"component":sentence_tokenizer,"name":"sentence_tokenizer"},
+                {"component":section_segmenter,"name":"section_segmenter"},
+                {"component":definitions,"name":"definition_finder"}
+            ]
+        else:
+            self.pipeline = []
 
-    
+    def add_pipe(self, component, name=None, before=None, after=None,params=None):
+        """
+        Add a processing component to the pipeline.
+
+        Args:
+        - component (callable): The processing component.
+        - name (str): Name to identify the component.
+        - before (str): Add the component before an existing component with this name.
+        - after (str): Add the component after an existing component with this name.
+        """
+        if params:
+            pipe_item = {"component": component, "name": name,"params":params}
+        else:
+            pipe_item = {"component": component, "name": name}
+        if before and after:
+            raise ValueError("Specify either 'before' or 'after', not both.")
+        elif before:
+            index = next((i for i, item in enumerate(self.pipeline) if item["name"] == before), None)
+            if index is not None:
+                self.pipeline.insert(index, pipe_item)
+            else:
+                raise ValueError(f"Component '{before}' not found in the pipeline.")
+        elif after:
+            index = next((i for i, item in enumerate(self.pipeline) if item["name"] == after), None)
+            if index is not None:
+                self.pipeline.insert(index + 1, pipe_item)
+            else:
+                raise ValueError(f"Component '{after}' not found in the pipeline.")
+        else:
+            self.pipeline.append(pipe_item)
+            
+    def __call__(self, text):
+        contract = Contract(text)
+        for item in self.pipeline:
+            component = item["component"]
+            params = item.get("params", {})
+            contract = component(contract,**params)
+
+        return contract

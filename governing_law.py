@@ -1,8 +1,8 @@
 import re
-from named_entity import NamedEntity,Entities,RegexNER
+from ner.named_entity import NamedEntity,Entities,RegexNER
 from transformers import AutoTokenizer
-from clf_ner import ClassifierNER
-from named_entity import Entities
+from ner.clf_ner import ClassifierNER
+from ner.named_entity import Entities
 
 governing_law_rules=[(r"\b([A-Z][a-z]+\s)+([Ll]aws?|[Cc]ourts?)", "GOVERNING_LAW"),
                    ##captures items like "English law" and "Luxembourg courts")
