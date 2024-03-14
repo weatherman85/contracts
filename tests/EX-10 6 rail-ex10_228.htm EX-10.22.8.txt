@@ -1,0 +1,799 @@
+EX-10 6 rail-ex10_228.htm EX-10.22.8
+Execution Version
+
+EXHIBIT 10.22.8
+
+Execution Version
+
+ 
+
+AMENDMENT NO. 8 TO CREDIT AGREEMENT
+
+ 
+
+THIS AMENDMENT NO. 8 TO CREDIT AGREEMENT (this “Amendment”), dated as of March 23, 2023, is made by and among FREIGHTCAR NORTH AMERICA, LLC, a Delaware limited liability company (the “Borrower”), FREIGHTCAR AMERICA, INC., a Delaware corporation (“Holdings”), the other Loan Parties party hereto, the Lenders party hereto, the LC Provider and U.S. Bank National Association, as disbursing agent (the “Disbursing Agent”).
+
+ 
+
+R E C I T A L S:
+
+ 
+
+WHEREAS, the Borrower, Holdings, the Lenders party hereto, and certain other entities are parties to that certain Credit Agreement, dated as of October 13, 2020 (as amended, restated, supplemented or otherwise modified from time to time, the “Credit Agreement”);
+
+ 
+
+WHEREAS, the Lenders party hereto constitute Lenders having Loans and unused Fourth Amendment Commitments representing 100% of the sum of all Loans outstanding and unused Fourth Amendment Commitments;
+
+ 
+
+WHEREAS, on or about the date hereof, Holdings and certain funds affiliated with the Lenders have entered into that certain Preferred Purchase Agreement (the “Purchase Agreement”) pursuant to which the purchasers thereunder are agreeing to purchase newly-issued preferred securities of Holdings, the proceeds of which will be used to pay the Obligations in full in cash; 
+
+ 
+
+WHEREAS, the parties (i) desire to extend the Fourth Amendment Availability Period and make other amendments to the Credit Agreement as set forth herein and (ii) subject to the terms and conditions set forth herein, hereby agree to amend the Credit Agreement as set forth herein.
+
+ 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+SECTION 1.		Capitalized Terms. All capitalized undefined terms used in this Amendment (including without limitation, in the Recitals hereto) shall have the meanings assigned thereto in the Credit Agreement, as hereby amended.
+
+ 
+
+SECTION 2.		Amendments to Credit Agreement.
+
+ 
+
+2.1The definition of Fourth Amendment Availability Period in Section 1.01 of the Credit Agreement is hereby amended and restated in its entirety as set forth below:
+ 
+
+“Fourth Amendment Availability Period” shall mean the period commencing on the Fourth Amendment Effective Date and ending on the last day of the Closing Period.
+
+ 
+
+ 
+
+ 
+
+2.2
+Section 1.01 of the Credit Agreement is hereby amended to add the following defined terms:
+ 
+
+““Closing Period” means the period commencing on March 23, 2023 and ending on the earliest to occur of (i) May 22, 2023, (ii) payment of the Obligations in full in cash at the Closing (as such term is defined in the Purchase Agreement) and (iii) the termination of the Purchase Agreement, including, but not limited to, any termination due to Holdings accepting a Superior Offer (as such term is defined in the Purchase Agreement).  The Borrower shall promptly notify the Disbursing Agent in writing of the end of the Closing Period.”
+
+ 
+
+““Eighth Amendment” shall mean that certain Amendment No. 8 to Credit Agreement, dated as of March 23, 2023, by and among Holdings, the Borrower, the other Loan Parties and the Lenders party thereto.”
+
+  
+
+““Purchase Agreement” shall have the meaning assigned to such term in the Eighth Amendment.”
+
+ 
+
+2.3
+Section 2.11(d) of the Credit Agreement is hereby amended and restated in its entirety as set forth below:
+ 
+
+“Interest shall be due and payable by the Borrower in arrears on each Interest Payment Date; provided that interest accruing pursuant to Section 2.11(c) shall be due and payable upon demand.  On each Interest Payment Date, the Borrower shall have the option of paying a portion of the interest due in an amount up to 2.5% per annum in kind (“PIK Interest”) by capitalizing such amount and adding it to the principal amount of the Loans; provided that all interest due during the Closing Period shall be paid as PIK Interest, and notwithstanding anything herein to the contrary, any such PIK Interest capitalized during the Closing Period shall not be subject to any Make-Whole Amount.  If the Borrower elects to make payments of interest in kind pursuant to the immediately preceding sentence, the Borrower shall notify the Disbursing Agent of such election at least three Business Days prior to the applicable Interest Payment Date.”
+
+ 
+
+SECTION 3.		Effectiveness. This Amendment shall become effective on the date upon which each of the following conditions is satisfied:
+
+ 
+
+3.1    This Amendment.  The Disbursing Agent and the Lenders shall have received this Amendment, executed and delivered by a duly authorized officer of Holdings, the Borrower, the other Loan Parties, and each Lender, in form and content acceptable to the Disbursing Agent and the Lenders.
+
+ 
+
+3.2    Amendment to Reimbursement Agreement.  The Disbursing Agent, the Calculation Agent and LC Provider shall have received a duly executed and delivered Amendment No. 1 to Amended and Restated Reimbursement Agreement, in form and content acceptable to the Disbursing Agent, the Calculation Agent and the LC Provider.
+
+ 
+
+ 
+
+ 
+
+SECTION 4.		Limited Effect. Except as expressly provided herein, the Credit Agreement and the other Loan Documents shall remain unmodified and in full force and effect.  This Amendment shall not be deemed (a) to be a waiver of, or consent to, or a modification or amendment of, any other term or condition of the Credit Agreement or any other Loan Document or a waiver of any other Default or Event of Default (except as expressly provided herein), (b) to prejudice any right or rights the Lenders may now have or may have in the future under or in connection with the Credit Agreement or the other Loan Documents or any of the instruments or agreements referred to therein, as the same may be amended, restated, supplemented or modified from time to time, or (c) to be a commitment or any other undertaking or expression of any willingness to engage in any further discussion with the Borrower or any other Person with respect to any waiver, amendment, modification or any other change to the Credit Agreement or the Loan Documents or any rights or remedies arising in favor of any Lender, under or with respect to any such documents.
+
+ 
+
+SECTION 5.		Representations and Warranties.  Each of the Borrower, Holdings and the other Loan Parties represents and warrants that (a) it has the organizational power and authority to make, deliver and perform this Amendment, (b) it has taken all necessary organizational or other action to authorize the execution, delivery and performance of this Amendment, (c) this Amendment has been duly executed and delivered on behalf of the Borrower, Holdings and each other Loan Party, (d) this Amendment constitutes a legal, valid and binding obligation of the Borrower, Holdings and each other Loan Party, enforceable against the Borrower, Holdings and each other Loan Party in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally, regardless of whether considered in a proceeding in equity or at law, (e) each of the representations and warranties made by any Loan Party in or pursuant to the Loan Documents is true and correct in all material respects on and as of the date hereof with the same effect as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties are true and correct in all material respects as of such earlier date); provided that any representation and warranty qualified by “materiality”, “Material Adverse Effect” or similar language is true and correct (after giving effect to any qualification therein) in all respects, (f) as of the date hereof, it has no defenses, setoffs, rights of recoupment, counterclaims or claims of any nature whatsoever with respect to the Loan Documents or the Obligations due thereunder, and to the extent any such defenses, setoffs, rights of recoupment, counterclaims or claims may exist on or prior to the date hereof, the same are hereby expressly waived, released and discharged, and (g) after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing as of the date hereof or after giving effect hereto.
+
+SECTION 6.		Costs and Expenses. The Borrower agrees to pay in accordance with Section 9.05 of the Credit Agreement all reasonable out-of-pocket costs and expenses incurred by the Lenders, the Disbursing Agent and their respective Affiliates in connection with the preparation, negotiation, execution, delivery and administration of this Amendment and the other instruments and documents to be delivered hereunder, including, without limitation, the reasonable and documented fees, charges and disbursements of counsel for the Lenders and the Disbursing Agent with respect thereto and with respect to advising the Lenders and the Disbursing Agent as to their rights and responsibilities hereunder and thereunder.
+
+ 
+
+SECTION 7.		Execution in Counterparts. This Amendment may be executed by one or 
+
+ 
+
+ 
+
+more of the parties to this Amendment on any number of separate counterparts (including by facsimile or other electronic imaging means), and all of said counterparts taken together shall be deemed to constitute one and the same instrument. In proving this Amendment in any judicial proceedings, it shall not be necessary to produce or account for more than one such counterpart signed by the party against whom such enforcement is sought. Any signatures delivered by a party hereto by facsimile transmission or by e-mail transmission shall be deemed an original signature hereto.
+
+ 
+
+SECTION 8.              Acknowledgement and Reaffirmation.  
+
+ 
+
+8.1    By its execution hereof, each of the Borrower, Holdings and the other Loan Parties hereby expressly (a) acknowledges and agrees to the terms and conditions of this Amendment, (b) reaffirms all of its respective covenants, representations, warranties and other obligations set forth in the Credit Agreement and the other Loan Documents to which it is a party, and (c) acknowledges that its respective covenants, representations, warranties and other obligations set forth in the Credit Agreement and the other Loan Documents to which it is a party remain in full force and effect.
+
+ 
+
+8.2    Each of the Loan Parties hereby confirms its respective guarantees and other obligations, as applicable, under the Credit Agreement and each of the Loan Documents to which it is party, and agrees that, notwithstanding the effectiveness of this Amendment and the consummation of the transactions contemplated thereby, such guarantees and other obligations shall continue to be in full force and effect and shall accrue to the benefit of the Lenders.
+
+ 
+
+8.3    Each Loan Party hereby (x) confirms its grant of a security interest under the Guarantee and Collateral Agreement and each of the other Security Documents in favor of any Agent, for the benefit itself and the other Secured Parties and, (y) to the extent that the original grant of such security interest in the Collateral in which a security interest was to be granted pursuant to the Security Documents for any reason did not effect the grant of a security interest in favor of such Agent, for the benefit itself and the other Secured Parties, securing the Obligations, grants on the date hereof a security interest in all such Collateral to secure the Obligations. Each Loan Party hereby agrees, acknowledges and confirms that its grant of a security interest under the Security Documents secures all of the Obligations, direct or indirect, contingent or absolute, matured or unmatured, now or at any time and from time to time hereafter due or owing to any Agent, for the benefit itself and the other Secured Parties, arising under or in connection with the Credit Agreement and the Loan Documents.
+
+ 
+
+8.4     On and after the effectiveness of this Amendment:
+
+ 
+
+(a) each reference in each Loan Document (to the extent such Loan Document is not otherwise amended and restated on the date hereof) to the “Credit Agreement”, “thereunder”, “thereof” or words of like import shall mean and be a reference to the Credit Agreement as such agreement is amended and may be amended further, restated, modified or supplemented and in effect from time to time;
+
+ 
+
+(b)  the definition of any term defined in any Loan Document by reference to 
+
+ 
+
+ 
+
+the terms defined in the Credit Agreement shall be amended to be defined by reference to the defined term in the Credit Agreement, as amended hereby and as may be further amended, restated, modified or supplemented and in effect from time to time; and
+
+ 
+
+(c) each reference to the “Closing Date” appearing in Section 4 of the Guarantee and Collateral Agreement shall mean and be a reference to the date hereof.
+
+ 
+
+SECTION 9.		Governing Law. THIS AMENDMENT AND ANY DISPUTE, CLAIM OR CONTROVERSY ARISING OUT OF OR RELATING TO THIS AMENDMENT (WHETHER ARISING IN CONTRACT, TORT OR OTHERWISE) SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAW RULES THAT WOULD RESULT IN THE APPLICATION OF A DIFFERENT GOVERNING LAW.
+
+ 
+
+SECTION 10.	Entire Agreement; Section Heading; Severability.  This Amendment is the entire agreement, and supersedes any prior agreements and contemporaneous oral agreements, of the parties concerning its subject matter.  The Section headings used in this Amendment are for convenience of reference only and are not to affect the construction hereof or be taken into consideration in the interpretation hereof. Any provision of this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. The parties hereto shall endeavor in good-faith negotiations to replace any invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+ 
+
+SECTION 11.	Successors and Assigns. This Amendment shall be binding on and inure to the benefit of the parties and their respective heirs, beneficiaries, successors and permitted assigns.
+
+ 
+
+SECTION 12.	Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE REQUIREMENTS OF LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT, BREACH OF DUTY, COMMON LAW, STATUTE OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 12. EACH PARTY HERETO FURTHER REPRESENTS AND WARRANTS THAT IT HAS REVIEWED 
+
+ 
+
+ 
+
+THIS WAIVER WITH ITS LEGAL COUNSEL AND THAT IT KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
+
+SECTION 13.	Loan Document. This Amendment shall constitute a Loan Document for all purposes of the Credit Agreement and the other Loan Documents.
+
+SECTION 14.		Lender Direction. By its execution and delivery of its signature page hereto, each of the undersigned Lenders, together constituting Lenders having Loans and unused Fourth Amendment Commitments representing 100% of all Loans outstanding and all unused Fourth Amendment Commitments, and the LC Provider is authorizing and directing (i) the Disbursing Agent to execute this Amendment, and (ii) the Disbursing Agent and Alter Domus (US) LLC, as Calculation Agent, to execute that certain Amendment No. 1 to Amended and Restated Reimbursement Agreement dated as of the date hereof among Holdings, the LC Provider, the Disbursing Agent and the Calculation Agent, in the form attached hereto as Annex A.  
+
+ 
+
+ [Signature pages follow]
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their duly authorized officers, all as of the day and year first written above.
+
+BORROWER:
+
+ 
+
+FREIGHTCAR NORTH AMERICA, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+HOLDINGS:
+
+FREIGHTCAR AMERICA, INC.
+
+ 
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+  
+
+OTHER LOAN PARTIES:
+
+ 
+
+JAC OPERATIONS, INC.
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+FREIGHT CAR SERVICES, INC.
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+JAIX LEASING COMPANY
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person r 
+
+ 
+
+ 
+
+FREIGHTCAR SHORT LINE, INC.
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JOHNSTOWN AMERICA, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+FREIGHTCAR ALABAMA, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+FREIGHTCAR RAIL SERVICES, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+FREIGHTCAR RAIL MANAGEMENT SERVICES, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person 
+
+ 
+
+ 
+
+FCA-FASEMEX, LLC
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+ 
+
+FCA-FASEMEX, S. DE R.L., DE C.V.
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FCA-FASEMEX ENTERPRISE, S. DE R.L., DE C.V.
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+LENDERS:
+
+ 
+
+ 
+
+CO FINANCE LVS VI LLC, as a Lender and LC Provider
+
+ 
+
+By:  /s/ Christopher Neumeyer
+
+Name:    Christopher Neumeyer
+
+Title:     Authorized Person
+
+ 
+
+ 
+
+OC III LFE II LP, as a Lender
+
+ 
+
+ 
+
+By:  /s/ Adam L. Gubner
+
+Name:   Adam L. Gubner
+
+Title:     Authorized Person 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISBURSING AGENT:
+
+ 
+
+ 
+
+U.S. BANK NATIONAL ASSOCIATION, solely in its capacity as Disbursing Agent and not in its individual capacity
+
+ 
+
+ 
+
+By:  /s/ James A. Hanley
+
+Name:    James A. Hanley
+
+Title:      Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex A
+
+ 
+
+See attached.
+
+ 
+
+ 
+
+ 
+
+AmericasActive:18237953.3
+
+ 
+
+Execution Version
+
+AMENDMENT NO. 1 TO 
+
+AMENDED AND RESTATED REIMBURSEMENT AGREEMENT
+
+ 
+
+THIS AMENDMENT NO. 1 TO AMENDED AND RESTATED REIMBURSEMENT AGREEMENT (this “Amendment”), dated as of March 23, 2023, is made by and among FREIGHTCAR AMERICA, INC., a Delaware corporation (“Company”), CO FINANCE LVS VI LLC, a Delaware limited liability company ( “LC Provider”), U.S. BANK, NATIONAL ASSOCIATION (“Disbursing Agent”), and ALTER DOMUS (US) LLC, as calculation agent for LC Provider (in such capacity, “Calculation Agent”, and together with the Disbursing Agent, the “Agents” and each, an “Agent”).
+
+ 
+
+R E C I T A L S:
+
+ 
+
+WHEREAS, certain of the parties have previously entered into that certain Credit Agreement, dated as of October 13, 2020, by and among Company, FreightCar North America, LLC (“Borrower”), the several financial institutions or other entities from time to time parties thereto including LC Provider (the “Lenders”), the Disbursing Agent and U.S. Bank National Association, as collateral agent for the Secured Parties (as defined therein) (as amended, restated, supplemented or otherwise modified from time to time, the “Amended Credit Agreement”). All capitalized undefined terms used in this Amendment shall have the meanings assigned thereto in the Amended Credit Agreement;
+
+ 
+
+WHEREAS, Company has requested, and LC Provider has obtained, a standby letter of credit (as may be amended from time to time, the “Credit”) from Wells Fargo Bank, N.A. (“Issuer”), in the principal sum of $25,000,000 (TWENTY-FIVE MILLION AND 00/100 DOLLARS) (the “Principal Amount”) for the account of Company and for the benefit of SIENA LENDING GROUP LLC (“Beneficiary”); 
+
+ 
+
+WHEREAS, Company has agreed to reimburse Disbursing Agent, for the account of LC Provider, in the event of any drawings under the Credit by Beneficiary;
+
+ 
+
+WHEREAS, in connection with the aforementioned recitals, Company, LC Provider, Disbursing Agent and Calculation Agent entered into that certain Reimbursement Agreement dated as of July 30, 2021 (the “Original Reimbursement Agreement”);
+
+ 
+
+WHEREAS, Company, LC Provider, Disbursing Agent and Calculation Agent entered into that certain Amended and Restated Reimbursement Agreement dated as of December 30, 2021 (the “Reimbursement Agreement”); 
+
+ 
+
+WHEREAS, on or about the date hereof, the Company and certain funds affiliated with the LC Provider have entered into that certain Preferred Purchase Agreement (the “Purchase Agreement”) pursuant to which the purchasers thereunder are agreeing to purchase newly-issued preferred securities of the Company, the proceeds of which will be used to pay the Obligations (other than the Reimbursement Obligations in respect of the Third Amendment Letter of Credit) in full in cash; and
+
+ 
+
+WHEREAS, Company, LC Provider, Disbursing Agent and Calculation Agent desire to amend the Reimbursement Agreement on the terms set forth herein.
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+SECTION 1.		Capitalized Terms. All capitalized undefined terms used in this Amendment (including without limitation, in the Recitals hereto) shall have the meanings assigned thereto in the Reimbursement Agreement, as hereby amended, or the Amended Credit Agreement, as applicable.
+
+ 
+
+SECTION 2.		Amendment to Reimbursement Agreement.
+
+ 
+
+2.1
+Section 2(a)(ii) of the Reimbursement Agreement is hereby amended and restated in its entirety as set forth below:
+ 
+
+“Company shall pay to Disbursing Agent, for the account of LC Provider, the Letter of Credit Fee (as defined below), which shall be due and payable quarterly beginning on August 2, 2021 and thereafter on each three month anniversary thereof for so long as the Credit remains outstanding; provided, that any Letter of Credit Fee that would otherwise be due and payable during the Closing Period, shall accrue and become payable and be paid on the date that the Closing Period terminates (for the avoidance of doubt, any such accrued Letter of Credit Fee and any other amounts then due with respect to the Letter of Credit Fee will be paid upon Closing (as such term is defined in the Purchase Agreement)); provided further that the Company shall provide no less than two (2) Business Days prior written notice to the Disbursing Agent and the Calculation Agent of the date of Closing.  The Letter of Credit Fee shall be fully earned when paid and shall not be refundable for any reason whatsoever.  Calculation Agent shall determine the Letter of Credit Fee one Business Day prior to the date it is required to be paid and shall notify Disbursing Agent and Company of such amount on such determination date;”
+
+ 
+
+2.2Section 2(a)(iii) of the Reimbursement Agreement is hereby amended by adding the following sentence at the end thereof:
+ 
+
+“Notwithstanding anything to the contrary set forth herein, any Equity Fee that would otherwise be due and payable during the Closing Period, shall accrue and become payable and be paid on the date that the Closing Period terminates (for the avoidance of doubt, any such accrued Equity Fee and any other amounts then due with respect to the Equity Fee will be paid upon Closing (as such term is defined in the Purchase Agreement));”
+
+ 
+
+2.3Section 2(a)(iv) of the Reimbursement Agreement is hereby amended and restated in its entirety as set forth below:
+ 
+
+“(iv) Company shall pay to Disbursing Agent, for the account of LC Provider (or, so long as CO Finance LVS VI LLC is the LC Provider, to OC III LVS XII LP if such LC Provider has notified Company and Disbursing Agent in writing of such designation at least one Business Day prior to the date the Cash Fee is payable) the Cash Fee (as defined below), which shall be due and payable in cash quarterly beginning on the date that the 
+
+ 
+
+ 
+
+Maximum Equity has been issued and thereafter on the Business Day immediately succeeding the last Business Day of the applicable Measurement Period for so long as the Credit remains outstanding; provided that any Cash Fee that would otherwise be due and payable during the Closing Period, shall accrue and become payable and be paid on the date that the Closing Period terminates (for the avoidance of doubt, such accrued Cash Fee and any other amounts then due with respect to the Cash Fee will be paid upon Closing (as such term is defined in the Purchase Agreement)).  The Cash Fee shall be fully earned when paid and shall not be refundable for any reason whatsoever.  Calculation Agent shall determine the Cash Fee on the last day of the Measurement Period and shall notify Disbursing Agent and Company of such amount on such determination date;”
+
+ 
+
+2.4Section 2(b) of the Reimbursement Agreement is hereby amended to add the following defined term:
+ 
+
+““Closing Period” means the period commencing on March 23, 2023 and ending on the earliest to occur of (i) May 22, 2023, (ii) payment of the Obligations in full in cash at the Closing (as such term is defined in the Purchase Agreement) and (iii) the termination of the Purchase Agreement, including, but not limited to, any termination due to the Company accepting a Superior Offer (as such term is defined in the Purchase Agreement).  The Company shall promptly notify the Calculation Agent in writing of the end of the Closing Period.”
+
+ 
+
+SECTION 3.		Effectiveness. This Amendment shall become effective on the date upon which each of the following conditions is satisfied:
+
+ 
+
+3.1      This Amendment.  The Disbursing Agent, the Calculation Agent and LC Provider shall have received this amendment, duly executed and delivered by the Disbursing Agent, LC Provider, Calculation Agent and Company, in form and content acceptable to the Disbursing Agent, the Calculation Agent and the LC Provider.
+
+ 
+
+3.2    Amendment to Credit Agreement.  The Lenders and the Disbursing Agent shall have received a duly executed and delivered Amendment No. 8 to Credit Agreement, in form and content acceptable to the Disbursing Agent and the Lenders.  
+
+ 
+
+SECTION 4.		Limited Effect. Except as expressly provided herein, the Reimbursement Agreement shall remain unmodified and in full force and effect.  This Amendment shall not be deemed (a) to be a waiver of, or consent to, or a modification or amendment of, any other term or condition of the Reimbursement Agreement or a waiver of any other Default or Event of Default (except as expressly provided herein), (b) to prejudice any right or rights the LC Provider or any Agent may now have or may have in the future under or in connection with the Reimbursement Agreement, as the same may be amended, restated, supplemented or modified from time to time, or (c) to be a commitment or any other undertaking or expression of any willingness to engage in any further discussion with the Company or any other Person with respect to any waiver, amendment, modification or any other change to the Reimbursement Agreement or any rights or remedies arising in favor of any Agent or the 
+
+ 
+
+ 
+
+LC Provider, under or with respect to any such documents.
+
+ 
+
+SECTION 5.		Representations and Warranties.  Company represents and warrants that (a) it has the organizational power and authority to make, deliver and perform this Amendment, (b) it has taken all necessary organizational or other action to authorize the execution, delivery and performance of this Amendment, (c) this Amendment has been duly executed and delivered by it, (d) this Amendment constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally, regardless of whether considered in a proceeding in equity or at law, (e) each of the representations and warranties made by the Company in Section 5 of the Reimbursement Agreement is true and correct in all material respects on and as of the date hereof with the same effect as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties are true and correct in all material respects as of such earlier date); provided that any representation and warranty qualified by “materiality”, “Material Adverse Effect” or similar language is true and correct (after giving effect to any qualification therein) in all respects, (f) as of the date hereof, it has no defenses, setoffs, rights of recoupment, counterclaims or claims of any nature whatsoever with respect to the obligations due thereunder, and to the extent any such defenses, setoffs, rights of recoupment, counterclaims or claims may exist on or prior to the date hereof, the same are hereby expressly waived, released and discharged, and (g) after giving effect to this Amendment and Amendment No. 8 to Credit Agreement, no Default or Event of Default has occurred and is continuing as of the date hereof or after giving effect hereto.
+
+SECTION 6.		Costs and Expenses. The Company agrees to pay all reasonable and documented out-of-pocket costs and expenses incurred by the LC Provider and each Agent and their respective Affiliates in connection with the preparation, negotiation, execution, delivery and administration of this Amendment and the other instruments and documents to be delivered hereunder, including, without limitation, the reasonable and documented fees, charges and disbursements of counsel for the LC Provider and each Agent with respect thereto and with respect to advising the LC Provider and each Agent as to its rights and responsibilities hereunder and thereunder.
+
+ 
+
+SECTION 7.		Execution in Counterparts. This Amendment may be executed by one or more of the parties to this Amendment on any number of separate counterparts (including by facsimile or other electronic imaging means), and all of said counterparts taken together shall be deemed to constitute one and the same instrument. In proving this Amendment in any judicial proceedings, it shall not be necessary to produce or account for more than one such counterpart signed by the party against whom such enforcement is sought. Any signatures delivered by a party hereto by facsimile transmission or by e-mail transmission shall be deemed an original signature hereto.
+
+ 
+
+SECTION 8.		Governing Law. THIS AMENDMENT AND ANY DISPUTE, CLAIM OR CONTROVERSY ARISING OUT OF OR RELATING TO THIS AMENDMENT (WHETHER ARISING IN CONTRACT, TORT OR OTHERWISE) SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAW RULES THAT WOULD RESULT IN THE APPLICATION OF A DIFFERENT GOVERNING LAW.
+
+ 
+
+ 
+
+ 
+
+SECTION 9.		Entire Agreement; Section Heading; Severability.  This Amendment is the entire agreement, and supersedes any prior agreements and contemporaneous oral agreements, of the parties concerning its subject matter.  The Section headings used in this Amendment are for convenience of reference only and are not to affect the construction hereof or be taken into consideration in the interpretation hereof. Any provision of this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. The parties hereto shall endeavor in good-faith negotiations to replace any invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+ 
+
+SECTION 10.		Successors and Assigns. This Amendment shall be binding on and inure to the benefit of the parties and their respective heirs, beneficiaries, successors and permitted assigns.
+
+ 
+
+SECTION 11.		Waiver of Jury Trial. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE REQUIREMENTS OF LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT, BREACH OF DUTY, COMMON LAW, STATUTE OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 11. EACH PARTY HERETO FURTHER REPRESENTS AND WARRANTS THAT IT HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL AND THAT IT KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
+
+ 
+
+SECTION 12.	LC Provider Direction. By its execution and delivery of its signature page hereto, the LC Provider is authorizing and directing each of the Disbursing Agent and the Calculation Agent to execute this Amendment.
+
+ 
+
+ [Signature pages follow]
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their duly authorized officers, all as of the day and year first written above.
+
+ 
+
+ 
+
+COMPANY:
+
+FREIGHTCAR AMERICA, INC.
+
+ 
+
+ 
+
+By:  /s/ James R. Meyer
+
+Name:  James R. Meyer
+
+Title:    Authorized Person
+
+  
+
+ 
+
+LC PROVIDER:
+
+ 
+
+ 
+
+CO FINANCE LVS VI LLC
+
+ 
+
+ By:  /s/ Christopher Neumeyer
+
+Name:    Christopher Neumeyer
+
+Title:     Authorized Person
+
+ 
+
+ 
+
+DISBURSING AGENT:
+
+ 
+
+ 
+
+U.S. BANK NATIONAL ASSOCIATION, solely in its capacity as Disbursing Agent and not in its individual capacity
+
+ 
+
+   By:  /s/ James A. Hanley
+
+        Name: James A. Hanley
+
+Title:  Vice President   
+
+ 
+
+ 
+
+CALCULATION AGENT:
+
+ 
+
+ 
+
+ALTER DOMUS (US) LLC, solely in its capacity as Calculation Agent and not in its individual capacity
+
+ 
+
+By:  /s/ Winnalynn N. Kantaris
+
+      Name:  Winnalynn N. Kantaris  
+
+Title: Associate General Counsel     
+
+ 
+
+ 
+
+ 
+

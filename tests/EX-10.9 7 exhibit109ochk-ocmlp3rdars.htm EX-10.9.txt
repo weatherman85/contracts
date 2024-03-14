@@ -1,0 +1,165 @@
+EX-10.9 7 exhibit109ochk-ocmlp3rdars.htm EX-10.9
+
+Exhibit 10.9
+
+THIRD AMENDED AND RESTATED
+SERVICES AGREEMENT
+
+THIS THIRD AMENDED AND RESTATED SERVICES AGREEMENT (this “Agreement”) is entered into on January _6__, 2021 by and between Oaktree Capital Management, L.P. (“OCMLP”), a Delaware limited partnership, and Oaktree Capital (Hong Kong) Limited, a Hong Kong company (“OCHK”). Each of the parties to this Agreement may be referred to herein individually as a “party” and collectively as the “parties”.
+
+R E C I T A L S:
+WHEREAS, the parties entered into that certain Second Amended and Restated Services Agreement on February 24, 2020 (the “Second A&R Services Agreement”);
+
+WHEREAS, the parties desire to amend and restate the Second A&R Services Agreement in its entirety and to enter into this Agreement;
+
+WHEREAS, OCMLP acts as the investment manager of various Oaktree Funds (as defined below) that makes or will make investments in various Asian countries;
+
+WHEREAS, OCHK has a team of professionals with experience and expertise in transactions involving investments in various Asian countries, and OCMLP desires OCHK to provide research, liaison, promotion, trading and related services to OCMLP in connection with investment opportunities in various Asian countries;
+
+WHEREAS, OCHK is able to provide placement agent and client relations services for capital raised from Asian investors, and trading services, for pooled investment vehicles, investment funds, separate accounts and co-investment opportunities managed by OCMLP (the “Oaktree Funds”);
+
+WHEREAS, OCHK is able to further assist OCMLP with the sub-management of investments and assets of certain Oaktree Funds under its Emerging Markets Equities strategy (the “EME Funds”); and
+
+WHEREAS, OCHK is licensed with the Securities and Futures Commission (“SFC”) in Hong Kong to conduct Type 1, 4 and 9 regulated activities.
+
+NOW, THEREFORE, in consideration of the mutual covenants, terms and conditions set forth in this Agreement, and for other good and valuable consideration, the parties hereby agree as follows:
+
+1.Services
+1.1    OCHK agrees to provide certain services to OCMLP as set forth in Schedule 1. All services set forth in Schedule 1 attached hereto, as the same may be amended by the parties from time to time, are referred to herein as the “Services”.
+1.2    In rendering the Services, OCHK may utilize the services of its affiliates, attorneys, accountants, investment bankers, brokers, appraisers, advisers and other consultants, agents or representatives.
+
+
+2.Service Fee
+In consideration of the provisions of the Services provided by OCHK, OCMLP shall compensate OCHK by remitting to it a service fee (the “Service Fee”) in accordance with the terms set forth in Schedule 2 attached hereto.
+
+3.Representations and Warranties
+Each party hereby represents and warrants to the other party as follows:
+3.1    It has been duly formed and is validly existing under the laws of its respective place of organization;
+3.2     Its execution, delivery, and performance of this Agreement falls within the scope of its power, and will not constitute a violation or breach of the laws or contracts that are binding on it. It has obtained all necessary authorizations and consents required for the execution, delivery, and performance hereof; and
+3.3    This Agreement, once executed by the parties, constitutes a lawful and binding obligation of each such party, which may be enforced against such party pursuant to the terms contained herein.
+
+4.Indemnification and Exculpation
+4.1    In the absence of fraud, bad faith, gross negligence, willful malfeasance, or an intentional and material breach of this Agreement, none of OCHK or any of its officers, directors, partners, agents, representatives or employees (each an “Indemnified Party”) shall have any liability, responsibility or accountability in damages or otherwise to OCMLP or the Oaktree Funds for any losses, claims, liabilities, damages, expenses (including legal fees and expenses) incurred by such Indemnified Party, in any way relating to or arising out of, or alleged to relate to or arise out of, any action or inaction on the part of any Indemnified Party in relation to performing its obligations under this Agreement.
+4.2    In the absence of any Indemnified Party’s fraud, bad faith, gross negligence, willful malfeasance, or an intentional and material breach of this Agreement, OCMLP shall, or cause the relevant Oaktree Fund to, indemnify and hold harmless each Indemnified Party from and against, any losses, claims, liabilities, damages, expenses (including reasonable legal fees and expenses) incurred by such Indemnified Party to the extent solely relating to or arising out of any action on the part of such Indemnified Party in relation to performing its obligations under this Agreement.
+
+5.Term and Termination
+5.1    This Agreement shall be effective as of October 5, 2020, save for the sub-management of Lux EME Funds (as defined below) which shall be effective as of the date such sub-management is approved by the Commission de Surveillance du Secteur Financier (“CSSF”).
+5.2    The term of this Agreement shall be automatically renewed for additional one-year terms as of each anniversary thereof unless terminated by either party upon 30 days’ written notice to the other.
+5.3    On termination of this Agreement, OCHK shall be entitled to receive any fees and other money due but not yet paid to it with respect to the Services up to the date of such termination as provided in this Agreement, and shall repay to OCMLP any fees and other money paid to it in respect of any period after the date of such termination.
+
+
+5.4    The termination of this Agreement shall be without prejudice to accrued rights and liabilities and any provisions expressed to survive the termination hereof.
+
+6.Entire Agreement
+This Agreement shall constitute the entire agreement and understanding between the parties with respect to the subject matter hereof, and supersede and replace any prior agreements and understandings, whether oral or written, between them with respect to such matters.
+
+7.Governing Law
+This Agreement is governed by, and shall be construed in accordance with, the laws of the State of California, U.S.A.
+
+8.Services Not Exclusive
+The services of OCHK are not exclusive to OCMLP or the Oaktree Funds. OCMLP acknowledges that OCHK shall be free to provide services similar to those to be provided hereunder to other persons and to engage in additional activities.
+
+9.Relationship of the Parties
+Nothing in this Agreement shall constitute or shall be deemed to constitute a joint venture, partnership, association, syndicate, or other arrangement between the parties or constitute OCHK to be an agent of OCMLP or any of its affiliates for any purpose whatsoever. OCHK shall have no authority or power to act for or represent OCMLP or any of its affiliates in any way, or to bind OCMLP or any of its affiliates or to enter into, negotiate or conclude any contract in the name of OCMLP or any of its affiliates.
+
+10.Confidentiality
+OCHK shall keep confidential all information of OCMLP, its affiliates and its partners or potential partners to which it may have access in connection with the performance of the Services other than disclosed as required by applicable law, regulation or rule, or as requested by any regulator with jurisdiction over such party, or compelled to do so by any court of competent jurisdiction.
+11.Notices
+11.1    Any notice or other communication under or in connection with this Agreement (a “Notice”) shall be given: (i) in writing, (ii) in English and (iii) shall be delivered personally, by e-mail or sent by courier by an internationally recognized courier company (e.g. FedEx, DHL) or by fax, to the party due to receive the Notice at its address set out below.
+11.2    In the absence of evidence of earlier receipt, a Notice shall be deemed to have been duly given if:
+(a)delivered personally, when left at the address set out below;
+(b)sent by e-mail, the time of actual receipt of the e-mail by the recipient;
+(c)sent by courier, two business days after posting it; or
+
+
+(d)sent by fax, when confirmation of its transmission has been recorded on the sender’s fax machine.
+11.3    Notices shall be sent:
+if to OCMLP:
+Oaktree Capital Management, L.P.
+333 South Grand Ave., 28th Floor
+Los Angeles, CA 90071, U.S.A.
+Attention: General Counsel
+Fax: +1.213.830.6293
+Email: LegalNotifications@oaktreecapital.com
+if to OCHK:
+Oaktree Capital (Hong Kong) Limited
+Suite 2001, 20/F, Champion Tower
+3 Garden Road
+Central, Hong Kong
+Attention: Legal Counsel
+Fax: +852.3655.6900
+Email: LegalNotifications@oaktreecapital.com
+
+12.Successors and Assigns
+Except as set forth herein or by operation of law, neither party may assign or transfer any of their duties or obligations hereunder without the prior written consent of the other party; provided that this Agreement shall be binding upon, and inure to the benefit of, any successors and assigns of OCMLP or OCHK.
+
+13.Severability
+If any term or provision of this Agreement shall be held to be illegal or unenforceable, in whole or in part, under any enactment or rule of law, such term or provision, or the relevant part thereof, shall to that extent be deemed not to form part of this Agreement and the enforceability of the remainder of this Agreement shall not be affected.
+
+14.Counterparts
+This Agreement may be executed in any number of counterparts, each of which when executed shall constitute an original instrument, but all the counterparts together shall constitute one and the same instrument.
+
+15.Survival
+Sections 4 (Indemnification and Exculpation), 7 (Governing Law), 10 (Confidentiality) and 15 (Survival) shall survive termination of this Agreement.
+
+
+
+16.Amendments; Waiver
+This Agreement may be modified or amended at any time or from time to time only with the written consent of each of OCMLP and OCHK. Each amendment hereto shall be in the form of a written agreement expressed to be an amendment hereof. The parties agree that, to the fullest extent permitted by applicable law, no failure or delay by any party in exercising any right or remedy hereunder shall operate as a waiver thereof, and a waiver of a particular right or remedy on one occasion shall not be deemed a waiver of any other right or remedy or a waiver on any subsequent occasion.
+
+[Signature Page Follows]
+
+
+
+IN WITNESS WHEREOF, each of the parties hereto has caused this Agreement to be duly executed by its respective authorized representative on the date first set forth above.
+
+OAKTREE CAPITAL MANAGEMENT, L.P.		
+
+
+
+
+___/s/Henry E. Orren_______
+Name: Henry E. Orren
+Title: Authorized Signatory
+
+
+
+
+Name: Henry E. Orren		
+Title: Authorized Signatory		
+ 
+
+
+___/s/Peter Boos_______
+Name: Peter Boos
+Title: Authorized Signatory
+
+Date: January 6, 2021
+
+
+
+Oaktree Capital (Hong Kong) Limited		
+
+
+
+
+___/s/Kwang Duk Choi_______
+Name: Kwang Duk Choi
+Title: Authorized Signatory
+
+
+
+
+Name: Kwang Duk Choi		
+Title: Authorized Signatory		
+___/s/Dominic Keenan _______
+Name: Dominic Keenan
+Title: Authorized Signatory
+
+Name: Dominic Keenan		
+Title: Authorized Signatory		
+ 
+
+
+Date: January 6, 2021
+[Signature Page to Third Amended and Restated Services Agreement]

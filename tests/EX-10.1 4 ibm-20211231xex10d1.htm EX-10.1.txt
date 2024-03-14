@@ -1,0 +1,981 @@
+EX-10.1 4 ibm-20211231xex10d1.htm EX-10.1
+
+Exhibit 10.1
+
+
+
+International Business Machines Corporation (“IBM”)
+Equity Award Agreement
+
+
+
+Plan
+
+[IBM 1999 Long-Term Performance Plan (the “Plan”)]
+
+
+
+Award Type
+
+[Stock Options, Restricted Stock, Restricted Stock Units, Cash-Settled Restricted Stock Units, SARs]
+
+
+
+Purpose
+
+The purpose of this Award is to retain selected employees and executives.  You recognize that this Award represents a potentially significant benefit to you and is awarded for the purpose stated here.
+
+
+
+Awarded to
+Home Country
+Global ID
+
+Sample
+United States (USA) [Employee ID]
+[Global ID]
+
+
+
+Award Agreement
+
+This Equity Award Agreement, together with the “Terms and Conditions of Your Equity Award Effective January  1, 2022” (“Terms and Conditions”) document and the Plan [http://w3.ibm.com/hr/exec/comp/eq_prospectus.shtml,] [https://w3cms.s3-api.us-geo.objectstorage.softlayer.net/inline-files/LTPP_1999_august_2007_prospectus.pdf], both of which are incorporated herein by reference, together constitute the entire agreement between you and IBM with respect to your Award.  This Equity Award Agreement shall be governed by the laws of the State of New York, without regard to conflicts or choice of law rules or principles.
+
+
+
+Grant
+
+Date of Grant: [Month Date, Year]
+[Exercise Price:  $XX]
+Number of [Options/Units/Shares/SARs] Awarded: [XX]
+
+
+
+Vesting
+
+This Award vests as set forth below, subject to your continued employment with the Company as described in the Terms and Conditions document.
+
+
+
+
+Options/Units/Shares/SARs
+
+Date
+
+
+[number of shares]
+
+[month date year]
+
+
+[number of shares]
+
+[month date year]
+
+
+[            “              ]
+
+[          “                ]
+
+
+
+
+
+
+
+Options expire, subject to the Terms and Conditions document, on:     [month date year]
+
+
+
+Terms and
+Conditions of Your
+Equity Award
+
+Refer to the Terms and Conditions document [http://w3.ibm.com/hr/exec/comp/eq_prospectus.shtml] [attached] for an explanation of the terms and conditions applicable to your Award, including those relating to:
+
+
+●	Cancellation and rescission of awards (also see below)
+
+●	Jurisdiction, governing law, expenses, taxes and administration
+
+●	Non-solicitation of Company employees and clients, if applicable
+
+●	Treatment of your Award in the event of death or disability or leave of absence
+
+●	Treatment of your Award upon termination of employment, including retirement or for cause
+
+
+
+It is strongly recommended that you print the Terms and Conditions document for later reference.
+
+
+
+
+Page 1 of 2
+
+
+
+Cancellation and Rescission
+
+You understand that IBM may cancel, modify, rescind, suspend, withhold or otherwise limit or restrict this Award in accordance with the terms of the Plan.  You understand that the Rescission Period that has been established for this Award is 12 months.  Refer to the Terms and Conditions document and the Plan for further details.
+
+
+
+Data Privacy, Electronic Delivery
+
+By accepting this Award, you agree that data, including your personal data, necessary to administer this Award may be exchanged among IBM and its subsidiaries and affiliates as necessary, and with any vendor engaged by IBM to administer this Award, subject to the Terms and Conditions document; you also consent to receiving information and materials in connection with this Award or any subsequent awards under IBM’s long-term performance plans, including without limitation any prospectuses and plan documents, by any means of electronic delivery available now and/or in the future (including without limitation by e-mail, by Web site access and/or by facsimile), such consent to remain in effect unless and until revoked in writing by you.
+
+
+
+Extraordinary Compensation
+
+Your participation in the Plan is voluntary.  The value of this Award is an extraordinary item of income, is not part of your normal or expected compensation and shall not be considered in calculating any severance, redundancy, end of service payments, bonus, long-service awards, pension, retirement or other benefits or similar payments.  The Plan is discretionary in nature.  This Award is a one-time benefit that does not create any contractual or other right to receive additional awards or other benefits in the future.  Future grants, if any, are at the sole grace and discretion of IBM, including but not limited to, the timing of the grant, the number of units and vesting provisions.  This Equity Award Agreement is not part of your employment agreement, if any.
+
+
+
+Accept Your Award
+
+This Award is considered valid when you accept it.  This Award will be cancelled unless you accept it by 11:59 p.m. Eastern time two business days prior to the first vesting date in the “Vesting” section of this Agreement. [By pressing the Accept button below to accept your Award, you acknowledge having received and read this Equity Award Agreement, the Terms and Conditions document and the Plan under which this Award was granted and] [To record your acceptance of the Award and your acknowledgment that you have received and read this Equity Award Agreement, the Terms and Conditions document and the Plan under which this Award was granted, you must electronically sign this Agreement via Adobe Sign.  Further by accepting this Award] you agree (i) not to hedge the economic risk of this Award or any previously-granted outstanding awards, which includes entering into any derivative transaction on IBM securities (e.g., any short sale, put, swap, forward, option, collar, etc.), (ii) to comply with the terms of the Plan, this Equity Award Agreement and the Terms and Conditions document, including those provisions relating to cancellation and rescission of awards and jurisdiction and governing law, and (iii) that, unless you are an Illinois worker or resident (in which case any previous awards remain unaffected by this Award), by your acceptance of this Award, all awards previously granted to you under the Plan or other IBM Long-Term Performance Plans are subject to jurisdiction, governing law, expenses, taxes and administration section of the Terms and Conditions document (unless you are, and have been for at least 30 days immediately preceding, a resident of or an employee in Massachusetts at the time of the termination of your employment with IBM, in which case the jurisdiction, governing law, expenses, taxes and administration terms of your previous awards shall apply).
+
+
+
+Page 2 of 2
+
+
+
+
+International Business Machines Corporation (“IBM”)
+
+
+
+
+Equity Award Agreement
+
+
+
+Plan
+
+[IBM 1999 Long-Term Performance Plan (the “Plan”)]
+
+
+
+Award Type
+
+Performance Share Units (PSUs)
+
+
+
+Purpose
+
+The purpose of this Award is to retain selected executives.  You recognize that this Award represents a potentially significant benefit to you and is awarded for the purpose stated here.
+
+
+
+Awarded to
+Home Country
+Global ID
+
+Sample
+United States (USA) [Employee ID]
+[Global ID]
+
+
+
+Award Agreement
+
+This Equity Award Agreement, together with the “Terms and Conditions of Your Equity Award Effective January 1, 2022” (“Terms and Conditions”) document and the Plan [http://w3.ibm.com/hr/exec/comp/eq_prospectus.html,]
+
+[https://w3cms.s3-api.us-geo.objectstorage.softlayer.net/inline-files/LTPP_1999_august_2007_prospectus.pdf], both of which are incorporated herein by reference, together constitute the entire agreement between you and IBM with respect to your Award.  This Equity Award Agreement shall be governed by the laws of the State of New York, without regard to conflicts or choice of law rules or principles.
+
+
+
+Grant
+
+Date of Grant
+
+# PSUs Awarded
+
+Performance Period
+
+Date of Payout
+
+
+[month day year]
+
+[amount]
+
+[dates]
+
+[date]
+
+
+[month day year]
+
+[amount]
+
+[dates]
+
+[date]
+
+
+[          “             ]
+
+[     “     ]
+
+[   “   ]
+
+[  “  ]
+
+
+
+Vesting
+
+You can earn the PSUs awarded above based on IBM’s performance in achieving cumulative business targets of IBM revenue, operating earnings per share and free cash flow, weighted 40/30/30 respectively, over the 3-year Performance Period applicable to the award. For any Performance Period(s) prior to January 1, 2021, the business targets and weightings of operating earnings per share and free cash flow will remain 70/30, respectively. Performance against each of the targets will be subject to separate payout calculations according to the following table (which will be applied separately for each award of PSUs listed above):
+
+
+
+
+% of Target
+
+<70%
+
+70%
+
+80%
+
+90%
+
+100%
+
+110%
+
+>120%
+
+
+% of PSUs earned
+
+0%
+
+25%
+
+50%
+
+75%
+
+100%
+
+125%
+
+150%
+
+
+
+
+After the percentage of PSUs earned is determined, such percentage is further subject to a Relative Return on Invested Capital (ROIC) modifier over the three-year Performance Period that could result in (1) the percentage of PSUs earned being reduced up to 20 points if the performance falls below the S&P 500 Index median; or (2) the percentage of PSUs earned being increased up to 20 points when IBM exceeds the median performance of both the S&P 500 Index and the S&P Information Technology Index. The relative ROIC modifier has no effect on the percentage of PSUs earned when IBM’s ROIC performance falls between the S&P 500 Index and the S&P Information Technology Index median. The final number of PSUs earned under this Award is generally determined after the ROIC modifier is applied. In the event the final percentage of PSUs earned is 0% based on IBM’s performance in achieving cumulative business targets of operating earnings per share and free cash flow, the relative ROIC modifier would not apply.
+
+
+
+Payout of
+Awards
+
+Following the Date of Payout, the Company shall either (a) deliver to you a number of shares of Capital Stock equal to the number of your earned PSUs, or (b) make a cash payment to you equal to the Fair Market Value on the Date of Payout of the number of your earned PSUs at the end of the Performance Period, in either case, net of any applicable tax withholding, and the respective PSUs shall thereafter be cancelled.
+
+
+
+
+All payouts under this Award are subject to the provisions of the Plan, this Agreement and the Terms and Conditions document, including those relating to the cancellation and rescission of awards.
+
+
+
+
+
+Page 1 of 3
+
+
+
+
+
+International Business Machines Corporation (“IBM”)
+Equity Award Agreement
+
+
+
+Terms and Conditions of Your
+
+Refer to the Terms and Conditions document [http://w3.ibm.com/hr/exec/comp/eq_prospectus.shtml] [attached] for an explanation of the terms and conditions applicable to your Award, including those relating to:
+
+Equity Award
+
+●	Cancellation and rescission of awards (also see below)
+
+●	Jurisdiction, governing law, expenses, taxes and administration
+
+●	Non-solicitation of Company employees and clients, if applicable
+
+●	Treatment of your Award in the event of death or disability or leave of absence
+
+●	Treatment of your Award upon termination of employment, including retirement or for cause,
+
+(i) if you are on the performance team, or any successor team thereto, and (ii) under all other circumstances.
+
+
+
+
+It is strongly recommended that you print the Terms and Conditions document for later reference.
+
+
+
+Cancellation and
+Rescission
+
+You understand that IBM may cancel, modify, rescind, suspend, withhold or otherwise limit or restrict this Award in accordance with the terms of the Plan, including, without limitation, canceling or rescinding this Award if you render services for a competitor prior to, or during the Rescission Period.  You understand that the Rescission Period that has been established is 12 months.  Refer to the Terms and Conditions document and the Plan for further details.
+
+
+
+Data Privacy,
+Electronic Delivery
+
+By accepting this Award, you agree that data, including your personal data, necessary to administer this Award may be exchanged among IBM and its subsidiaries and affiliates as necessary, and with any vendor engaged by IBM to administer this Award, subject to the Terms and Conditions document; you also consent to receiving information and materials in connection with this Award or any subsequent awards under IBM’s long-term performance plans, including without limitation any prospectuses and plan documents, by any means of electronic delivery available now and/or in the future (including without limitation by e-mail, by Web site access and/or by facsimile), such consent to remain in effect unless and until revoked in writing by you.
+
+
+
+Extraordinary
+Compensation
+
+Your participation in the Plan is voluntary.  The value of this Award is an extraordinary item of income, is not part of your normal or expected compensation and shall not be considered in calculating any severance, redundancy, end of service payments, bonus, long-service awards, pension, retirement or other benefits or similar payments.  The Plan is discretionary in nature.  This Award is a one-time benefit that does not create any contractual or other right to receive additional awards or other benefits in the future.  Future grants, if any, are at the sole grace and discretion of IBM, including but not limited to, the timing of the grant, the number of units and vesting provisions.  This Equity Award Agreement is not part of your employment agreement, if any.
+
+
+
+
+
+
+Page 2 of 3
+
+
+
+
+
+
+International Business Machines Corporation (“IBM”)
+Equity Award Agreement
+
+
+
+Accept Your Award
+
+This Award is considered valid when you accept it.  This Award will be cancelled unless you accept it by 11:59 p.m. Eastern time two business days prior to the end of the Performance Period in the “Grant” section of this Agreement. [By pressing the Accept button below to accept your Award, you acknowledge having received and read this Equity Award Agreement, the Terms and Conditions document and the Plan under which this Award was granted and] [To record your acceptance of the Award and your acknowledgment that you have received and read this Equity Award Agreement, the Terms and Conditions document and the Plan under which this Award was granted, you must electronically sign this Agreement via Adobe Sign.  Further by accepting this Award] you agree (i) not to hedge the economic risk of this Award or any previously-granted outstanding awards, which includes entering into any derivative transaction on IBM securities (e.g., any short sale, put, swap, forward, option, collar, etc.), (ii) to comply with the terms of the Plan, this Equity Award Agreement and the Terms and Conditions document, including those provisions relating to cancellation and rescission of awards and jurisdiction and governing law, and (iii) that, unless you are an Illinois worker or resident,  by your acceptance of this Award, all awards previously granted to you under the Plan or other IBM Long-Term Performance Plans are subject to (A) jurisdiction, governing law, expenses, taxes and administration section of the Terms and Conditions document (unless you are, and have been for at least 30 days immediately preceding, a resident of or an employee in Massachusetts at the time of the termination of your employment with IBM, in which case the jurisdiction, governing law, expenses, taxes and administration terms of your previous awards shall apply) and (B) any cancellation, rescission or recovery required by applicable laws, rules, regulations or standards, including without limitation any requirements or standards of the U.S. Securities and Exchange Commission or the New York Stock Exchange.
+
+
+
+
+
+
+Page 3 of 3
+
+
+
+
+IBM
+
+
+
+
+
+
+
+
+
+
+
+TERMS AND CONDITIONS OF YOUR
+EQUITY AWARD:
+
+EFFECTIVE January 1, 2022
+
+
+
+
+
+
+Terms and Conditions of Your Equity Award
+
+
+Table of Contents
+
+
+
+
+Introduction
+
+3
+
+
+
+How to Use This Document
+
+3
+
+
+
+Definition of Terms
+
+4
+
+
+
+Provisions that apply to all Award types and all countries
+
+6
+
+
+
+Provisions that apply to all Award types but not all countries
+
+8
+
+
+
+Provisions that apply to specific Award types for all countries
+
+9
+
+
+
+a. Restricted Stock Units (“RSUs”) including Cash-Settled RSUs and Retention RSUs (“RRSUs”)
+
+9
+
+
+
+i. All RSUs
+
+9
+
+
+
+ii. RSUs Other Than Cash-Settled RSUs and Cash-Settled RRSUs
+
+11
+
+
+
+iii. Cash-Settled RSUs including Cash-Settled RRSUs
+
+11
+
+
+
+b. Restricted Stock
+
+11
+
+
+
+c. Stock Options (“Options”) and Stock Appreciation Rights (“SARs”)
+
+13
+
+
+
+i. All Option and SAR Awards
+
+13
+
+
+
+ii. All SAR Awards
+
+15
+
+
+
+d. Performance Share Units (“PSUs”)
+
+16
+
+
+
+Provisions that apply to specific countries
+
+17
+
+
+
+a. Denmark
+
+17
+
+
+
+b. Israel
+
+17
+
+
+
+c. United States
+
+17
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 2 of 18
+
+
+
+Terms and Conditions of Your Equity Award
+
+Introduction
+
+This document provides you with the terms and conditions of your Award that are in addition to the terms and conditions contained in your Equity Award Agreement for your specific Award. Also, your Award is subject to the terms and conditions in the governing plan document; the applicable document is indicated in your Equity Award Agreement and can be found at http://w3.ibm.com/hr/exec/comp/eq_prospectus.shtml.
+
+As an Award recipient, you can see a personalized summary of all your outstanding equity grants in the “Personal statement” section of the IBM executive compensation web site (http://w3.ibm.com/hr/exec/comp). This site also contains other information about long- term incentive awards, including copies of the prospectus (the governing plan document). If you have additional questions and you are based in the U.S., you can call the IBM Benefits Center at 866-937-0720, weekdays from 8:00 a.m. to 8:00 p.m. Eastern time (TTY available at 800-426-6537). Outside of the U.S. dial your country’s toll-free AT&T Direct® access number, and then enter 866-937-0720. In the U.S., call 800-331- 1140 to obtain AT&T Direct access numbers. Access numbers are also available online at www.att.com/traveler or from your local operator.
+
+How to Use This Document
+
+Terms and conditions that apply to all awards in all countries can be found on page 6. Review these in addition to any award- or country-specific terms and conditions that may be listed. Once you have reviewed these general terms, check in your Equity Award Agreement for any award-specific and/or country-specific terms that apply to your Award.
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 3 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Definition of Terms
+
+The following are defined terms from the Long-Term Performance Plan, your Equity Award Agreement, or this Terms and Conditions document. These are provided for your information. In addition to this document, see the Plan prospectus and your Equity Award Agreement for more details.
+
+“Awards” -- The grant of any form of stock option, stock appreciation right, stock or cash award, whether granted singly, in combination or in tandem, to a Participant pursuant to such terms, conditions, performance requirements, limitations and restrictions as the Committee may establish in order to fulfill the objectives of the Plan.
+
+“Board” -- The Board of Directors of International Business Machines Corporation (“IBM”).
+
+“Capital Stock” -- Authorized and issued or unissued Capital Stock of IBM, at such par value as may be established from time to time.
+
+“Committee” -- The committee designated by the Board to administer the Plan.
+
+“Company” -- IBM and its affiliates and subsidiaries including subsidiaries of subsidiaries and partnerships and other business ventures in which IBM has an equity interest.
+
+“Engage in or Associate with” includes, without limitation, engagement or association as a sole proprietor, owner, employer, director, partner, principal, joint venture, associate, employee, member, consultant, or contractor. This also includes engagement or association as a shareholder or investor during the course of your employment with the Company, and includes beneficial ownership of five percent (5%) or more of any class of outstanding stock of a competitor of the Company following the termination of your employment with the Company.
+
+“Equity Award Agreement” -- The document provided to the Participant which provides the grant details.
+
+“Fair Market Value” -- The average of the high and low prices of Capital Stock on the New York Stock Exchange for the date in question, provided that, if no sales of Capital Stock were made on said exchange on that date, the average of the high and low prices of Capital Stock as reported for the most recent preceding day on which sales of Capital Stock were made on said exchange.
+
+“Participant” -- An individual to whom an Award has been made under the Plan. Awards may be made to any employee of, or any other individual providing services to, the Company. However, incentive stock options may be granted only to individuals who are
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 4 of 18
+
+
+
+employed by IBM or by a subsidiary corporation (within the meaning of section 424(f) of the Code) of IBM, including a subsidiary that becomes such after the adoption of the Plan.
+
+“Performance Team” -- For purposes of the Plan, the Performance Team refers to the team of IBM’s senior leaders who run IBM Business Units or geographies, including the chairman and CEO. The CEO selects and invites these senior leaders to join the Performance Team.
+
+“Plan” -- Any IBM Long-Term Performance Plan.
+
+“Termination of Employment” -- For the purposes of determining when you cease to be an employee for the cancellation of any Award, a Participant will be deemed to be terminated if the Participant is no longer employed by IBM or a subsidiary corporation that employed the Participant when the Award was granted unless approved by a method designated by those administering the Plan.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 5 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to all Award types and all countries
+
+The following terms apply to all countries and for all Award types (Restricted Stock Units, Cash-Settled Restricted Stock Units, Restricted Stock, Stock Options, Stock Appreciation Rights and Performance Share Units).
+
+Cancellation and Rescission
+
+All determinations regarding enforcement, waiver or modification of the cancellation and rescission and other provisions of the Plan and your Equity Award Agreement (including the provisions relating to termination of employment, death and disability) shall be made in IBM’s sole discretion. Determinations made under your Equity Award Agreement and the Plan need not be uniform and may be made selectively among individuals, whether or not such individuals are similarly situated.
+
+You agree that the cancellation and rescission provisions of the Plan and your Equity Award Agreement are reasonable and agree not to challenge the reasonableness of such provisions, even where forfeiture of your Award is the penalty for violation. Engaging in Detrimental Activity (as defined in the Plan) during employment or after your employment relationship has ended may result in cancellation or rescission of your Award.
+
+The cancellation and rescission provisions of the Plan may be triggered by your acceptance of an offer to Engage in or Associate with any business which is or becomes competitive with the Company, or your engagement in competitive activities after your employment relationship with IBM has ended if: (i) on or prior to the grant date stated in your latest Equity Award Agreement you have entered into a Noncompetition Agreement with IBM; or (ii) the Award is a Retention Restricted Stock Unit award. Notwithstanding the above, the cancellation and rescission provisions of the Plan will apply to all Awards if during your employment with IBM you engage in any Detrimental Activity, including competitive activities, described in Section 13(a) of the Plan.
+
+For the avoidance of doubt: (a) all other cancellation and rescission provisions of the Plan will apply to all Awards if after your employment relationship has ended with IBM but during the Rescission Period you engage in any Detrimental Activity described in Section 13(a) (excluding Section 13(a)(i)) of the Plan; and (b) the cancellation and rescission provisions of the Plan will apply to all Awards if during your employment with IBM you engage in any Detrimental Activity, including competitive activities, described in Section 13(a)of the Plan.
+
+Jurisdiction, Governing Law, Expenses, Taxes and Administration
+
+Your Equity Award Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, without regard to its conflict of law rules. You agree that any action or proceeding with respect to your Equity Award Agreement shall
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 6 of 18
+
+
+
+be brought exclusively in the state and federal courts sitting in New York County or, Westchester County, New York. You agree to the personal jurisdiction thereof, and irrevocably waive any objection to the venue of such action, including any objection that the action has been brought in an inconvenient forum.
+
+If any court of competent jurisdiction finds any provision of your Equity Award Agreement, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of your Equity Award Agreement shall continue in full force and effect.
+
+If you or the Company brings an action to enforce your Equity Award Agreement and the Company prevails, you will pay all costs and expenses incurred by the Company in connection with that action and in connection with collection, including reasonable attorneys’ fees.
+
+If the Company, in its sole discretion, determines that it has incurred or will incur any obligation to withhold taxes as a result of your Award, without limiting the Company’s rights under Section 9 of the Plan, the Company may withhold the number of shares that it determines is required to satisfy such liability and/or the Company may withhold amounts from other compensation to the extent required to satisfy such liability under federal, state, provincial, local, foreign or other tax laws. To the extent that such amounts are not withheld, the Company may require you to pay to the Company any amount demanded by the Company for the purpose of satisfying such liability.
+
+If the Company changes the vendor engaged to administer the Plan, you consent to moving all of the shares you have received under the Plan that is in an account with such vendor (including unvested and previously vested shares), to the new vendor that the Company engages to administer the Plan. Such consent will remain in effect unless and until revoked in writing by you.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 7 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to all Award types but not all countries
+
+The following provision applies to all Award types (Restricted Stock Units, Cash- Settled Restricted Stock Units, Restricted Stock, Stock Options, Stock Appreciation Rights and Performance Share Units) granted to all individuals in all countries except those with a home country of Latin America, specifically: Argentina, Bolivia, Brazil, Chile, Columbia, Costa Rica, Ecuador, Mexico, Paraguay, Peru, Uruguay, and Venezuela.
+
+Non-Solicitation
+
+In consideration of your Award, you agree that during your employment with the Company and for two years following the termination of your employment for any reason, you will not directly or indirectly hire, solicit or make an offer to any employee of the Company to be employed or perform services outside of the Company. Also, you agree that during your employment with the Company and for one year following the termination of your employment for any reason, you will not directly or indirectly, solicit, for competitive business purposes, any customer of the Company with which you were involved as part of your job responsibilities during the last year of your employment with the Company. By accepting your Award, you acknowledge that the Company would suffer irreparable harm if you fail to comply with the foregoing, and that the Company would be entitled to any appropriate relief, including money damages, equitable relief and attorneys’ fees.
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 8 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific Award types for all countries
+
+a.Restricted Stock Units (“RSUs”) including Cash-Settled RSUs and Retention RSUs (“RRSUs”)
+
+All references in this document to RSUs include RRSUs, unless explicitly stated otherwise
+
+i.All RSUs
+
+Termination of Employment including Death, Disability and Leave of Absence
+
+Termination of Employment
+
+In the event you cease to be an employee (other than on account of death or are disabled as described in Section 12 of the Plan) prior to the Vesting Date(s) set in your Equity Award Agreement, all then unvested RSUs, including RRSUs, under your Award shall be canceled.
+
+However, your unvested and/or outstanding RSUs, but not RRSUs, will continue to vest upon the termination of employment if all of the following criteria are met:
+
+●	You are either (i) determined to be a member of the Performance Team or any successor team thereto; or (ii) if not a member of the Performance Team, are designated by the Company as a Band A executive or a comparable band thereto, at the time of termination of employment;
+●	You have completed at least one year of active service since the award date of grant;
+●	You have reached age 55 with 15 years of service at the time of termination of employment (age 60 with 15 years of service for the Chairman and CEO); and
+●	Appropriate senior management, the Committee or the Board, as appropriate, do not exercise their discretion to cancel or otherwise limit the vesting of the RSUs.
+Death or Disability
+
+Upon your death all RSUs covered by this Agreement shall vest immediately and your Vesting Date shall be your date of death. If you are disabled as described in Section 12 of the Plan, your RSUs shall continue to vest according to the terms of your Award.
+
+Leave of Absence
+
+In the event of a management approved leave of absence, any unvested RSUs shall continue to vest as if you were an active employee of the Company, subject to the terms in this document and your Equity Award Agreement. If you return to active status, your unvested RSUs will continue to vest in accordance with the terms in this document and your Equity Award Agreement.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 9 of 18
+
+
+
+Dividend Equivalents
+
+IBM shall not pay dividend equivalents on cash-settled or stock-settled unvested RSU awards.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 10 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific Award types for all countries
+
+ii.
+
+RSUs Other Than Cash-Settled RSUs and Cash-Settled RRSUs
+
+Settlement of Award
+
+Subject to Sections 12 and 13 of the Plan and the section “Termination of Employment including Death, Disability and Leave of Absence” above, upon the Vesting Date(s), or as soon thereafter as may be practicable but in no event later than March 15 of the following calendar year, IBM shall make a payment to Participant in shares of Capital Stock equal to the number of vested RSUs, subject to any applicable tax withholding requirements as described in Section 9 of the Plan, and the respective RSUs shall thereupon be canceled. RSUs are not shares of Capital Stock and do not convey any stockholder rights.
+
+iii.
+
+Cash-Settled RSUs including Cash-Settled RRSUs
+
+Settlement of Award
+
+Subject to Sections 12 and 13 of the Plan and the section entitled “Termination of Employment including Death, Disability and Leave of Absence” above, upon the Vesting Date(s), or as soon thereafter as may be practicable but in no event later than March 15 of the following calendar year, the Company shall make a payment to Participant in cash equal to the Fair Market Value of the vested RSUs, subject to any applicable tax withholding requirements as described in Section 9 of the Plan, and the respective RSUs shall thereupon be canceled. Fair Market Value will be calculated in your home country currency at the exchange rate on the applicable Vesting Date using a commercially reasonable measure of exchange rate. RSUs are not shares of Capital Stock and do not convey any stockholder rights.
+
+b.
+
+Restricted Stock
+
+Settlement of Award
+
+Subject to Sections 12 and 13 of the Plan and the paragraph entitled “Termination of Employment including Death, Disability or Leave of Absence” below, upon the Vesting Date(s), or as soon thereafter as may be practicable but in no event later than March 15 of the following calendar year, the shares of Restricted Stock awarded under your Equity Award Agreement will be deliverable to you, subject to any applicable tax withholding requirements as described in Section 9 of the Plan.
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 11 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific Award types for all countries
+
+Termination of Employment including Death, Disability and Leave of Absence
+
+Termination of Employment
+
+In the event you cease to be an employee (other than on account of death or are disabled as described in Section 12 of the Plan) prior to the Vesting Date(s) in your Equity Award Agreement, all then unvested shares of Restricted Stock under your Award shall be canceled (unless your Equity Award Agreement provides otherwise).
+
+Death or Disability
+
+Upon your death all unvested shares of Restricted Stock covered by your Equity Award Agreement shall vest immediately and your Vesting Date shall be your date of death. If you are disabled as described in Section 12 of the Plan, your unvested shares of Restricted Stock shall continue to vest according to the terms of your Equity Award Agreement.
+
+Leave of Absence
+
+In the event of a management approved leave of absence, any unvested shares of Restricted Stock shall continue to vest as if you were an active employee of the Company, subject to the terms in this document and your Equity Award Agreement. If you return to active status, your unvested shares of Restricted Stock will continue to vest in accordance with the terms in this document and your Equity Award Agreement.
+
+Dividends and Other Rights
+
+During the period that the Restricted Stock is held by IBM hereunder, such stock will remain on the books of IBM in your name, may be voted by you, and any applicable dividends shall be paid to you. Shares issued in stock splits or similar events which relate to Restricted Stock then held by IBM in your name shall be issued in your name but shall be held by IBM under the terms hereof.
+
+Transferability
+
+Shares of Restricted Stock awarded under your Equity Award Agreement cannot be sold, assigned, transferred, pledged or otherwise encumbered prior to the vesting of your Award as set forth in your Equity Award Agreement and any such sale, assignment, transfer, pledge or encumbrance, or any attempt thereof, shall be void.
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 12 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific Award types for all countries
+
+c.
+
+Stock Options (“Options”) and Stock Appreciation Rights (“SARs”)
+
+i.
+
+All Option and SAR Awards
+
+Termination of Employment including Death, Disability and Leave of Absence
+
+Termination of Employment
+
+In the event you cease to be an employee (other than on account of death or are disabled as described in Section 12 of the Plan):
+
+●	Any Options or SARs that are not exercisable as of the date your employment terminates shall be canceled immediately (unless your Equity Award Agreement provides otherwise), and
+●	Any Options or SARs that are exercisable as of the date your employment terminates (other than for cause) will remain exercisable for 90 days (not three months) after the date of termination, after which any unexercised Options or SARs are canceled; provided, however, if you are a banded executive when your employment with the Company terminates (other than for cause) after you have attained age 55 and completed at least 15 years of service with the Company at the time of termination, any Options or SARs that are exercisable as of the date your employment terminates shall remain exercisable for the full term as in your Equity Award Agreement (unless your Equity Award Agreement provides otherwise).
+●	However, provided you are not terminated for cause, your unvested Options or SARs will continue to vest upon termination of employment, and Options or SARs that are exercisable upon termination of employment or become exercisable in the future shall remain exercisable for the full term as stated in your Equity Award Agreement (unless your Equity Award Agreement provides otherwise), if all of the following criteria are met:
+●	You are either (i) determined to be a member of the Performance Team or any successor team thereto, or (ii) if not a member of the Performance Team are designated by the Company as a Band A Executive or a comparable band thereto, at the time of termination of employment;
+●	You have completed at least one year of active service since the award date of grant;
+●	You have reached age 55 with 15 years of service at the time of termination of employment (age 60 with 15 years of service for the Chairman and CEO); and
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 13 of 18
+
+
+
+
+●	Appropriate senior management, the Committee or the Board, as appropriate, do not exercise their discretion to cancel or otherwise limit the vesting or exercisability of the Options or SARs.
+Death or Disability
+
+In the event of your death, all Options or SARs shall become fully exercisable and remain exercisable for their full term.
+
+In the event you are disabled (as described in Section 12 of the Plan), any unvested Options or SARs shall continue to vest and be exercisable.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 14 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+Provisions that apply to specific Award types for all countries
+
+Leave of Absence
+
+In the event of a management approved leave of absence, any unvested Options or SARs shall continue to vest and be exercisable as if you were an active employee of the Company, subject to the terms in this document and your Equity Award Agreement. If you return to active status, your Options or SARs will continue to vest and be exercisable in accordance with their terms. If you do not return to active status,
+
+●	Your unvested Options or SARs will be canceled immediately; and
+●	Your vested Options or SARs will be canceled on the later of the 91st day following your last day of active employment or the date of the termination of your leave of absence; provided, however, if you are a banded executive when your employment terminates (other than for cause) after you have attained age 55 and completed at least 15 years of service with the Company at the time of termination, any Options or SARs that are exercisable as of the date your employment terminates shall remain exercisable for the full term as in your Equity Award Agreement.
+Termination of Employment for Cause
+
+If your employment terminates for cause, all exercisable and not exercisable Options or SARs are canceled immediately.
+
+ii.
+
+All SAR Awards
+
+Settlement of Award
+
+Upon exercise, the Company shall deliver an aggregate amount, in cash, equal to the excess of the Fair Market Value of a share of Capital Stock on the date of exercise over the Exercise Price set forth in your Equity Award Agreement multiplied by the number of SARs exercised, subject to any applicable tax withholding requirements as described in Section 9 of the Plan. The value of the Award will be calculated in your home country currency at the exchange rate on the date the Award becomes fully vested using a commercially reasonable measure of exchange rate.
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 15 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific Award types for all countries
+
+d.
+
+Performance Share Units (“PSUs”)
+
+Termination of Employment, including Death and Disability, and Leave of Absence
+
+Termination of Employment and Leave of Absence
+
+If you cease to be an active employee for any reason (other than on account of death or are disabled as described in Section 12 of the Plan) before the Date of Payout (in the case of a recipient in the United States, at year end of the applicable PSU Performance Period), all PSUs are canceled immediately. However, if at the time that you cease to be an active employee (provided you are not terminated for cause), you are a banded executive, have attained age 55, completed at least 15 years of service with the Company, and completed at least one year of active service during the PSU Performance Period (as set forth in your Equity Award Agreement), the PSUs granted hereunder shall be paid out on the Date of Payout (as set forth in your Equity Award Agreement) in an amount that will be prorated for the time that you work as an active executive during the PSU Performance Period, and adjusted for the performance score determined for the entire applicable performance period(s).
+
+However, provided you are not terminated for cause, your unvested PSUs will continue to vest if all of the following criteria are met at the time you cease to be an active employee:
+
+●	You are either (i) determined to be a member of the Performance Team or any successor team thereto; or (ii) if not a member of the Performance Team, are designated by the Company as a Band A executive or a comparable band thereto;
+●	You have completed at least one year of active service during the PSU Performance Period (as set forth in your Equity Award Agreement);
+●	You have reached age 55 with 15 years of service (age 60 with 15 years of service for the Chairman and CEO);
+●	The Committee has certified that all performance conditions have been met; and
+●	Appropriate senior management, the Committee or the Board, as appropriate, do not exercise their discretion to cancel or otherwise limit the payout.
+Death or Disability
+
+Prior to the Date of Payout, (i) in the event of your death or (ii) if you are disabled (as described in Section 12 of the Plan), all PSUs shall continue to vest according to the terms of your Equity Award Agreement and the PSUs will be paid on the Date of Payout, based on IBM performance, if applicable, over the entire applicable Performance Period(s).
+
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 16 of 18
+
+
+
+Terms and Conditions of Your Equity Award:
+
+Provisions that apply to specific countries
+
+a.
+
+Denmark
+
+i.All Awards
+
+Non-Solicitation
+
+The following part of the above non-solicitation provision does not apply to those individuals with the home country of Denmark: “In consideration of your Award, you agree that during your employment with the Company and for two years following the termination of your employment for any reason, you will not directly or indirectly hire, solicit or make an offer to any employee of the Company to be employed or perform services outside of the Company.”
+
+b.
+
+Israel
+
+i.All Awards
+
+Data Privacy
+
+In addition to the data privacy provisions in your Equity Award Agreement, you agree that data, including your personal data, necessary to administer this Award may be exchanged among IBM and its subsidiaries and affiliates as necessary (including transferring such data out of the country of origin both in and out of the EEA), and with any vendor engaged by IBM to administer this Award.
+
+c.
+
+United States
+
+i.All Awards
+
+Nothing in the Plan prospectus, your Equity Award Agreement or this Document affects your rights, immunities, or obligations under any federal, state, or local law, including under the Defend Trade Secrets Act of 2016, as described in Company policies, or prohibits you from reporting possible violations of law or regulation to a government agency, as protected by law.
+
+If you are Illinois worker or resident at the time that you receive your Equity Award Agreement for 2022 and thereafter, you acknowledge that you have been advised by IBM to consult with an attorney before accepting your Equity Award Agreement, and you have received 14 calendar days to review your  Equity Award Agreement.
+
+If you are, and have been for at least 30 days immediately preceding, a resident of, or an employee in Massachusetts at the time of the termination of your employment with IBM, cancellation and rescission provisions of the Plan will not apply if you engage in competitive activities after your employment relationship
+
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 17 of 18
+
+
+
+has ended with IBM. For the avoidance of doubt, cancellation and rescission provisions of the Plan will apply if you engage in (1) any Detrimental Activity prior to your employment relationship ending with IBM or (2) any Detrimental Activity described in Section 13(a) of the Plan other than engaging in competitive activities after your employment relationship has ended with IBM.
+
+
+
+
+Equity Awards: January 1, 2022
+
+Page 18 of 18
+
+

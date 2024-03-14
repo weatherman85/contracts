@@ -1,0 +1,83 @@
+EX-10.M.III 2 arwexhibit10miiiq421.htm EX-10.M.III
+Exhibit 10(m)(iii)
+THIS FIRST AMENDMENT TO GERMAN RECEIVABLES SALE AGREEMENT (this “Amendment”) is dated December _23, 2021, and made among ARROW CENTRAL EUROPE GMBH, a limited liability company incorporated under the laws of Germany, as seller and servicer (“Arrow Germany"), ARROW EMEA FUNDING CORP B.V., a special purpose vehicle incorporated as a limited liability company under the laws of the Netherlands, as buyer (the "SPV"), and BNP PARIBAS (“BNPP”), a société anonyme incorporated under the laws of France, as the administrative agent (in such capacity, the “Administrative Agent”).
+RECITALS
+WHEREAS, the SPV and Arrow Germany have entered into that certain German Receivables Sale Agreement, dated as of January 27, 2020 (the “German RSA”); and
+WHEREAS, the SPV and Arrow Germany desire to amend the German RSA as provided herein.
+NOW THEREFORE, the parties hereto agree as follows.
+IT IS AGREED AS FOLLOWS:
+1.DEFINITIONS AND INTERPRETATION
+1.1Terms defined in the Master Framework Agreement
+In this Amendment, unless otherwise defined herein or the context otherwise requires, capitalised terms have the meanings set forth in the Master Framework Agreement dated as of January 27, 2020 and signed by, among others, the parties hereto (as amended from time to time, including on or about the date hereof) (the "Master Framework Agreement").
+1.2Interpretation
+The principles of interpretation set out in Clause 2.2 (Interpretation) of the Master Framework Agreement apply to this Amendment as if fully set forth herein.
+2.AMENDMENT TO GERMAN RSA
+The SPV and Arrow Germany hereto hereby agree that the German RSA is amended as follows:
+1.1Clause 6.2(n) of the German RSA is hereby amended and restated in its entirety to read as follows:
+(n)    Securitisation Regulations. Upon request by a Purchaser or the Subordinated Lender, the Seller shall promptly provide each Purchaser or the Subordinated Lender, as applicable, with such information relating to the Purchased Receivables and the transactions under the Transaction Documents as any Purchaser or the Subordinated Lender may from time to time reasonably request in order to enable such Purchaser (in its capacity as Purchaser or as a sponsor) or the Subordinated Lender, as applicable, to comply with any and all applicable requirements of Article 5 and/or Article 7 of each Securitisation Regulation and any other due diligence provision or transparency
+
+744978652
+
+
+provision of the Securitisation Regulation Rules. The Seller shall make available all the information that an originator is required to make available in accordance with Article 7 of the EU Securitisation Regulation and Article 7 of the UK Securitisation Regulation.
+1.2Clause 6.3(e) of the German RSA is hereby amended and restated in its entirety to read as follows:
+(e)    Change in payment instructions to Obligors. The Seller shall not add or terminate any bank as an Account Bank or any account as an Account to or from those listed in schedule 3 (Accounts) to the Receivables Transfer Agreement or make any change, except to the extent permitted or required by the Transaction Documents, in its instructions to Obligors regarding payments for a Purchased Receivable to be made to any Account, unless (i) such instructions are to deposit such payments to another existing Account, (ii) with respect to the addition or termination of any bank as an Account Bank or any account as an Account, (A) the Buyer and the Administrative Agent have received written notice of such addition, termination or change at least thirty (30) days prior thereto, (B) the Buyer and the Administrative Agent (acting on the instructions of the Majority Purchasers) have consented to each new Account Bank and/or the termination of any Account Bank (in each case, where applicable, and provided that such consent or instructions are not unreasonably withheld or delayed), (C) the Security Trustee has received a duly executed Account Agreement with respect to each new Account, where applicable, and (D) the Administrative Agent and each Purchaser Agent have received an updated Schedule 3 (Accounts) to the Receivables Transfer Agreement along with a certification from the Seller that all conditions to add or remove such Account and/or Account Bank under the Transaction Documents have been satisfied, or (iii) on and after the Account Redirection Date, such instructions are to deposit payments to an SPV Account (it being agreed that, at any time on and after the Account Redirection Date, the Seller and the Buyer or its assigns shall jointly instruct all Obligors to make all payments in respect of the Purchased Receivables and their Related Security (other than any Receivable originated prior to such date) to an SPV Account).
+3.EFFECTIVENESS
+1.1Effective Date
+Subject to Clause 3.3 below, this Amendment shall become effective on the date hereof (the “Effective Date”), provided that the SPV shall have received a counterpart (or counterparts) of this Amendment executed and delivered by each of the parties hereto. All covenants, agreements, representations and warranties made herein and in the German RSA shall survive the execution and delivery of this Amendment and shall continue in full force and effect.
+1.2Status
+This Amendment is designated as a Transaction Document.
+1.3Continuing effect; Further Assurances
+On the Effective Date, and immediately following receipt of the items specified in Clause 4.1 above, the amendments and modifications to the German RSA shall be, and
+744978652
+
+
+shall be deemed to be, effective, modified and amended in accordance herewith and, in each case, the respective rights, limitations, obligations, duties, liabilities and immunities of the respective parties thereto and hereto shall hereafter be determined, exercised and enforced subject in all respects to the modifications and amendments, and all the terms and conditions of this Amendment shall be deemed to be a part of the respective terms and conditions of the German RSA for any and all purposes. Except as modified and expressly amended by this Amendment, the German RSA is in all respects ratified and confirmed, and all the terms, provisions and conditions thereof shall be and remain in full force and effect.
+4.MISCELLANEOUS
+1.1Counterparts
+This Amendment may be executed in any number of counterparts, and this has the same effect as if the signatures (and if applicable, seals) on the counterparts were on a single copy of this Amendment. Delivery by electronic mail of an executed signature page of this Amendment shall be effective as delivery of an executed counterpart of this Amendment.
+1.2GOVERNING LAW
+This Amendment (including Clause 4.3 (Enforcement/Jurisdiction)) and any non-contractual obligations arising out of or in connection with it shall be governed by and shall be construed in accordance with German law.
+1.3Enforcement/Jurisdiction
+Arrow Germany hereby submits to the non-exclusive jurisdiction of the courts of Frankfurt am Main, Germany, for purposes of all legal proceeding arising out of or relating to this Amendment (including Clause 4.2 (Governing law) and this Clause 4.3). Nothing in this Clause 4.3 shall affect the right of the SPV, the Administrative Agent or the other Secured Parties to bring any action or proceeding against Arrow Germany or any of its property in the courts of any other jurisdiction.
+1.4Limited Recourse and No Proceedings
+(a)Limited Recourse. Each party hereto agrees that notwithstanding anything to the contrary contained in this Amendment, the obligations of the SPV under this Amendment are solely the corporate obligations of the SPV and shall be payable solely to the extent of funds available to the SPV to satisfy such obligation in accordance with the Priority of Payments and to the extent that such funds are insufficient, any undischarged claims shall be extinguished.
+(b)No Proceedings. No party to this Amendment may, prior to the date which is two (2) years and one (1) day after the Final Payout Date, institute against, or join any other Person in instituting against, the SPV any proceeding of a type referred to in the definition of Event of Insolvency.
+744978652
+
+
+1.5Binding Effect
+This Amendment shall constitute a contract for the benefit of third parties (echter Vertrag zugunsten Dritter) to the extent representations are given to, or rights are granted to the Administrative Agent and the Security Trustee, in the sense of section 328 of the German Civil Code (Bürgerliches Gesetzbuch) for the benefit of the Administrative Agent and the Security Trustee. Arrow Germany acknowledges the SPV's rights under this Amendment may be assigned to the Administrative Agent or the Security Trustee and the other Secured Parties and consents to such assignments and to the exercise of those rights directly by the Administrative Agent, the Security Trustee or the other Secured Parties under the Security Documents and consents to such assignments and to the exercise of those rights directly by the Administrative Agent or any other Secured Party, to the extent permitted by the Security Documents.
+1.6Partial Invalidity
+If, at any time, any provision of this Amendment is or becomes illegal, invalid or unenforceable in any respect under any law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions nor the legality, validity or enforceability of that provision under the law of any other jurisdiction will in any way be affected or impaired.
+.
+744978652
+
+
+SIGNATURES
+ARROW CENTRAL EUROPE GMBH
+as Seller and Original Servicer
+/s/ Christopher Stansbury         /s/ Martin Bielesh    
+Name: Christopher Stansbury    Name: Martin Bielesh
+Title: Director    Title: Director
+ARROW EMEA FUNDING CORP. B.V.
+as Buyer
+/s/ Syste van Ulsen         /s/ Edwin van Ankeren    
+Name: Syste van Ulsen    Name: Edwin van Ankeren
+Title: Proxyholder    Title: Director
+
+
+744978652
+
+
+Consented to by:
+
+BNP PARIBAS, as Administrative Agent
+
+
+By: /s/ Andrea De Martino
+Name: Andrea De Martino
+Title: Authorised Attorney
+
+
+744978652

@@ -1,0 +1,786 @@
+EX-10.13 11 bcpl-ex1013_137.htm EX-10.13
+Exhibit 10.13
+
+EXECUTION VERSION
+
+ 
+
+Dated as of December 16, 2019
+
+GREAT LAKES BCPL FUNDING LTD.,
+
+as Issuer
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+as Trustee
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+as Custodian
+
+ACCOUNT CONTROL AGREEMENT
+
+ 
+
+ 
+
+
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+CONTENTS
+
+ 
+
+SECTION
+
+ 
+
+PAGE
+
+ 
+
+ 
+
+ 
+
+1.
+
+Interpretation
+
+2
+
+ 
+
+ 
+
+ 
+
+2.
+
+Appointment of Custodian
+
+3
+
+ 
+
+ 
+
+ 
+
+3.
+
+The Accounts
+
+3
+
+ 
+
+ 
+
+ 
+
+4.
+
+The Custodian
+
+5
+
+ 
+
+ 
+
+ 
+
+5.
+
+Indemnity, limitation on damages, expenses, fees, etc
+
+7
+
+ 
+
+ 
+
+ 
+
+6.
+
+Representations
+
+8
+
+ 
+
+ 
+
+ 
+
+7.
+
+Transfer
+
+9
+
+ 
+
+ 
+
+ 
+
+8.
+
+Termination
+
+9
+
+ 
+
+ 
+
+ 
+
+9.
+
+Miscellaneous
+
+10
+
+ 
+
+ 
+
+ 
+
+10.
+
+Notices
+
+11
+
+ 
+
+ 
+
+ 
+
+11.
+
+Governing law and jurisdiction
+
+12
+
+ 
+
+ 
+
+ 
+
+12.
+
+Definitions
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+ACCOUNT CONTROL AGREEMENT
+
+THIS ACCOUNT CONTROL AGREEMENT (as the same may be amended, supplemented or otherwise modified from time to time in accordance with the terms hereof, this Agreement), dated as of December 16, 2019, is entered into by and between GREAT LAKES BCPL FUNDING LTD., a Cayman Islands exempted company incorporated with limited liability under the law of the Cayman Islands (the Issuer) and U.S. BANK NATIONAL ASSOCIATION, as trustee (in such capacity, together with any permitted successors in such capacity, the Trustee) under the Indenture referred to below; and U.S. BANK NATIONAL ASSOCIATION (the Bank), as securities intermediary, bank and custodian (collectively, in such capacities, together with any permitted successors in such capacity, the Custodian).
+
+In consideration of the mutual agreements hereinafter contained and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Interpretation
+
+1.
+
+(a)
+
+Definitions.  The terms defined in Section 12 will have the meanings therein specified for the purpose of this Agreement. Capitalized terms used but not defined herein shall have the respective meanings given to them in the Indenture.
+
+(b)
+
+Rules of Construction.  Unless the context otherwise clearly requires: (i) the definitions of terms herein shall apply equally to the singular and plural forms of the terms defined; (ii) whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms; (iii) the words "include", "includes" and "including" shall be deemed to be followed by the phrase "without limitation"; (iv) the word "will" shall be construed to have the same meaning and effect as the word "shall"; (v) any definition of or reference to any agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein); (vi) any reference herein to any Person shall be construed to include such Person's successors and assigns; (vii) the words "herein", "hereof" and "hereunder", and words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof; and (viii) all references herein to Sections and Schedules shall be construed to refer to Sections of, and Schedules to, this Agreement.
+
+Page 2
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+Appointment of Custodian
+
+2.On the terms and subject to the conditions of this Agreement and pursuant to Section 3.2(a) of the Indenture, the Issuer hereby appoints the Bank as custodian, bank and securities intermediary hereunder, with its address at 8 Greenway Plaza, Suite 1100, Houston, Texas 77046, Attention: Global Corporate Trust – Great Lakes BCPL Funding Ltd. The Bank hereby accepts such appointment and agrees to abide by the terms and conditions of the Indenture as it relates to the Custodian.
+
+The Accounts
+
+3.
+
+(a)
+
+Status of Accounts and Relationship of Parties.  The Custodian represents and agrees that:  
+
+ 
+
+(i)
+
+it has established and is maintaining on the books and records of its office the following accounts:
+
+ 
+
+(A)
+
+the account number 198314-700 and designated the Custodial Account;
+
+ 
+
+(B)
+
+the account number 198314-200 and designated the Payment Account;
+
+ 
+
+(C)
+
+the account number 198314-202 and designated the Interest Collection Subaccount;
+
+ 
+
+(D)
+
+the account number 198314-201 and designated the Principal Collection Subaccount; and
+
+ 
+
+(E)
+
+the account number 198314-300 and designated the Expense Account,
+
+(said accounts, together with any replacements thereof or substitutions therefor and all sub-accounts thereunder, individually, an Account and, collectively, the Accounts); and
+
+ 
+
+(ii)
+
+each of the Accounts is (A) a "securities account" (within the meaning of Section 8‑501(a) of the UCC) in respect of which the Custodian is a "securities intermediary" (within the meaning of Section 8‑102(a)(14) of the UCC) and the Issuer is the sole "entitlement holder" (within the meaning of Section 8‑102(a)(7) of the UCC) of the "security entitlement" (within the meaning of Section 8-102(a)(17) of the UCC) with respect to each "financial asset" (within the meaning of Section 8-102(a)(9) of the UCC) standing to the credit of such Account and (B) a "deposit account" (within the meaning of Section 9-102 of the UCC) in respect of which the Custodian is a "bank" and the Issuer is the Custodian's "customer" (within the meaning of Section 4-104(1)(e) of the UCC) with respect to any cash credited thereto.
+
+Page 3
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(b)
+
+Treatment of Property as Financial Assets.  The Custodian hereby agrees that each security or instrument or other property (whether cash, a security, an instrument or any other property whatsoever) credited to each of the Accounts shall be treated as a "financial asset" (within the meaning of Section 8-102(a)(9) of the UCC); provided that, notwithstanding any term hereof or elsewhere to the contrary, it is hereby expressly acknowledged that the Issuer has acquired, and may from time to time receive, interests in bank loans, participations therein or letters of credit (collectively Loan Assets) which are not evidenced by, or accompanied by delivery of, a "security" (as that term is defined in UCC Section 8-102(a)(15)) or an "instrument" (as that term is defined in Section 9-102(a)(47) of the UCC), and may be evidenced solely by delivery to the Custodian of a facsimile copy of an assignment agreement  (an Assignment Agreement) in favor of the Issuer, as assignee, that any such Assignment Agreement (and the registration of the related Loan Asset on the books and records of the applicable obligor or bank agent) shall be registered in the name of the Issuer, and that if and to the extent any Loan Assets are credited to any Accounts described herein, any duty on the part of the Custodian to maintain such financial asset shall be limited to the exercise of reasonable care by the Custodian in the physical custody of any such Assignment Agreement that may be delivered to it; provided that the Custodian shall be deemed to have exercised reasonable care with respect to the custody of any such Assignment Agreement if it takes such action with respect to any such Assignment Agreement as the Issuer instructs.  The Custodian is not under a duty or obligation to examine underlying credit agreements or loan documents to determine the validity or sufficiency of any Assignment Agreement or Issuer's title to the related Loan Asset, and nothing herein shall be construed to require the Custodian to credit to the Accounts or to treat as a financial asset any asset in the nature of a "general intangible" (as defined in Section 9-102(42) of the UCC) or to "maintain" a sufficient quantity thereof.
+
+(c)
+
+Actions Upon Instructions.  The Custodian, as securities intermediary, agrees that, with respect to the Accounts (i) the Custodian shall only comply with "entitlement orders" (within the meaning of Section 8-102(a)(8) of the UCC) and other instructions originated by the Trustee without further consent by the Issuer; and (ii) the Custodian shall not agree, subject to the foregoing, with any Person to act on "entitlement orders" (within the meaning of Section 8-102(a)(8) of the UCC) or other instructions originated by any Person other than the Trustee.  The Custodian, as bank, agrees that, with respect to the Accounts, the Custodian shall only comply with instructions originated by the Trustee directing disposition of the funds in the deposit accounts without further consent by the Issuer.
+
+(d)
+
+Form of Securities, Instruments, Etc.  All securities and other financial assets credited to any of the Accounts that are in registered form or that are payable to or to order shall be (i) registered in the name of, or payable to or to the order of, the Custodian; (ii) indorsed to or to the order of the Custodian or in blank; or (iii) credited to another securities account maintained in the name of the Custodian; and in no case will any financial asset credited to any of the Accounts be registered in the name of, or payable to or to the order of, the Issuer or indorsed to or to the order of the Issuer, except to the extent the foregoing have been specially indorsed to or to the order of the Custodian or in blank.
+
+Page 4
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(e)
+
+Securities Intermediary's Jurisdiction.  The Custodian agrees that its "securities intermediary's jurisdiction" (within the meaning of Section 8‑110(e) of the UCC), with respect to each Account and the securities account sub-account thereof, is the State of New York. The Custodian represents that as of the Signing Date it has an office located in the United States of America that is not intended merely to be temporary and meets the description set forth in the second sentence of Article 4(1) of The Hague Convention on the Law Applicable to Certain Rights in Respect of Securities Held with an Intermediary (the “Hague Convention”).
+
+(f)
+
+Bank's Jurisdiction.  The Custodian agrees that its "bank's jurisdiction" (within the meaning of  Section 9-304(b) of the UCC), with respect to each Account and the deposit account sub-account thereof, is the State of New York.
+
+(g)
+
+Not a Clearing Corporation. The Custodian is not a "clearing corporation" (within the meaning of Section 8-102(a)(5) of the UCC) and is a "bank" (within the meaning of Section 9-102(a)(8) of the UCC).
+
+(h)
+
+Conflicts with other Agreements.  The Custodian agrees that, if there is any conflict between this Agreement and any other agreement relating to any of the Accounts, the provisions of this Agreement, including any governing law clause, shall control.
+
+(i)
+
+Credit to Accounts.  The Custodian agrees that all securities and other property delivered to it pursuant to the Indenture shall be promptly credited to the appropriate Account.    
+
+The Custodian
+
+4.
+
+(a)
+
+No Change to Accounts.  Without prior written notice to the Issuer and the Trustee, the Custodian will not change the account number or designation of any Account.
+
+(b)
+
+Certain Information.  The Custodian shall promptly notify the Trustee upon receipt by the Custodian of written notice that any Person asserts or seeks to assert a lien, encumbrance or adverse claim against any portion or all of the property credited to any of the Accounts.  The Custodian will send copies of all statements and confirmations that it may receive for each of the Accounts simultaneously to the Issuer and the Trustee.
+
+(c)
+
+Subordination.  The Custodian hereby subordinates to the security interest of the Trustee in the Accounts, in all property credited thereto and in all security entitlements with respect to such property, any and all statutory, regulatory, contractual or other rights now or hereafter existing in favor of the Custodian over or with respect to the Accounts, all property credited thereto and all security entitlements to such property (including (i) any and all contractual rights of set‑off,
+
+Page 5
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+lien or compensation; (ii) any and all statutory or regulatory rights of pledge, lien, set‑off or compensation; (iii) any and all statutory, regulatory, contractual or other rights to put on hold, block transfers from or fail to honor instructions of the Trustee with respect to the Accounts; or (iv) any and all statutory or other rights to prohibit or otherwise limit the pledge, assignment, collateral assignment or granting of any type of security interest in the Accounts); provided that the Custodian may set off the face amount of any checks or other amounts which have been credited to the Accounts but are subsequently returned unpaid or reversed because of uncollected or insufficient funds.
+
+(d)
+
+Limitation on Liability.  The Custodian shall not have any duties or obligations except those expressly set forth herein.  Without limiting the generality of the foregoing, the Custodian shall not be subject to any fiduciary or other implied duties, and the Custodian shall not have any duty to take any discretionary action or exercise any discretionary powers.  None of the Custodian, any Affiliate of the Custodian, or any officer, agent, stockholder, partner, member, director or employee of the Custodian or any Affiliate of the Custodian shall have any liability, whether direct or indirect and whether in contract, tort or otherwise, (i) for any action taken or omitted to be taken by any of them hereunder or in connection herewith unless there has been a final judicial determination that such act or omission was performed or omitted in bad faith or constituted gross negligence or willful misconduct or (ii) for any action taken or omitted to be taken by the Custodian at the express direction of the Issuer or the Trustee unless such action taken or omitted to be taken is so done in violation of the terms of this Agreement.  In addition, the Custodian shall have no liability for making any investment or reinvestment of any cash balance in the Accounts as instructed by the Trustee.  The liabilities of the Custodian shall be limited to those expressly set forth in this Agreement.  With the exception of this Agreement, the Custodian is not responsible for or chargeable with knowledge of any terms or conditions contained in any agreement referred to herein.  Notwithstanding any other provision herein, the Custodian shall in no event be liable for special, indirect or consequential loss or damage of any kind whatsoever (including but not limited to lost profits), even if the Custodian has been advised of such loss or damage and regardless of the form of action. In no event shall the Custodian be under any obligation to advance or risk its own funds.  In performing its duties hereunder, the Custodian shall be entitled to all of the rights, priorities and immunities afforded to the Trustee under the Indenture.
+
+(e)
+
+Reliance.  The Custodian shall be entitled to rely upon, and shall not incur any liability for relying upon, any notice, request, certificate, consent, statement, instrument, document or other writing delivered to the Custodian under or in connection with this Agreement and believed by it to be genuine and to have been signed or sent by the proper Person.  The Custodian may consult with legal counsel, Independent accountants and other experts selected by it, and shall not be liable for any action taken or not taken by it in accordance with the advice of any such counsel, accountants or experts.
+
+Page 6
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+Indemnity, limitation on damages, expenses, fees, etc
+
+5.
+
+(a)
+
+Indemnity.  Subject always to Section 9(i), the Issuer hereby indemnifies and holds harmless the Custodian, its Affiliates and their respective officers, directors, employees, representatives and agents (collectively referred to for the purposes of this Section 5(a) as the Custodian), against any loss, claim, damage, expense (including, without limitation, reasonable attorneys’ fees and expenses) or liability, joint or several, or any action in respect thereof, to which the Custodian may become subject, whether commenced or threatened, insofar as such loss, claim, damage, expense, liability or action arises out of or is based upon the execution, delivery or performance of this Agreement, but excluding any such loss, claim, damage, expense, liability or action arising out of the bad faith, gross negligence or willful misconduct of the Custodian, and shall reimburse the Custodian promptly upon demand for any legal or other expenses reasonably incurred by the Custodian in connection with investigating or preparing to defend or defending against or appearing as a third party witness in connection with any such loss, claim, damage, expense, liability or action as such expenses are incurred.  The indemnification and agreement set forth in this Section 5(a) shall survive the termination of this Agreement.
+
+(b)
+
+Limitation on Damages. No claim may be made by the Issuer against the Custodian or the Trustee or any officer, agent, stockholder, partner, member, director or employee of either of them for any special, indirect, consequential or punitive damages in respect of any claim for breach of contract or any other theory of liability arising out of or relating to this Agreement or the transactions contemplated hereby or any act, omission or event occurring in connection therewith, and the Issuer hereby waives, releases and agrees not to sue upon any claim for any such damages, whether or not accrued and whether or not known or suspected to exist in its favor.
+
+(c)
+
+Expenses and Fees.  To the extent that funds credited to the Expense Account are available therefor in accordance with Section 10.3(c) of the Indenture and subject to Section 9(i), the Issuer shall be responsible for, and hereby agrees to pay, all reasonable costs and expenses incurred by the Custodian and the Trustee in connection with the establishment and maintenance of the Accounts, including the Custodian's customary fees and expenses, any costs or expenses incurred by the Custodian as a result of conflicting claims or notices involving the parties hereto, including the fees and expenses of its internal and external legal counsel, and all other costs and expenses incurred in connection with the execution, administration or enforcement of this Agreement including reasonable attorneys' fees and costs, whether or not such enforcement includes the filing of a lawsuit.  
+
+Page 7
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(d)
+
+Administrative Expenses. The amounts set forth in Sections 5(a), (b) and (c) above shall constitute Administrative Expenses under the Indenture and shall only be paid from the Expense Account in accordance with Section 10.3(c) of the Indenture.  In the event that the Issuer fails to pay any amount on the date when due under this Agreement because sufficient funds are not then available to pay such amounts in accordance with Section 10.3(c) of the Indenture, (i) the Issuer shall not be deemed to have failed to pay such amount (and a default shall not be deemed to have occurred hereunder as the result thereof) unless the Issuer fails to pay such amount on the date on which sufficient funds are available such that it could be paid pursuant to Section 10.3(c) of the Indenture (unless such failure results from the failure of the Trustee to distribute such available funds in accordance with the Indenture) and (ii) the Trustee and the Bank will continue to serve as Trustee and Custodian hereunder.
+
+Representations
+
+6.The Custodian represents to the Trustee that:
+
+(a)
+
+Status.  It has been duly organized and is validly existing as a national banking association with trust powers under the laws of the United States.
+
+(b)
+
+Powers.  It has the power to execute this Agreement and any other documentation relating to this Agreement to which it is a party, to deliver this Agreement and any other documentation relating to this Agreement that it is required by this Agreement to deliver and to perform its obligations under this Agreement and has taken all necessary action to authorize such execution, delivery and performance; and this Agreement has been, and each other such document will be, duly executed and delivered by it.
+
+(c)
+
+No Violation or Conflict.  Such execution, delivery and performance do not violate or conflict with any law applicable to it, any provision of its constitutional documents, any order or judgment of any court or other agency of government applicable to it or any of its assets or any contractual restriction binding on or affecting it or any of its assets.
+
+(d)
+
+Consents.  All governmental and other consents that are required to have been obtained by it with respect to this Agreement have been obtained and are in full force and effect and all conditions of any such consents have been complied with.
+
+(e)
+
+Obligations Binding.  Its obligations under this Agreement constitute its legal, valid and binding obligations, enforceable in accordance with their respective terms (subject to applicable bankruptcy, receivership, conservatorship, reorganization, insolvency, moratorium or similar laws affecting creditors' rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law)).
+
+Page 8
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(f)
+
+Absence of Litigation.  There is not pending or, to its knowledge, threatened against it or any of its Affiliates any action, suit or proceeding at law or in equity or before any court, tribunal, governmental body, agency or official or any arbitrator that relates to the legality, validity or enforceability against it of this Agreement or is likely to affect its ability to perform its obligations under this Agreement.
+
+(g)
+
+Absence of other Agreements.  There are no other agreements entered into between the Custodian and the Trustee with respect to the Accounts other than the Indenture and other customary account agreements relating to the establishment and the operation of the Accounts.
+
+(h)
+
+Adverse Claims.  Except for the claims and interest of the Trustee and the Issuer in the Accounts, the Custodian does not know of any claim to, or interest in, any Account and does not have written notice of any claim to, or interest in, any cash or "financial asset" credited thereto.
+
+Transfer
+
+7.Neither this Agreement nor any interest or obligation in or under this Agreement may be transferred (whether by way of security or otherwise) by any party without the prior written consent of each other party, except that:
+
+(a)
+
+a party may make such a transfer of this Agreement pursuant to a consolidation or amalgamation with, or merger with or into, or transfer of all or substantially all its assets to, another Person (but without prejudice to any other right or remedy under any other agreement); and
+
+(b)
+
+the Trustee may transfer all of its interests and obligations in and under this Agreement to a successor trustee under the Indenture; provided that, the Custodian shall have no obligation to comply with any notice, request, certificate, consent, statement, instrument, document or other writing delivered by such successor trustee until the Custodian receives such evidence thereof as the Custodian may reasonably require.
+
+Any purported transfer that is not in compliance with this Section 7 will be void.
+
+Termination
+
+8.The rights and powers granted herein to the Trustee have been granted in order to perfect its security interest in the Accounts and the cash and financial assets credited thereto, are powers coupled with an interest and will neither be affected by the bankruptcy of the Issuer nor by the lapse of time.  The obligations of the Custodian shall continue in effect until the security interests of the Trustee in the Accounts have been terminated pursuant to the terms of the Indenture and the Trustee has notified the Custodian of such termination in writing.  Upon the written instruction of the Trustee, the Custodian shall close the Account or Accounts specified in such instruction and disburse to the Issuer the balance of any assets therein, and the security interest in such Account shall be terminated.
+
+Page 9
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+Miscellaneous
+
+9.
+
+(a)
+
+Entire Agreement.  This Agreement constitutes the entire agreement and understanding of the parties with respect to its subject matter and supersedes all oral communication and prior writings with respect thereto.
+
+(b)
+
+Amendments.  No amendment, modification or waiver in respect of this Agreement will be effective unless such amendment, modification or waiver is in writing (including a writing evidenced by a facsimile transmission) and executed by each of the parties hereto.
+
+(c)
+
+Survival.  All representations and warranties made in this Agreement or in any certificate or other document delivered pursuant to or in connection with this Agreement shall survive the execution and delivery of this Agreement or such certificate or other document (as the case may be) or any deemed repetition of any such representation or warranty.  In addition, the rights of the Custodian under Section 4, the rights of the Trustee under Section 11(d), the obligations of the Issuer under Section 5 and the provisions of Sections 9(i) and 9(j) shall survive the termination of this Agreement and the earlier removal or resignation of the Custodian.
+
+(d)
+
+Benefit of Agreement.  Subject to Section 7, this Agreement shall be binding upon and inure to the benefit of the Issuer, the Trustee and the Custodian and their respective successors and permitted assigns.
+
+(e)
+
+Counterparts.  This Agreement (and each amendment, modification and waiver in respect of it) may be executed and delivered in counterparts (including by e-mail (PDF) or facsimile transmission), each of which will be deemed an original, and all of which together constitute one and the same instrument.  Delivery of an executed counterpart of this Agreement by e-mail (PDF) or telecopy shall be effective as delivery of a manually executed counterpart of this Agreement.
+
+(f)
+
+No Waiver of Rights.  A failure or delay in exercising any right, power or privilege in respect of this Agreement will not be presumed to operate as a waiver, and a single or partial exercise of any right, power or privilege will not be presumed to preclude any subsequent or further exercise, of that right, power or privilege or the exercise of any other right, power or privilege.
+
+(g)
+
+Effect of Headings and Table of Contents.  The headings and table of contents used in this Agreement are for convenience of reference only and are not to affect the construction of or to be taken into consideration in interpreting this Agreement.
+
+Page 10
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(h)
+
+Severability.  If any provision of this Agreement, or the application thereof to any party or any circumstance, is held to be unenforceable, invalid or illegal (in whole or in part) for any reason (in any jurisdiction), the remaining terms of this Agreement, modified by the deletion of the unenforceable, invalid or illegal portion (in any relevant jurisdiction), will continue in full force and effect, and such unenforceability, invalidity, or illegality will not otherwise affect the enforceability, validity or legality of the remaining terms of this Agreement so long as this Agreement as so modified continues to express, without material change, the original intentions of the parties as to the subject matter hereof and the deletion of such portion of this Agreement will not substantially impair the respective expectations of the parties or the practical realization of the benefits that would otherwise be conferred upon the parties.
+
+(i)
+
+Limited Recourse.  Notwithstanding anything to the contrary contained herein, the obligations of the Issuer hereunder are limited recourse obligations of the Issuer payable solely as Administrative Expenses from the Expense Account in accordance with and as contemplated by Section 10.3(c) of the Indenture.  Each of the Custodian and the Trustee further agrees that, except as so contemplated by Section 10.3(c) of the Indenture, it will not have any recourse against the Issuer or any of its directors, officers, partners, shareholders, employees and agents for any such amounts.  The provisions of this Section 9(i) shall survive the termination of this Agreement.
+
+(j)
+
+Non-Petition.  Notwithstanding anything to the contrary herein or in any other agreement, each of the Trustee and the Custodian agrees not to institute against or join any Person in instituting against the Issuer any bankruptcy, reorganization, arrangement, insolvency, moratorium or liquidation proceeding or other similar proceeding under Cayman Islands law, United States law or the laws of any other jurisdiction against the Issuer for any reason whatsoever, including the non-payment to the Trustee or the Custodian of any amounts owing to the Trustee or the Custodian under this Agreement, until the payment in full of all Notes issued under the Indenture and the expiration of a period equal to one year and one day or, if longer, the applicable preference period then in effect plus one day, following all such payments.
+
+Notices
+
+10.
+
+(a)
+
+Effectiveness.  Any notice or other communication in respect of this Agreement may be given in any manner set forth below to the address, number or email provided in Schedule I and will be deemed effective as indicated:  (i) if in writing and delivered in person or by courier, on the date it is delivered; (ii) if sent by facsimile transmission, on the date that transmission is received by a responsible employee of the recipient in legible form (it being agreed that the burden of proving receipt will be on the sender and will not be met by a transmission report generated
+
+Page 11
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+by the sender's facsimile machine); (iii) if sent by certified or registered mail (airmail, if overseas) or the equivalent (return receipt requested), on the date that mail is delivered or its delivery is attempted, unless the date of that delivery (or attempted delivery) or that receipt, as applicable, is not a Business Day or that communication is delivered (or attempted) or received, as applicable, after the close of business on a Business Day, in which case that communication shall be deemed given and effective on the first following day that is a Business Day; or (iv) if sent by email, on the date such email is received by the party recipient.
+
+(b)
+
+Change of Addresses.  Any party may by notice to the others change the address or facsimile number at which notices or other communications are to be given to it.
+
+Governing law and jurisdiction
+
+11.
+
+(a)
+
+Governing Law.  This Agreement shall be construed in accordance with, and this Agreement and any matters arising out of or relating in any way whatsoever to this Agreement (whether in contract, tort or otherwise), shall be governed by, the law of the State of New York. The parties further agree that the law applicable to all the issues in Article 2(1) of the Hague Convention shall be the law of the State of New York.
+
+(b)
+
+Jurisdiction.  With respect to any suit, action or proceedings relating to this Agreement or any matter between the parties arising under or in connection with this Agreement (Proceedings), each party irrevocably:  
+
+ 
+
+(i)
+
+submits to the non‑exclusive jurisdiction of the Supreme Court of the State of New York sitting in the Borough of Manhattan and the United States District Court for the Southern District of New York, and any appellate court from any thereof; and
+
+ 
+
+(ii)
+
+waives any objection which it may have at any time to the laying of venue of any Proceedings brought in any such court, waives any claim that such Proceedings have been brought in an inconvenient forum and further waives the right to object, with respect to such Proceedings, that such court does not have any jurisdiction over such party.  
+
+The Issuer irrevocably consents to the service of any and all process in any Proceeding by the mailing or delivery of copies of such process to it at the office of the agent in New York set forth in Schedule I.  Nothing in this Agreement precludes any of the parties from bringing Proceedings in any other jurisdiction, nor will the bringing of Proceedings in any one or more jurisdictions preclude the bringing of Proceedings in any other jurisdiction.
+
+Page 12
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+(c)
+
+Waiver of Jury Trial Right.  EACH PARTY HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY PROCEEDING.  Each of the parties hereby (i) certifies that no representative, agent or attorney of any other parties has represented, expressly or otherwise, that such other parties would not, in the event of a Proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it has been induced to enter into this Agreement by, among other things, the mutual waivers and certifications in this paragraph.
+
+(d)
+
+Trustee.  The Trustee shall have no duties under this Agreement other than those expressly set forth herein; and in entering into or in taking (or forbearing from) any action under or pursuant to this Agreement, the Trustee shall have and be protected by all of the rights, powers, immunities, indemnities and other protections granted to it under the Indenture.
+
+Definitions
+
+12.Capitalized terms used but not defined herein have the respective meanings given to such terms in the Indenture.  As used in this Agreement:
+
+Accounts has the meaning specified in Section 3(a)(i).
+
+Assignment Agreement has the meaning specified in Section 3(b).  
+
+consent includes a consent, approval, action, authorization, exemption, notice, filing, registration or exchange control consent.
+
+Indenture means the Indenture, dated as of December 16, 2019 (as may be further amended, restated, supplemented or otherwise modified from time to time), between the Issuer, the Trustee and the Bank.
+
+law includes any treaty, law, rule or regulation (as modified, in the case of tax matters, by the practice of any relevant governmental revenue authority) and lawful and unlawful will be construed accordingly.
+
+Loan Assets has the meaning specified in Section 3(b).
+
+Proceedings has the meaning specified in Section 11(b).
+
+- signature page follows -
+
+Page 13
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+GREAT LAKES BCPL FUNDING LTD.,
+
+as Issuer
+
+ 
+
+By:
+
+/s/ Pamela Sen-Gupta
+
+ 
+
+ 
+
+Name:
+
+Pamela Sen-Gupta
+
+ 
+
+ 
+
+Title:
+
+Director
+
+ 
+
+Account Control Agreement – Signature Page
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+not in its individual capacity, but solely as Trustee
+
+ 
+
+By:
+
+/s/ Maria D. Calzado
+
+ 
+
+ 
+
+Name:
+
+Maria D. Calzado
+
+ 
+
+ 
+
+Title:
+
+Senior Vice President
+
+ 
+
+Account Control Agreement – Signature Page
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+as Custodian
+
+ 
+
+By:
+
+/s/ Maria D. Calzado
+
+ 
+
+ 
+
+Name:
+
+Maria D. Calzado
+
+ 
+
+ 
+
+Title:
+
+Senior Vice President
+
+ 
+
+ 
+
+Account Control Agreement – Signature Page
+
+US3398832   116788-0237
+
+ 
+
+ 
+
+SCHEDULE I
+
+NOTICE INFORMATION
+
+Issuer:
+
+ 
+
+Great Lakes BCPL Funding Ltd.
+
+c/o MaplesFS Limited
+
+PO Box 1093
+
+Boundary Hall, Cricket Square,
+
+Grand Cayman KY1-1102, Cayman Islands
+
+Attention: Directors
+
+Telephone no.: +1 (345) 945-7099
+
+Telecopy: +1 (345) 945-7100 (and a copy to +1 (345) 949-8080)
+
+Email: cayman@maples.com
+
+ 
+
+Trustee:
+
+ 
+
+U.S. Bank National Association - Corporate Trust Services Boston
+
+1 Federal Street, Boston, MA 02110
+
+Global Corporate Trust – Great Lakes BCPL Funding Ltd.
+
+ 
+
+Custodian:
+
+ 
+
+U.S. Bank National Association - Corporate Trust Services Boston
+
+1 Federal Street, Boston, MA 02110
+
+Global Corporate Trust – Great Lakes BCPL Funding Ltd.
+
+ 
+
+ 
+
+US3398832   116788-0237
+
+ 

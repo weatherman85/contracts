@@ -1,0 +1,335 @@
+EX-10.25 2 virc-201910kexhibit1025xni.htm EXHIBIT 10.25
+
+
+Exhibit 10.25
+
+
+
+
+NINETEENTH AMENDMENT TO REVOLVING
+CREDIT AND SECURITY AGREEMENT
+This NINETEENTH AMENDMENT TO REVOLVING CREDIT AND SECURITY AGREEMENT (this “Amendment”) is entered into as of March 12, 2019 by and among VIRCO MFG. CORPORATION, a Delaware corporation (“VMC”), VIRCO INC., a Delaware corporation (“Virco”, and together with VMC, “Borrowers” and, each individually, a “Borrower”), the financial institutions from time to time party to the Credit Agreement (as defined below) as lenders (collectively, “Lenders”), and PNC BANK, NATIONAL ASSOCIATION (“PNC”), as administrative agent for Lenders (PNC, in such capacity, “Agent”), with respect to the following:
+RECITALS
+WHEREAS, Borrowers, Lenders and Agent have previously entered into that certain Revolving Credit and Security Agreement, dated as of December 22, 2011 (as amended, restated or otherwise modified from time to time, the “Credit Agreement”).
+WHEREAS, Borrowers have requested that Lenders and Agent amend the Credit Agreement in certain respects, which Lenders and Agent are willing to do on the terms and subject to the conditions contained in this Amendment.
+NOW, THEREFORE, in consideration of the mutual conditions and agreements set forth in the Credit Agreement, the Loan Documents and this Amendment, and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+AGREEMENTS
+A.Definitions Incorporated. Initially capitalized terms used but not otherwise defined in this Amendment have the respective meanings set forth in the Credit Agreement, as amended hereby.
+B.Recitals. The Recitals above are incorporated herein as though set forth in full and Borrowers stipulate to the accuracy of each of the Recitals.
+C.Amendments to the Credit Agreement. The Credit Agreement is hereby amended as follows:
+1.Amendments to Section 1.2 of the Credit Agreement. Section 1.2 of the Credit Agreement is hereby amended as follows:
+(a)The following new definitions are hereby added to Section 1.2 of the Credit Agreement in proper alphabetical order to read as follows:
+‘“Nineteenth Amendment’ means the Nineteenth Amendment to Revolving Credit and Security Agreement dated as of March 12, 2019 among Borrowers, the Lenders party thereto and Agent.”
+‘“Nineteenth Amendment Effective Date’ means March 12, 2019.”
+(b)The following definitions set forth in Section 1.2 of the Credit Agreement are hereby amended and restated in their entireties to read as follows:
+‘“Applicable Margin’ shall mean, as of any date of determination, the number of percentage points set forth below opposite the level then in effect, it being understood that the Applicable Margin for (i) Advances that are Domestic Rate Loans shall be the percentage set forth under the column “Domestic Rate Loans” and (ii) Advances that are Eurodollar Rate Loans shall be the percentage set forth under the column “Eurodollar Rate Loans”:
+
+
+
+
+Level
+Applicable Trigger Period
+Domestic Rate Loans
+Eurodollar Rate Loans
+ 
+ 
+Revolving Advances
+Equipment Loans
+Revolving Advances
+Equipment Loans
+I
+during the Seasonal Overadvance Period
+(as defined in Section 2.1(a)(iii) of the Credit Agreement)
+1.25
+1.00
+2.25
+2.00
+II
+at all other times
+0.75
+1.00
+1.75
+2.00”
+
+‘“Maximum Revolving Advance Amount’ means commencing as of the Nineteenth Amendment Effective Date, (a) during the period commencing on June 1 of each fiscal year of VMC and ending on August 31 of such fiscal year, $65,000,000, (b) during the period (i) commencing on February 1 of each fiscal year of VMC and ending on May 31 of such fiscal year and (ii) commencing on September 1 of each fiscal year of VMC and ending on September 30 of such fiscal year, $60,000,000 (c) during the period commencing on October 1 of each fiscal year of VMC and ending on November 30 of such fiscal year, $40,000,000 and (d) during the period commencing on December 1 of each fiscal year of VMC and ending on the last day of January in such fiscal year, $30,000,000.”
+2.Amendment to Section 2.1(a)(iii) of the Credit Agreement. Section 2.1(a)(iii) of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+‘“(iii) commencing as of the Nineteenth Amendment Effective Date, with respect to each fiscal year of the Borrowers, during the respective period set forth below for such fiscal year, the amount applicable to such period (which period set forth below shall be referred to as the “Seasonal Overadvance Period”):
+Period
+Amount
+January
+$15,000,000
+February
+$15,000,000
+March
+$15,000,000
+April
+$15,000,000
+May
+$15,000,000
+June
+$15,000,000
+July
+$15,000,000
+
+minus”’
+
+For the avoidance of doubt, Section 2.1 of the Credit Agreement shall otherwise remain in full force and effect.
+
+3.Amendment to Section 2.2X of the Credit Agreement. Section 2.2X of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+“2.2X    Equipment Loans
+(i)     Immediately prior to the effectiveness of the Nineteenth Amendment, the outstanding amount of Advances under the Temporary Equipment Line are in the aggregate amount of $996,414.49. Upon the effectiveness of the Nineteenth Amendment, the Equipment Loan (as defined below) shall be reloaded in the amount of $1,003,585.51, for a total aggregate amount of the Equipment Loans to not exceed $2,000,000 and no further Advances shall be available to Borrowers under the Temporary Equipment Line. For the avoidance of doubt, the Equipment Loan existing on the Nineteenth Amendment Date shall accrue interest at the Equipment Loan Rate and be payable monthly in accordance with Section 3.1.
+
+
+
+
+(ii)    Subject to the terms and conditions of this Agreement, each Lender, severally and not jointly, shall, from time to time, make Advances (each, an “Equipment Loan” and collectively, the “Equipment Loans”) to one or more Borrowers in an amount equal to such Lender’s Commitment Percentage of the applicable Equipment Loan to finance Borrowers’ purchase of equipment for use in Borrowers’ production line business in Arkansas and Torrance, California; provided, that the maximum aggregate amount of the Equipment Loans shall not exceed $2,000,000. All such Equipment Loans shall be in such amounts as are requested by Borrowing Agent, but in no event shall any Equipment Loan exceed eight five (85%) percent for new equipment and eighty (80%) percent for used equipment of the Net Invoice Cost of the equipment being purchased by Borrowers and the total amount of all Equipment Loans advanced hereunder shall not exceed, in the aggregate, the Maximum Equipment Loan Amount. Once repaid, Equipment Loans may not be reborrowed.
+(iii)    Equipment Loans shall be made available to Borrowers on the Nineteenth Amendment Effective Date. Equipment Loans shall amortize in thirty-six (36) equal and consecutive monthly principal installments of $55,555.56 each, the first of which installments shall be due and payable on April 1, 2019, and the remaining installments of which shall be due and payable on the first day of each month thereafter, provided, however, that the aggregate principal balance of all Equipment Loans, together with all accrued and unpaid interest thereon, and all unpaid fees, costs and expenses payable hereunder in connection therewith, shall be due and payable in full upon the expiration of the Term, subject to acceleration upon the occurrence of an Event of Default under this Agreement or termination of this Agreement. Upon request by a Lender, Equipment Loans shall be evidenced by one or more secured promissory notes (collectively, the “Equipment Note”) in form and substance satisfactory to Agent. The Equipment Loans may consist of Domestic Rate Loans or LIBOR Rate Loans, or a combination thereof, as Borrowing Agent may request and interest is payable as set forth in Section 3.1; and in the event that Borrowers desire to obtain or extend any Equipment Loan (or any portion thereof) as a LIBOR Rate Loan or to convert any Equipment Loan (or any portion thereof) from a Domestic Rate Loan to a LIBOR Rate Loan, Borrowing Agent shall comply with the notification requirements set forth in Section 2.2(a) and (b) and the provision of Sections 2.2 shall apply.”
+4.Amendment to Section 7.21 of the Credit Agreement. Section 7.21 of the Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+“7.21 Clean Down. Commencing as of the Nineteenth Amendment Effective Date, during the fourth fiscal quarter of each fiscal year, permit Revolving Advances in the aggregate to exceed $10,000,000 at any time for a period of 30 consecutive days during such period.”
+D.Conditions Precedent. The obligations of Agent and Lenders hereunder, and this Amendment, will be effective on the date (the “Eighteenth Amendment Effective Date”) of satisfaction of each of the following conditions precedent, each in a manner in form and substance acceptable to Agent:
+1.Amendment. Borrowers shall have delivered to Agent an executed original of this Amendment;
+2.Amended and Restated Equipment Note. Borrowers shall have delivered to Agent an executed original of the Amended and Restated Equipment Note in form and substance satisfactory to Agent.
+3.Fourth Amended and Restated Revolving Credit Note. Borrowers shall have delivered to Agent an executed original of the Fourth Amended and Restated Revolving Credit Note in form and substance satisfactory to Agent.
+4.Amendment to Fee Letter. Borrowers shall have delivered to Agent an executed original of the Amendment to Fee Letter dated the date hereof, and shall have paid all fees in connection therewith.
+5.Representations and Warranties. The representations and warranties contained herein and in the Credit Agreement shall be true and correct in all material respects as of the date hereof as if made on the date hereof, except for such representations and warranties limited by their terms to a specific date, in which case each such representation and warranty shall be true and correct in all material respects as of such specific date;
+6.No Default. After giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing; and
+7.Other. All corporate and other proceedings, and all documents, instruments and other legal
+
+
+
+
+matters in connection with the transactions contemplated hereby shall be satisfactory in form and substance to Agent and its counsel.
+E.Post-Closing Condition. Within five (5) Business Days after the Nineteenth Amendment Effective Date, each Borrower shall deliver to Agent copies of resolutions duly adopted by each Borrower, in form and substance satisfactory to Agent, authorizing the execution and delivery of the Nineteenth Amendment and all documents and transactions related thereto, and such resolutions shall be in full force and effect, duly adopted by the appropriate governing body, and shall have not been amended, modified or revoked.
+F.Representations and Warranties. To induce Lenders and Agent to enter into this Amendment, each Borrower represents and warrants to Lenders and Agent as of the date hereof as follows:
+1.Such Borrower has full power, authority and legal right to enter into this Amendment and to perform all its respective Obligations hereunder. This Amendment has been duly executed and delivered by such Borrower and the Credit Agreement, as amended by this Amendment constitutes the legal, valid and binding obligation of such Borrower enforceable in accordance with its terms, except as such enforceability may be limited by any applicable bankruptcy, insolvency, moratorium or similar laws affecting creditors’ rights generally. The execution, delivery and performance of this Amendment (i) are within such Borrower’s powers, have been duly authorized by all necessary company action, are not in contravention of law or the terms of such Borrower’s by-laws, certificate of incorporation, or other applicable documents relating to such Borrower’s formation or to the conduct of such Borrower’s business or of any material agreement or undertaking to which such Borrower is a party or by which such Borrower is bound, (ii) will not conflict with or violate any law or regulation, or any judgment, order, writ, injunction or decree of any court or Governmental Body, (iii) will not require the Consent of any Governmental Body or any other Person, except those Consents which will have been duly obtained, made or compiled prior to date hereof and which are in full force and effect, and (iv) will not conflict with, nor result in any breach in any of the provisions of or constitute a default under or result in the creation of any Lien except Permitted Encumbrances upon any asset of such Borrower under the provisions of any material agreement, charter document, instrument, by-law or other instrument to which such Borrower is a party or by which it or its property is a party or by which it may be bound.
+2.After giving effect to this Amendment, the representations and warranties contained in the Credit Agreement are true and correct in all material respects except to the extent any such representation or warranty is expressly stated to have been made as of a specific date, in which case each such representation and warranty is true and correct in all material respects as of such specific date, and no Default or Event of Default has occurred and is continuing.
+G.Reaffirmation. Except as specifically modified by this Amendment, the Credit Agreement and the other Loan Documents remain in full force and effect in accordance with their respective terms and are hereby ratified, reaffirmed and confirmed by Borrowers.
+H.Events of Default. Any failure to comply with the terms of this Amendment will constitute an Event of Default under the Credit Agreement.
+I.Integration. This Amendment, together with the Credit Agreement and the Loan Documents, incorporates all negotiations of the parties hereto with respect to the subject matter hereof and is the final expression and agreement of the parties hereto with respect to the subject matter hereof.
+J.Severability. If any part of this Amendment is contrary to, prohibited by, or deemed invalid under Applicable Laws, such provision shall be inapplicable and deemed omitted to the extent so contrary, prohibited or invalid, but the remainder hereof shall not be invalidated thereby and shall be given effect so far as possible.
+K.Submission of Amendment. The submission of this Amendment to the parties or their agents or attorneys for review or signature does not constitute a commitment by Agent or Lenders to amend or otherwise modify any of the provisions of the Credit Agreement and this Amendment shall have no binding force or effect until the Nineteenth Amendment Effective Date.
+L.Counterparts; Facsimile Signatures. This Amendment may be executed in any number of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile or other similar form of electronic transmission (e.g., via .pdf) shall be deemed to be an original signature hereto.
+M.Governing Law. This Amendment is a Loan Document and is governed by the Applicable Law pertaining in the State of New York, other than those conflict of law provisions that would defer to the substantive laws of another jurisdiction. This governing law election has been made by the parties in reliance on, among other things, Section 5-1401 of the General Obligations Law of the State of New York, as amended (as and to the extent
+
+
+
+
+applicable), and other Applicable Law.
+N.Successors and Assigns. This Amendment shall be binding upon and inure to the benefit of Borrowers, Lenders, Agent, and all future holders of the Obligations and their respective successors and assigns, except that no Borrower may assign or transfer any of its rights or obligations under this Amendment without the prior written consent of Agent.
+O.Attorneys’ Fees; Costs. Borrowers agree to promptly pay, upon written demand, all reasonable and documented attorneys’ fees and costs incurred in connection with the negotiation, documentation and execution of this Amendment. If any legal action or proceeding shall be commenced at any time by any party to this Amendment in connection with its interpretation or enforcement, the prevailing party or parties in such action or proceeding shall be entitled to reimbursement of its reasonable attorneys’ fees and costs in connection therewith, in addition to all other relief to which the prevailing party or parties may be entitled.
+P.Jury Waiver; California Judicial Reference. Without limiting the applicability of any other provision of the Credit Agreement, the terms of Article XII of the Credit Agreement, INCLUDING WITHOUT LIMITATION SECTION 12.3 regarding jury trial waiver and california judicial reference shall apply to this Amendment.
+Q.Total Agreement. This Amendment, the Credit Agreement, and the other Loan Documents contain the entire understanding among Borrowers, Lenders and Agent and supersede all prior agreements and understandings, if any, relating to the subject matter hereof. Any promises, representations, warranties, or guarantees not herein contained and hereinafter made have no force and effect unless in writing, signed by Borrowers’ and Agent’s respective officers. Neither this Amendment nor any portion or provisions hereof may be changed, modified, amended, waived, supplemented, discharged, cancelled, or terminated orally or by any course of dealing, or in any manner other than by an agreement in writing, signed by the party to be charged. Each Borrower acknowledges that it has been advised by counsel in connection with the execution of this Amendment and the other Loan Documents and is not relying upon oral representations or statements inconsistent with the terms and provisions of this Amendment.
+[Signature Pages Follow]
+
+
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Amendment as of the date first written above.
+VIRCO MFG. CORPORATION,
+a Delaware corporation, as a Borrower
+By:    
+Name:
+Robert E. Dose
+Title:
+Senior Vice President Finance
+VIRCO INC.,
+a Delaware corporation, as a Borrower
+By:    
+Name:
+Robert E. Dose
+Title:    Senior Vice President Finance
+
+
+PNC BANK, NATIONAL ASSOCIATION,
+as Lender and as Agent
+By:    
+Name:    
+Title:     
+
+
+
+
+
+
+
+FOURTH AMENDED AND RESTATED REVOLVING CREDIT NOTE
+
+
+$65,000,000                                            March 12, 2019
+    
+
+This FOURTH AMENDED AND RESTATED REVOLVING CREDIT NOTE (this “Note”) is executed and delivered under and pursuant to the terms of that certain Revolving Credit and Security Agreement, dated as of December 22, 2011 (as such agreement may be amended, restated, or otherwise modified from time to time, the “Credit Agreement”), among VIRCO MFG. CORPORATION, a Delaware corporation (“Borrowing Agent”), VIRCO INC., a Delaware corporation (together with Borrowing Agent and each other Person that becomes a party thereto as a borrower pursuant to Section 7.12 of the Credit Agreement, each a “Borrower”, and collectively “Borrowers”), the Persons from time to time party thereto as a guarantor pursuant to Section 7.12 of the Credit Agreement, the financial institutions that are now or that hereafter become a party thereto (collectively, “Lenders” and individually a “Lender”) and PNC BANK, NATIONAL ASSOCIATION (“PNC”), as administrative agent for Lenders (PNC, in such capacity, “Agent”). Initially capitalized terms used but not defined herein have the respective meanings set forth in the Credit Agreement.
+FOR VALUE RECEIVED, Borrowers hereby promise to pay to the order of PNC Bank, National Association, at the office of Agent specified in the Credit Agreement or at such other place as Agent may from time to time designate, in accordance with the Credit Agreement, to Borrowing Agent in writing:
+
+(i)    the principal sum of $65,000,000, or such other amount thereof as may be from time to time advanced hereunder and pursuant to the terms of the Credit Agreement (the “Principal Amount”), subject to acceleration pursuant to the terms of the Credit Agreement; and
+
+(ii)    interest on the Principal Amount of this Note from time to time outstanding until such Principal Amount is paid in full at the applicable Revolving Interest Rate in accordance with the provisions of the Credit Agreement. In no event, however, shall interest exceed the maximum interest rate permitted by Applicable Law. Upon the occurrence and during the continuation of an Event of Default, in accordance with the terms of the Credit Agreement, interest is payable at the Default Rate.
+
+This Note is a Revolving Credit Note under and as defined in the Credit Agreement and is secured by the Liens granted pursuant to the Credit Agreement and the other Loan Documents, is entitled to the benefits of the Credit Agreement and the other Loan Documents, and is subject to all of the agreements, terms, and conditions therein contained.
+
+This Note is subject to mandatory prepayment and may be voluntarily prepaid, in whole or in part, on the terms and conditions set forth in the Credit Agreement.
+
+If an Event of Default under Section 10.6 of the Credit Agreement occurs, this Note shall immediately become due and payable, without notice on demand, together with reasonable and documented attorneys’ fees if the collection hereof is placed in the hands of an attorney to obtain or enforce payment hereof and if any other Event of Default occurs and is continuing, this Note may, as provided in the Credit Agreement, be declared to be immediately due and payable, without notice on demand, in each case together with expenses and costs as provided in the Credit Agreement.
+
+This Note shall be governed by and construed in accordance with the Applicable Law pertaining in the State of New York, other than those conflict of law provisions that would defer to the substantive laws of another jurisdiction. This governing law election has been made in reliance (at least in part) on Section 5-1401 of the General Obligations Law of the State of New York (as and to the extent applicable), and other Applicable Law. Any judicial proceeding brought by or against any Borrower with respect to any of the Obligations, the Credit Agreement, this Note, the other
+
+
+
+
+Loan Documents or any related agreement may be brought in any court of competent jurisdiction in the City of New York, Borough of Manhattan, State of New York, United States of America, and, by execution and delivery of this Note, each Borrower accepts, for itself and in connection with its properties, generally and unconditionally, the non-exclusive jurisdiction of the aforesaid courts, and irrevocably agrees to be bound by any judgment rendered thereby in connection with this Note. Each Borrower waives any objection to jurisdiction and venue of any action instituted hereunder and shall not assert any defense based on lack of jurisdiction or venue or based upon forum non conveniens. Each Borrower waives the right to remove any judicial proceeding brought against any other party in any state court to any federal court. Any judicial proceeding by any party against any other Indemnitee involving, directly or indirectly, any matter or claim in any way arising out of, related to or connected with this Note or any related agreement, shall be brought only in a federal or state court located in the City of New York, Borough of Manhattan, County of New York, State of New York. Without limiting the applicability of any other provision of the Credit Agreement, the terms of Section 12.3 of the Credit Agreement are incorporated herein, mutatis mutandis, and shall apply to and govern this Note.
+
+Each Borrower expressly waives, to the extent not prohibited by law, the requirements of any presentment, demand, protest, notice of protest, notice of intent to accelerate, notice of acceleration, or any other notice of any kind except as expressly provided in the Credit Agreement.
+
+This Note is given in amendment and restatement, but not in extinguishment or novation, of that certain Revolving Credit Note by Borrowers payable to PNC Bank, National Association, dated December 22, 2011, in the principal amount of $60,000,000, that certain Amended and Restated Revolving Credit Note by Borrowers payable to PNC Bank, National Association, dated April 4, 2016, in the principal amount of $49,750,000, that certain Second Amended and Restated Revolving Credit Note by Borrowers payable to PNC Bank, National Association, dated October 27, 2016, in the principal amount of $49,500,000 and that certain Third Amended and Restated Revolving Credit Note by Borrowers payable to PNC Bank, National Association, dated March 19, 2018, in the principal amount of $60,000,000 (collectively, the “Prior Notes”), and is in substitution therefor and an amendment and replacement thereof, and is issued in connection with the Credit Agreement. Nothing herein or in any other document shall be construed to constitute payment of the Prior Notes or to release or terminate any guaranty or lien, mortgage, pledge, or other security entered in favor of Agent or Lenders.
+
+
+[Signature Page Follows]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, each Borrower has duly executed this Note as of the date first written above.
+
+VIRCO MFG. CORPORATION,
+a Delaware corporation
+
+By:                        
+Name: Robert E. Dose
+Title:
+Senior Vice President Finance
+
+
+VIRCO INC.,
+a Delaware corporation
+
+By:                        
+Name: Robert E. Dose
+Title:
+Senior Vice President Finance
+
+
+
+
+
+
+
+
+AMENDED AND RESTATED EQUIPMENT NOTE
+
+$2,000,000.00                                            March 12, 2019
+
+This AMENDED AND RESTATED EQUIPMENT NOTE (this “Note”) is executed and delivered under and pursuant to the terms of that certain Revolving Credit and Security Agreement, dated as of December 22, 2011 (as such agreement may be amended, restated, or otherwise modified from time to time, the “Credit Agreement”), among VIRCO MFG. CORPORATION, a corporation organized under the laws of the State of Delaware (“VMC”), VIRCO INC., a corporation organized under the laws of the State of Delaware (“Virco” and, together with VMC and each Person that becomes a party hereto pursuant to Section 7.12 as a borrower, each a “Borrower”, and collectively “Borrowers”), the Persons from time to time party hereto pursuant to Section 7.12 as a guarantor, the financial institutions that are now or that hereafter become a party hereto (collectively, “Lenders” and individually a “Lender”) and PNC BANK, NATIONAL ASSOCIATION (“PNC”), as administrative agent for Lenders (PNC, in such capacity, “Agent”). Initially capitalized terms used but not defined herein have the respective meanings set forth in the Credit Agreement.
+FOR VALUE RECEIVED, Borrowers hereby promise to pay to the order of PNC Bank, national association, at the office of Agent specified in the Credit Agreement or at such other place as Agent may from time to time designate, in accordance with the Credit Agreement, to Borrowing Agent in writing:
+(i)    the principal sum of $2,000,000.00, or such other amount thereof as may be from time to time advanced under the Equipment Loans and pursuant to the terms of the Credit Agreement (the “Principal Amount”), subject to acceleration upon the occurrence of an Event of Default or earlier termination of the Credit Agreement pursuant to the terms thereof; and
+
+(ii)    interest on the Principal Amount of this Note from time to time outstanding until such Principal Amount is paid in full at the applicable Equipment Loan Rate in accordance with the provisions of the Credit Agreement. In no event, however, shall interest exceed the maximum interest rate permitted by Applicable Law. During the existence of an Event of Default, at the option of Agent or the Required Lenders, interest shall be payable at the Default Rate.
+
+This Note is an Equipment Note under and as defined in the Credit Agreement and is secured by the Liens granted pursuant to the Credit Agreement and the other Loan Documents, is entitled to the benefits of the Credit Agreement and the other Loan Documents, and is subject to all of the agreements, terms, and conditions therein contained.
+This Note is subject to mandatory prepayment and may be voluntarily prepaid, in whole or in part, on the terms and conditions set forth in the Credit Agreement.
+If an Event of Default under Section 10.6 of the Credit Agreement occurs, this Note shall immediately become due and payable, without notice on demand, together with reasonable attorneys’ fees if the collection hereof is placed in the hands of an attorney to obtain or enforce payment hereof and if any other Event of Default occurs, this Note may, as provided in the Credit Agreement, be declared to be immediately due and payable, without notice on demand, in each case together with expenses and costs as provided in the Credit Agreement.
+This Note shall be governed by and construed in accordance with the laws of the State of New York applied to contracts to be performed wholly within the State of New York. This governing law election has been made in reliance of the Applicable Law. Borrowers hereby irrevocably consent to the non-exclusive jurisdiction of any state or federal court located in the County of New York, State of New York in any and all actions and proceedings whether arising hereunder, under the Credit Agreement, any Other Document or undertaking. Borrowers waive any objection
+
+
+
+
+to improper venue and forum non-conveniens to proceedings in any such court and all rights to transfer for any reason. Without limiting the applicability of any other provision of this Note, the terms of Section 12.3 of the Credit Agreement shall apply to this Note, mutatis mutandis.
+Borrowers expressly waive any presentment, demand, protest, notice of protest, notice of intent to accelerate, notice of acceleration, or any other notice of any kind except as expressly provided in the Credit Agreement.
+This Note is given in amendment and restatement, but not in extinguishment or novation, of that certain Equipment Note by Borrowers payable to PNC Bank, National Association, dated March 13, 2017, in the principal amount of $2,500,000 (the “Prior Note”), and is in substitution therefor and an amendment and replacement thereof, and is issued in connection with the Credit Agreement. Nothing herein or in any other document shall be construed to constitute payment of the Prior Note or to release or terminate any guaranty or lien, mortgage, pledge, or other security entered in favor of Agent or Lenders.
+
+
+IN WITNESS WHEREOF, each Borrower has duly executed this Note as of the date first written above.
+VIRCO MFG. CORPORATION,
+a Delaware corporation
+By:_______________________________
+Name:     Robert E. Dose
+Title:
+Senior Vice President Finance
+
+VIRCO INC.,
+a Delaware corporation
+By:_______________________________
+Name:     Robert E. Dose
+Title:    Senior Vice President Finance
+    
+
+
+
+
+
+
+
+
+pnc2logo.jpg
+
+March 12, 2019
+
+Virco Mfg. Corporation
+2027 Harpers Ways
+Torrance, California 90501
+Attention: Robert Dose
+
+Virco Inc.
+2027 Harpers Ways
+Torrance, California 90501
+Attention: Robert Dose
+
+Re:    Fee Letter (as amended, restated, amended and restated, or otherwise modified from time to time, the “Fee Letter”) to the Revolving Credit and Security Agreement, dated as of December 22, 2011, among VIRCO MFG. CORPORATION, a Delaware corporation, VIRCO INC., a Delaware corporation (together with each other Person that becomes a party thereto as a borrower pursuant to Section 7.12 of the Credit Agreement, collectively “Borrowers”), the Persons from time to time party thereto as a guarantor pursuant to Section 7.12 of the Credit Agreement, the financial institutions that are now or that hereafter become a party thereto (collectively, “Lenders”) and PNC BANK, NATIONAL ASSOCIATION (“PNC”), as administrative agent for Lenders (PNC, in such capacity, “Agent”) (as amended prior to the date hereof and on the date hereof pursuant to the Seventeenth Amendment and as may be further amended, restated, or otherwise modified from time to time, the “Credit Agreement”). Initially capitalized terms used but not defined herein have the respective meanings set forth in the Credit Agreement.
+
+Ladies and Gentlemen:
+
+This letter agreement constitutes an amendment, effective as of the Nineteenth Amendment Effective Date, of the fees under the Fee Letter that Borrowers have agreed to pay to the Agent in connection with the Credit Agreement.
+
+In connection with, and in consideration of, the agreements contained in the Credit Agreement and the Nineteenth Amendment, the Agent’s continued services as agent, and the Agent’s participation in the credit facilities set forth in the Credit Agreement, Borrowers hereby agree to the following amendment to the Fee Letter:
+
+(i)
+Nineteenth Amendment Fee. A new Section 6 of the Fee Letter is hereby added to read in its entirety as follows and the Fee Letter shall be re-numbered accordingly:
+
+“6. Nineteenth Amendment Fee. Borrowers shall pay to Agent a non-refundable extension fee in the amount of $24,000 (the “Nineteenth Amendment Fee”) in connection with the Nineteenth Amendment (and which fee shall be fully earned and not refundable in any manner as of the Nineteenth Amendment Effective Date).
+
+Except as amended hereby, the Fee Letter remains in full force and effect.    
+
+The fees and other consideration to be paid pursuant to the Fee Letter and this letter are confidential and shall not to be disclosed by any Borrower to any person or entity. By execution of this letter, the Borrowers agree to pay
+
+
+
+
+or cause to be paid the fees to the Agent as and when due as provided in the Fee Letter, as amended hereby. This letter may be executed in any number of counterparts, each of which will be an original and all of which will constitute one and the same agreement.
+
+[Signature Page Follows]
+
+
+Very truly yours,
+
+PNC BANK, NATIONAL ASSOCIATION,
+as Agent
+
+
+By:        
+Name:    
+Title:    
+
+
+
+Accepted and agreed to as of the date first set forth above:
+
+VIRCO MFG. CORPORATION,
+a Delaware corporation
+
+
+By:    _______________________________
+Name:    Robert E. Dose
+Title:     Senior Vice President Finance
+
+VIRCO INC.,
+a Delaware corporation
+
+
+By:    _______________________________
+Name:    Robert E. Dose
+Title:     Senior Vice President Finance
+
+

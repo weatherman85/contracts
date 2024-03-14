@@ -1,0 +1,122 @@
+EX-10.46 4 crr-ex1046_554.htm EX-10.46
+Exhibit 10.46
+
+WAIVER TO CREDIT AGREEMENT
+
+THIS WAIVER TO CREDIT AGREEMENT, dated as of February 27, 2020 (this “Agreement”), is made by and among CARBO Ceramics Inc., a Delaware corporation (the “Borrower”), the Lenders (such capitalized term and all other capitalized terms not otherwise defined herein having the meanings ascribed to them in the Credit Agreement referred to below) party hereto and Wilks Brothers, LLC, as administrative agent (in such capacity, the “Administrative Agent”).
+
+RECITALS
+
+WHEREAS, the Borrower, the Lenders from time to time as a party thereto and the Administrative Agent, are party to that certain Amended and Restated Credit Agreement, dated as of March 2, 2017 (as previously amended, amended and restated, supplemented, restructured or otherwise modified, renewed or replaced from time to time, the “Credit Agreement”);
+
+WHEREAS, the Borrower has informed the Administrative Agent that it may fail to pay the principal of and/or interest on certain Debt incurred in connection with the leasing of certain railcars and distribution centers (the “Lease Obligations”), when the same becomes due and payable during the period from March 1, 2020, until March 31, 2020, pursuant to the agreements or instruments relating to such Debt (such potential failure, the “Specified Action”); and
+
+WHEREAS, to the extent the Borrower fails to perform the Specified Action, and such failure shall continue after the applicable grace period, if any, specified in the agreements relating to the Lease Obligations, and to the extent such failure would constitute a Default or Event of Default under the Credit Agreement, including Section 7.1(e) thereof (such potential default, the “Specified Event of Default”), the Borrower has requested that the Majority Lenders (or the Administrative Agent at the direction of the Majority Lenders) agree to waive such Specified Event of Default, to the extent it occurs.
+
+NOW THEREFORE, in consideration of the premises and agreements, provisions and covenants herein contained, the parties hereto hereby covenant and agree as follows:
+
+SECTION 1.Limited Waiver.  Effective on, and subject to the occurrence of, the Effective Date, the Lenders hereby waive (a) the Specified Event of Default and (b) each Default or Event of Default that occurs as a result of any untrue representation or warranty made by the Borrower that no Default or Event of Default had occurred, in each case solely as a result of the failure to take such Specified Action.
+
+SECTION 2.Conditions to Effectiveness.  This Agreement shall become effective on the first date (the “Effective Date”) when, and only when, each of the applicable conditions set forth below have been satisfied in accordance with the terms herein:
+
+(a)this Agreement shall have been executed and delivered by the Borrower, the Administrative Agent and Lenders constituting at least the Majority Lenders; and
+
+(b)the representations and warranties set forth in Section 3 of this Agreement shall be true and correct in all respects as of the Effective Date.
+
+SECTION 3.Representations and Warranties.  To induce the Administrative Agent and Lenders party hereto to enter into this Agreement, the Borrower hereby, on behalf of itself and each of the other Credit Parties, represents and warrants to the Administrative Agent and each Lender, as to itself and each of the Credit Parties, that:
+
+ 
+
+ 
+
+(a)The execution, delivery, and performance by the Borrower of this Agreement and the consummation of the transactions contemplated hereby (i) are within the Borrower’s powers, (ii) have been duly authorized by all necessary corporate action, (iii) do not contravene any articles or certificate of incorporation or bylaws, binding on or affecting the Borrower, and (iv) do not contravene any Legal Requirement or any material contractual restriction binding on or affecting the Credit Parties, will not result in or require the creation or imposition of any Lien prohibited by this Credit Agreement, and do not require any authorization or approval or other action by, or any notice or filing with, any Governmental Authority.
+
+(b)This Agreement has been duly executed and delivered by the Borrower and constitutes the legal, valid, and binding obligation of the Borrower enforceable against the Borrower in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws at the time in effect affecting the rights of creditors generally and by general principles of equity whether applied by a court of law or equity.
+
+SECTION 4.No Other Amendments or Waivers; Reaffirmation of the Credit Parties.
+
+(a)Except as expressly provided herein (i) the Credit Agreement and the other Credit Documents shall be unmodified and shall continue to be in full force and effect in accordance with their terms, (ii) the consents and agreements of the Administrative Agent and Lenders set forth herein shall be limited strictly as written and shall not constitute a consent or agreement to any transaction not specifically described in connection with any such consent and/or agreement, and (iii) except as expressly set forth in Section 1 of this Agreement, this Agreement shall not be deemed a waiver of any term or condition of any Credit Document and shall not be deemed to prejudice any right or rights which Administrative Agent or any Lender may now have or may have in the future under or in connection with any Credit Document or any of the instruments or agreements referred to therein, as the same may be amended from time to time.
+
+(b)This Agreement shall constitute a Credit Document.
+
+(c)The Borrower, on behalf of itself and each of the other Credit Parties, hereby confirms and agrees that, notwithstanding the effectiveness of this Agreement, each Credit Document to which such Credit Party is a party is, and the obligations of such Credit Party contained in the Credit Agreement, this Agreement or in any other Credit Document to which it is a party are, and shall continue to be, in full force and effect and are hereby ratified and confirmed in all respects, in each case as modified by this Agreement.  For greater certainty and without limiting the foregoing, each of the Borrower, on behalf of itself and each of the other Credit Parties, hereby confirms that the existing security interests granted by such Credit Party in favor of the Secured Parties pursuant to the Credit Documents in the Collateral described therein shall continue to secure the Obligations as and to the extent provided in the Credit Documents.
+
+SECTION 5.Amendment, Modification and Waiver.  This Agreement may not be amended, modified or waived except in accordance with Section 9.3 of the Credit Agreement.
+
+SECTION 6.Integration; Effect of Modifications.  This Agreement represents the entire agreement of the Borrower, the other Credit Parties, the Administrative Agent and the Lenders party hereto with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent or any Lender relative to the subject matter hereof not expressly set forth or referred to herein.  Except as expressly set forth herein, this Agreement shall not by implication or otherwise limit, impair, constitute a waiver of, or otherwise affect the rights and remedies of any party under, the Credit Agreement, nor alter, modify, amend or in any way affect any of the terms,
+
+-2-
+
+ 
+
+conditions, obligations, covenants or agreements contained in the Credit Agreement, all of which are ratified and affirmed in all respects and shall continue in full force and effect.  It is understood and agreed that each reference in each Credit Document to the Credit Agreement, whether direct or indirect, shall hereafter be deemed to be a reference to the Credit Agreement as modified hereby and that this Agreement is a Credit Document.
+
+SECTION 7.Governing Law; Submission to Jurisdiction; Waiver of Jury.  The terms of Section 9.13 (Governing Law), Section 9.16 (Submission to Jurisdiction) and Section 9.18 (Waiver of Jury) of the Credit Agreement with respect to governing law, submission to jurisdiction, venue and waiver of jury trial (and, where applicable, judicial reference) are incorporated herein by reference, mutatis mutandis, and the parties hereto agree to such terms.
+
+SECTION 8.Severability.  Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+SECTION 9.Counterparts.  This Agreement may be executed by one or more of the parties to this Agreement on any number of separate counterparts, and all of said counterparts taken together shall be deemed to constitute one and the same instrument.  Delivery of an executed signature page of this Agreement by facsimile or other electronic mail transmission be effective as delivery of manually executed counterpart hereof.
+
+SECTION 10.Waiver of Claims.  The Borrower, on behalf of itself and each Credit Party hereby waives, releases, remises and forever discharges the Administrative Agent and Lenders, in each of their capacities as such, from any and all claims, suits, actions, investigations, proceedings or demands arising out of or in connection with this Agreement, the Credit Agreement and any other Credit Document, whether based in contract, tort, implied or express warranty, strict liability, criminal or civil statute or common law of any kind or character, known or unknown, which such Credit Party ever had, now has or might hereafter have against the Administrative Agent or any Lender which relate, directly or indirectly, to any acts or omissions of Administrative Agent or any Lender on or prior to the date hereof. For the avoidance of doubt, this Section 10 shall not be applicable to any claims, suits, actions, investigations, proceedings or demands arising under that certain Letter Agreement dated as of March 2, 2017 by and between the Borrower and Wilks Brothers, LLC, William C. Morris, Robert S. Rubin and Gary A. Kolstad.
+
+SECTION 11.Cost and Expenses.  Borrower hereby affirms its obligation under the Credit Agreement to reimburse Administrative Agent for all costs and expenses paid or incurred by Administrative Agent in connection with the preparation, negotiation, execution and delivery of this Agreement and all other documents and instruments delivered in connection herewith, including but not limited to the attorneys’ fees and time charges of attorneys for Administrative Agent with respect thereto.
+
+ 
+
+[Remainder of Page Intentionally Blank]
+
+-3-
+
+ 
+
+IN WITNESS WHEREOF, each of the undersigned has caused its duly authorized officer to execute and deliver this Agreement as of the date first written above.
+
+CARBO CERAMICS INC.
+
+By:/s/ Ernesto Bautista III
+Name: Ernesto Bautista III
+Title: CFO
+
+ 
+
+ 
+
+[Signature Page to Waiver]
+
+ 
+
+WILKS BROTHERS, LLC, as Administrative Agent
+
+By:/s/ Philip Pecora
+Name: Philip Percora
+Title: Portfolio Manager
+
+ 
+
+ 
+
+ 
+
+WILKS BROTHERS, LLC, as a Lender
+
+By:/s/ Philip Pecora
+Name: Philip Percora
+Title: Portfolio Manager
+
+ 
+
+ 
+
+[Signature Page to Waiver]
+
+ 
+
+EQUIFY FINANCIAL LLC, as a Lender
+
+By:/s/ Patrick Hoiby
+Name: Patrick Hoiby
+Title: President
+
+ 
+
+[Signature Page to Waiver]

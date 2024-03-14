@@ -1,0 +1,212 @@
+EX-4.3 2 atxi-20221231xex4d3.htm EX-4.3
+Exhibit 4.3
+
+DESCRIPTION OF THE REGISTRANT’S SECURITIES
+
+REGISTERED PURSUANT TO SECTION 12 OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+DESCRIPTION OF CAPITAL STOCK
+
+Authorized Capital Stock
+
+Our authorized capital stock consists of 75,000,000 shares of common stock, with $0.0001 par value (“Common Stock”), and 2,000,000 shares of Preferred Stock, with $0.0001 par value, of which 250,000 have been designated as Class A Preferred Stock and the remainder of which are undesignated Preferred Stock.
+
+Common Stock
+
+Voting Rights
+
+Holders of our Common Stock are entitled to one vote for each share held on all matters submitted to a vote of stockholders and do not have cumulative voting rights. An election of directors by our stockholders shall be determined by a plurality of the votes cast by the stockholders entitled to vote on the election.
+
+Liquidation and Other Rights
+
+In the event of our liquidation or dissolution, the holders of Common Stock are entitled to receive proportionately all assets available for distribution to stockholders after the payment of all debts and other liabilities and subject to the prior rights of any outstanding preferred stock. Holders of Common Stock have no preemptive, subscription, redemption or conversion rights. The rights, preferences and privileges of holders of Common Stock are subject to, and may be adversely affected by, the rights of the holders of shares of any series of preferred stock that we may designate and issue in the future.
+
+Dividends
+
+Holders of Common Stock are entitled to receive proportionately any dividends as may be declared by our board of directors, subject to any preferential dividend rights of outstanding preferred stock. Pursuant to the certificate of designation relating to the Series A Preferred Stock, we are prohibited from paying dividends on our Common Stock until all dividends required to be paid to the holders of our Class A Preferred Stock have been paid or declared and set apart for payment.
+
+Listing
+
+Our Common Stock is traded on the Nasdaq Capital Market under the symbol “ATXI.” The transfer agent and registrar for our Common Stock is VStock Transfer, LLC.
+
+Preferred Stock
+
+Class A Preferred Stock
+
+Class A Preferred Stock is identical to our Common Stock other than as to voting rights, the election of directors for a definite period, conversion rights and the PIK Dividend right (as described below). On any matter presented to our stockholders for their action or consideration at any meeting of our stockholders (or by written consent of stockholders in lieu of meeting), each holder of outstanding shares of Class A Preferred Stock will be entitled to cast for each share of Class A Preferred Stock held by such holder as of the record date for determining stockholders entitled to vote on such matter, the number of votes that is equal to one and one-tenth (1.1) times a fraction, the numerator of which is the sum of (A) the shares of outstanding Common Stock and (B) the whole shares of Common Stock in to which the shares of outstanding Class A Preferred Stock are convertible and the denominator of which is
+
+
+the number of shares of outstanding Class A Preferred Stock. Thus, the Class A Preferred Stock will at all times constitute a voting majority.
+
+For a period of ten years from the date of the first issuance of shares of Class A Preferred Stock (the “Class A Director Period”) the holders of record of the shares of Class A Preferred Stock (or other capital stock or securities issued upon conversion of or in exchange for the Class A Preferred Stock), exclusively and as a separate class, shall be entitled to appoint or elect the majority of our directors, or the Class A Directors. Thus, the Class A Preferred Stock will be entitled to elect the majority of the Board of Directors during the Class A Director Period.
+
+ The holders of the outstanding shares of Class A Preferred Stock shall receive on January 1 of each year (each, a “PIK Dividend Payment Date”) after the original issuance date of the Class A Preferred Stock until the date all outstanding Class A Preferred Stock is converted into Common Stock or redeemed (and the purchase price is paid in full), pro rata per share dividends paid in additional fully paid and nonassessable shares of Common Stock, such dividend being herein called PIK Dividends, such that the aggregate number of shares of Common Stock issued pursuant to such PIK Dividend is equal to 2.5% of our fully-diluted outstanding capitalization on the date that is one business day prior to any PIK Dividend Payment Date, or PIK Record Date. In the event the Class A Preferred Stock converts into Common Stock, the holders shall receive all PIK Dividends accrued through the date of such conversion.
+
+Each share of Class A Preferred Stock is convertible, at the option of the holder, into one fully paid and nonassessable share of Common Stock subject to certain adjustments.
+
+Undesignated Preferred Stock
+
+The undesignated Preferred Stock may be issued from time to time in one or more series. Our Board of Directors is authorized to determine or alter the dividend rights, dividend rate, conversion rights, voting rights, rights and terms of redemption (including sinking fund provisions, if any), the redemption price or prices, the liquidation preferences and other designations, powers, preferences and relative, participating, optional or other special rights, if any, and the qualifications, limitations and restrictions granted to or imposed upon any wholly unissued series of Preferred Stock, and to fix the number of shares of any series of Preferred Stock (but not below the number of shares of any such series then outstanding).
+
+Warrants
+
+We have issued, and may in the future issue additional, warrants to purchase shares of our Common Stock and/or preferred stock in one or more series together with other securities or separately.
+
+Cash Warrants Issued in October 2022
+
+Exercisability
+
+The warrants issued on October 11, 2022 (the “2022 Warrants”) became exercisable upon issuance and at any time up to the date that is five years after their original issuance. The 2022 Warrants became upon issuance, at the option of each holder, in whole or in part by delivering to us a duly executed exercise notice and, at any time a registration statement registering the offer and sale of the shares of Common Stock underlying the 2022 Warrants under the Securities Act is effective and available for the issuance of such shares, or an exemption from registration under the Securities Act is available for the issuance of such shares, by payment in full in immediately available funds for the number of shares of Common Stock purchased upon such exercise. If a registration statement registering the offer and sale of the shares of Common Stock underlying the 2022 Warrants under the Securities Act is not effective or available and an exemption from registration under the Securities Act is not available for the issuance of such shares, the holder may elect to exercise the 2022 Warrant through a cashless exercise, in which case the holder would receive upon such exercise the net number of shares of Common Stock determined according to the formula set forth in the 2022 Warrant. No fractional shares of Common Stock will be issued in connection with the exercise of a 2022 Warrant. In lieu of fractional shares, we will pay the holder an amount in cash equal to the fractional amount multiplied by the exercise price.
+
+
+Exercise Limitation
+
+A holder will not have the right to exercise any portion of the 2022 Warrant if the holder (together with its affiliates and certain related parties) would beneficially own in excess of 4.99% of the number of shares of our Common Stock outstanding immediately after giving effect to the exercise, as such percentage ownership is determined in accordance with the terms of the 2022 Warrants. However, any holder may increase or decrease such percentage to any other percentage not in excess of 9.99%, provided that any increase in such percentage shall not be effective until 61 days following notice from the holder to us.
+
+Exercise Price
+
+The exercise price per whole share of Common Stock purchasable upon exercise of the 2022 Warrants was originally $3.30, but has since been reduced to $1.55. The exercise price is subject to appropriate adjustment in the event of certain stock dividends and distributions, stock splits, stock combinations, reclassifications or similar events affecting our Common Stock and also upon any distributions of assets, including cash, stock or other property to our stockholders.
+
+Dilutive Issuance Adjustments
+
+If, while the 2022 Warrants are outstanding, we engage in any transaction involving the issue or sale of our shares of Common Stock or equivalent securities at an effective price per share less than the exercise price of the 2022 Warrants then in effect (such lower price, the “Base Share Price”), the exercise price of the 2022 Warrants shall be reduced to equal the Base Share Price. There shall only be one such adjustment to the exercise price, if any, while the 2022 Warrants are outstanding. This adjustment occurred effective as of the close of business on January 27, 2023.
+
+Transferability
+
+Subject to applicable laws, the 2022 Warrants may be offered for sale, sold, transferred or assigned without our consent.
+
+Exchange Listing
+
+The 2022 Warrants are not listed on any securities exchange or nationally recognized trading system.
+
+Warrant Agent
+
+The 2022 Warrants were issued in registered form under a warrant agency agreement between VStock Transfer, LLC, as warrant agent, and us. The 2022 Warrants were initially be represented only by one or more global warrants deposited with the warrant agent, as custodian on behalf of The Depository Trust Company (DTC) and registered in the name of Cede & Co., a nominee of DTC, or as otherwise directed by DTC.
+
+Fundamental Transactions
+
+In the event of a fundamental transaction, as described in the 2022 Warrants and generally including any reorganization, recapitalization or reclassification of our Common Stock, the sale, transfer or other disposition of all or substantially all of our properties or assets, our consolidation or merger with or into another person, the acquisition of more than 50% of our outstanding Common Stock, or any person or group becoming the beneficial owner of 50% of the voting power represented by our outstanding Common Stock, the holders of the 2022 Warrants will be entitled to receive upon exercise of the 2022 Warrants the kind and amount of securities, cash or other property that the holders would have received had they exercised the 2022 Warrants immediately prior to such fundamental transaction.
+
+Rights as a Stockholder
+
+
+Except as otherwise provided in the 2022 Warrants or by virtue of such holder’s ownership of shares of our Common Stock, the holder of a 2022 Warrant does not have the rights or privileges of a holder of our Common Stock, including any voting rights, until the holder exercises the 2022 Warrant.
+
+Governing Law
+
+The 2022 Warrants and the warrant agency agreement are governed by New York law.
+
+Pre-funded Warrants Issued in October 2022
+
+Exercisability
+
+The pre-funded warrants issued on October 11, 2022 (the “2022 Pre-funded Warrants”) became exercisable upon issuance and may be exercised at any time until the 2022 Pre-funded Warrants are exercised in full. The 2022 Pre-funded Warrants will be exercisable, at the option of each holder, in whole or in part by delivering to us a duly executed exercise notice and, at any time a registration statement registering the offer and sale of the shares of Common Stock underlying the 2022 Pre-funded Warrants under the Securities Act is effective and available for the issuance of such shares, or an exemption from registration under the Securities Act is available for the issuance of such shares, by payment in full in immediately available funds for the number of shares of Common Stock purchased upon such exercise. If a registration statement registering the offer and sale of the shares of Common Stock underlying the 2022 Pre-funded Warrants under the Securities Act is not effective or available and an exemption from registration under the Securities Act is not available for the issuance of such shares, the holder may elect to exercise the 2022 Pre-funded Warrants through a cashless exercise, in which case the holder would receive upon such exercise the net number of shares of Common Stock determined according to the formula set forth in the 2022 Pre-funded Warrant. No fractional shares of Common Stock will be issued in connection with the exercise of a 2022 Pre-funded Warrant. In lieu of fractional shares, we will pay the holder an amount in cash equal to the fractional amount multiplied by the exercise price.
+
+Exercise Limitation
+
+A holder will not have the right to exercise any portion of the 2022 Pre-funded Warrants if the holder (together with its affiliates and certain related parties) would beneficially own in excess of 4.99% of the number of shares of our Common Stock outstanding immediately after giving effect to the exercise, as such percentage ownership is determined in accordance with the terms of the 2022 Pre-funded Warrants. However, any holder may increase or decrease such percentage to any other percentage not in excess of 9.99%, provided that any increase in such percentage shall not be effective until 61 days following notice from the holder to us.
+
+ Exercise Price
+
+The exercise price per whole share of Common Stock purchasable upon exercise of the 2022 Pre-funded Warrants is $0.0001. The exercise price is subject to appropriate adjustment in the event of certain stock dividends and distributions, stock splits, stock combinations, reclassifications or similar events affecting our Common Stock and also upon any distributions of assets, including cash, stock or other property to our stockholders.
+
+Transferability
+
+Subject to applicable laws, the 2022 Pre-funded Warrants may be offered for sale, sold, transferred or assigned without our consent.
+
+Exchange Listing
+
+The 2022 Pre-funded Warrants are not listed on any securities exchange or nationally recognized trading system.
+
+Warrant Agent
+
+
+
+The 2022 Pre-funded Warrants were issued in registered form under a warrant agency agreement between VStock Transfer, LLC, as warrant agent, and us. The 2022 Pre-funded Warrants were initially be represented only by one or more global warrants deposited with the warrant agent, as custodian on behalf of The Depository Trust Company (DTC) and registered in the name of Cede & Co., a nominee of DTC, or as otherwise directed by DTC.
+
+Fundamental Transactions
+
+In the event of a fundamental transaction, as described in the 2022 Pre-funded Warrants and generally including any reorganization, recapitalization or reclassification of our Common Stock, the sale, transfer or other disposition of all or substantially all of our properties or assets, our consolidation or merger with or into another person, the acquisition of more than 50% of our outstanding Common Stock, or any person or group becoming the beneficial owner of 50% of the voting power represented by our outstanding Common Stock, the holders of the 2022 Pre-funded Warrants will be entitled to receive upon exercise of the 2022 Pre-funded Warrants the kind and amount of securities, cash or other property that the holders would have received had they exercised the 2022 Pre-funded Warrants immediately prior to such fundamental transaction.
+
+Rights as a Stockholder
+
+Except as otherwise provided in the 2022 Pre-funded Warrants or by virtue of such holder’s ownership of shares of our Common Stock, the holder of a 2022 Pre-funded Warrant does not have the rights or privileges of a holder of our Common Stock, including any voting rights, until the holder exercises the 2022 Pre-funded Warrant.
+
+Governing Law
+
+The 2022 Pre-funded Warrants and the warrant agency agreement are governed by New York law.
+
+Pre-funded Warrants Issued in January 2023
+
+Exercisability
+
+The pre-funded warrants issued on January 31, 2023 (the “2023 Pre-funded Warrants”) became exercisable upon issuance and may be exercised at any time until the 2023 Pre-funded Warrants are exercised in full. The 2023 Pre-funded Warrants will be exercisable, at the option of each holder, in whole or in part by delivering to us a duly executed exercise notice and, at any time a registration statement registering the offer and sale of the shares of Common Stock underlying the 2023 Pre-funded Warrants under the Securities Act is effective and available for the issuance of such shares, or an exemption from registration under the Securities Act is available for the issuance of such shares, by payment in full of the exercise price of $0.001 per share in immediately available funds for the number of shares of Common Stock purchased upon such exercise. Alternatively, the holder may elect to exercise the 2023 Pre-funded Warrants through a cashless exercise, in which case the holder would receive upon such exercise the net number of shares of Common Stock determined according to the formula set forth in the Pre-funded Warrant. No fractional shares of Common Stock will be issued in connection with the exercise of a Pre-funded Warrant. In lieu of fractional shares, we will, at its option, either pay the holder an amount in cash equal to the fractional amount multiplied by the exercise price or round up to the next whole share.
+
+Exercise Limitation
+
+A holder will not have the right to exercise any portion of the Pre-funded Warrant if the holder (together with its affiliates and certain related parties) would beneficially own in excess of 4.99% of the number of shares of our Common Stock outstanding immediately after giving effect to the exercise, as such percentage ownership is determined in accordance with the terms of the 2023 Pre-funded Warrants. However, any holder may increase or decrease such percentage to any other percentage not in excess of 9.99%, provided that any increase in such percentage shall not be effective until 61 days following notice from the holder to us.
+
+Exercise Price
+
+
+
+The exercise price per whole share of Common Stock purchasable upon exercise of the 2023 Pre-funded Warrants is $0.001. The exercise price is subject to appropriate adjustment in the event of certain stock dividends and distributions, stock splits, stock combinations, reclassifications or similar events affecting our Common Stock and also upon any distributions of assets, including cash, stock or other property to our stockholders.
+
+Transferability
+
+Subject to applicable laws, the 2023 Pre-funded Warrants may be offered for sale, sold, transferred or assigned without our consent.
+
+Exchange Listing
+
+The 2023 Pre-funded Warrants are not listed on any securities exchange or nationally recognized trading system.
+
+Fundamental Transactions
+
+In the event of a fundamental transaction, as described in the 2023 Pre-funded Warrants and generally including any reorganization, recapitalization or reclassification of our Common Stock, the sale, transfer or other disposition of all or substantially all of our properties or assets, our consolidation or merger with or into another person, the acquisition of more than 50% of our outstanding Common Stock, or any person or group becoming the beneficial owner of 50% of the voting power represented by our outstanding Common Stock, the holders of the 2023 Pre-funded Warrants will be entitled to receive upon exercise of the 2023 Pre-funded Warrants the kind and amount of securities, cash or other property that the holders would have received had they exercised the 2023 Pre-funded Warrants immediately prior to such fundamental transaction.
+
+Rights as a Stockholder
+
+Except as otherwise provided in the 2023 Pre-funded Warrants or by virtue of such holder’s ownership of shares of our Common Stock, the holder of a Pre-funded Warrant does not have the rights or privileges of a holder of our Common Stock, including any voting rights, until the holder exercises the Pre-funded Warrant.
+
+Governing Law
+
+The 2023 Pre-funded Warrants are governed by New York law.
+
+Cash Warrants Issued in January 2023
+
+Exercisability
+
+The warrants issued on January 31, 2023 (the “2023 Warrants”) became exercisable upon issuance and at any time up to the date that is three (3) years after their original issuance. The 2023 Warrants will be exercisable, at the option of each holder, in whole or in part by delivering to us a duly executed exercise notice and, at any time a registration statement registering the offer and sale of the shares of Common Stock underlying the 2023 Warrants under the Securities Act is effective and available for the issuance of such shares, or an exemption from registration under the Securities Act is available for the issuance of such shares, by payment in full in immediately available funds for the number of shares of Common Stock purchased upon such exercise. If a registration statement registering the offer and sale of the shares of Common Stock underlying the 2023 Warrants under the Securities Act is not effective or available and an exemption from registration under the Securities Act is not available for the issuance of such shares, the holder may elect to exercise the Warrant through a cashless exercise, in which case the holder would receive upon such exercise the net number of shares of Common Stock determined according to the formula set forth in the Warrant. No fractional shares of Common Stock will be issued in connection with the exercise of a Warrant. In lieu of fractional shares, we will pay the holder an amount in cash equal to the fractional amount multiplied by the exercise price.
+
+
+
+Exercise Limitation
+
+A holder will not have the right to exercise any portion of the Warrant if the holder (together with its affiliates and certain related parties) would beneficially own in excess of 4.99% of the number of shares of our Common Stock outstanding immediately after giving effect to the exercise, as such percentage ownership is determined in accordance with the terms of the 2023 Warrants. However, any holder may increase or decrease such percentage to any other percentage not in excess of 9.99%, provided that any increase in such percentage shall not be effective until 61 days following notice from the holder to us.
+
+Exercise Price
+
+The exercise price per whole share of Common Stock purchasable upon exercise of the 2023 Warrants is equal to $1.55. The exercise price is subject to appropriate adjustment in the event of certain stock dividends and distributions, stock splits, stock combinations, reclassifications or similar events affecting our Common Stock and also upon any distributions of assets, including cash, stock or other property to our stockholders.
+
+Transferability
+
+Subject to applicable laws, the 2023 Warrants may be offered for sale, sold, transferred or assigned without our consent.
+
+Exchange Listing.
+
+The 2023 Warrants are not listed on any securities exchange or nationally recognized trading system.
+
+Fundamental Transactions
+
+In the event of a fundamental transaction, as described in the 2023 Warrants and generally including any reorganization, recapitalization or reclassification of our Common Stock, the sale, transfer or other disposition of all or substantially all of our properties or assets, our consolidation or merger with or into another person, the acquisition of more than 50% of our outstanding Common Stock, or any person or group becoming the beneficial owner of 50% of the voting power represented by our outstanding Common Stock, the holders of the 2023 Warrants will be entitled to receive upon exercise of the 2023 Warrants the kind and amount of securities, cash or other property that the holders would have received had they exercised the 2023 Warrants immediately prior to such fundamental transaction.
+
+Rights as a Stockholder
+
+Except as otherwise provided in the 2023 Warrants or by virtue of such holder’s ownership of shares of our Common Stock, the holder of a Warrant does not have the rights or privileges of a holder of our Common Stock, including any voting rights, until the holder exercises the Warrant.
+
+Governing Law
+
+The 2023 Warrants are governed by New York law.
+

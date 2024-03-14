@@ -1,0 +1,107 @@
+EX-97.1 7 incentivecompensationclawb.htm EX-97.1
+
+image_0.jpg
+Gates Industrial Corporation plc
+Incentive Compensation Clawback Policy
+ 
+This Incentive Compensation Clawback Policy (“Policy”) contains the following sections:
+1     Overview
+2    Interpretation and Administration
+3    Covered Executives
+4    Incentive Compensation and Retroactive Effect
+5    Recovery of Erroneously Awarded Compensation
+6    Forms of Recovery
+7    No Indemnification
+8    Exceptions to the Recovery Requirement
+9    Committee Determination Final
+10    Amendment
+11    Non-Exclusivity
+12    Successors
+13    Governing Law
+14    Defined Terms
+
+ 
+1.Overview. The Compensation Committee (the “Committee”) of the Board of Directors (the “Board”) of Gates Industrial Corporation plc (the “Company”) has adopted this Policy which requires the recoupment of certain incentive-based compensation in accordance with the terms herein and is intended to comply with Section 303A.14 of The New York Stock Exchange Listed Company Manual, as such section may be amended from time to time (the “Listing Rules”).
+Capitalized terms not otherwise defined herein shall have the meanings assigned to such terms under Section 14 (Defined Terms) of this Policy.
+2.Interpretation and Administration. The Committee shall have full authority to interpret and enforce the Policy; provided, however, that the Policy shall be interpreted in a manner consistent with its intent to meet the requirements of the Listing Rules. This Policy is intended to supplement any other clawback policies and procedures that the Company may have in place from time to time pursuant to other applicable law, plans, policies or agreements. See Section 11 (Non-Exclusivity) below.
+3.Covered Executives. The Policy applies to each current and former Executive Officer who serves or served as an Executive Oﬃcer at any time during a performance period in respect of which Incentive Compensation is Received, to the extent that any portion of such Incentive Compensation is (a) Received by the Executive Officer during the last three completed (i) Fiscal Years or, (ii) to the extent the Company changes its Fiscal Year, any applicable Transition Period preceding the date that the Company is required to prepare a Restatement (regardless of whether any such Restatement is actually filed) and (b) determined to have included Erroneously Awarded Compensation. Executive Officers subject to this Policy pursuant to this Section 3 are referred to herein as “Covered Executives.”
+For purposes of determining the relevant recovery period referenced in the preceding clause (a), the date that the Company is required to prepare a Restatement under the Policy is the earlier to occur of (i) the date that the Board, a committee of the Board, or the officer or officers of the Company authorized to take such action if Board action is not required, concludes, or reasonably should have concluded, that the Company is required to prepare a Restatement or (ii) the date a court, regulator, or other legally authorized body directs the Company to prepare a Restatement.
+1
+        
+
+4.Incentive Compensation and Retroactive Effect. This Policy applies to Incentive Compensation only to the extent it is Received (a) while the Company has a class of securities listed on a national securities exchange or a national securities association and (b) on or after October 2, 2023, the effective date of the Listing Rules.
+5.Recovery of Erroneously Awarded Compensation. If any Erroneously Awarded Compensation is Received by a Covered Executive, the Company shall reasonably promptly take steps to recover such Erroneously Awarded Compensation in a manner described under Section 6 (Forms of Recovery) of this Policy.
+6.Forms of Recovery. The Committee shall determine, in its sole discretion and in a manner that effectuates the purpose of the Listing Rules, one or more methods for recovering any Erroneously Awarded Compensation hereunder in accordance with Section 5 (Recovery of Erroneously Awarded Compensation) above, which may include, without limitation: (a) requiring cash reimbursement; (b) seeking recovery or forfeiture of any gain realized on the vesting, exercise, settlement, sale, transfer or other disposition of any equity-based awards; (c) offsetting the amount to be recouped from any compensation otherwise owed by the Company to the Covered Executive (including deferred compensation); (d) cancelling outstanding vested or unvested equity awards; or (e) taking any other remedial and recovery action permitted by law, as determined by the Committee.
+If the Covered Executive refuses to pay to the Company an amount equal to the Erroneously Awarded Compensation, the Covered Executive shall, to the extent required by the Committee, be required to reimburse the Company for all expenses incurred (including legal fees) by it to recover the Erroneously Awarded Compensation and the Company shall have the right to sue for repayment and reimbursement, and/or enforce the Covered Executive’s obligation to make payment of amounts owed to the Company under this Policy through the reduction or cancellation of outstanding and future compensation. Any reduction, cancellation or forfeiture of compensation shall be done in compliance with Section 409A of the Internal Revenue Code of 1986, as amended, and the regulations promulgated thereunder.
+7.No Indemnification. The Company shall not indemnify, reimburse, or insure (including through the payment or reimbursement of insurance premiums or other costs) any Covered Executive against the loss of any Erroneously Awarded Compensation or expense incurred by the Company to recover such Erroneously Awarded Compensation for which the Committee has determined to seek recoupment pursuant to this Policy.
+8.Exceptions to the Recovery Requirement. Notwithstanding anything in this Policy to the contrary, Erroneously Awarded Compensation need not be recovered pursuant to this Policy if the Committee (or, if the Committee is not composed solely of Independent Directors, a majority of the Independent Directors serving on the Board) determines that recovery would be impracticable as a result of any of the following:
+(a)the direct expense paid to a third party to assist in enforcing the Policy would exceed the amount to be recovered; provided that, before concluding that it would be impracticable to recover any amount of Erroneously Awarded Compensation based on expense of enforcement, the Company must make a reasonable attempt to recover such Erroneously Awarded Compensation, document such reasonable attempt(s) to recover, and provide that documentation to the Exchange;
+(b)recovery would violate home country law where that law was adopted prior to November 28, 2022; provided that, before concluding that it would be impracticable to recover any amount of Erroneously Awarded Compensation based on violation of home country law, the Company must obtain an opinion of home country counsel, acceptable to the Exchange, that recovery would result in such a violation, and must provide such opinion to the Exchange; or
+(c)recovery would likely cause an otherwise tax-qualified retirement plan, under which benefits are broadly available to employees of the Company, to fail to meet the requirements of 26 U.S.C. 401(a)(13) or 26 U.S.C. 411(a) and the regulations thereunder.
+9.Committee Determination Final. Any determination by the Committee with respect to the Policy shall be final, conclusive and binding on all interested parties.
+10.Amendment. The Policy may be amended by the Committee from time to time, to the extent permitted under the Listing Rules.
+11.Non-Exclusivity. Nothing in the Policy shall be viewed as limiting the right of the Company or the Committee to pursue additional remedies or recoupment under or as required by any similar policy adopted by the Company or under the Company’s compensation plans, award agreements, employment agreements or similar
+2
+        
+
+agreements or the applicable provisions of any law, rule or regulation which may require or permit recoupment to a greater degree or with respect to additional compensation as compared to this Policy (but without duplication as to any recoupment already made with respect to Erroneously Awarded Compensation pursuant to this Policy). This Policy shall be interpreted in all respects to comply with the Listing Rules.
+12.Successors. The Policy shall be binding and enforceable against all Covered Executives and their beneficiaries, heirs, executors, administrators or other legal representatives.
+13.Governing Law. The Policy shall be governed by and construed in accordance with the internal laws of the State of Colorado applicable to contracts made and performed wholly within the State of Colorado, without giving effect to the conflict of laws’ provisions thereof.
+14.Defined Terms.
+“Covered Executives” shall have the meaning set forth in Section 3 (Covered Executives) of this Policy.
+“Erroneously Awarded Compensation” shall mean the amount of Incentive Compensation Received that exceeds the amount of Incentive Compensation that otherwise would have been Received had it been determined based on the restated amounts, and computed without regard to any taxes paid. For Incentive Compensation based on stock price or total shareholder return, where the amount of erroneously awarded Incentive Compensation is not subject to mathematical recalculation directly from the information in a Restatement:
+(A)The calculation of Erroneously Awarded Compensation shall be based on a reasonable estimate of the effect of the Restatement on the stock price or total shareholder return upon which the Incentive Compensation was Received; and
+(B)The Company shall maintain documentation of the determination of that reasonable estimate and provide such documentation to the Exchange.
+“Exchange” shall mean The New York Stock Exchange.
+“Executive Officer” shall mean the Company’s president, principal financial officer, principal accounting officer (or if there is no such accounting officer, the controller), any vice-president of the Company in charge of a principal business unit, division, or function (such as sales, administration, or finance), any other officer who performs a policy-making function, or any other person who performs similar policy-making functions for the Company. Executive officers of the Company’s parent(s) or subsidiaries shall be deemed executive officers of the Company if they perform such policy-making functions for the Company. Generally, Executive Officers include any executive officers designated by the Board as an “Officer” under Rule 16a-1(f) of the Securities Exchange Act of 1934, as amended.
+“Financial Reporting Measures” shall mean measures that are determined and presented in accordance with the accounting principles used in preparing the Company’s financial statements, and any measures that are derived wholly or in part from such measures, including, without limitation, stock price, total shareholder return, and non-GAAP measures. For the avoidance of doubt, a Financial Reporting Measure need not be presented within the Company’s financial statements or included in a filing with the Securities and Exchange Commission).
+“Fiscal Year” shall mean the Company’s fiscal year; provided that a Transition Period between the last day of the Company’s previous fiscal year end and the first day of its new fiscal year that comprises a period of nine to 12 months will be deemed a completed fiscal year.
+“Incentive Compensation” shall mean any compensation (whether cash or equity-based) that is granted, earned, or vested based wholly or in part upon the attainment of a Financial Reporting Measure, and may include, but shall not be limited to, annual and special performance bonuses and long-term incentive awards such as stock options, stock appreciation rights, restricted stock, restricted stock units, performance share units or other equity-based awards, in each case, granted, earned, or vested based wholly or in part upon the attainment of a Financial Reporting Measure, including bonuses paid from a “bonus pool,” the size of which is determined based wholly or in part on satisfying a Financial Reporting Measure. For the avoidance of doubt, Incentive Compensation does not include salaries, awards that vest exclusively upon completion of a specified employment period, without any performance condition, and bonus awards that are based on subjective goals or goals unrelated to Financial Reporting Measures.
+3
+        
+
+“Independent Director” shall mean a director who is determined by the Board to be “independent” for Board or Committee membership, as applicable, under the rules of the Exchange, as of any determination date.
+“Listing Rules” shall have the meaning set forth in Section 1 of this Policy.
+Incentive Compensation shall be deemed “Received” in the Company’s fiscal period during which the Financial Reporting Measure specified in the Incentive Compensation award is attained, even if the payment or grant of the Incentive Compensation occurs after the end of that period.
+“Restatement” shall mean an accounting restatement due to the material noncompliance of the Company with any financial reporting requirement under the securities laws, including any required accounting restatement to correct an error in previously issued financial statements that is material to the Company’s previously issued financial statements, or that would result in a material misstatement if the error were corrected in the current period or left uncorrected in the current period.
+“Transition Period” shall mean any transition period that results from a change in the Company’s Fiscal Year within or immediately following the three completed Fiscal Years immediately preceding the Company’s requirement to prepare a Restatement.
+Revised: October 26, 2023
+4
+        
+
+Agreement of Incentive Compensation Clawback Policy
+Reference is made to the Gates Industrial Corporation plc Incentive Compensation Clawback Policy (as adopted on October 26, 2023 pursuant to New York Stock Exchange Rule 303A.14) (the “Policy”) and that certain Deed of Indemnity (the “Deed of Indemnity”), dated as of [___], by and between the Company and the undersigned (collectively referred to as the “Parties”). Capitalized terms used herein without definition have the meanings assigned to such terms under the Policy.
+
+By signing below, the undersigned acknowledges, confirms and agrees that:
+•the undersigned has received and reviewed a copy of the Policy;
+•the undersigned is, and will continue to be, subject to the Policy to the extent provided therein;
+•the Policy may apply both during and after termination of the undersigned’s employment with the Company and its affiliates; and
+•the undersigned agrees to abide by the terms of the Policy, including, without limitation, by returning any Erroneously Awarded Compensation to the Company pursuant to the Policy.
+
+For the avoidance of doubt, the Parties hereby agree that the provisions set forth in Section 7 (No Indemnification) of the Policy override, supersede and make null and void any and all contrary provisions of the Deed of Indemnity (the “Indemnity Waiver”), and further agree that the governing law and jurisdiction provisions of Section 13 of the Deed of Indemnity apply to the Indemnity Waiver as if set forth herein.
+IN WITNESS WHEREOF the parties hereto have caused this agreement to be executed as a deed and delivered the day and year first above written.
+ 
+EXECUTED as a DEED by
+GATES INDUSTRIAL CORPORATION PLC
+acting by [     ]	  		  	
+ 
+In the presence of:
+ 
+ 	  	Witness’s signature
+ 	  	Name
+ 	  	Address
+ 	  	Occupation
+ 
+EXECUTED as a DEED by
+the Indemnitee	  	 	  	
+ 
+In the presence of:
+ 
+ 	  	Witness’s signature
+ 	  	Name
+ 	  	Address
+ 	  	Occupation
+ 
+
+5
+        

@@ -1,0 +1,109 @@
+EX-10.13 3 exhibit1013.htm EX-10.13
+
+Exhibit 10.13
+
+
+CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED AND REPLACED WITH “[***]”. SUCH IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF DISCLOSED.
+AMENDMENT NO. 3
+TO
+SERVICES AGREEMENT
+This AMENDMENT NO. 3 TO SERVICES AGREEMENT, effective as of April 1, 2020 (this “Amendment”), amends the Services Agreement, dated as of March 15, 2017, as subsequently amended (the “Agreement”), by and between Black Diamond Therapeutics, Inc. (the “Company”) and Ridgeline Therapeutics GmbH (“Ridgeline”). Capitalized terms used but not defined herein shall have the meanings assigned to them in the Agreement.
+RECITALS
+WHEREAS, the Company and Ridgeline desire to amend the Agreement to reflect the terms set forth herein.
+NOW, THEREFORE, in consideration of the mutual premises and covenants hereinafter set forth, the parties hereto, intending to be legally bound, hereby agree as follows:
+1.Amendment. Each of the Company and Ridgeline hereby consents and agrees to amend the Agreement as follows:
+1.1 Insert a new subsection (e) and (f) in Section 2.3 of the Agreement as follows:
+“(e) Agreements with Third Parties. Beginning with the date of this Amendment 3, Ridgeline shall obtain the prior written consent of the Company prior to entering into any agreements with third parties in connection with the Services. Ridgeline and the Company shall cooperate in good faith to obtain the assignment to the Company of the contractual arrangements of Ridgeline with the third parties described on Schedule 2.3(e) to this Amendment 3.
+(f) Transfer of Records and Materials. Upon request from the Company, (i) Ridgeline shall assign and transfer to the Company, all Company Work Product, including any and all records, study reports, lab notebooks, and data generated in the course of performing the Services and to the extent necessary assist the Company to obtain assignment and transfer of the foregoing from vendors who have performed services to Ridgeline for the benefit of the Company, (ii) Ridgeline shall provide an inventory of all compounds generated in the course of performing the Services and shall at the Company’s expense ship such compounds to the address provided by the Company; and (iii) Ridgeline shall transfer to the Company a copy of each engineered cell line utilized in the course of
+
+
+performing the Services. Ridgeline shall retain a copy of each cell line for a period of three years from the date of this Amendment 3. Ridgeline shall have no liability to the Company for loss or damage to such cell lines. The Company shall reimburse Ridgeline for any costs incurred by Ridgeline in connection with any of the foregoing activities.”
+1.2 Delete in its entirety and replace subsection (a) of Section 2.6 of the Agreement with the following:
+“(a) Term. The term of this Agreement (the “Term”) shall commence on the Effective Date and continue until December 31, 2020.”
+1.3 Delete in its entirety and replace Section 5.5 of the Agreement with the following:
+“5.5. Governing Law. This Agreement shall be governed by construed in accordance with the laws of the State of Delaware.”
+1.4 In Section 5.11 of the Agreement, delete the notice details for the Company and replace with the following:
+“Black Diamond Therapeutics, Inc.
+139 Main Street
+Cambridge, MA 02142 USA
+Attn: COO & General Counsel”
+
+1.5 Delete Sections 1 and 2 of Exhibit A of the Agreement in their entirety and replace with the following:
+“EXHIBIT A
+SERVICES
+1.For purposes of this Agreement, the “Ridgeline Key Team” shall mean [***]. Subject to the provisions of Section 2 hereof, Ridgeline shall use commercially reasonable efforts to cause the Ridgeline Key Team to provide the following Services as may be requested from time to time by the Company:
+A.Research and Development Services. Ridgeline shall provide to the Company the following research and development services in connection with the transition plan separately agreed by the parties:
+i.[***];
+ii.[***]; and
+iii.[***].
+
+
+B.General Consulting. Ridgeline shall provide general consulting services to the Company as follows:
+i.[***];
+ii.[***]:
+Consultant	FTE Rate in US$	
+Q2 2020
+Hours/Week
+Q3 2020
+Hours/Week
+Q4 2020
+Hours/Week
+Total Hours	Cost in US$
+[***]	[***]	[***]	[***]	[***]	[***]	[***]
+[***]	[***]	[***]	[***]	[***]	[***]	[***]
+[***]	[***]	[***]	[***]	[***]	[***]	[***]
+[***]	[***]	[***]	[***]	[***]	[***]	[***]
+Total	
+
+
+
+
+
+US$[***]
+ 
+
+C.Other. Ridgeline shall provide such other Services as mutually agreed between Ridgeline and the Company from time to time.
+2.The parties agree that no monthly prepayments for Services are due from the Company for 2020 and that beginning April 1, 2020, Ridgeline shall invoice the Company for the actual amounts incurred in respect of Services for a particular calendar month on or about the [***] following calendar month, together with the amount of reimbursable costs and expenses incurred by Ridgeline on behalf of the Company pursuant to Section 2.2. Such invoices shall be paid by the Company within [***]. The Parties will reconcile invoices for Services for the first quarter of 2020 to determine whether any additional payment for Services for the first quarter of 2020 is due and owing. To the extent there remains any excess amount from prepayments for Services (made by the Company to Ridgeline prior to the date of this Amendment) following such reconciliation, the parties shall agree on a reasonable handling of such amount, including crediting the amount estimated to be charged under monthly invoices for consulting services pursuant to the table in Section 1 above, retention by Ridgeline of an amount estimated to cover any costs incurred by Ridgeline in the first quarter of 2020 but not yet billed, and refunding of any remaining excess amount to the Company. “
+
+2.Miscellaneous.
+(a)Effect of Amendment. Except as expressly set forth herein, this Amendment shall not alter, modify, amend or in any way affect any of the terms, conditions, covenants, obligations or agreements contained in the Agreement, all of which shall continue to
+
+
+be in full force and effect. Whenever the Agreement is referred to in the Agreement or in any other agreements, documents or instruments, such reference shall be to the Agreement as amended hereby.
+(b)Counterparts; Facsimile Signatures. This Amendment may be executed in any number of counterparts, each of which shall be deemed to be an original, and all of which together shall constitute one and the same document. This Amendment may be executed by facsimile or .pdf signatures.
+(c)GOVERNING LAW. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF DELAWARE, WITHOUT GIVING EFFECT TO PRINCIPLES OF CONFLICTS OF LAWS.
+[Signature Page Follows]
+
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Amendment on March 20, 2020.
+
+COMPANY:		
+BLACK DIAMOND THERAPEUTICS, INC.
+By:	/s/ David Epstein		
+Name: David Epstein
+Title: President		
+ 
+
+RIDGELINE THERAPEUTICS GmbH
+By:	
+/s/ Alexander Mayweg
+Name: Alexander Mayweg
+Title: Managing Director		
+ 
+
+
+
+
+Schedule 2.3(e)
+Third Party Contracts to be Assigned
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+[***]
+
+

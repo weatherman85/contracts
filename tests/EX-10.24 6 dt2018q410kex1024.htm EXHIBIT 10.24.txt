@@ -1,0 +1,154 @@
+EX-10.24 6 dt2018q410kex1024.htm EXHIBIT 10.24
+
+
+EXHIBIT 10.24
+
+
+RECEIVABLES FINANCING AGREEMENT AMENDMENT No. 1
+
+This Receivables Financing Agreement Amendment No. 1 (this “Amendment”), dated as of March 27, 2017, but effective as of February 25, 2017, among DAVEY RECEIVABLES LLC an Ohio limited liability company, as Borrower (together with its successors and assigns, the “Borrower”); THE DAVEY TREE EXPERT COMPANY, an Ohio corporation, in its individual capacity (“Davey Tree”) and as initial Servicer (in such capacity, together with its successors and assigns in such capacity, the “Servicer”); PNC BANK NATIONAL ASSOCIATION, as LC BANK (in such capacity, together with its successors and assigns in such capacity, the “LC Bank”); and PNC BANK NATIONAL ASSOCIATION (“PNC”), as Administrative Agent (in such capacity together with its successors and assigns in such capacity, the “Administrative Agent”).
+
+W I T N E S S E T H:
+
+WHEREAS, the Borrower, the Servicer, the LC Bank, and the Administrative Agent are party to that certain Receivables Financing Agreement dated as of May 29, 2016 (the “Financing Agreement”)
+
+WHEREAS, the Borrower, the Servicer, the LC Bank, and the Administrative Agent hereby agree to amend the Events of Default set forth in the Financing Agreement pursuant to the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable consideration, receipt and sufficiency of which are hereby acknowledged by the parties, the Borrower, the Servicer, the LC Bank, and the Administrative Agent hereto agree as follows:
+
+Section 1.    DEFINITIONS. Capitalized terms not otherwise defined herein shall have the meanings given to them in the Receivables Purchase Agreement.
+
+Section 2.    AMENDMENTS.
+
+(a)    Effective as of February 25, 2017, clause (f) of Section 10.01 of the Financing Agreement is hereby amended and restated in its entirety and as so amended and restated shall read as follows:
+
+(f)    (i) the average for three (3) consecutive Fiscal Months of: (A) the Default Ratio shall exceed 5.00%, (B) the Delinquency Ratio shall exceed 12.50% or (C) the Dilution Ratio shall exceed 5.00%, or (ii) the Days’ Sales Outstanding shall exceed (x) 75 days for any of the first three Fiscal Months of any calendar year or (y) 60 days for any other Fiscal Month;
+
+Section 3.    REPRESENTATIONS OF THE BORROWER AND THE SERVICER. Each of the Borrower and the Servicer hereby represent and warrant to the parties hereto that as of the date hereof each of the representations and warranties contained in Article VII of the Financing Agreement and any other Transaction Documents to which it is a party are true and correct as of the date hereof and after giving effect to this Amendment (except to the extent that such representations and warranties expressly refer to an earlier
+
+
+
+
+date, in which case they are true and correct as of such earlier date).
+
+Section 4.    CONDITIONS PRECEDENT. This Amendment shall become effective and be deemed effective as of the date first written above upon the satisfaction of the following conditions precedent:
+
+(a)    the Administrative Agent shall have received a fully executed counterpart of this Amendment;
+
+(b)    each representation and warranty of the Borrower and the Servicer contained herein or in any other Transaction Document (after giving effect to this Amendment) shall be true and correct; and
+
+(c)    no Unmatured Event of Default or Event of Default shall have occurred and be continuing.
+
+Section 5.    COUNTERPARTS. This Amendment may be executed by the parties in separate counterparts, each of which when so executed and delivered shall be an original, but all such counterparts shall together constitute but one and the same instrument.
+
+Section 6.    SEVERABILITY. Any provision of this Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+Section 7.    GOVERNING LAW AND JURISDICITON. The provisions of the Financing Agreement with respect to governing law, jurisdiction, and agent for service of process are incorporated in this Amendment by reference as if such provisions were set forth herein.
+
+[Signatures appear on following page.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have each caused this Amendment to be duly executed by their respective duly authorized officers as of the day and year first above written.
+
+DAVEY RECEIVABLES LLC
+ 
+ 
+ 
+ 
+By:
+/s/ Christopher J. Bast
+ 
+Name:
+Christopher J. Bast
+ 
+ 
+Title:
+Treasurer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE DAVEY TREE EXPERT COMPANY,
+as the Servicer and an Originator
+ 
+ 
+ 
+ 
+By:
+/s/ Christopher J. Bast
+ 
+Name:
+Christopher J. Bast
+ 
+ 
+Title:
+Treasurer
+ 
+
+
+
+
+PNC BANK, NATIONAL ASSOCIATION
+as Administrative Agent
+ 
+ 
+ 
+ 
+By:
+/s/ Michael Brown
+ 
+Name:
+Michael Brown
+ 
+Title:
+Senior Vice President
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PNC BANK, NATIONAL ASSOCIATION,
+as LC Bank
+ 
+ 
+ 
+ 
+By:
+/s/ Michael Brown
+ 
+Name:
+Michael Brown
+ 
+ 
+Title:
+Senior Vice President
+
+
+
+

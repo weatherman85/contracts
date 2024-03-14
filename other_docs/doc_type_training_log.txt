@@ -1,0 +1,220 @@
+Training Nearest Neighbors model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.86      0.93      0.90      1089
+           1       0.77      0.61      0.68       406
+
+    accuracy                           0.84      1495
+   macro avg       0.82      0.77      0.79      1495
+weighted avg       0.84      0.84      0.84      1495
+
+Nearest Neighbors classifier model created with accuracy of 0.8441471571906355.
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.89      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.93      0.92      0.92      1495
+
+Linear SVM classifier model created with accuracy of 0.9230769230769231.
+Training Random Forest model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.95      1089
+           1       0.85      0.88      0.86       406
+
+    accuracy                           0.93      1495
+   macro avg       0.90      0.91      0.91      1495
+weighted avg       0.93      0.93      0.93      1495
+
+Random Forest classifier model created with accuracy of 0.9250836120401338.
+Training Naive Bayes model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91      1089
+           1       0.77      0.73      0.75       406
+
+    accuracy                           0.87      1495
+   macro avg       0.83      0.82      0.83      1495
+weighted avg       0.86      0.87      0.87      1495
+
+Naive Bayes classifier model created with accuracy of 0.8662207357859532.
+Training Logistic Regression model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.92      0.95      0.94      1089
+           1       0.85      0.78      0.82       406
+
+    accuracy                           0.90      1495
+   macro avg       0.89      0.87      0.88      1495
+weighted avg       0.90      0.90      0.90      1495
+
+Logistic Regression classifier model created with accuracy of 0.9043478260869565.
+Training SGD Classifier model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.88      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.92      0.92      0.92      1495
+
+SGD Classifier classifier model created with accuracy of 0.9224080267558529.
+Training Nearest Neighbors model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.86      0.93      0.90      1089
+           1       0.77      0.61      0.68       406
+
+    accuracy                           0.84      1495
+   macro avg       0.82      0.77      0.79      1495
+weighted avg       0.84      0.84      0.84      1495
+
+Nearest Neighbors classifier model created with accuracy of 0.8441471571906355.
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.89      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.93      0.92      0.92      1495
+
+Linear SVM classifier model created with accuracy of 0.9230769230769231.
+Training Random Forest model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.95      1089
+           1       0.84      0.87      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.90      0.90      1495
+weighted avg       0.92      0.92      0.92      1495
+
+Random Forest classifier model created with accuracy of 0.9210702341137124.
+Training Naive Bayes model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91      1089
+           1       0.77      0.73      0.75       406
+
+    accuracy                           0.87      1495
+   macro avg       0.83      0.82      0.83      1495
+weighted avg       0.86      0.87      0.87      1495
+
+Naive Bayes classifier model created with accuracy of 0.8662207357859532.
+Training Logistic Regression model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.92      0.95      0.94      1089
+           1       0.85      0.78      0.82       406
+
+    accuracy                           0.90      1495
+   macro avg       0.89      0.87      0.88      1495
+weighted avg       0.90      0.90      0.90      1495
+
+Logistic Regression classifier model created with accuracy of 0.9043478260869565.
+Training SGD Classifier model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.95      1089
+           1       0.84      0.87      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.92      0.92      0.92      1495
+
+SGD Classifier classifier model created with accuracy of 0.9210702341137124.
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.89      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.93      0.92      0.92      1495
+
+Linear SVM classifier model created with accuracy of 0.9230769230769231.
+Training Nearest Neighbors model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.86      0.93      0.90      1089
+           1       0.77      0.61      0.68       406
+
+    accuracy                           0.84      1495
+   macro avg       0.82      0.77      0.79      1495
+weighted avg       0.84      0.84      0.84      1495
+
+Nearest Neighbors classifier model created with accuracy of 0.8441471571906355.
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.89      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.93      0.92      0.92      1495
+
+Linear SVM classifier model created with accuracy of 0.9230769230769231.
+Training Random Forest model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.94      1089
+           1       0.84      0.87      0.85       406
+
+    accuracy                           0.92      1495
+   macro avg       0.89      0.90      0.90      1495
+weighted avg       0.92      0.92      0.92      1495
+
+Random Forest classifier model created with accuracy of 0.9190635451505017.
+Training Naive Bayes model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91      1089
+           1       0.77      0.73      0.75       406
+
+    accuracy                           0.87      1495
+   macro avg       0.83      0.82      0.83      1495
+weighted avg       0.86      0.87      0.87      1495
+
+Naive Bayes classifier model created with accuracy of 0.8662207357859532.
+Training Logistic Regression model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.92      0.95      0.94      1089
+           1       0.85      0.78      0.82       406
+
+    accuracy                           0.90      1495
+   macro avg       0.89      0.87      0.88      1495
+weighted avg       0.90      0.90      0.90      1495
+
+Logistic Regression classifier model created with accuracy of 0.9043478260869565.
+Training SGD Classifier model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.94      1089
+           1       0.83      0.88      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.89      0.91      0.90      1495
+weighted avg       0.92      0.92      0.92      1495
+
+SGD Classifier classifier model created with accuracy of 0.9204013377926421.
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1089
+           1       0.84      0.89      0.86       406
+
+    accuracy                           0.92      1495
+   macro avg       0.90      0.91      0.90      1495
+weighted avg       0.93      0.92      0.92      1495
+
+Linear SVM classifier model created with accuracy of 0.9230769230769231.

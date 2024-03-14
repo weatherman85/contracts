@@ -1,0 +1,202 @@
+EX-10.77 8 f10k2022ex10-77_aerkomm.htm NONBINDING COOPERATION AGREEMENT BETWEEN NEW SKY SATELLITES B.V. (SES) AND AERKOMM INC. DATED JANUARY 10, 2022
+Exhibit 10.77
+
+ 
+
+NONBINDING COOPERATION AGREEMENT
+
+ 
+
+This Cooperation Agreement (“Agreement”), effective as of the 10th day of January 2022 (the “Effective Date”), is entered into by and between:
+
+ 
+
+New Skies Satellites B.V., a Dutch company with its principal offices located at Rooseveltplantsoen 4, 2517 KR The Hague, Netherlands (“SES”); and
+
+ 
+
+AERKOMM, INC., a company incorporated in Nevada, with its principal offices located at 44043 Fremont Boulevard, Fremont, California, U.S.A., 94538 (“AKOM”).
+
+ 
+
+SES and AKOM may be referred to individually herein as a “Party”, and collectively as “the Parties”.
+
+ 
+
+WHEREAS, SES is a satellite operator providing communications solutions to broadcast, telecom, corporate, and government customers;
+
+ 
+
+WHEREAS, SES is operating a constellation of satellites in medium-earth orbit (MEO) and geostationary-earth orbit (GEO) with a multi-terabit, high-throughput, low-latency network infrastructure (the “SES Satellite Network”), used for the global mobility market, including aviation, maritime, and the global fixed location market, including equipment, mobile back haul, teleport and data center co-location (collectively, “SES Applications”);
+
+ 
+
+WHEREAS, SES has launched SES-17, a GEO satellite, and a series of MEO satellites (O3b), and will launch additional MEO satellites (“O3b mPOWER”) as part of the SES Satellite Network;
+
+ 
+
+WHEREAS, AKOM and its affiliates are developing a satellite connected distributed data center (“Sat. DDC”) and provide satellite-based connectivity for the: mobility market, including airborne, maritime, automobile; the fixed-point markets, including equipment for house; and User Terminal for enterprise and government (collectively, “AKOM Applications”);
+
+ 
+
+WHEREAS, AKOM and its affiliates are actively developing a semiconductor based phase array antenna (“AKOM Antenna”) to be installed at a Sat. DDC and to be used in AKOM Applications, with multiple telecom operators, government departments, and airlines;
+
+ 
+
+WHEREAS, AKOM is evaluating a GEO/MEO hybrid solution to offer next-generation capacity for its mobility connectivity platform, and is researching non-geostationary (“NGSO”) capacity to supplement GEO and, as the NGSO constellations mature, to become a significant source for its network;
+
+ 
+
+WHEREAS, SES and AKOM wish to collaborate for engineering and commercial testing and deployment of AKOM Antenna on the SES Satellite Network; and
+
+ 
+
+WHEREAS, SES and AKOM intend to explore and refine potential areas of collaboration with a goal to executing a long-term agreement for the Project (as defined in paragraph 1);
+
+ 
+
+ 
+ 
+
+ 
+
+NOW, THEREFORE, WITNESSETH THAT, for and in consideration of the mutual promises set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ 
+
+1. Purpose. During the Term (as defined in paragraph 5 below), the Parties shall, in good faith, enter into discussions and cooperate with respect to the activities for the AKOM Applications set forth in Exhibit A hereto to better determine how the AKOM Antenna can be designed to best meet the requirements of the SES Applications (“Project”). The Parties have designated the following individuals as the primary points of contact for the exchange of information as set forth in Exhibit A:
+
+ 
+
+2.
+
+ 
+
+New Skies Satellites B.V.
+
+ 
+
+Technical Collaboration	Commercial Collaboration
+Jean-Pierre Choffray	Diego Paldao
+VP, Systems Engineering	Sr. Manager
++352 (710725) 401	+1.703.626.2333
+Jean-Pierre.Choffray@ses.com	diego@ses.com
+ 
+
+Aerkomm Inc.
+
+ 
+
+ 	 
+Technical Collaboration	Commercial Collaboration
+Jeffrey Wun	Wayne Tsai
+CTO	VP, Business Development
++1(415)722-3641	+886.928.888.778
+jwun@aerkomm.com	wayne.tsai@aerkomm.com
+ 
+
+3. No Liability. The Parties agree that the intent of this Agreement is to establish the basis for more detailed negotiations concerning the feasibility of the AKOM Antenna for SES Applications and, except as specifically set forth herein, this Agreement is not intended to subject the Parties to any liability or give rise to any cause of action by the Parties or third parties. In no event shall either Party be liable for any indirect, consequential, punitive, special or other similar damages (whether in contract, tort (including negligence), strict liability or under any other theory of liability), including but not limited to, loss of actual or anticipated revenues or profits, loss of business, customers or good will, except as a result of the intentional misconduct of the Party to be held liable. The foregoing notwithstanding, the Parties each acknowledge that prior to the entrance of one or more definitive agreements with each other (the “Definitive Agreement”), either Party may enter into agreements with one or more third parties that preclude or limit its ability to enter into a Definitive Agreement with the other Party.
+
+ 
+
+4. Confidentiality. Any and all discussions and communications between the Parties hereto are subject to the terms and conditions of the Non-Disclosure Agreement between SES and AKOM, dated November 8, 2021, as amended (the “NDA”), which is incorporated herein by reference and shall apply to any exchanges of Confidential Information (as defined in the NDA) between SES and AKOM. The Parties agree that the terms and conditions of the NDA will continue to apply to exchanges of information between the Parties pursuant to this Agreement notwithstanding the earlier expiration or termination of the NDA. Neither Party may issue any press release or public disclosure concerning this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed.
+
+ 
+
+5. Expenses. Each Party will be responsible for its own expenses in connection with all matters relating to this Agreement, and neither Party will be responsible for any of the other’s expenses incurred in connection with this Agreement.
+
+ 
+
+6. Term. Unless sooner terminated as set forth herein or extended by mutual agreement of the Parties, this Agreement shall terminate twelve (12) months after the Effective Date (the “Term”). This Agreement may be terminated prior to the end of the Term or any extended Term at any time: (i) by the mutual written agreement of the Parties; OR (ii) by written notice from either Party to the other Party if the other Party has committed a material breach of this Agreement, and, if such breach is capable of remedy, the other Party has not remedied the breach to the reasonable satisfaction of the notifying Party within twenty (20) days of receiving the notice of breach.
+
+ 
+
+6. Intellectual Property. Nothing contained in this Agreement shall be construed as granting or conferring in either Party any rights or licenses in any intellectual property of the other Party. Subject to the foregoing, SES and AKOM agree that they may share with each other any results of any testing and experiments conducted pursuant to this Agreement, and each Party shall be free to use such results as it deems appropriate in its sole discretion.
+
+ 
+
+Page 2
+ 
+
+ 
+
+7. Non-Binding. It is understood and agreed that this Agreement: (i) constitutes a statement of mutual intentions of the Parties hereto with respect to discussing and cooperating on certain activities relating to the Project; (ii) does not contain all matters upon which agreement may be reached in order for a Definitive Agreement to be consummated; and (iii) other than the terms set out under “No Liability,” “Confidentiality,” “Expenses,” “Intellectual Property”; “No Third Party Rights; No Fiduciary Relationship,” and “Governing Law,” which terms are binding on the Parties, the terms and conditions set forth in this Agreement are indicative only and do not constitute a binding commitment by the Parties. This Agreement supersedes all prior understandings of the Parties, whether written or oral, regarding the subject matter hereof. A binding commitment with respect to the Project will result only from execution of a Definitive Agreement, subject to the conditions expressed therein. The terms and conditions for the Project will be as set forth in a Definitive Agreement duly executed by the Parties, if such agreements is ever concluded.
+
+ 
+
+8. No Third Party Rights; No Fiduciary Relationship. Nothing contained in this Agreement shall be deemed or construed by the Parties or by any third party to create any rights, obligations or interests in third parties, or to create the relationship of principal and agent, partnership or joint venture or any other fiduciary relationship or association between the Parties.
+
+ 
+
+9. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, U.S.A., without giving effect to its choice of laws provisions.
+
+ 
+
+10. Entire Agreement. This Agreement embodies the entire agreement and understanding of the Parties with respect to the terms contemplated hereby and may not be amended or assigned in whole or in part without the prior written consent of both Parties.
+
+ 
+
+11. Counterparts and Signature. This Agreement may be executed in two or more counterparts, each of which shall be deemed to be original and all of which taken together shall be deemed to constitute the Agreement. A document signed and transmitted electronically by facsimile or email is to be treated as an original and shall have the same binding effect as an original signature on an original document.
+
+ 
+
+Page 3
+ 
+
+ 
+
+IN WITNESS WHEREOF, each of the Parties hereto has caused this Agreement to be executed by its duly authorized officer as of the Effective Date.
+
+ 
+
+New Skies Satellites B.V.	 	AERKOMM INC.
+ 	 	 
+By:	/s/ Ulco Bouwsma	 	By:	/s/ Louis Giordimaina
+Name: 	Ulco Bouwsma	 	Name: 	Louis Giordimaina
+Title:	Director	 	Title:	Aerkomm, Inc., CEO
+ 	 	 
+Date:	, 2022	 	Date:	February 05, 2022
+ 	09-02-2022	 	 
+ 
+
+Page 4
+ 
+
+ 
+
+EXHIBIT A
+
+ 
+
+During the Term, the Parties shall, in good faith, enter into discussions and cooperate with respect to the following areas relating to the Project:
+
+ 
+
+1.	Technical collaboration
+ 	 	 
+a.	SES Satellite Network test campaign: Develop a test program based on the SES Satellite Network and conduct tests to validate the network performance with user terminal equipped with an AKOM Antenna solution to optimize AKOM’s and SES’s assets and investments. AKOM shall share with SES any and all results of any testing and experiments conducted.
+ 
+
+b.	AKOM Antenna Ku/Ka-band solution: Collaboration on developing an AKOM Antenna to be deployed on the SES Satellite Network, such collaboration may include a SES Satellite Network modem as part of the solution
+ 
+
+c.	Hybrid user terminal solutions: Collaboration to set AKOM Antenna development goals seeking compatibility across the SES Satellite Network, including GEO and MEO assets
+ 
+
+2.	Commercial collaboration
+ 
+
+a.	Market demand: Share user terminal market demand and forecast for the SES Satellite Network by market segment and explore optimal business and operating models
+ 
+
+b.	Market promotion: Collaborate on promoting O3b MEO satellite network and bandwidth, including O3b mPOWER, with or without AKOM Antenna and/or Sat. DDC to AKOM’s customers
+ 
+
+c.	Partnership plan: Explore a longer-term joint services and market development plan for AKOM’s regions of interest, to best leverage the combined scale and capabilities of both Parties
+ 
+
+Meetings or conference calls will be conducted, to: (i) form teams or sub-groups to take the lead for certain activities; (ii) review the status of the above activities; (iii) determine whether any other activities should be undertaken; and (iv) develop plans for future cooperation.
+
+ 
+
+Page 5

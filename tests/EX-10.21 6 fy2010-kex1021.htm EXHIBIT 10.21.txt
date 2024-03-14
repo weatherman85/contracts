@@ -1,0 +1,386 @@
+EX-10.21 6 fy2010-kex1021.htm EXHIBIT 10.21
+Exhibit 10.21
+
+(A)    
+ 
+Amendment Deed No. 3
+DXC Technology Australia Pty Limited
+ACN 008 476 944
+DXC Technology Company
+Mizuho Bank, Ltd., New York Branch
+and
+Others
+
+
+
+
+
+
+
+ 
+ 
+18 May 2020
+
+CONTENTS
+CLAUSE    PAGE
+1.
+INTERPRETATION    3
+1.1
+Definitions    3
+1.2
+Terms defined in the Facility Agreement    3
+1.3
+Rules for interpreting this document    3
+2.
+CONSIDERATION    3
+3.
+AMENDMENT OF FACILITY AGREEMENT    4
+3.1
+Amendment to Facility Agreement    4
+3.2
+Effect of amendment    4
+3.3
+Effective Date    4
+4.
+ACKNOWLEDGEMENTS AND CONSENTS    4
+5.
+EXISTING LOANS    5
+6.
+NOTICES    5
+7.
+GENERAL    5
+7.1
+Governing law    5
+7.2
+Giving effect to this document    5
+7.3
+Amendment    5
+7.4
+Counterparts    5
+
+
+THIS DEED is made on the date set out on the front cover
+BETWEEN:
+(1)
+DXC Technology Australia Pty Limited ACN 008 476 944 (the Company);
+(2)
+DXC Technology Company (the Original Guarantor); and
+(3)
+Mizuho Bank, Ltd., New York Branch (the Agent).
+RECITALS
+The parties to this document and the Lenders are parties to the Facility Agreement.
+The parties wish to amend the Facility Agreement in the manner set out in this document.
+THE PARTIES AGREE AS FOLLOWS:
+2.
+INTERPRETATION
+2.1
+Definitions
+The following definitions apply in this document.
+Amended Facility Agreement means the Facility Agreement, as amended in accordance with this document.
+Effective Date has the meaning set out in clause ‎3.3 (Effective Date).
+Existing Loans means each Loan (as defined in the Facility Agreement) which is outstanding immediately prior to the Effective Date.
+Facility Agreement means the Syndicated Facility Agreement dated 27 November 2018 between the Company, the Original Guarantor, the MLABs named therein, the lenders named therein and the Agent, as amended, restated, or otherwise modified from time to time prior to the Effective Date.
+2.2
+Terms defined in the Facility Agreement
+A term (other than a term defined in clause 1.1) that is defined in the Facility Agreement has the same meaning when used in this document.
+2.3
+Rules for interpreting this document
+Clauses 1.2 (Construction) of the Facility Agreement applies as if set out in full in this document, with any necessary changes.
+2.4
+Capacity of Agent
+The Agent enters into this document for itself and on behalf of each other Finance Party in accordance with clause 38.1 (Required consents) of the Facility Agreement.
+3.
+CONSIDERATION
+Each party acknowledges that it has received valuable consideration for entering into this document.
+4.
+AMENDMENT OF FACILITY AGREEMENT
+4.1
+Amendment to Facility Agreement
+(a)
+The Facility Agreement is amended with effect on and from the Effective Date by making the following changes:
+(i)
+Adding the following definition to clause 1.1 (Definitions) in alphabetical order:
+“Consolidated Total Net Debt” means, as of any date of determination, Consolidated Total Debt minus the aggregate amount of all cash and cash equivalents on the balance sheet of the Original Guarantor and its Subsidiaries as of such date; provided that such cash and cash equivalents do not appear (and in accordance with GAAP would not be required to appear) as “restricted” on the consolidated balance sheet of the Original Guarantor and its Subsidiaries.
+(ii)
+Deleting clause 22.2 (Consolidated Total Debt to Consolidated EBITDA Ratio) in its entirety and replacing it with the following text:
+22.2 Consolidated Total Net Debt to Consolidated EBITDA Ratio
+The Original Guarantor will not permit at the end of any quarterly financial reporting period the ratio of Consolidated Total Net Debt as of the last day of such quarterly financial reporting period to Consolidated EBITDA for the period of four consecutive fiscal quarters ending on the last day of such quarterly financial reporting period, taken as a single period, to exceed (A) on or prior to April 1, 2021, 3.00 to 1.00, and (B) after April 1, 2021, 2.25 to 1.00.
+(b)
+Paragraph (a) does not affect any right or obligation of any party that arises before the Effective Date.
+4.2
+Effect of amendment
+(a)
+Except as expressly amended by this document, no changes to the Facility Agreement are to be inferred or implied, and in all other respects the Facility Agreement is confirmed and remains in full force and effect.
+(b)
+With effect on and from the Effective Date, references in the Finance Documents to the Facility Agreement will be read and construed as references to the Facility Agreement as amended by this document.
+4.3
+Effective Date
+The Effective Date (Effective Date) is the date on which the following conditions are satisfied:
+(a)
+The Agent shall have received this document executed by the Company and the Original Guarantor and instructions from the Majority Lenders to execute it; and
+(b)
+The Agent shall have received, for the ratable account of each Lender that has executed and delivered a counterpart hereof to the Agent, a consent fee in an amount equal to 0.075% of the aggregate Loans of such Lender.
+5.
+ACKNOWLEDGEMENTS AND CONSENTS
+(a)
+Each party:
+(i)
+consents to the amendments contemplated by this document;
+(ii)
+agrees and acknowledges that this document is a "Finance Document" for the purposes of the Facility Agreement; and
+(iii)
+confirms the Facility Agreement (as amended by this document) and each other Finance Document to which it is a party, and agrees that each such document will continue in full force and effect.
+(b)
+The Company and the Original Guarantor each confirm that any guarantee and security given or to be given by it in connection with the Facility Agreement secures all present and future obligations of each Borrower under the Amended Facility Agreement and in accordance with the terms of that guarantee or security.
+(c)
+Unless expressly stated otherwise, nothing in this document:
+(i)
+prejudices or adversely affects any right, power or remedy arising under; or
+(ii)
+discharges, releases or otherwise affects any liability or obligation arising under,
+the Finance Documents.
+6.
+EXISTING LOANS
+Nothing in this document constitutes or effects a termination or a repayment and readvance of any Existing Loans outstanding on the date of this document or the Effective Date and all of those Existing Loans continue under the Facility Agreement as amended by this document.
+7.
+NOTICES
+Clause 34 (Notices) of the Facility Agreement applies as if set out in full in this document, with any necessary changes.
+8.
+GENERAL
+8.1
+Governing law
+Clauses 46 (Governing Law) and 47 (Enforcement) of the Facility Agreement apply as if set out in full in this document, with any necessary changes.
+8.2
+Giving effect to this document
+Each party must do anything (including execute any document), and must ensure that its employees and agents do anything (including execute any document), that the other party may reasonably require to give full effect to this document.
+8.3
+Amendment
+This document can only be amended or replaced by another document signed by the parties hereto.
+8.4
+Counterparts
+This document may be executed in any number of counterparts, and this has the same effect as if the signatures on the counterparts were on a single copy of this document.
+
+
+EXECUTED as a deed.
+COMPANY AND ORIGINAL BORROWER
+EXECUTED by DXC TECHNOLOGY AUSTRALIA PTY LIMITED ACN 008 476 944:
+ 
+ 
+/s/ NAGASEELAN NAGANAYAGAM
+ 
+/s/ EMMA JOHNSTON
+Signature of director
+ 
+Signature of director/secretary
+NAGASEELAN NAGANAYAGAM
+ 
+EMMA JOHNSTON
+Name
+ 
+Name
+
+
+
+
+ORIGINAL GUARANTOR
+SIGNED, SEALED AND DELIVERED by DXC TECHNOLOGY COMPANY in the presence of:
+ 
+ 
+/s/ Madelin Pellot
+ 
+/s/ Ceyhun Cetin
+Signature of witness
+ 
+Signature of authorised signatory
+Madelin Pellot
+ 
+Ceyhun Cetin
+Name of witness
+ 
+Name of authorised signatory
+
+
+
+
+AGENT
+SIGNED, SEALED AND DELIVERED by MIZUHO BANK, LTD., NEW YORK BRANCH as Agent and for each other Finance Party in the presence of:
+ 
+ 
+/s/ Seth Mair
+ 
+/s/ Tracy Rahn
+Signature of witness
+ 
+Signature of authorised signatory
+Seth Mair
+ 
+Tracy Rahn
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by Bank of America N.A., Australian Branch in the presence of:
+ 
+ 
+/s/ DAVID COUTTS
+ 
+/s/ Jonathan Boyd
+Signature of witness
+ 
+Signature of authorised signatory
+DAVID COUTTS
+ 
+Jonathan Boyd Director Corporate Banking
+Name of witness
+ 
+Name of authorised signatory
+ 
+
+LENDERS
+Signed for and on behalf of Commonwealth Bank of Australia by Michael Carroll its attorney under power of attorney dated 24 June 2013 who declares that he is an Associate Director of Commonwealth Bank of Australia in the presence of:
+ 
+ 
+/s/ Luke Statos
+ 
+/s/ Michael Carroll
+Signature of witness
+ 
+Signature of authorised signatory
+Luke Statos
+ 
+Michael Carroll
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by The Chiba Bank, Ltd. (Incorporated in Japan with limited liability) Hong Kong Branch in the presence of:
+ 
+ 
+/s/ Masaki MORI
+ 
+/s/ Naoki KAMATA
+Signature of witness
+ 
+Signature of authorised signatory
+Masaki MORI
+ 
+Naoki KAMATA
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by Citibank N.A., Sydney Branch in the presence of:
+ 
+ 
+/s/ MATTHEW SANDHAM
+ 
+/s/ RODERICK HILL
+Signature of witness
+ 
+Signature of authorised signatory
+MATTHEW SANDHAM DIRECTOR
+ 
+RODERICK HILL MANAGING DIRECTOR
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by MIZUHO BANK, LTD., SYDNEY BRANCH in the presence of:
+ 
+ 
+/s/ Amber Liu
+ 
+/s/ Robert A Hutchfield
+Signature of witness
+ 
+Signature of authorised signatory
+Amber Liu
+ 
+Robert A Hutchfield
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by MUFG BANK, LTD. in the presence of:
+ 
+ 
+/s/ MONTY YIU
+ 
+/s/ IAN LEE
+Signature of witness
+ 
+Signature of authorised signatory
+MONTY YIU
+ 
+IAN LEE
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by JPMorgan Chase Bank, N.A. in the presence of:
+ 
+ 
+/s/
+ 
+/s/
+Signature of witness
+ 
+Signature of authorised signatory
+ 
+ 
+ 
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by National Australia Bank in the presence of:
+ 
+ 
+ 
+ 
+/s/ John Allan-Smith
+Signature of witness
+ 
+Signature of authorised signatory
+ 
+ 
+John Allan-Smith
+Name of witness
+ 
+Name of authorised signatory
+
+
+LENDERS
+SIGNED, SEALED AND DELIVERED by ROYAL BANK OF CANADA in the presence of:
+ 
+ 
+ 
+ 
+/s/ Theodore Brown
+Signature of witness
+ 
+Signature of authorised signatory
+ 
+ 
+Theodore Brown
+Name of witness
+ 
+Name of authorised signatory
+
+
+
+

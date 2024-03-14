@@ -1,0 +1,169 @@
+EX-97.1 9 ofix-ex97_1.htm EX-97.1
+Exhibit 97.1
+
+ORTHOFIX MEDICAL INC.
+
+ 
+
+INCENTIVE COMPENSATION RECOVERY POLICY
+
+ 
+
+Introduction
+
+ 
+
+Orthofix Medical, Inc. (the “Company”) has adopted this Incentive Compensation Recovery Policy (this “Policy”) to foster a culture that emphasizes integrity and accountability and that reinforces the Company’s pay-for-performance compensation philosophy with respect to executive compensation. This Policy is intended to comply with Section 10D of the Securities Exchange Act of 1934, as amended, the rules promulgated thereunder by the U.S. Securities and Exchange Commission and the listing rules of the Nasdaq Stock Market LLC (“Nasdaq”). This Policy shall apply to any Incentive Compensation (as defined below) received on or after October 2, 2023 and, with respect to any Incentive Compensation received after such date, amends and supersedes in its entirety the executive recoupment policy previously adopted by the Company in December 2012.
+
+ 
+
+Statement of Policy
+
+ 
+
+In the event that the Company is required to prepare an Accounting Restatement, except as otherwise set forth in this Policy, the Company shall recover, reasonably promptly, the Excess Incentive Compensation received by any Covered Executive during the Recoupment Period. 
+
+ 
+
+This Policy applies to all Incentive Compensation received during the Recoupment Period by a person (a) after beginning service as a Covered Executive, (b) who served as a Covered Executive at any time during the performance period for that Incentive Compensation and (c) while the Company has a class of securities listed on Nasdaq or another national securities exchange or association. This Policy may therefore apply to a Covered Executive even after that person that is no longer a Company employee or a Covered Executive at the time of recovery.
+
+ 
+
+Incentive Compensation is deemed “received” for purposes of this Policy in the fiscal period during which the financial reporting measure specified in the Incentive Compensation award is attained, even if the payment or issuance of such Incentive Compensation occurs after the end of that period. For example, if the performance target for an award is based on total stockholder return for the year ended December 31, 2023, the award will be deemed to have been received in 2023 even if paid in 2024.
+
+Exceptions
+
+ 
+
+The Company is not required to recover Excess Incentive Compensation pursuant to this Policy to the extent the Committee makes a determination that recovery would be impracticable for one of the following reasons (and the applicable procedural requirements are met):
+
+ 
+
+(a)
+after making a reasonable and documented attempt to recover the Excess Incentive Compensation, which documentation will be provided to Nasdaq to the extent required, the Committee determines that the direct expenses that would be paid to a third party to assist in enforcing this Policy would exceed the amount to be recovered;
+ 
+
+(b)
+based on a legal opinion of counsel acceptable to the Nasdaq, the Committee determines that recovery would violate a United States law adopted prior to November 28, 2022; or
+ 
+
+ 
+
+1 
+
+Exhibit 97.1
+
+(c)
+the Committee determines that recovery would likely cause an otherwise tax-qualified retirement plan, under which benefits are broadly available to employees of the Company, to fail to meet the requirements of 26 U.S.C. 401(a)(13) or 26 U.S.C. 411(a) and regulations thereunder.
+Definitions
+
+ 
+
+“Accounting Restatement” means an accounting restatement due to the material noncompliance of the Company with any financial reporting requirement under the securities laws, including any required accounting restatement to correct an error in previously issued financial statements that is material to the previously issued financial statements, or that would result in a material misstatement if the error were corrected in the current period or left uncorrected in the current period. For the avoidance of doubt, a restatement resulting solely from the retrospective application of a change in generally accepted accounting principles is not an Accounting Restatement.
+
+ 
+
+“Board” shall mean the Board of Directors of the Company.
+
+ 
+
+“Committee” shall mean the Compensation and Talent Development Committee of the Board.
+
+ 
+
+“Covered Executive” shall mean the Company’s Chief Executive Officer, President, Chief Financial Officer, principal accounting officer (or if there is no such accounting officer, the controller), any vice-president of the Company in charge of a principal business unit, division, or function, any other officer who performs a policy-making function for the Company, any other person who performs similar policy-making functions for the Company, and any other employee who may from time to time be deemed subject to this Policy by the Committee.
+
+ 
+
+“Excess Incentive Compensation” means the amount of Incentive Compensation received during the Recoupment Period by any Covered Executive that exceeds the amount of Incentive Compensation that otherwise would have been received by such Covered Executive if the determination of the Incentive Compensation to be received had been determined based on restated amounts in the Accounting Restatement and without regard to any taxes paid.
+
+ 
+
+“Incentive Compensation” means any compensation (including cash and equity compensation) that is granted, earned, or vested based wholly or in part upon the attainment of a financial reporting measure. For purposes of this definition, a “financial reporting measure” is (i) any measure that is determined and presented in accordance with the accounting principles used in preparing the Company’s financial statements and any measure derived wholly or in part from such measures, or (ii) the Company’s stock price and/or total shareholder return. A financial reporting measure need not be presented within the financial statements or included in a filing with the commission. Incentive Compensation subject to this Policy may be provided by the Company or subsidiaries or affiliates of the Company (“Company Affiliates”). For the avoidance of doubt, the following do not constitute Incentive Compensation: (v) salaries, (w) bonuses paid solely at the discretion of the Committee or Board that are not paid from a “bonus pool” that is determined by satisfying a financial reporting measure performance goal, (x) bonuses paid solely upon satisfying one or more subjective standards (e.g., demonstrated leadership) and/or completion of a specified employment period, (y) non-equity incentive plan awards earned solely upon satisfying one or more strategic measures (e.g., consummating a merger or divestiture), or operational measures (e.g., completion of a project, increase in market share), and (z) equity awards for which the grant is not contingent upon achieving any financial reporting measure performance goal and vesting is contingent solely upon completion of a specified employment period and/or attaining one or more nonfinancial reporting measures. 
+
+ 
+
+“Recoupment Period” means the three completed fiscal years preceding the Trigger Date, and any transition period (that results from a change in the Company’s fiscal year) of less than nine months within or immediately following those three completed fiscal years, provided that any transition period of nine months or more shall count as a full fiscal year. 
+
+ 
+
+2 
+
+Exhibit 97.1
+
+ 
+
+“Trigger Date” means the earlier to occur of: (a) the date the Board of Directors, the Audit and Finance Committee (or such other Committee of the Board as may be authorized to make such a conclusion), or the officer or officers of the Company authorized to take such action if action by the Board of Directors is not required concludes, or reasonably should have concluded, that the Company is required to prepare an Accounting Restatement; or (b) the date a court, regulator, or other legally authorized body directs the Company to prepare an Accounting Restatement; in the case of both (a) and (b) regardless of if or when restated financial statements are filed.
+
+ 
+
+Administration  
+
+ 
+
+This Policy is intended to comply with Nasdaq Listing Rule 5608, Section 10D of the Securities Exchange Act of 1934, as amended (the “Act”), and Rule 10D-1(b)(1) as promulgated under the Act, and shall be interpreted in a manner consistent with those requirements. The Committee has full authority to interpret and administer this Policy. The Committee’s determinations under this Policy shall be final and binding on all persons, need not be uniform with respect to each individual covered by the Policy, and shall be given the maximum deference permitted by law. 
+
+ 
+
+The Committee has the authority to determine the appropriate means of recovering Excess Incentive Compensation based on the particular facts and circumstances, which could include, but is not limited to, seeking direct reimbursement, forfeiture of awards, offsets against other payments, and forfeiture of deferred compensation (subject to compliance with Section 409A of the Internal Revenue Code). 
+
+ 
+
+Subject to any limitations under applicable law, the Committee may authorize any officer or employee of the Company to take actions necessary or appropriate to carry out the purpose and intent of this Policy, provided that no such authorization shall relate to any recovery under this Policy that involves such officer or employee.
+
+ 
+
+If the Committee cannot determine the amount of excess Incentive Compensation received by a Covered Executive directly from the information in the Accounting Restatement, such as in the case of Incentive Compensation tied to stock price or total stockholder return, then it shall make its determination based on its reasonable estimate of the effect of the Accounting Restatement and shall maintain documentation of such determination, including for purposes of providing such documentation to Nasdaq.
+
+ 
+
+Except where an action is required by Nasdaq Listing Rule 5608, Section 10D of the Act or Rule 10D-1(b)(1) promulgated under the Act to be determined in a different matter, the Board may act to have the independent directors of the Board administer this policy in place of the Committee.
+
+ 
+
+No Indemnification or Advancement of Legal Fees
+
+ 
+
+Notwithstanding the terms of any indemnification agreement, insurance policy, contractual arrangement, the governing documents of the Company or other document or arrangement, the Company shall not indemnify any Covered Executive against, provide advancement of expenses for or pay the premiums for any insurance policy to cover, any amounts recovered under this Policy or any expenses that a Covered Executive incurs in opposing Company efforts to recoup amounts pursuant to the Policy.
+
+ 
+
+Non-Exclusive Remedy; Successors
+
+ 
+
+Recovery of Incentive Compensation pursuant to this Policy shall not in any way limit or affect the rights of the Company to pursue disciplinary, legal, or other action or pursue any other remedies available to it. This Policy shall be in addition to, and is not intended to limit, any rights of the Company to recover Incentive Compensation from Covered Executives under any legal remedy available to the Company and applicable laws and regulations, including but not limited to the Sarbanes-Oxley Act of 2002, as amended, or pursuant to the terms of any other 
+
+ 
+
+3 
+
+Exhibit 97.1
+
+Company policy, employment agreement, equity award agreement, or similar agreement with a Covered Executive. 
+
+ 
+
+This Policy shall be binding and enforceable against all Covered Executives and their successors, beneficiaries, heirs, executors, administrators, or other legal representatives.
+
+Amendment 
+
+This Policy may be amended from time to time by the Committee or the Board. 
+
+Governing Law; Dispute Resolution
+
+To the extent not preempted by U.S. federal law, with respect to any Covered Executive subject to this Policy, this Policy will be governed by, construed, interpreted, and its validity determined under the laws of the state in which the applicable Covered Executive resides (the “Governing Law State”), as applied to agreements entered into and to be fully performed by residents of such Governing Law State. Such law of the Governing Law State shall govern regardless of the forum in which a dispute may be adjudicated. Subject to the following paragraph, all actions or proceedings for injunctive relief arising out of this Policy with respect to any Covered Executive shall exclusively be heard and determined in state or federal courts in the Governing Law State having appropriate jurisdiction. The Company and each Covered Executive expressly consent to the exclusive jurisdiction of such courts in any such action or proceeding and waive any objection to venue therein and any defense of forum non conveniens.
+
+The Company and each Covered Executive hereby incorporate by reference into this Policy that certain Dispute Resolution Agreement previously entered into by the Company (or one of its current direct or indirect subsidiaries) and such Covered Executive, as such agreement may be amended from time-to-time (the “Dispute Resolution Agreement”), and agree that any and all disputes arising under this Policy are subject to and governed by the Dispute Resolution Agreement; provided, however, that Company and each Covered Executive reserve the right to seek temporary or preliminary injunctive relief in court, in which case such parties agree that such injunctive relief shall be granted in court to preserve the status quo pending a resolution on the merits in arbitration. Each Covered Executive agrees that in connection with any application for injunctive relief, discovery shall be conducted on an expedited basis. Each Covered Executive further agrees that, in any proceeding alleging application of this Policy, the Company shall have the right to conduct forensic examinations of any computers and/or electronic devices in the Covered Executive’s possession or control, if the Company reasonably believes such devices contain Confidential Information (as defined in the Dispute Resolution Agreement).
+
+ 
+
+Approved and Adopted by the Committee on December 1, 2023	
+
+ 
+
+ 
+
+4 
+
