@@ -14,7 +14,9 @@ class TransformersClassifier(Classifier):
             text = contract.text
             if text_range:
                 text = text[text_range[0]:text_range[1]]
-            results = self.model(self.text, truncation=True)
+            pred = self.model(text, truncation=True)
+            for result in pred:
+                results.extend([(result["label"], result["score"], None)])
         elif self.method == "sentences":
             text = contract.sentences.text            
         elif self.method == "lines":

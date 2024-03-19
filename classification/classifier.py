@@ -10,10 +10,19 @@ class Classifier:
     def __call__(self, contract, batch_size=5, text_range=None):
         results = self.predict(contract, batch_size, text_range)
 
-        for label, score,text in results:
-            if label == self.positive_class:
-                # Update the specified attribute dynamically
-                setattr(contract, self.attribute, text)
-                break
+        if self.positive_class != "multi":
+            for label, score, text in results:
+                if label == self.positive_class:
+                    # Update the specified attribute dynamically
+                    setattr(contract, self.attribute, text)
+                    break
+        else:
+            best_score = float('-inf')
+            for label, score, text in results:
+                if score > best_score:
+                    best_score = score
+                    best_label = label
+            if best_score != float('-inf'):
+                setattr(contract, self.attribute, best_label)
 
         return contract

@@ -37,7 +37,7 @@ def train_model(train: pd.DataFrame,
         )
     else:
         test_X = test[features]
-        test_Y = le.transform(test[labels])
+        test_Y = test[labels]
 
     classifiers, vectorizers, classifiers_params, tf_idf_parameters = tune_model(tune=tune)
 
@@ -78,7 +78,8 @@ def train_model(train: pd.DataFrame,
                 "params": param,
                 "labels": le.classes_,
                 "accuracy": accuracy,
-                "report": report
+                "report": report,
+                "label_encoder":le
             }})
             root_logger.info(f"{name} classifier model created with accuracy of {accuracy}.")
             parameters.clear()
@@ -129,7 +130,8 @@ def train_model(train: pd.DataFrame,
                 "params": best_params,
                 "labels": le.classes_,
                 "accuracy": accuracy,
-                "report": report
+                "report": report,
+                "label_encoder":le
             }
             root_logger.info(f"{best_model_name} classifier model created with accuracy of {accuracy}.")
             parameters.clear()
@@ -137,8 +139,30 @@ def train_model(train: pd.DataFrame,
             output[best_model_name] = results[best_model_name]
             return output
 
+    else:
+        cls = classifiers[classifier]
+        parameters = {}
+        if vect == "count":
+            text_clf = Pipeline([
+                ('vect', CountVectorizer()),
+                ('tfidf', TfidfTransformer()),
+                ("clf", cls)
+            ])
+            parameters.update(tf_idf_parameters["count"])
+            parameters.update(tf_idf_parameters["tfidf"])
+            parameters.update(classifiers_params[classifier])
+        elif vect == "doc2vec":
+            text_clf = Pipeline([
+                # ("vect",Doc2VecModel()),
+                ("clf", cls)
+            ])
         else:
-            cls = classifiers[best_model_name]
+            raise ValueError("Unsupported vectorization method.")
+        root_logger.info(f"Training {classifier} model with base parameters")
+
+        if tune:
+            classifiers, vectorizers, classifiers_params, tf_idf_parameters = tune_model(tune=True)
+            cls = classifiers[classifier]
             parameters = {}
             if vect == "count":
                 text_clf = Pipeline([
@@ -148,7 +172,7 @@ def train_model(train: pd.DataFrame,
                 ])
                 parameters.update(tf_idf_parameters["count"])
                 parameters.update(tf_idf_parameters["tfidf"])
-                parameters.update(classifiers_params[best_model_name])
+                parameters.update(classifiers_params[classifier])
             elif vect == "doc2vec":
                 text_clf = Pipeline([
                     # ("vect",Doc2VecModel()),
@@ -156,64 +180,43 @@ def train_model(train: pd.DataFrame,
                 ])
             else:
                 raise ValueError("Unsupported vectorization method.")
-            root_logger.info(f"Training {best_model_name} model with base parameters")
 
-            if tune:
-                classifiers, vectorizers, classifiers_params, tf_idf_parameters = tune_model(tune=True)
-                cls = classifiers[best_model_name]
-                parameters = {}
-                if vect == "count":
-                    text_clf = Pipeline([
-                        ('vect', CountVectorizer()),
-                        ('tfidf', TfidfTransformer()),
-                        ("clf", cls)
-                    ])
-                    parameters.update(tf_idf_parameters["count"])
-                    parameters.update(tf_idf_parameters["tfidf"])
-                    parameters.update(classifiers_params[best_model_name])
-                elif vect == "doc2vec":
-                    text_clf = Pipeline([
-                        # ("vect",Doc2VecModel()),
-                        ("clf", cls)
-                    ])
-                else:
-                    raise ValueError("Unsupported vectorization method.")
+            gs_clf = GridSearchCV(text_clf,
+                                    param_grid=parameters,
+                                    cv=5,
+                                    verbose=3,
+                                    error_score="raise")
+            gs_clf = gs_clf.fit(train_X, train_Y)
 
-                gs_clf = GridSearchCV(text_clf,
-                                      param_grid=parameters,
-                                      cv=5,
-                                      verbose=3,
-                                      error_score="raise")
-                gs_clf = gs_clf.fit(train_X, train_Y)
+            root_logger.info(f"Best Test Score = {gs_clf.best_score_}")
+            best_params = gs_clf.best_params_
+            root_logger.info(f"The best parameters found: {best_params}")
 
-                root_logger.info(f"Best Test Score = {gs_clf.best_score_}")
-                best_params = gs_clf.best_params_
-                root_logger.info(f"The best parameters found: {best_params}")
+            best_estimator = gs_clf.best_estimator_
+        else:
+            text_clf.fit(train_X, train_Y)
+            best_params = parameters
+            best_estimator = text_clf
 
-                best_estimator = gs_clf.best_estimator_
-            else:
-                text_clf.fit(train_X, train_Y)
-                best_params = parameters
-                best_estimator = text_clf
+        predicted = best_estimator.predict(test_X)
+        predicted = le.inverse_transform(predicted)
+        report = classification_report(test_Y, predicted)
+        accuracy = accuracy_score(test_Y, predicted)
+        root_logger.info(report)
+        results[classifier] = {
+            "model": best_estimator,
+            "params": best_params,
+            "labels": le.classes_,
+            "accuracy": accuracy,
+            "report": report,
+            "label_encoder":le
+        }
+        root_logger.info(f"{classifier} classifier model created with accuracy of {accuracy}.")
 
-            predicted = best_estimator.predict(test_X)
-            predicted = le.inverse_transform(predicted)
-            report = classification_report(test_Y, predicted)
-            accuracy = accuracy_score(test_Y, predicted)
-            root_logger.info(report)
-            results[best_model_name] = {
-                "model": best_estimator,
-                "params": best_params,
-                "labels": le.classes_,
-                "accuracy": accuracy,
-                "report": report
-            }
-            root_logger.info(f"{best_model_name} classifier model created with accuracy of {accuracy}.")
+        parameters.clear()
 
-            parameters.clear()
-
-        output[best_model_name] = results[best_model_name]
-        return output
+    output[classifier] = results[classifier]
+    return output
 
 def save_model(name, model, train_data, path):
     # Save the trained model

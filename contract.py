@@ -28,7 +28,7 @@ class Contract(object):
         self.ents = ents
      
 class ContractPipeline:
-    def __init__(self,defaults=True):
+    def __init__(self, defaults=True):
         if defaults:
             tokenizer = Tokenizer(default=True)
             section_segmenter = SectionSegmenter()
@@ -36,19 +36,19 @@ class ContractPipeline:
             pre_process = TextCleaner()
             definitions = DefinitionFinder()
             self.pipeline = [
-                {"component":pre_process,"name":"clean_text","params":{"lower":False, 
-                                                                       "remove_num":False, 
-                                                                       "add_stop_words":None, 
-                                                                       "remove_stop_words":None}},
-                {"component":tokenizer,"name":"tokenizer"},
-                {"component":sentence_tokenizer,"name":"sentence_tokenizer"},
-                {"component":section_segmenter,"name":"section_segmenter"},
-                {"component":definitions,"name":"definition_finder"}
+                {"component": pre_process, "name": "clean_text", "params": {"lower": False,
+                                                                            "remove_num": False,
+                                                                            "add_stop_words": None,
+                                                                            "remove_stop_words": None}},
+                {"component": tokenizer, "name": "tokenizer"},
+                {"component": sentence_tokenizer, "name": "sentence_tokenizer"},
+                {"component": section_segmenter, "name": "section_segmenter"},
+                {"component": definitions, "name": "definition_finder"}
             ]
         else:
             self.pipeline = []
 
-    def add_pipe(self, component, name=None, before=None, after=None,params=None):
+    def add_pipe(self, component, name=None, before=None, after=None, params=None):
         """
         Add a processing component to the pipeline.
 
@@ -59,7 +59,7 @@ class ContractPipeline:
         - after (str): Add the component after an existing component with this name.
         """
         if params:
-            pipe_item = {"component": component, "name": name,"params":params}
+            pipe_item = {"component": component, "name": name, "params": params}
         else:
             pipe_item = {"component": component, "name": name}
         if before and after:
@@ -78,12 +78,42 @@ class ContractPipeline:
                 raise ValueError(f"Component '{after}' not found in the pipeline.")
         else:
             self.pipeline.append(pipe_item)
-            
+
+    def disable_pipe(self, name):
+        """
+        Disable a pipeline component by name.
+        """
+        for item in self.pipeline:
+            if item["name"] == name:
+                item["disabled"] = True
+                break
+
+    def enable_pipe(self, name):
+        """
+        Enable a pipeline component by name.
+        """
+        for item in self.pipeline:
+            if item["name"] == name:
+                item.pop("disabled", None)
+                break
+
+    def remove_pipe(self, name):
+        """
+        Remove a pipeline component by name.
+        """
+        for item in self.pipeline:
+            if item["name"] == name:
+                self.pipeline.remove(item)
+                break
+
     def __call__(self, text):
         contract = Contract(text)
         for item in self.pipeline:
+            if item.get("disabled"):
+                continue
             component = item["component"]
             params = item.get("params", {})
-            contract = component(contract,**params)
+            contract = component(contract, **params)
 
         return contract
+
