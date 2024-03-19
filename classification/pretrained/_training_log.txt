@@ -1,0 +1,31 @@
+Training Linear SVM model with base parameters
+Training Linear SVM model with base parameters
+Training Linear SVM model with base parameters
+              precision    recall  f1-score   support
+
+          ar       1.00      0.90      0.95      1000
+          bg       0.99      0.97      0.98      1000
+          de       1.00      0.98      0.99      1000
+          el       1.00      0.98      0.99      1000
+          en       0.99      0.98      0.99      1000
+          es       0.99      0.98      0.99      1000
+          fr       1.00      0.99      0.99      1000
+          hi       1.00      0.95      0.97      1000
+          it       0.99      0.98      0.99      1000
+          ja       0.41      1.00      0.58      1000
+          nl       0.99      0.98      0.99      1000
+          pl       0.98      0.95      0.96      1000
+          pt       0.99      0.97      0.98      1000
+          ru       1.00      0.92      0.96      1000
+          sw       0.99      0.97      0.98      1000
+          th       1.00      0.67      0.80      1000
+          tr       0.99      0.94      0.96      1000
+          ur       1.00      0.96      0.98      1000
+          vi       1.00      1.00      1.00      1000
+          zh       0.96      0.35      0.52      1000
+
+    accuracy                           0.92     20000
+   macro avg       0.96      0.92      0.93     20000
+weighted avg       0.96      0.92      0.93     20000
+
+Linear SVM classifier model created with accuracy of 0.9214.

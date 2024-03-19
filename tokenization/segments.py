@@ -35,18 +35,19 @@ class DocumentSegment:
                and self.title_end == other.title_end and self.text == other.text
 
 TITLE_PATTERNS = [
-    re.compile(r'\b(?:section|part|chapter|article)\s*[IVXLCDMivxlcdm]+(?:\s*[-–]\s*[IVXLCDMivxlcdm]+)?\b', re.IGNORECASE),
+    re.compile(r'\b(?:section|part|chapter|article)\s*[IVX]+(?:\s*[-–]\s*[IVX]+)?\b', re.IGNORECASE),
     re.compile(r'\b(?:sub\s*[-–]?\s*section|subsection)\s*[A-Za-z0-9]+\b', re.IGNORECASE),
-    re.compile(r'\b(?:[IVXLCDMivxlcdm]+\.\s*)+[A-Za-z0-9]+\b'),
-    re.compile(r'^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z\d][^\r\n]*?)(?=$|[^\w\s\-])(?:\.|\s|$)(?!(?:(?:\d{1,5}\s+[A-Za-z.,]+(?:\s+[A-Za-z.,]+)*)|(?:[A-Za-z.,]+\s*\d{1,5}(?:[A-Za-z.,]+\s*\d{1,5})*)))(?!%)'),
-    re.compile(r'^(ARTICLE|article)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$'),
+    re.compile(r'\b(?:[IVX]+\.\s*)+[A-Za-z0-9]+\b'),
+    re.compile(r'^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z][^\r\n]*?)(?=$|[^\w\s\-])(?:\.|\s|$)(?!(?:(?:\d{1,5}\s+[A-Za-z.,]+(?:\s+[A-Za-z.,]+)*)|(?:[A-Za-z.,]+\s*\d{1,5}(?:[A-Za-z.,]+\s*\d{1,5})*)))(?!%)'),
+    re.compile(r'^(ARTICLE|[Aa]rticle)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$'),
     re.compile(r'(?P<title>IN\s+WITNESS\s+WHEREOF)'),
     re.compile(r'(?P<title>SIGNATURES)'),
     re.compile(r'(?P<title>Signed\s+by\s+the\s+Parties\s+)'),
     re.compile(r'^(?P<title>(Schedule|Appendix|Addendum|Annex|Exhibit|Annexure)\s.*)$'),
     re.compile(r'^(?:Dear\s(.+?)|(Ladies\sand\sGentlemen:))'),
     re.compile(r'\n^(Best\sregards|Sincerely|Yours\ssincerely|Kind\sregards|Very\struly\syours)'),
-    re.compile(r'\bTABLE OF CONTENTS\b.*?(?=\b[A-Z]+\s+\d+\b|$)', re.DOTALL)
+    re.compile(r'\bTABLE OF CONTENTS\b.*?(?=\b[A-Z]+\s+\d+\b|$)', re.DOTALL),
+    re.compile(r"^(?P<title>(?:[A-Z][a-z\d]*(?:[\s\-;]+|$))+)$")
     # re.compile(r'(?P<title>IN WITNESS WHEREOF,.*?Dated.*?[0-9]{1,2} [A-Za-z]+ [0-9]{4})'),
     # re.compile(r'^(?:\d+\.|[a-zA-Z]\.)\s*(?P<title>[^\r\n]+)$'),
     # re.compile(r'^\s{4,}(?P<title>[^\r\n]+)$')
@@ -74,11 +75,16 @@ class SectionSegmenter(object):
         lines = text.split('\n')
         text_index = 0
 
-        for index, line in enumerate(lines):
+        for line in lines:
             for pattern in TITLE_PATTERNS:
-                match = pattern.match(line)
+                match = pattern.match(line.strip())
                 if match:
-                    if not any(ending in match.group() for ending in street_endings) and not match.group().strip()[-1].isdigit():
+                    # checks to see if length of title is too long
+                    if len(match.group().split()) > 7:
+                        if sum(1 for word in match.group().split() if word.islower()) > 4:
+                            break
+                    if not any(ending in match.group() for ending in street_endings)\
+                        and not (match.group().strip()[-1].isdigit() or match.group().strip()[-1]=="%"):
                         current_section["end"] = text_index
                         sections.append(current_section.copy())
                         current_section["start"] = text_index
@@ -97,7 +103,7 @@ class SectionSegmenter(object):
                             current_section["subsection"] = section_split[1].rstrip(".") if len(section_split) > 1 else None
                         else:
                             current_section["section"] = None
-                            current_section["subsection"] = None
+                            current_section["subsection"] = None 
             text_index += len(line) + 1  # Add 1 for the newline character
 
         # Set the end of the last section after the loop

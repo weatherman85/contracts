@@ -71,8 +71,8 @@ the extent any such representation or warranty (i) is stated to relate solely to
 3.    Amendment Effective Date. This Amendment shall become effective upon the date (the “Amendment Effective Date”) upon which all of the following conditions have been satisfied or waived:
 (a)    the execution and delivery of this Amendment by the Company, the Administrative Agent and the Lenders;
 (b)    receipt by each of the New Lenders of:
-i.a written opinion of Company’s counsel (or a reliance letter in respect of any such written opinion of Company’s counsel delivered on the Closing Date), addressed to the New Lenders, in form and substance reasonably acceptable to the Administrative Agent and such New Lenders; and
-(i)a Note, if so requested.
+(i) a written opinion of Company’s counsel (or a reliance letter in respect of any such written opinion of Company’s counsel delivered on the Closing Date), addressed to the New Lenders, in form and substance reasonably acceptable to the Administrative Agent and such New Lenders; and
+(ii) a Note, if so requested.
 (c)    Company shall have paid to the Administrative Agent (i) the First Facility Increase Fee as set forth in the Agent Fee Letter dated as of the Closing Date (hereunder, the “Agent Fee Letter”), and (ii) all other fees due and owing under any Loan Document.
 4.    New Lender Joinder. The parties hereto acknowledge and agree that upon the Amendment Effective Date, (a) each New Lender shall (i) be a party to the Credit Agreement and the other Loan Documents to which Lenders are parties and (ii) have the rights and obligations of a Lender under the Credit Agreement and other Loan Documents, (b) each Lender shall have the Revolving Commitment shown on Annex A of the Credit Agreement (as amended by this Amendment), and (c) the execution and delivery of this Amendment shall not constitute a novation of any Debt or other Obligations owing to Lenders or Administrative Agent under the Credit Agreement.
 5.    Reference to and Effect Upon the Loan Documents.

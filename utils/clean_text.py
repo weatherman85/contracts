@@ -34,6 +34,7 @@ bad_single_quotes = ["‘", "‛", "’", "❛", "❜", "`", "´", "‘", "’"]
 DOUBLE_QUOTE_REGEX = re.compile("|".join(bad_double_qoutes))
 SINGLE_QUOTE_REGEX = re.compile("|".join(bad_single_quotes))
 page_number_pattern = re.compile(r'\n+(\d+)\n{2,}', re.MULTILINE)
+digit_word_pattern = re.compile(r'(\d)([A-Za-z])')  # Match a digit followed by a letter
 
 class TextCleaner(object):
     def __init__(self):
@@ -60,7 +61,8 @@ class TextCleaner(object):
         text = unidecode(text)
         text = NORMALIZE_SPACE.sub(" ",text)
         text = page_number_pattern.sub("\n",text)
-        text = NORMALIZE_NEWLINES.sub("\n",text)    
+        text = NORMALIZE_NEWLINES.sub("\n",text)
+        text = digit_word_pattern.sub(r"\1 \2",text)     
         if remove_num:
             text = REMOVE_NUM.sub('',text)
         if not add_stop_words == None:

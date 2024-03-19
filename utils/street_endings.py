@@ -2,6 +2,7 @@ street_endings = [
     "Avenue",
     "Boulevard",
     "Street",
+    "Centre"
     "Road",
     "Lane",
     "Drive",

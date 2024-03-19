@@ -2,8 +2,8 @@ import joblib
 from classification.classifier import Classifier
 
 class SklearnClassifier(Classifier):
-    def __init__(self, model=None, attribute=None,method=None,positive_class=None,label_encoder=None):
-        super().__init__(model=None, attribute=attribute, positive_class=positive_class)
+    def __init__(self, model=None, attribute=None,method=None,positive_class=None,label_encoder=None,normalizer=None):
+        super().__init__(model=None, attribute=attribute, positive_class=positive_class,normalizer=normalizer)
         if not model or not method:
             raise ValueError("Model path and method must be provided.")
         self.model = joblib.load(model)
@@ -32,10 +32,12 @@ class SklearnClassifier(Classifier):
         results = []
         for text_item, prediction in zip(text, predictions):
             if self.label_encoder:
-                label = self.label_encoder.inverse_transform(prediction.argmax())
+                idx = prediction.argmax()
+                score = prediction[idx]
+                label = self.label_encoder.inverse_transform([idx])[0]
             else:
                 label = prediction.argmax()
-            score = prediction[label]
+                score = prediction[label]
             results.append((label, score, text_item))
 
         return results

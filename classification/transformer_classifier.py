@@ -2,8 +2,8 @@ from transformers import pipeline
 from classification.classifier import Classifier
 
 class TransformersClassifier(Classifier):
-    def __init__(self, model=None, attribute=None, method=None, positive_class=None):
-        super().__init__(model=model, attribute=attribute, positive_class=positive_class)
+    def __init__(self, model=None, attribute=None, method=None, positive_class=None,normalizer=None):
+        super().__init__(model=model, attribute=attribute, positive_class=positive_class,normalizer=normalizer)
         self.model = pipeline("text-classification", model=model)
         self.method = method
 
