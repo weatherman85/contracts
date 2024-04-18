@@ -4,10 +4,12 @@ from tokenization.sentence import SentenceTokenizer
 from tokenization.segments import SectionSegmenter
 from utils.clean_text import TextCleaner
 from definitions.definitions import DefinitionFinder
+from utils.ocr import OCRProcessor
 
 class Contract(object):
-    def __init__(self, 
-                 text: str,
+    def __init__(self,
+                 file_path = None,
+                 text=None,
                  tokens=None,
                  sentences=None,
                  segments=None,
@@ -15,9 +17,10 @@ class Contract(object):
                  glossary=None,
                  table_of_contents=None,
                  ents=None):
+        self.file_path = file_path
         self.text = text
         self.raw = text
-        self.char_length = len(self.text)
+        #self.char_length = len(self.text)
         self.tokens = tokens
         self.sentences = sentences
         self.segments = segments
@@ -29,6 +32,7 @@ class Contract(object):
 class ContractPipeline:
     def __init__(self,defaults=True):
         if defaults:
+            file_loader = OCRProcessor()
             tokenizer = Tokenizer(default=True)
             section_segmenter = SectionSegmenter()
             sentence_tokenizer = SentenceTokenizer()
@@ -36,6 +40,7 @@ class ContractPipeline:
             definitions = DefinitionFinder()
             
             self.pipeline = [
+                {"component":file_loader,"name":"file_loader"},
                 {"component":pre_process,"name":"clean_text","params":{"lower":False, 
                                                                        "remove_num":False, 
                                                                        "add_stop_words":None, 

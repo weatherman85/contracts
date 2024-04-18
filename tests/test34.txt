@@ -1,0 +1,298 @@
+EX-10.27 6 laz-ex1027_407.htm EX-10.27
+ 
+
+Exhibit 10.27
+
+STOCK UNIT AGREEMENT
+
+THIS AGREEMENT, dated as of [●], between Lazard Ltd, a Bermuda exempted company (the “Company”), on behalf of its applicable Affiliate (as defined under the definitional rules of Section 1(a) below), and [●] (the “Employee”).  
+
+W I T N E S S E T H
+
+In consideration of the mutual promises and covenants made herein and the mutual benefits to be derived herefrom, the parties hereto agree as follows:
+
+ 
+
+1.
+
+Grant and Vesting of Stock Units.
+
+(a)Subject to the provisions of this Agreement and to the provisions of the Company’s 2018 Incentive Compensation Plan, as may be amended from time to time (the “Plan”) (all capitalized terms used herein, to the extent not defined, shall have the meaning set forth in the Plan), the Company, on behalf of its applicable Affiliate, hereby grants to the Employee, as of the date set forth above (the “Grant Date”), [●] Stock Units (“Stock Units”) each with respect to one Share.  As a condition to receiving the Stock Units, the Employee agrees to timely execute a brokerage account authorization and any such other form as the Company may reasonably request (in the form reasonably acceptable to the Company) in connection with the administration of a brokerage account related to the Stock Units, Remaining Shares and/or Transferable Shares (each as defined below) received pursuant to this Agreement.
+
+(b)Subject to the terms and conditions of this Agreement and to the provisions of the Plan, the Stock Units shall vest and no longer be subject to any restriction if the Employee has remained continuously employed by the Company or any of its Affiliates until [●] (such date, the “Final Service Date”, and such condition, the “Service Condition”).
+
+(c)Except as set forth in Section 1(f) below, in the event that the Employee incurs a Termination of Employment prior to the Final Service Date for any reason not set forth in Section 1(d), all unvested Stock Units (and any Remaining Shares (as defined in Section 1(d)(iii) below) and Unvested Dividend Amounts (as defined in Section 4 of this Agreement)) shall be forfeited by the Employee effective immediately upon such Termination of Employment.  For purposes of this Section 1(c), the Employee will be deemed to have incurred a Termination of Employment on the date that the Employee provides notice of termination to the Company, in the case of a resignation by the Employee, or on the Date of Termination (as defined in Appendix A), in the case of Termination of Employment by the Company, and accordingly, all unvested Stock Units (and any Remaining Shares) shall be forfeited by the Employee immediately upon delivery of any such notice.  
+
+(d)(i) Except as set forth in Section 1(f) below, in the event that the Employee incurs a Termination of Employment prior to the Final Service Date due to (A) the Employee’s Disability, (B) the Employee’s death or (C) a Termination of Employment by the Company other than for Cause, subject to Section 1(e) below, the Stock Units (and any Remaining Shares) held by the Employee on the Date of Termination shall no longer be subject to the Service Condition, and any Stock Units shall, if applicable, be settled as set forth in Section 1(d)(iii) or Section 2
+
+1
+
+ 
+
+ 
+
+below but in all cases, such Stock Units and Remaining Shares shall remain subject to forfeiture pursuant to Section 1(e) through the Final Service Date; provided that, in the case of a Termination of Employment due to the Employee’s death as described in clause (B) of this Section 1(d)(i) or in the case of the Employee’s death subsequent to a Termination of Employment described in this Section 1(d)(i), the Stock Units (and any Remaining Shares) will immediately vest upon the date of death and the Stock Units shall be settled through delivery of fully transferable Shares as soon as practicable following such date.  
+
+ 
+
+(ii)
+
+Except as set forth in Section 1(f) below, in the event that the Employee incurs a Termination of Employment prior to the Final Service Date due to the Employee’s Retirement (as defined below), all Stock Units held by the Employee on the Date of Termination (and any Remaining Shares) shall no longer be subject to the Service Condition and, subject to Section 1(e), shall be settled as set forth in Section 1(d)(iii) below, if applicable, but shall remain subject to forfeiture pursuant to Section 1(e) through the Final Service Date (subject to any acceleration of vesting as otherwise set forth in this Agreement).  For purposes of this Agreement, “Retirement” shall mean that the Employee voluntarily incurs a Termination of Employment on or after the date on which the Employee meets all of the requirements of the retirement policy applicable to equity awards granted under the Plan, as in effect from time to time.  
+
+ 
+
+ 
+
+(iii)
+
+If necessary to avoid the imposition of taxes or penalties under Section 409A of the Code, then subject to the final sentence of Section 2 below, all Shares underlying the Stock Units for which the Service Condition has been satisfied (or are deemed to be satisfied in accordance with Section 1(d)(i) or Section 1(f)) shall be delivered to the Employee (1) in the case of any Termination of Employment due to Disability or the occurrence of the Retirement Eligibility Date, within 30 days following the date that the Employee is no longer required to perform any additional services in order to retain such Stock Units and (2) in the case of a Termination of Employment by the Company other than for Cause, as soon as practicable following the date that the release described in Section 1(e) below has become effective and irrevocable (but in all cases, such settlement shall not be later than March 15 of the calendar year following the year in which such Stock Units are no longer subject to a substantial risk of forfeiture within the meaning of Treasury Regulation Section 1.409A-1(d)) (the date that Shares are delivered to the Employee is an “Initial Delivery Date”).  Immediately following the Initial Delivery Date with respect to any Stock Units, subject to approval of the Compliance Department of the Company or an Affiliate, the Employee will be permitted to dispose of the Applicable Percentage (as defined below) of the Shares (such Shares, the “Transferable Shares”) delivered to the Employee pursuant to this Section 1(d)(iii) immediately following the date that such Shares are delivered to the Employee. For purposes of this Agreement, the “Applicable Percentage” is the percentage of the Shares (if any) delivered to the Employee that the Company determines, in its sole
+
+2
+
+ 
+
+ 
+
+ 
+
+discretion, is necessary to satisfy the Employee’s tax liability incurred with respect to such Shares on the date that such Shares are delivered to the Employee.  All Shares delivered to the Employee on the Initial Delivery Date that are not Transferable Shares (such Shares, the “Remaining Shares”) will remain subject to the restrictions set forth in this Agreement (including Section 1(e)) until the date that such Remaining Shares otherwise would have been delivered to the Employee following the Final Service Date or such earlier date on which such Remaining Shares would have been delivered pursuant to this Agreement as a result of the Employee’s death or a Change in Control (such date, the “Final Delivery Date”). Accordingly, prior to the Final Delivery Date, neither the Employee nor any of the Employee’s creditors or beneficiaries will have the right to subject the Remaining Shares to any anticipation, alienation, sale, transfer, assignment, pledge, encumbrance, hedge, exchange, attachment or garnishment or any similar transaction. Furthermore, for the avoidance of doubt, the Remaining Shares shall continue to be subject to the forfeiture provisions set forth in this Agreement relating to violation of the restrictive covenants set forth in Appendix B, which are incorporated herein by reference (the “Restrictive Covenants”) until the Final Delivery Date.
+
+(e)Notwithstanding any provision of this Agreement to the contrary, in the event that the Employee incurs a Termination of Employment by the Company other than for Cause or due to a Retirement in accordance with Section 1(d)(ii), in each case, prior to a Change in Control, from and after the date of such Termination of Employment, in order for the Stock Units or the Remaining Shares, as applicable, to be treated as provided in Section 1(d), the Employee must sign a customary release of claims in favor of the Company and its Affiliates that is acceptable to the Company, and such release must become effective and irrevocable on or before the 65th day following the Employee’s Termination of Employment.  In the event the Employee (or the Employee’s estate, if applicable) does not sign such release or revokes such release before it becomes irrevocable, the Employee shall forfeit all rights to any unvested Stock Units or Remaining Shares, as applicable.  In the event that, prior to a Change in Control or prior to a Termination of Employment (including by reason of Retirement in accordance with Section 1(d)(ii)) following a Change in Control, as applicable, the Employee violates any of the provisions of the Restrictive Covenants prior to the Final Delivery Date, all outstanding vested or unvested Stock Units (including Unvested Dividend Amounts) and, if applicable, all Remaining Shares shall be forfeited and canceled.  Notwithstanding that certain Restrictive Covenants apply for only a limited period following a Termination of Employment, in the event that the Employee incurs a Termination of Employment due to a Retirement prior to a Change in Control, the Employee will forfeit any outstanding Stock Units (including Unvested Dividend Amounts) and, if applicable, any Remaining Shares, if the Employee does not comply with all of the Restrictive Covenants in Appendix A until the earlier of the Final Service Date or, as applicable, Final Delivery Date.  For the avoidance of doubt, in no event shall a violation of the Restrictive Covenants following a Termination of Employment serve as a basis for forfeiture of Stock Units (including Unvested Dividend Amounts) and, if applicable, any Remaining Shares, from and after a Change in Control.
+
+3
+
+ 
+
+ 
+
+(f)(i) Except as otherwise provided in this Section 1(f)(i) and 1(f)(ii) below, following a Change in Control, the unvested Stock Units (and, if applicable, any Remaining Shares) shall remain outstanding through the Final Service Date or Final Delivery Date, as applicable; provided, however, that in the event that the Employee incurs a Termination of Employment upon or following a Change in Control but prior to the Final Service Date under any of the circumstances described in Section 1(d)(i) or 1(d)(ii) above, the date of such Termination of Employment shall be deemed to be the Final Delivery Date, and all Shares issued in settlement of such Stock Units shall be Transferable Shares and all Unvested Dividend Amounts shall be paid to the Employee at the time of issuance of such Transferable Shares.  Furthermore, in the event that the Employee incurs a Termination of Employment under any of the circumstances described in Section 1(d)(i) or 1(d)(ii) above prior to the Final Delivery Date and prior to a Change in Control, upon a Change in Control, the date of the Change in Control shall be deemed to be the Final Service Date for purposes of any Stock Units and Unvested Dividend Amounts (and the Final Delivery Date for any Remaining Shares and , for purposes of Section 1(e), all Stock Units) then held by the Employee and any dividends held by an escrow agent with respect thereto, as set forth in Section 4 below.  
+
+ 
+
+(ii)
+
+Notwithstanding the foregoing, in the event of a Change in Control prior to the Final Service Date, unless (A) either (1) the unvested Stock Units and Remaining Shares remain outstanding following such Change in Control or (2) provision is made in connection with the Change in Control for assumption of such Stock Units or substitution of such Stock Units and Remaining Shares for new awards covering equity interests in a successor entity, with appropriate adjustments to the number of Stock Units and Remaining Shares, as determined by the Committee prior to the Change in Control pursuant to Section 3(b)(ii) of the Plan, and (B) the material terms and conditions of such Stock Units and Remaining Shares as in effect immediately prior to the Change in Control are preserved following the Change in Control (including, without limitation, with respect to the vesting schedules, the intrinsic value of the Stock Units and Remaining Shares and transferability of the Shares or other securities underlying the Stock Units and Remaining Shares prior to and following the Change in Control), the date of the Change in Control shall be deemed to be the Final Service Date for purposes of such Stock Units (and the Final Delivery Date for purposes of any Remaining Shares then outstanding and, for purposes of Section 1(e), all Stock Units and Unvested Dividend Amounts) and such Stock Units and Unvested Dividend Amounts shall be settled within 30 days following such date.  
+
+ 
+
+2.
+
+Settlement of Units, Restrictions on Remaining Shares.
+
+To the extent the Stock Units are not forfeited, as soon as practicable (but in no event more than 30 days) after the Final Service Date or, if applicable, such earlier date under Section 1(d)(iii), the Company shall, subject to Sections 1(d), 1(e) and 6, cause its applicable Affiliate to deliver to the Employee one or more unlegended, freely-transferable stock certificates or book-entry credits in respect of such Shares issued upon settlement of the vested Stock Units.  Notwithstanding the foregoing, (a) the Company shall be entitled to hold the Shares or cash
+
+4
+
+ 
+
+ 
+
+issuable upon settlement of Stock Units that have vested until the Company shall have received from the Employee a duly executed Form W-9 or W-8, as applicable, and any other information or completed forms the Company may reasonably require, and (b) any certificate or book entry credit issued or entered in respect of the Remaining Shares shall be registered in the Employee’s name and shall bear an appropriate legend referring to the terms, conditions and restrictions applicable to the Remaining Shares, substantially in the following form:
+
+“The transferability of this certificate and the shares of stock represented hereby is subject to the terms and conditions (including forfeiture) of the Lazard Ltd 2018 Incentive Compensation Plan and an Award Agreement, as well as the terms and conditions of applicable law.  Copies of such Plan and Agreement are on file at the offices of Lazard Ltd.”
+
+The Company may require that the certificates or book entry credits evidencing title of the Remaining Shares be held in custody by the Company until the restrictions thereon shall have lapsed and that, as a condition of receiving the Remaining Shares, the Employee shall have delivered to the Company a stock power, endorsed in blank, relating to such Remaining Shares. If and when the Final Delivery Date occurs (or is deemed to occur) with respect to the Remaining Shares, the legend set forth shall be removed from the certificates or book entry credits evidencing such Shares. Notwithstanding any provision of this Agreement to the contrary, to the extent that Section 409A of the Code is applicable to the Employee, Shares will be delivered to the Employee in settlement of any Stock Units for which all conditions have been satisfied (or deemed satisfied) no later than March 15 of the year following the year in which such Stock Units are no longer subject to a substantial risk of forfeiture within the meaning of Treasury Regulation Section 1.409A-1(d).
+
+ 
+
+3.
+
+Nontransferability of the Stock Units and Remaining Shares.
+
+Until such time as the Stock Units are ultimately settled or the Remaining Shares are ultimately free from restriction, as applicable, as provided in Section 1(d), Section 1(f) or Section 2 above, the Stock Units and Remaining Shares shall not be transferable by the Employee by means of sale, assignment, exchange, encumbrance, pledge, hedge or otherwise.
+
+ 
+
+4.
+
+Dividend Equivalents, Rights as a Shareholder.
+
+(a)If the Company declares and pays (or sets a record date with respect to) ordinary quarterly cash dividends on Shares during the period commencing on the Grant Date and ending on the Final Service Date, the Employee shall not be entitled to dividend equivalents in respect thereto at the time of payment to holders of Shares. Instead, subject to Section 6, any such dividend equivalents will be held by the escrow agent designated by the Company and shall vest and be paid (less any taxes required to be withheld) at the time the corresponding Stock Units vest. For the avoidance of doubt, the provisions of the immediately preceding sentence shall not apply to any extraordinary dividends or distributions, which are addressed in Section 3(b)(i) of the Plan.  In the event that any Stock Units are forfeited in accordance with Section 1(c) or 1(e), all dividend equivalents held by the escrow agent with respect to such Stock Units shall also be forfeited.  
+
+(b)Notwithstanding the foregoing, subject to Section 1(d) and Section 2 and any other applicable law or agreement, from and after the Initial Delivery Date, the Employee will
+
+5
+
+ 
+
+ 
+
+have all rights and privileges of a shareholder with respect to the Shares delivered on such Initial Delivery Date, including the right to vote the Shares and to receive dividends and other distributions with respect thereto, provided that, any dividends that are paid on the Remaining Shares prior to the Final Delivery Date (whether payable in cash or Shares) will be held until the Final Delivery Date by an escrow agent that is designated by the Company, and in the event that the Remaining Shares are forfeited in accordance with Section 1(e), such dividends will also be forfeited. For the  avoidance of doubt, the determination of applicable dividends, and the calculation of amounts equivalent thereto, provided for in this Section 4 shall be made consistent with the Company’s past practice with respect to similar Awards.
+
+(c)The amounts that are held by the designated escrow agent pursuant to this Section 4 are referred to herein as “Unvested Dividend Amounts”.    
+
+ 
+
+5.
+
+Payment of Transfer Taxes, Fees and Other Expenses.
+
+The Company agrees, or will cause its applicable Affiliate, to pay any and all original issue taxes and stock transfer taxes that may be imposed on the issuance of Shares received by an Employee in connection with the Stock Units, together with any and all other fees and expenses necessarily incurred by the Company in connection therewith.
+
+ 
+
+6.
+
+Taxes and Withholding; Disgorgement of Tax Benefits.
+
+(a)No later than the date as of which an amount first becomes includible in the gross income of the Employee for federal, state, local or foreign income tax purposes with respect to any Stock Units, the Employee shall pay to the Company or its applicable Affiliate, or make arrangements satisfactory to the Company or its applicable Affiliate regarding the payment of, any federal, state, local and foreign taxes that are required by applicable laws and regulations to be withheld with respect to such amount.  Except as otherwise required by applicable law, the Company will report that the Employee will be taxed on the full value of the Shares underlying the Employee’s Stock Units on the date that such Shares are issued to the Employee in accordance with this Agreement.  The obligations of the Company under this Agreement shall be conditioned on compliance by the Employee with this Section 6, and the Company or its applicable Affiliate shall, to the extent permitted by law, have the right to deduct any such taxes from any payment otherwise due to the Employee, including deducting such amount from the delivery of Shares or cash issued upon settlement of the Stock Units that gives rise to the withholding requirement.  Notwithstanding the foregoing, the Company or an Affiliate may, in the Company’s sole discretion and subject to such other terms and conditions as the Company may determine, if the Employee is not subject to withholding as a matter of applicable law as of the date that the Shares are delivered to the Employee (including if the Employee is a member of the Company who reports income from the Company and its Affiliates on Schedule K-1 to the Company’s Federal income tax return) and pursuant to the prior written approval of the Company, permit the Employee to surrender some or all of the Transferable Shares to the Company or an Affiliate and have the Company or such Affiliate remit the relevant taxes on the Employee’s behalf to the appropriate taxing authorities.  If Shares are to be delivered pursuant to Section 1(d)(iii), then prior to an Initial Delivery Date, the Company will notify the Employee of (i) how many Shares will be delivered to the Employee on such Initial Delivery Date and (ii) the portion, if any, of the Transferable Shares that the Company or an Affiliate will retain pursuant to the immediately preceding sentence.
+
+6
+
+ 
+
+ 
+
+(b)In the event that the Employee incurs a Termination of Employment due to a Retirement and, after such Retirement, the Employee forfeits the Remaining Shares and the dividends held in escrow in accordance with Section 4 of this Agreement, the Employee shall disgorge to the Company any tax benefit the Employee realizes from the forfeiture of any such Remaining Shares or dividends, if, as and when actually realized by the Employee.  The Employee agrees to use commercially reasonable efforts to claim any tax benefit from such forfeiture that the Company reasonably determines is available to the Employee on all relevant tax returns filed after having received notice from the Company.  Notwithstanding the foregoing, this Section 6(b) shall not apply from and after a Change in Control or a Termination of Employment pursuant to Section 1(d)(i).
+
+ 
+
+7.
+
+Effect of Agreement.
+
+Except as otherwise provided hereunder, this Agreement shall be binding upon and shall inure to the benefit of any successor or successors of the Company.  The invalidity or enforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement.  Nothing in this Agreement or the Plan shall confer upon the Employee any right to continue in the employ of the Company or any of its Affiliates or interfere in any way with the right of the Company or any such Affiliates to terminate the Employee’s employment at any time.  Until Shares are actually delivered to the Employee upon settlement of the Stock Units, the Employee shall not have any rights as a shareholder with respect to the Stock Units, except as specifically provided herein.
+
+ 
+
+8.
+
+Laws Applicable to Construction; Consent to Jurisdiction.
+
+(a)This Agreement shall be governed by and construed in accordance with the laws of the State of New York (United States of America), without regard to principles of conflict of laws that could cause the application of the law of any jurisdiction other than the State of New York.  In addition to the terms and conditions set forth in this Agreement and the Restrictive Covenants, the Stock Units are subject to the terms and conditions of the Plan, which is hereby incorporated by reference.  By accepting the Stock Units, the Employee agrees to and is bound by the Plan and the Restrictive Covenants.
+
+(b)Subject to the provisions of Section 8(c), any controversy or claim between the Employee and the Company or its Affiliates arising out of or relating to or concerning the provisions of this Agreement or the Plan shall be finally settled by arbitration administered in New York City by JAMS.  
+
+(c)Notwithstanding the provisions of Section 8(b), and in addition to its right to submit any dispute or controversy to arbitration, the Company or one of its Affiliates may bring an action or special proceeding in a state or federal court of competent jurisdiction sitting in the City of New York, whether or not an arbitration proceeding has theretofore been or is ever initiated, for the purpose of temporarily, preliminarily, or permanently enforcing the provisions of the Restrictive Covenants, or to enforce an arbitration award, and, for the purposes of this Section 8(c), the Employee (i) expressly consents to the application of Section 8(d) to any such action or proceeding, (ii) agrees that proof shall not be required that monetary damages for breach of the provisions of the Restrictive Covenants or this Agreement would be difficult to calculate and that remedies at law would be inadequate, and (iii) irrevocably appoints the
+
+7
+
+ 
+
+ 
+
+General Counsel of the Company as the Employee’s agent for service of process in connection with any such action or proceeding, who shall promptly advise the Employee of any such service of process by notifying the Employee at the last address on file in the Company’s records.
+
+(d)The Employee and the Company hereby irrevocably submit to the exclusive jurisdiction of any state or federal court located in the City of New York over any suit, action, or proceeding arising out of, relating to or in connection with this Agreement or the Plan that is not otherwise required to be arbitrated or resolved in accordance with the provisions of Section 8(b).  This includes any suit, action or proceeding to compel arbitration or to enforce an arbitration award.  The Employee and the Company acknowledge that the forum designated by this Section 8(d) has a reasonable relation to this Agreement, and to the Employee’s relationship to the Company.  Notwithstanding the foregoing, nothing herein shall preclude the Company or the Employee from bringing any action or proceeding in any other court for the purpose of enforcing the provisions of Sections 8(a), 8(b), or this Section 8(d).  The agreement of the Employee and the Company as to forum is independent of the law that may be applied in the action, and the Employee and the Company agree to such forum even if the forum may under applicable law choose to apply non-forum law.  The Employee and the Company hereby waive, to the fullest extent permitted by applicable law, any objection which the Employee or the Company now or hereafter may have to personal jurisdiction or to the laying of venue of any such suit, action or proceeding in any court referred to in this Section 8(d).  The Employee and the Company undertake not to commence any action arising out of, or relating to or in connection with this Agreement in any forum other than a forum described in this Section 8(d), or, to the extent applicable, Section 8(b).  The Employee and the Company agree that, to the fullest extent permitted by applicable law, a final and non-appealable judgment in any such suit, action or proceeding in any such court shall be conclusive and binding upon the Employee and the Company.
+
+ 
+
+9.
+
+Conflicts and Interpretation.
+
+In the event of any conflict between this Agreement and the Plan, the Plan shall control.  In the event of any ambiguity in this Agreement, or any matters as to which this Agreement is silent, the Plan shall govern including, without limitation, the provisions thereof pursuant to which the Committee has the power, among others, to (a) interpret the Plan, (b) prescribe, amend and rescind rules and regulations relating to the Plan, and (c) make all other determinations deemed necessary or advisable for the administration of the Plan.
+
+ 
+
+10.
+
+Amendment.
+
+Any modification, amendment or waiver to this Agreement that shall materially impair the rights of the Employee with respect to the Stock Units shall require an instrument in writing to be signed (either in paper format or electronically) by both parties hereto, except such a modification, amendment or waiver made to cause the Plan or the Stock Units to comply with applicable law, tax rules, stock exchange rules or accounting rules and which is made to similarly situated employees.  The waiver by either party of compliance with any provision of this Agreement shall not operate or be construed as a waiver of any other provision of this Agreement, or of any subsequent breach by such party of a provision of this Agreement.
+
+8
+
+ 
+
+ 
+
+ 
+
+11.
+
+Section 409A of the Code.
+
+To the extent that Section 409A of the Code is applicable to the Employee, it is intended that the Stock Units shall be exempt from Section 409A of the Code pursuant to the “short-term deferral” rule applicable to such section, as set forth in the regulations or other guidance published by the Internal Revenue Service thereunder.
+
+ 
+
+12.
+
+Electronic Delivery.
+
+The Employee acknowledges and agrees that (a) this Agreement may be delivered to the Employee electronically, including via a Company email system or by reference to a location on a Company intranet or secure internet site to which the Employee has access (including, but not limited to, that of a third-party vendor involved in administering the Plan, as may be designated by the Company in its sole discretion) and (b) (i) the Employee’s signature, whether a manual signature, including any facsimile or electronic image scan of such manual signature, or an electronic signature, including signatures collected and remitted to the Company digitally via a third-party provider or (ii) acceptance on a location on a Company intranet or secure internet site to which the Employee has access (including, but not limited to, that of a third-party vendor involved in administering the Plan, as may be designated by the Company in its sole discretion) will constitute the Employee’s acceptance of and agreement with all of the terms and conditions of the Stock Units, as set forth in this Agreement (including the Restrictive Covenants) and the Plan. If the Employee accepts and agrees with the terms and conditions of the Stock Units with a manual signature, then this Agreement may be executed in counterparts, which together shall constitute one and the same original, whether delivered in person, by mail, by facsimile or by electronic image scan. In lieu of receiving documents in paper format, the Employee hereby agrees, to the fullest extent permitted by law, to accept electronic delivery of any documents that the Company or any Affiliate may be required to deliver (including, but not limited to, prospectuses, prospectus supplements, grant or Award notifications and agreements, account statements, annual and quarterly reports, and all other forms of communications) in connection with the Stock Units or any other prior or future Award (it being understood and agreed that the Company or its Affiliates may, in their sole discretion, elect to satisfy any delivery requirements electronically, in paper format, or a combination of both methods).
+
+ 
+
+13.
+
+Compensation Recovery Policy.  
+
+The Employee acknowledges and agrees that the Employee and the Stock Units are subject to the Company’s Compensation Recovery Policy Applicable to Executive Officers, as in effect as of the date hereof (a copy of which has been provided to the Employee).
+
+ 
+
+14.
+
+Headings.
+
+The headings of paragraphs herein are included solely for convenience of reference and shall not affect the meaning or interpretation of any of the provisions of this Agreement.
+
+ 
+
+15.
+
+Counterparts.
+
+This Agreement may be executed in counterparts, which together shall constitute one and the same original, whether delivered in person, by facsimile or by electronic image scan.  If
+
+9
+
+ 
+
+ 
+
+delivery is by facsimile or electronic image scan, then the facsimile or electronic image scan, as applicable, of any signatures shall act as the Employee’s signature to this Agreement in addition to the original.
+
+ 
+
+[REMAINDER OF PAGE LEFT INTENTIONALLY BLANK]
+
+10
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, as of the date first above written, the Company has caused this Agreement to be executed on behalf of its applicable Affiliate by a duly authorized officer and the Employee has hereunto set the Employee’s hand.
+
+LAZARD LTD,
+
+ 
+
+by
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Title:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Employee]
+
+ 
+
+ 
+
+ 
+
+11
+
+ 

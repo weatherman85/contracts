@@ -1,10 +1,12 @@
 class NamedEntity:
-    def __init__(self, name=None, normalized = None, label=None, start=0, end=0):
+    def __init__(self, name=None, normalized = None, label=None, start=0, end=0, bbox=None):
         self.name = name
         self.normalized = normalized
         self.label = label
         self.start = start
         self.end = end
+        self.lei_info = None
+        self.bbox = bbox
 
 class Entities:
     def __init__(self, entities=None):

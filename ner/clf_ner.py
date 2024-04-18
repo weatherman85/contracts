@@ -88,6 +88,7 @@ class ClassifierNER(BertPreTrainedModel):
 class CLF_NER(NamedEntityRecognizer):
     def __init__(self, model=None, keywords=None, normalizer=None):
         super().__init__(keywords=keywords, normalizer=normalizer)
+        device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model = ClassifierNER.from_pretrained(model)
 
     def predict(self, text):

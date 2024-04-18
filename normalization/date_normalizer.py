@@ -7,17 +7,18 @@ class DateNorm(Normalizer):
     def __init__(self):
         super().__init__()
 
-    def process(self, date_input):
+    def process(self, ent):
+        date_input = ent.name
         if not isinstance(date_input, date):
             date_string = str(date_input)
             if date_string.lower() != 'nan':
                 date_from_parser = self.parse_date_string(date_string)
                 if date_from_parser:
-                    return date_from_parser
+                    return date_from_parser.strftime("%Y-%m-%d")
 
-                return self.custom_format_parsing(date_string)
+                return self.custom_format_parsing(date_string).strftime("%Y-%m-%d")
 
-        return date_input
+        return date_input.strftime("%Y-%m-%d")
 
     def parse_date_string(self, date_string):
         try:

@@ -1,0 +1,1562 @@
+EX-10.5 6 spr20190627-ex105.htm EXHIBIT 10.5
+EXHIBIT 10.5
+
+EXECUTION VERSION - RESTATED VERSION 14 May 2019
+
+
+
+AGREEMENT FOR THE SALE AND PURCHASE
+OF THE SHARES OF S.R.I.F. NV
+AMONG
+Christian Boas
+Emile Boas
+Dreda general partnership under Belgian law
+Sylvie Boas
+as the Sellers
+
+And
+Spirit AeroSystems Belgium Holdings BVBA
+as the Purchaser
+
+And
+Spirit AeroSystems Holdings, Inc.
+as the Guarantor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.5
+
+May 1, 2018
+1
+Definition and Interpretation    5
+2
+Sale and Purchase    22
+3
+Purchase Price Mechanism    22
+4
+Conditions Precedent    27
+5
+Closing    32
+6
+Pre-Closing Covenant    34
+7
+Sellers’ Warranties    38
+8
+Indemnification    39
+9
+Limitations on indemnification    41
+10
+Specific Indemnity    45
+11
+Third Party Claims    47
+12
+Purchaser’s Warranties    49
+13
+Guarantee By Guarantor    50
+14
+Guarantor’s Warranties    51
+15
+Non-Competition    52
+16
+Non-Disposal    53
+17
+Confidentiality    53
+18
+Sellers’ Representative    54
+19
+Notices    54
+20
+Further Assurances    56
+21
+Assignments    56
+22
+Payments    56
+23
+Nature of the Obligations of the Sellers    56
+24
+Costs and Expenses    57
+25
+General Provisions    57
+26
+Governing Law and Competent Courts    58
+Schedule 1: The Sellers
+61
+Schedule 2: Seller’s Representations and Warranties
+62
+Schedule 3: Disclosed Information
+83
+Schedule 4: Further Exceptions to Interim Covenants
+85
+Schedule 5: Debt to be repaid at closing
+86
+Schedule 6: Net Debt
+87
+Schedule 7: Net Working Capital
+88
+Schedule 8: Resigning Directors and Resigning Officers
+89
+Schedule 9: Agreed Form of Escrow Agreement
+95
+Schedule 10: Announcement To Be Made Upon Signing
+106
+Schedule 11: Third Party Consents
+109
+Schedule 12: Pending Claims Subject to a Specific Indemnity
+111
+Schedule 13: Existing Operational Hedges
+112
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.5
+
+THIS AGREEMENT is made on May 1, 2018
+
+AMONG:
+(1)
+Christian Boas, having his domicile at xxx xx xxxxxx xx, xxxx xx xxxxx (xxxxxxx) (“Christian Boas”),
+(2)
+Emile Boas, having his domicile at xxxxxx xx xxxx xxxxxxxxx xxx,xxxx xxxxxxx (xxxxxx) (“Emile Boas”),
+(3)
+DREDA, a general partnership without legal personality under Belgian law, having its seat at xxxxxx xx xxx xxxxxxxxx xxx, xxxx xxxxxxxxxxxxxxxxxxx (xxxxxx), represented by Sylvie Boas (“Dreda”),
+(4)
+Sylvie Boas, having her domicile at xxxxxx xx xxx xxxxxxxxx xxx, xxxx xxxxxxxxxxxxxxxxxxx (xxxxxxx) (“Sylvie Boas”),
+(each a “Seller” and together the “Sellers”); and
+(5)
+Spirit AeroSystems Belgium Holdings BVBA, a limited liability company incorporated under the laws of Belgium, having its registered office at Koningsstraat 97, 4th floor, 1000 Brussels, registered with the Crossroads Bank for Enterprises under number 0695.554.435 (the “Purchaser”), and
+(6)
+Spirit AeroSystems Holdings, Inc., a Delaware corporation, having its corporate address at 3801 South Oliver, Wichita, Kansas 67210 (the “Guarantor”).
+Each referred to separately as a “Party” and jointly as the “Parties”.
+WHEREAS:
+(A)
+The Sellers are together the owners of all issued shares of S.R.I.F. NV, a Belgian public limited liability company, with registered office at Weiveldlaan 2, 1930 Zaventem (Belgium), registered with the Crossroads Bank of Enterprises under number 0439.623.596 (“S.R.I.F.” or the “Company”).
+(B)
+The Sellers wish to sell and the Purchaser wishes to purchase all 3,687 ordinary shares carrying voting rights of the Company (the “Shares”) on the terms and subject to the conditions set out in this Agreement.
+(C)
+The Guarantor is the ultimate holding company of the Purchaser and has agreed to guarantee the obligations of the Purchaser under this Agreement.
+(D)
+The Parties have entered into an amended version of this Agreement to reflect the amendments agreed to by the Parties on May 3, 2019 in order to address capital expenditures budgeted by the Group Companies as of the Singing Date which have not been made prior to the Closing (and such amendments only, without prejudice to any other amendments included in the letter agreements entered into by the Parties prior to this amended version of the Agreement). For the avoidance of doubt, such entry into the amended version of this Agreement shall have no effect on the validity of amendments to this Agreement agreed to by the Parties prior to May 3, 2019, whether or not such amendments are reflected in the amended version.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT 10.5
+
+THE PARTIES HAVE AGREED AS FOLLOWS:
+1
+DEFINITION AND INTERPRETATION
+
+1.1
+In this Agreement:
+
+2020 Revenue has the meaning set out in Clause 3.5.1;
+2021 Revenue has the meaning set out in Clause 3.5.2;
+2022 Revenue has the meaning set out in Clause 3.5.3;
+2020 Target Revenue means an amount of Annual Revenue with respect to the 2020 calendar year to be mutually agreed upon by the Parties in good faith before the first to occur of (a) thirty (30) calendar days following the Deferred Capex Letter Agreement or (b) the Closing Date. The 2020 Target Revenue will be comparable to the target revenue for the 2020 calendar year set forth in the MTP (as agreed by the Parties) in schedule 1 to the Deferred Capex Letter Agreement;
+2021 Target Revenue means an amount of Annual Revenue with respect to the 2021 calendar year to be mutually agreed upon by the Parties in good faith before the first to occur of (a) thirty (30) calendar days following the Deferred Capex Letter Agreement or (b) the Closing Date. The 2021 Target Revenue will be comparable to the target revenue for the 2021 calendar year set forth in the MTP (as agreed by the Parties) in schedule 1 to the Deferred Capex Letter Agreement;
+2022 Target Revenue means an amount of Annual Revenue with respect to the 2022 calendar year to be mutually agreed upon by the Parties in good faith before the first to occur of (a) thirty (30) calendar days following the Deferred Capex Letter Agreement or (b) the Closing Date. The 2022 Target Revenue will be comparable to the target revenue for the 2022 calendar year set forth in the MTP (as agreed by the Parties) in schedule 1 to the Deferred Capex Letter Agreement;
+Affiliate means any person related to (“verbonden met” / “liée à”) another person within the meaning of section 11 of the Belgian Companies Code (“Wetboek van Vennootschappen” / “Code des Sociétés”);
+Agreed Enterprise Value has the meaning set out in Clause 3.2, and amounts to USD 650,000,000;
+Agreement means this agreement including its schedules, annexes and exhibits;
+Annual Accounts means the consolidated and audited annual accounts of the Company for the financial year ending on 31 December 2017;
+Annual Accounts Date means 31 December 2017;
+Annual Revenue means, for any calendar year, the audited annual revenue of the Group Companies (including, for the avoidance of doubt, Flabel Corporation NV and Belairbus NV) for such calendar year calculated on a consolidated basis reported in USD and compliant with US GAAP. Transactions with customers that are conducted in currencies other than USD will be converted to USD consistent with US GAAP, which applies an average spot rate the period in revenues from such transactions was recognized. If revenue is shifted (including, for the avoidance of doubt, by shifting business opportunities) from any of the Group Companies to the Guarantor, the Purchaser or any Affiliate of the Guarantor or the Purchaser other than another Group Company, the amount of such foregone revenue of the Group Companies shall be included in the calculation of Annual Revenue for purposes of determining the 2020 Revenue, the 2021 Revenue and the 2022 Revenue. If revenue is shifted from the Purchaser or any Affiliate of the Guarantor or the Purchaser other than a Group Company to the Group Companies, the amount of such revenue shall be included in the calculation of Annual Revenue for purposes of determining the 2020 Revenue, the 2021 Revenue and the 2022 Revenue;
+Antitrust Laws means all laws and orders that are designed or intended to prohibit, restrict or regulate actions having the purpose or effect of monopolisation or restraint of trade or lessening of competition through merger or acquisition, whether in the United States, the European Union or elsewhere;
+Antitrust Violations has the meaning set out in title 20.5 of Schedule 2;
+Applicable Anti-Corruption Laws means, to the extent applicable to any Group Company, (i) the provisions of the U.S. Foreign Corrupt Practices Act of 1977, as amended (15 U.S.C. § 78dd1 et seq.), (ii) sections 108e, 261, 298-301, 331-336
+
+
+EXHIBIT 10.5
+
+of the German Penal Code (Strafgesetzbuch), the provisions of the German Act on Combating International Bribery (Gesetz zur Bekämpfung internationaler Bestechung) as well as the German Anti-Money Laundering Act (Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten - Geldwäschegesetz), (iii) the Corruption of Foreign Public Officials Act (Canada), Proceeds of Crime (Money Laundering) and Terrorist Financing Act (Canada); (iv) sections 246 to 252 and sections 504bis, 504ter and 505 of the Belgian Criminal Code as well as section 16bis of the Belgian Act of 4 July 1989 on the financing of political parties and the Belgian Anti-Money Laundering Act of 11 January 1993, and (v) the provisions of all other anti-bribery, anti-corruption and anti-money laundering Laws of each jurisdiction in which the Group Companies operate or have operated;
+Asco Brazil has the meaning set out in Clause 4.2.2;
+Basket has the meaning set out in Clause 9.2.2;
+Benefit Plan means any benefit or compensation plan, program, policy, practice, agreement, contract, arrangement or other obligation, whether or not in writing and whether or not funded, in each case, maintained for, available to or otherwise relating to any former or current employees, independent consultants, directors or officers of the Group Companies, or any spouses, dependents or survivors of any former or current employee, independent consultants, director or officer of the Group Companies, which is sponsored or maintained by, or required to be contributed to, or with respect to which any actual or potential liability is borne by any of the Group Companies;
+Best Estimate has the meaning set out in Clause 3.3.1;
+Breach has the meaning set out in Clause 8.1;
+Business has the meaning set out in Clause 15.1.1;
+Business Day means a day (other than a Saturday or Sunday or official public holiday in Belgium) on which banks are generally open in Belgium and the United States of America for normal business;
+Claim has the meaning set out in Clause 8.2;
+Claim Notice has the meaning set out in Clause 8.3;
+Claim Response has the meaning set out in Clause 8.4;
+Closing means completion of the sale and purchase of the Shares in accordance with this Agreement;
+Closing Accounts has the meaning set out in Clause 3.3.2;
+Closing Amount means the Best Estimate less the Deferred Capex Amount, the Escrow Amount and the Holdback Amount (it being understood that no portion of the Holdback Amount is to be included in the Escrow Amount for purposes of determining the Closing Amount);
+Closing Date means the date of Closing;
+Code means the United States Internal Revenue Code of 1986, as amended;
+Commercially Reasonable Efforts means efforts that a person desirous of achieving a result would reasonably use in similar circumstances to try to achieve that result; provided, however, that Commercially Reasonable Efforts shall not be deemed to require a person to undertake extraordinary or unreasonable measures, including the payment of amounts in excess of normal to undertake from a commercial point of view in the context of the Transaction or the envisaged result;
+Companies Code means the Belgian companies code dated 7 May 1999;
+Company or S.R.I.F. has the meaning set out in recital (A);
+
+
+EXHIBIT 10.5
+
+Company Permits means all material permits, licenses, certifications, approvals, registrations, consents, authorizations, franchises, variances, exemptions and orders issued or granted by a Regulatory Authority that are required for the operation of the Business as presently conducted, including those required pursuant to Environmental Law;
+Competition Condition has the meaning set out in Clause 4.1.2;
+Conditions Precedent has the meaning set out in Clause 4.2;
+Confidential Information means any non-public information pertaining to or concerning the Business, the Group Companies, the Sellers, the Purchaser’s Group or their respective Affiliates, including all budgets, forecasts, analyses, financial results, costs, processes, drawings, blueprints, margins, wages and salaries, business opportunities and other business activities, all supplier and customer lists, price lists, all non-public Intellectual Property Rights, including trade secrets, unfiled patents, technical expertise and know how, documentation, including standard terms and agreements and all other information which, by its nature, or by the nature of the circumstances surrounding its disclosure, ought in good faith to be treated as confidential, except that, “Confidential Information” does not include information that: (i) is or was independently developed by a Party or its representatives without the use of any Confidential Information; (ii) is publicly available, other than as a result of a disclosure in contravention of this Agreement (except that where any part of such information is publicly available, but a compilation of information which includes such part is not publicly available, then such compilation will not be treated as being publicly available and will be treated as Confidential Information under this Agreement); and (iii) is made available to a Party or its representatives on a non-confidential basis from a third party;
+Confidentiality Agreement has the meaning set out in Clause 25.7;
+Damages means any damage (“schade” / “dommages”) giving rise to indemnification in accordance with sections 1149 to 1153 of the Belgian Civil Code (“Burgerlijk Wetboek” / “Code Civil”), including, for the avoidance of doubt, any reasonable legal fees;
+Data Room means the electronic data room managed by Intralinks under the name ‘Albatross’, including any sections the access to which may have been restricted to certain selected representatives of the Purchaser only (i.e., the ordinary clean room and the extraordinary clean rooms) and including the documents attached in Schedule 3;
+De Minimis shall mean an economic impact of less than USD 2,000,000 on the value of the Group on a standalone basis or on Guarantor or any of its subsidiaries on a standalone basis, excluding for the avoidance of doubt, any loss of synergies envisaged by the Purchaser to the Purchaser’s Group;
+Deferred Capex Amount means the amount of USD 20,000,000 (USD twenty million) paid in escrow into the account of the Escrow Agent pursuant to the Deferred Capex Escrow Agreement;
+Deferred Capex Escrow Account means the account of the Escrow Agent on which the Deferred Capex Amount is deposited and blocked;
+Deferred Capex Escrow Agreement means the agreement in a form acceptable to all Parties to be entered into among the Parties and the Escrow Agent on the Closing Date governing the payment in escrow and release of the Deferred Capex Amount into and from the account of the Escrow Agent;
+Deferred Capex Letter Agreement means the letter agreement entered into by the Parties on May 3, 2019 to extend the Long Stop Date and to address capital expenditures budgeted by the Group Companies as of the Signing Date which have not been made prior to Closing;
+Disclosed Information has the meaning set out in Clause 7.6;
+Due Diligence Investigation has the meaning set out in Clause 7.5;
+Employees means any of the employees of the Group;
+Encumbrance means any pledges, security interests, liens, encumbrances, mortgages, usufructs, options or other restrictions to sell;
+
+
+EXHIBIT 10.5
+
+Environment means the air, indoor air space, all layers of the atmosphere, surface water, underground water, any land or underground space, all living organisms and the interacting natural systems that include components of air, land, water, organic and inorganic matters and living organisms;
+Environmental Law means any Law (including common law) relating to the protection or enhancement of the Environment or human health and safety;
+Equity Rights has the meaning set out in title 3.2 of Schedule 2;
+Escrow Account means the account of the Escrow Agent on which the Escrow Amount is deposited and blocked;
+Escrow Agent means the Belgian credit institution appointed as escrow agent in the Escrow Agreement;
+Escrow Agreement means the agreement in a form substantially in line with the escrow arrangements included in the draft agreement attached as Schedule 9 (save for any comments to be made by the Escrow Agent, to be acceptable to all Parties, such consent not to be unreasonably withheld) to be entered into among the Parties and the Escrow Agent on the Closing Date governing the payment in escrow and release of the Escrow Amount into and from the account of the Escrow Agent;
+Escrow Amount means the amount equal to the sum of (a) USD 40,000,000 (USD forty million) paid in escrow into the account of the Escrow Agent pursuant to the Escrow Agreement and (b) the portion of the Holdback Amount which is distributed by the Escrow Agent from the Holdback Account into the Escrow Account pursuant to Clause 3.3.5;
+Existing Operational Hedges means the Group’s hedging arrangements existing at the Signing Date set out in Schedule 13.
+Fairly Disclosed means disclosed to the Purchaser to the extent only that the relevant information is sufficiently explicit and detailed to allow a professional purchaser with expertise in the aircraft components industry assisted by its professional advisors to understand whether the Sellers’ Representations and Warranties are entirely true and accurate and to make an informed assessment of the nature and scope of the matter disclosed;
+Final Adjusted Closing Amount means the Final Purchase Price less the Holdback Amount, the Escrow Amount and the Deferred Capex Escrow Amount (it being understood that no portion of the Holdback Amount is to be included in the Escrow Amount for purposes of determining the Final Adjusted Closing Amount);
+Final Purchase Price has the meaning set out in Clause 3.1;
+Government Bid means any offer, quotation, bid or proposal to sell products or services offered by any Group Company to any Regulatory Authority or any prime contractor of any Regulatory Authority or any higher-tier subcontractor of any prime contractor of a Regulatory Authority before the Closing Date that, if accepted, would result in a Government Contract;
+Government Contract means any contract, including any prime contract, subcontract, facility contract, teaming agreement or arrangement, joint venture agreement, basic ordering agreement, pricing agreement, letter contract, purchase order, delivery order, task order or other contractual arrangement of any kind, as modified by binding modification or change orders, between any Group Company and (i) any Regulatory Authority (acting on its own behalf or on behalf of another country or international organization), (ii) any prime contractor of any Regulatory Authority, or (iii) any subcontractor (at any tier) to any Group Company with respect to any contract of a type described in clauses (i) or (ii) above. For purposes of clarity, a task order, purchase order or delivery order issued pursuant to a Government Contract will be considered a part of the Government Contract to which it relates;
+Government Official means any official, officer, employee, or representative of, or any person acting in an official capacity for or on behalf of, any Regulatory Authority, and includes any official or employee of any entity directly or indirectly 50% or more owned or controlled by any Regulatory Authority, and any officer or employee of a public international organization;
+Governmental Order means any order, judgment, injunction, decree, writ, stipulation, determination or award, in each case, entered by or with any Regulatory Authority;
+
+
+EXHIBIT 10.5
+
+Group or Group Companies means (i) the Company, (ii) Asco Industries NV, and its (direct and indirect) subsidiaries Asco Finance USA NV, Asco Aero Industries NV (merged by acquisition by Asco Industries NV as of 3 April 2017), Asco Deutschland GmbH, Asco Industries USA Inc., Asco Design Center USA Inc., Asco Aerospace USA LLC, SREC LLC, Asco Aerospace Canada Ltd., (iii) Flabel Corporation NV, Belairbus NV, (iv) Asco Management NV, and (v) Immobilière Asco NV, and its subsidiaries Asco Real Estate Canada Ltd. and Asco Real Estate USA Inc.;
+Guaranteed Exchange Rate means the average of the USD/EUR exchange spot rate at close of business on the last three (3) Business Days before the Signing Date as published on the website of the European Central Bank, i.e. 0.8261;
+Hazardous Substance means any material or substance regulated pursuant to any Environmental Law due to a potential for causing harm to health, safety or the environment, including any substance or material that is defined or deemed to be “hazardous”, “toxic”, “deleterious”, “caustic”, “dangerous”, a “contaminant”, a “waste”, a “source of contamination” or a “pollutant” under any Environmental Law, and includes any breakdown or related substances;
+Holdback Account means the account of the Escrow Agent on which the Holdback Amount is deposited and blocked;
+Holdback Agreement means the agreement in a form substantially in line with the holdback arrangements included in the draft agreement attached as Schedule 9 (save for any comments to be made by the Escrow Agent, to be acceptable to all Parties, such consent not to be unreasonably withheld) to be entered into among the Parties and the Escrow Agent on the Closing Date governing the payment in escrow and release of the Holdback Amount into and from the account of the Escrow Agent;
+Holdback Amount means the amount of USD 7,000,000 (USD seven million) paid in escrow into the account of the Escrow Agent pursuant to the Holdback Agreement;
+Independent Auditor has the meaning set out in Clause 3.4;
+Information Memorandum means the information memorandum dated 22 March 2018 provided by the Sellers and Lazard as included in Schedule 3;
+Initial Purchase Price has the meaning set out in Clause 3.2;
+Insurance Policies has the meaning set out in title 19.1 of Schedule 2;
+Intellectual Property Rights means all rights anywhere in the world in or to: (i) trademarks, service marks, brand names, certification marks, collective marks, d/b/a’s, logos, symbols, trade dress, trade names, and other indicia of origin, all applications and registrations for the foregoing, and all goodwill associated therewith and symbolized thereby, including all renewals of the same; (ii) patents, patent applications, registrations and invention disclosures, including divisionals, revisions, supplementary protection certificates, continuations, continuations-in-part, renewals, extensions, substitutes, re-issues and re-examinations; (iii) confidential or proprietary trade secrets, inventions, discoveries, ideas, improvements, information, know-how, data and databases, including processes, schematics, business methods, formulae, drawings, specifications, prototypes, models, designs, customer lists and supplier lists; (iv) published and unpublished works of authorship, whether copyrightable or not (including Software, website and mobile content, data, databases and other compilations of information), copyrights therein and thereto, and registrations and applications therefor, and all renewals, extensions, restorations and reversions thereof; and (v) Internet domain names and URLs; and (vi) all other intellectual property, industrial or proprietary rights;
+IT Assets means technology devices, computers, computer programs, applications, middleware, firmware, microcode or other software (whether in source code or object code or other format), servers, networks, workstations, routers, hubs, circuits, switches, data communications lines, and all other information technology equipment, and all data stored therein or processed thereby, and all associated documentation;
+Law means any laws (including the common law), regulations, by-laws, regulatory constraints, obligations or rules (including binding codes of conduct, binding guidelines, binding policies and binding statements of principle incorporated and contained in such rules), orders, judgments, and directives of any Regulatory Authority applicable to, as the case may be, a Seller, a Seller’s Affiliates, the Purchaser, the Purchaser’s Affiliates, the Company, the relevant Group Company or to the existence or operation of this Agreement;
+Long Stop Date means July 15, 2019;
+
+
+EXHIBIT 10.5
+
+Material Contracts means all contracts with an annual value of more than EUR 250,000 (two hundred and fifty thousand euro) or more than USD 310,000 (three hundred and ten thousand US dollar) depending on the currency of the contract;
+Material Adverse Change means any change, development, circumstance, fact or effect that, individually or taken together with any other changes, developments, circumstances, facts or effects is, or would reasonably be expected to be, materially adverse to the condition (financial or otherwise), assets, liabilities (current or future), business operations or operational results of the Group, excluding, however, in each case any change, development, circumstance, fact or effect arising out of or resulting from:
+(i)    changes in general economic, financial, political or social conditions or climate in any geographic region in which the Group is active;
+(ii)    changes that affect the market or industry in which the Group is active, as a whole;
+(iii)    changes to any foreign exchange rates;
+(iv)    changes in any applicable Law, or a modification by the competent Regulatory Authority of their current methodology in applying such Law or changes in generally accepted accounting principles pursuant to which the Group is required to change its accounting policies or practices;
+(v)    any failure of the Group to meet any (published or internally prepared) projections, budgets, plans or forecasts of earnings, revenues or other financial performance measures or operating statistics (regardless of whether such projections, budgets, plans or forecasts were made by the Sellers or independent third parties, but for the avoidance of doubt not excluding the underlying cause of such failure);
+(vi)    any act or omission requested by the Purchaser or otherwise approved in writing by the Purchaser,
+unless, in case (i) and (ii) above, such changes disproportionally affect the financial condition, business operations, assets, liabilities or operational results of the Group as compared to other companies active in the same industry as the Group;
+Net Debt means the sum of the following elements from the consolidated and audited annual accounts of the Company for the accounting period ending at Closing:
+a)
+Long-term financial debt (statutory accounts - Code 170/4);
+
+b)
+Part of the long-term debts falling due within one year (statutory accounts - Code 42) but excluding the short term portion of advances (statutory subaccounts 426);
+
+c)
+Short term financial debts (statutory accounts - Code 43);
+
+d)
+The debt-like component, reported on the Closing Accounts, as agreed between the Parties:
+
+i.
+Unpaid dividends - Any outstanding dividend liability at Closing, if any, payable to a shareholder other than a Group Company, is considered as a debt-like component. For the avoidance of doubt, at year-end, these are usually recorded under the following accounts:
+•
+Legal entity: Asco Industries NV - statutory account #480000
+•
+Legal entity: SRIF NV - statutory account #471001
+
+ii.
+Corporate taxes payable - Any accruals for corporate income taxes (CIT), as reported under statutory accounts 450 are considered as a debt-like component. In case, any of the Group Companies’ performed advance payments (statutory account 412) should be deducted from the debt-like components. For the avoidance of doubt, this should include (at least) the corporate income tax for (i) FY17, (ii) the period from 1 January 2018 to Closing as well as (iii) any other corporate income taxes that would be notified to the Company before closing.
+
+iii.
+Accrued interests - Any accrued interest (payables) on long- and short-term financing, as considered above, as reported under statutory accounts 492. At legal entity level, these are usually reported under the following local accounts:
+
+
+EXHIBIT 10.5
+
+•
+Asco Industries NV: accounts #492020, # 492052, #492064, #492300, #492310 and #492400
+•
+Asco Aerospace Canada Ltd: account #2153
+
+iv.
+(Net) provision for pension and pre-pension - Provision for Belgian and German (pre-) pension, as reported under statutory codes 165 (liability) and 285 (asset) are considered as a debt-like component. At legal entity level, these are usually reported under the following local accounts:
+•
+Asco Industries NV: account #160001 and #160003
+•
+Asco Deutschland GmbH: account #951 and #1357
+
+v.
+Provision for severance payments - Any outstanding liability with respect to severance payment is considered as a debt-like component. Such provisions are usually recorded under statutory accounts 165.
+
+vi.
+Unpaid transaction costs - Any outstanding payable with respect to the Transaction, such as advisors’ remuneration, legal expenses, Transaction bonus but excluding potential changes in control fees are to be considered as a debt-like component.
+
+vii.
+Overtime provision (in Belgium) - The historical overtime provision for both blue and white workers is considered as a debt-like component. At legal entity level, these are usually reported under the following local accounts:
+•
+Asco Industries NV: account #459620 and #459630
+
+Altogether, the above items are referred to as the Debt-Like Adjustments
+Less
+e)
+Cash deposit and investment (Codes 50 and 51/53);
+
+f)
+Cash and cash equivalents (codes 54/58);
+
+g)
+The cash-like items, reported in the Closing Accounts, as agreed between the Parties:
+
+i.
+Accrued interests - Any accrued interest (receivable - if any) on cash and cash equivalent, as considered above, and as reported under statutory accounts #490/491. At legal entity level, these are usually reported under the following local accounts:
+•
+Asco Industries NV: account #414001, #414012 and #414300
+
+Altogether, the above items are referred to as the Cash-Like Adjustments
+In addition to the above, the Parties have agreed to consider the following elements as debt- and/or cash-like at Closing. For the avoidance of doubt, these elements are the result of a negotiation and are not accounted for in the audited consolidated financial statements for the year 2017.
+Each of the above items or elements shall be calculated in accordance with Belgian GAAP, applied consistently in accordance with prior years.
+h)
+Elements of negotiation between Parties:
+
+i.
+Employee related liabilities - The Purchaser is of the opinion, on the basis of its own analysis, that some employee related liabilities that are not accounted for in the Group Companies balance sheet, should have been accounted for in accordance with US GAAP, such as: seniority days in Belgium, additional German pension plan, German jubilee plan, Belgian jubilee plan and Belgian pension plan. The Purchaser and the Sellers have negotiated a lump-sum amount of EUR 6,500,000 (six million five hundred thousand euros) to cover these. If, in accordance with Belgian GAAP, the Belgian pension plan liability would exceed EUR 400,000 (four hundred thousand euros), the excess of liability would be added to this lump sum amount for purposes of calculating the Net Debt. For the avoidance of doubt, this adjustment results in a negative adjustment to the Initial Purchase Price (i.e., debt-like component).
+
+ii.
+Value of the Existing Operational Hedges - The Parties have agreed to consider 50% of the Value of the Existing Operational Hedges as a price adjustment. For the avoidance of doubt, and given the uncertainty
+
+
+EXHIBIT 10.5
+
+about the evolution of the foreign exchange rate, this element will impact on the Initial Purchase Price as follows:
+•
+Any upward adjustment in case the Value of the Existing Operational Hedges would be positive (i.e., cash-like);
+•
+Any downward adjustment in case the Value of the Existing Operational Hedges would be negative (i.e., debt-like).
+
+iii.
+Break up fee - The parties have agreed that at or immediately following Closing, the Purchaser is entitled to repay outstanding indebtedness of the Group towards financial institutions and any outstanding financial instruments listed in Schedule 5, and that make-whole amounts incurred in connection with such repayment will be treated as a debt-like component up to a maximum amount of EUR 3,304,400 (three million three hundred four thousand four hundred euros), to be decreased by the related tax effect. For the avoidance of doubt, this adjustment results in a negative adjustment to the Initial Purchase Price.
+
+Altogether, the above items are referred to as the Negotiated Adjustments
+For illustrative purposes, the calculation of Net Debt based on the consolidated and audited annual accounts of the Company for the financial year ending on 31 December 2017 is included in Schedule 6;
+Net Working Capital the sum of the following elements from the consolidated and audited annual accounts of the Company for the accounting period ending at Closing:
+a)
+Inventory (statutory accounts - codes 30/37);
+
+b)
+Trade receivables (statutory accounts - code 40);
+
+c)
+Other receivables - long-term (statutory accounts - code 29);
+
+d)
+Other receivables - short-term (statutory accounts - code 41);
+
+e)
+Deferred charges and accrued income (statutory accounts - code 490/1);
+
+Less
+f)
+Long-term portion of advances received (statutory subaccount 176);
+
+g)
+Short-term portion of advances received (statutory subaccount 426);
+
+h)
+Trade payables (statutory accounts - code 44);
+
+i)
+Taxes related balances (statutory subaccount 450/3);
+
+j)
+Payroll accruals (statutory subaccount 454/9);
+
+k)
+Other liabilities (statutory accounts - code 47/48);
+
+Altogether, the above elements from a) to k) represents the reported Net Working Capital. The latter should be adjusted for by the following elements to determine the Net Working Capital:
+l)
+Any of the Cash-Like Adjustments and Debt-Like Adjustments set out in Schedule 6;
+
+m)
+Elements of negotiation between Parties:
+
+i.
+Provision LT Services - The Parties agreed to exclude the provision for long-term services from the Net Working Capital calculation. At legal entity level, these are usually reported under the following local accounts:
+•
+Asco Industries NV: account #492024
+
+
+
+EXHIBIT 10.5
+
+ii.
+LT receivable A380 - The Parties agreed to exclude the long-term receivable for A380 from the Net Working Capital calculation. At legal entity level, these are usually reported under the following local accounts:
+•
+Asco Industries NV: account #291022
+
+Each of the above items or elements shall be calculated in accordance with Belgian GAAP, applied consistently in accordance with prior years.
+For illustrative purposes, the calculation of Net Working Capital based on the consolidated and audited annual accounts of the Company for the financial year ending on 31 December 2017 is included in Schedule 7;
+Net Working Capital Ceiling means EUR 49,000,000 (forty nine million Euro);
+Net Working Capital Floor means EUR 45,000,000 (forty five million Euro);
+Non-VDR USB Sticks has the meaning set out in Schedule 3;
+NMTC Loan Agreement means the Loan Agreement, dated as of June 26, 2013, among Asco Aerospace USA, LLC, MF Stillwater, LLC and REI New Markets Investment, LLC, on behalf of Series FF;
+Organizational Documents means articles of association and by-laws or comparable governing documents, each as amended to the date hereof;
+OVAM has the meaning set out in Clause 10;
+Objection has the meaning set out in Clause 3.3.3;
+Personal Information means the type of information collected, used or disclosed by the Group Companies, including information such as an individual’s name, address, age, gender, identification number, income, family status, citizenship, employment, assets, liabilities, source of funds, payment records, credit information, personal references and health records, but does not include the name, title or business address or telephone number of an employee;
+Price Adjustment has the meaning set out in Clause 3.3;
+Proceeding means any action, suit, claim, litigation, arbitration, proceeding (including any civil, criminal, administrative or appellate proceeding), hearing, investigation or public inquiry commenced, brought, conducted or heard by or before, or otherwise involving, any arbitrator, arbitration panel, court or other Regulatory Authority;
+Purchaser’s Closing Obligations has the meaning set out in Clause 5.3;
+Purchaser’s Group means the Purchaser and any persons and companies that are affiliated persons and entities (“verbonden personen” and “verbonden vennootschappen”) of the Purchaser within the meaning of section 11 of the Companies Code (including after Closing);
+Purchasers’ Representations and Warranties has the meaning set out in Clause 12.1;
+Registered IP means any Intellectual Property Rights that are issued by, registered with, renewed by or the subject of a pending application before any governmental or administrative authority or Internet domain name registrar;
+Regulatory Authority means any supranational, national, state, regional or local government (including any subdivision, court, administrative agency, commission or other authority thereof) or any quasi-governmental or private body exercising any regulatory, taxing, importing or other governmental or quasi-governmental authority;
+Resigning Directors means (i) the directors of the Group Companies and (ii) the members of any strategic committee, any audit committee or any finance committee of any of the Group Companies to the extent that they are not employees of any of the Group Companies, including their respective Affiliated companies that have entered into a service agreement with any of the Group Companies, that are set out in Schedule 8;
+Resigning Officers means (i) the directors of any of the Group Companies that are also employees of any of the Group Companies, (ii) the officers of the Group Companies and (iii) the members of any executive committee, any management
+
+
+EXHIBIT 10.5
+
+committee, any finance committee and any retirement plan committee of any of the Group Companies, that are set out in Schedule 8;
+Response Period has the meaning set out in Clause 8.4;
+Resolution Period has the meaning set out in Clause 3.3.3;
+Revenue Objection has the meaning set out in Clause 3.5.5;
+Revenue Resolution Period has the meaning set out in Clause 3.5.5;
+Revenue Review Period has the meaning set out in Clause 3.5.5;
+Revenues means the 2020 Revenue, the 2021 Revenue and the 2022 Revenue;
+Rules has the meaning set out in Clause 26.2;
+Sanctioned Person means (i) any person identified in any list of sanctioned persons maintained by or (a) the European Union, (b) the United States Department of Treasury, Office of Foreign Assets Control, the United States Department of Commerce, Bureau of Industry and Security, or the United States Department of State, (c) Her Majesty’s Treasury of the United Kingdom, (d) Global Affairs Canada or (e) any committee of the United Nations Security Council, (ii) a Regulatory Authority of any country subject to Sanctions, and (iii) any person controlled by, or acting on behalf of, a person described in clauses (i) or (ii);
+Sanctions means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by or (i) the European Union, (ii) the United States Department of Treasury, Office of Foreign Assets Control, the United States Department of Commerce, Bureau of Industry and Security, or the United States Department of State, (iii) Her Majesty’s Treasury of the United Kingdom, (iv) Global Affairs Canada or (v) any committee of the United Nations Security Council;
+Sellers’ Closing Obligations has the meaning set out in Clause 5.2;
+Sellers’ Knowledge has the meaning set out in Schedule 2;
+Sellers’ Representations and Warranties means the representations and warranties on the part of the Sellers contained in Schedule 2;
+Sellers’ Representative has the meaning set out in Clause 17.5;
+Senior Employee means any person that exercises any of the following functions in any Group Company: Chief Financial Officer; Chief Commercial Officer; Chief Operational Officer; Chief Technical Officer; Chief Human Resources Officer; Technology Director; Lean Director; Global HSE Director; Plant Director; HR Adm & Pers Relations Director; Risk, tax & compliance Director; Industrial Development Director; Quality Assurance Director; Business Deployment Director; Chief Engineer & DO Director; Commercial Director; Director Program Management; General Manager & Vice President Asco Aerospace Canada Ltd.; Controlling Director; Special Projects Director; Infrastructure & Investment Director; IT Director;
+Shares has the meaning set out in recital (B);
+Significant Customer has the meaning set out in title 17 of Schedule 2;
+Significant Supplier has the meaning set out in title 17 of Schedule 2;
+Signing Date means the date of execution of this Agreement;
+Software means any computer program, application, middleware, firmware, microcode and other software, including operating systems, software implementations of algorithms, models and methodologies, in each case, whether in source code, object code or other form or format, including libraries, subroutines and other components thereof, and all documentation relating thereto;
+
+
+EXHIBIT 10.5
+
+Specific Indemnities has the meaning set out in Clause 10.1;
+Spot Exchange Rate means, with respect to any Damages for which the Purchaser submits a Claim Notice pursuant to Clause 8.3 or Clause 10.2, the average of the USD/EUR exchange spot rate at close of business on the last three (3) Business Days prior to the date on which Sellers’ indemnification obligations with respect to such Claim Notice are finally determined, as published on the website of the European Central Bank (save for purposes of Clause 9.2.1 where the calculation date shall be the date on which the Damage is deemed to have been incurred by the Purchaser and/or the Group Companies);
+Target Revenues means the 2020 Target Revenue, the 2021 Target Revenue and the 2022 Target Revenue;
+Tax means any direct or indirect taxes and social security charges, in each case, including applicable interest and penalties, which any of the Group Companies is required to pay, withhold or collect, including any income taxes, capital gains taxes, real property taxes, stamp duties, V.A.T., excise taxes, employee withholding taxes and social security;
+Tax Return means all tax returns, declarations, statements, reports, schedules, tax slips, forms and information returns and any amended tax return related to Taxes filed or required to be filed in any jurisdiction;
+Tax Savings has the meaning set out in Clause 9.8.3;
+Tax Warranties means the Sellers’ Representations and Warranties set out in title 11 of Schedule 2;
+Title Warranties means the Sellers’ Representations and Warranties set out in title 3 of Schedule 2;
+Transaction means the sale of the Shares by the Sellers to the Purchaser;
+Transaction Documents means this Agreement (including its Schedules and Annexes), the Deferred Capex Escrow Agreement, the Holdback Agreement and the Escrow Agreement;
+USB Sticks has the meaning set out in Schedule 3;
+Value of the Existing Operational Hedges means the mark-to-market value at Closing of the Existing Operational Hedges remaining at Closing as communicated to the Group Companies by the financial institutions that operate as counterparties to the Group Companies with respect to the Existing Operational Hedges, excluding, for the avoidance of doubt, Existing Operational Hedges expired between Signing and Closing and new operational hedges entered into between Signing and Closing;
+VDR Main Room USB Sticks has the meaning set out in Schedule 3;
+VDR Clean Rooms USB Sticks has the meaning set out in Schedule 3.
+1.2
+Where in this Agreement a Dutch or French term is given in italics or in italics and in brackets after an English term and there is any inconsistency between the Dutch or French and the English, the meaning of the Dutch or French term shall prevail.
+
+1.3
+References to EUR mean the Euro currency. References to USD mean the US Dollar currency.
+
+1.4
+All periods of time set out in this Agreement shall be calculated from midnight to midnight in Belgium. They shall start on the day following the day on which the event triggering the relevant period of time has occurred. The expiration date shall be included in the period of time. If the expiration date is not a Business Day, the expiration date shall be postponed until the next Business Day. Unless otherwise provided herein, all periods of time shall be calculated in calendar days.
+
+1.5
+Article, clause, schedule and annex headings and captions are for convenience only and shall not affect or limit the construction or interpretation of this Agreement.
+
+1.6
+A reference in this Agreement to a “person” shall include any individual, company, corporation, firm, government, state or agency of a state or any association, trust or partnership (whether or not having legal personality).
+
+
+EXHIBIT 10.5
+
+1.7
+A reference in this Agreement to a company shall be construed so as to include any company, corporation or other body corporate or other legal entity, wherever and however incorporated or established, and shall include any legal entity or entities into which such company may be merged by means of a statutory merger or into which it may be split by means of a statutory de-merger.
+
+1.8
+A reference in this Agreement to the singular shall, unless the context otherwise requires, include a reference to the plural and vice versa.
+
+1.9
+The words “include”, “including” and all forms and derivations thereof shall mean including but not limited to.
+
+1.10
+When the words “shall cause” or “shall procure that” (or any similar expression or any derivations thereof) are used, the Parties refer to the Belgian legal concept of “sterkmaking” / “porte-fort” but this shall also include a guarantee by the relevant party of the due and timely performance of all actions, agreements and obligations to be performed by the relevant third party under the terms and conditions of this Agreement.
+
+2
+SALE AND PURCHASE
+
+2.1
+On the terms and subject to the conditions of this Agreement, each Seller hereby sells and the Purchaser hereby purchases the Shares set opposite each Seller’s name in Schedule 1.
+
+2.2
+The Shares are sold free from any Encumbrances and together with all rights attaching thereto, including all rights to dividends relating to the current accounting year.
+
+2.3
+The ownership of the Shares will be transferred to the Purchaser on Closing against payment of the Final Purchase Price in accordance with Clause 3.
+
+3
+PURCHASE PRICE MECHANISM
+
+3.2
+Final Purchase Price
+The purchase price for the Shares shall be equal to the Initial Purchase Price calculated in accordance with Clause 3.2, adjusted, as the case may be, with the amount of the Price Adjustment in accordance with Clause 3.3 (as so adjusted, the “Final Purchase Price”).
+3.2
+Initial Purchase Price
+
+The initial purchase price for the Shares amounts to USD 650,000,000 (six hundred and fifty million US dollar), reflecting the Agreed Enterprise Value on a fully consolidated basis (the “Initial Purchase Price”).
+3.3
+Price Adjustment
+
+a.
+The Initial Purchase Price will be adjusted based on the Closing Accounts, as follows (the “Price Adjustment”):
+
+•
+the Initial Purchase Price will be decreased by an amount equal to the Net Debt, converted into USD at the Guaranteed Exchange Rate;
+
+•
+If the amount of Net Working Capital as at Closing exceeds the Net Working Capital Ceiling, the Initial Purchase Price will be increased by an amount equal to such excess, converted into USD at the Guaranteed Exchange Rate; and
+
+•
+If the amount of Net Working Capital as at Closing is lower than the Net Working Capital Floor, the Initial Purchase Price will be decreased by an amount equal to such shortfall, converted into USD at the Guaranteed Exchange Rate;
+
+provided that the Initial Purchase Price shall be preliminarily adjusted on the Closing Date based on the pre-Closing best estimate of the Sellers of the Closing Accounts using the best estimates of balance sheet amounts using the most recently available balance sheet prior to the Closing Date (including for the avoidance of doubt the year-end adjustments that would be included if the Closing Date were a fiscal year-end) as a starting point for the analysis (the “Best Estimate”), acting reasonably, of the amounts set forth in Clause 3.3.1 and will be further adjusted post-Closing based on the amounts set forth in Clause 3.3.1 as at the Closing Date in accordance with Clause 3.3.2 based on the Closing Accounts with respect to such amounts. The Sellers will provide a draft of the Best Estimate five (5) Business Days prior to Closing and take into consideration
+
+
+EXHIBIT 10.5
+
+all reasonable comments of the Purchaser prior to Closing. All underlying calculations shall be made in EUR; the resulting adjustments to Net Debt or Net Working Capital, if any, shall be expressed in USD using the Guaranteed Exchange Rate.
+Both the Best Estimate and any amounts payable further to Clause 3.3.4 shall be payable to the Sellers in Euro and the USD amounts determined further to this Clause 3 shall for such purposes be converted into EUR at the Guaranteed Exchange Rate, save for the Deferred Capex Amount, the Holdback Amount and the Escrow Amount which will be paid to the Escrow Agent in USD.
+b.
+Within ninety (90) days of the Closing Date, the Purchaser shall cause to be prepared an audited consolidated balance sheet of the Company (including, for the avoidance of doubt, the year-end adjustments that would be included if the Closing Date were a fiscal year-end) as at Closing (without taking into account any circumstances resulting solely from the transactions contemplated hereby other than costs incurred as result of paying off the outstanding indebtedness of the Group and any outstanding financial instruments, listed in Schedule 5, up to a maximum amount of EUR 3,304,400 (three million three hundred four thousand four hundred euros), to be decreased by the related tax effect) and a statement calculating the adjustments referred to in Clause 3.3.1, prepared in accordance with Belgian GAAP, applied consistently in accordance with prior years (provided that if the application in prior periods is not reconcilable with Belgian GAAP, then Belgian GAAP takes precedence) (collectively, the “Closing Accounts”). All underlying calculations shall be made in EUR; the resulting adjustments to Net Debt or Net Working Capital, if any, shall be expressed in USD using the Guaranteed Exchange Rate. The Purchaser shall provide details of any variance between the calculation of the Price Adjustment and the Final Purchase Price resulting therefrom based on the Closing Accounts and the Best Estimate. The Purchaser shall deliver or cause to be delivered to the Sellers’ Representative (for and on behalf of the Sellers) the Closing Accounts and the statement comprising the details of any variance between the Best Estimate and the calculation of the Price Adjustment and the Final Purchase Price resulting therefrom based on the Closing Accounts within ninety (90) days of the Closing Date, and the Purchaser shall, subject to appropriate confidentiality undertakings being entered into, provide the Sellers’ Representative (and its advisors) reasonable access to all relevant documents, books, records and working papers used in preparation of the Closing Accounts or useful for verifying the Closing Accounts and the calculation of the Price Adjustment and the Final Purchase Price resulting therefrom, to the extent reasonably required for such review and will and shall cause the internal accounting personnel of the Group Companies to fully cooperate with and assist the Sellers’ Representative (and its advisors) with its review.
+
+c.
+The Sellers’ Representative shall have thirty (30) Business Days from the date it receives the Closing Accounts to review the Closing Accounts, and to inform the Purchaser in writing of its disagreement (an “Objection”) with the Closing Accounts or the calculation of the Price Adjustment and the Final Purchase Price resulting therefrom based on the Closing Accounts, if any. If the Sellers’ Representative raises no Objection within such thirty (30) Business Day period, the Closing Accounts shall be deemed to have been accepted by the Sellers’ Representative (for and on behalf of the Sellers) and shall become binding upon the Sellers and the Purchaser. If the Sellers’ Representative delivers an Objection to the Purchaser within such thirty (30) Business Day period, the Purchaser and the Sellers’ Representative, for and on behalf of the Sellers, shall then attempt in good faith to resolve their disagreement(s) within thirty (30) Business Days from the time the Objection is received (the “Resolution Period”). If the Sellers’ Representative, for and on behalf of the Sellers, and the Purchaser are unable to resolve their disagreement(s) with respect to the Closing Accounts within the Resolution Period, such dispute shall be submitted to the Independent Auditor in accordance with Clause 3.4.
+
+d.
+If the Closing Amount paid by the Purchaser to the Sellers at Closing is higher than the Final Adjusted Closing Amount, then the difference, converted into USD at the Guaranteed Exchange Rate, shall be paid by the Sellers to the Purchaser through a distribution to the Purchaser by the Escrow Agent to the extent possible out of the Holdback Amount (but not, for the avoidance of doubt, from the Escrow Amount or the Deferred Capex Amount) promptly and in any event within five (5) Business Days of the final determination of the Final Purchase Price as contemplated hereunder and from the Sellers, if the Holdback Amount is insufficient. The Sellers and the Purchaser shall take all actions and execute and deliver all documents to the Escrow Agent reasonably required pursuant to the Holdback Agreement to effect any release from the Holdback Account pursuant to the preceding sentence. If the Closing Amount paid by the Purchaser to the Sellers at Closing is lower than the Final Adjusted Closing Amount, then the difference shall be paid by the Purchaser to the Sellers promptly and in any event within five (5) Business Days of the final determination of the Final Purchase Price as contemplated hereunder.
+
+e.
+If all or any portion of the Holdback Amount is not distributed to the Purchaser by the Escrow Agent pursuant to Clause 3.3.4 (whether because the Final Adjusted Closing Amount exceeded the Closing Amount or because the Closing Amount exceeded the Final Adjusted Closing Amount by an amount less than the Holdback Amount), then the Sellers and the Purchaser shall take all actions and execute and deliver all documents to the Escrow Agent reasonably required pursuant to the Holdback Agreement to effect the distribution by the Escrow Agent of the remainder of the Holdback Amount from
+
+
+EXHIBIT 10.5
+
+the Holdback Account to the Escrow Account and such funds shall thereafter be included in the Escrow Amount and shall be available for the satisfaction of Claims pursuant to Clause 8, subject to the limitations of Clause 9.
+
+3.4
+Independent Auditor
+
+a.
+If the Parties are unable to reach an agreement as set forth in Clause 3.3.3 or Clause 3.5.5, the matters of contention shall be settled by an independent audit firm of good international repute not being the statutory auditor of the Company or any of the Group Companies, the Sellers, the Purchaser or of any of their Affiliates and which has not provided services to any of these persons over the three (3) years preceding the Closing Date, as the Sellers and the Purchaser shall agree or, failing agreement, appointed by the Chairman of the “Institut des réviseurs d’entreprises” / “Instituut der bedrijfsrevisoren” (the “Independent Auditor”). In doing so, the Independent Auditor shall perform a mission within the meaning of section 1592 of the Belgian Civil Code. The Independent Auditor shall be requested to make its decision on the matters in dispute (excluding any other items) within twenty (20) Business Days of confirmation and acknowledgement by the Independent Auditor of its appointment.
+
+b.
+The Independent Auditor shall act on the following basis:
+
+•
+the Independent Auditor shall determine the procedure to be followed in deciding the matter, it being understood that it shall allow the Parties to make written statements on the disputed matter;
+
+•
+the Seller and the Purchaser shall each provide (and to the extent they are reasonably able to do so, shall procure that their respective accountants, employees or advisors provide) the Independent Auditor promptly with all information which it reasonably requires and the Independent Auditor shall be entitled (to the extent considered appropriate by it) to base its opinion on such information and on the accounting and other records of the Company;
+
+•
+in connection with an engagement pursuant to Clause 3.3.3, the Independent Auditor shall determine values of Net Debt and Net Working Capital within the range presented by the Parties, applying the definitions of Net Debt and Net Working Capital as set out in this Agreement and calculated in accordance with Schedule 6 and Schedule 7 respectively;
+
+•
+in connection with an engagement pursuant to Clause 3.5.5, the Independent Auditor shall determine the value of 2020 Revenue, 2021 Revenue or 2022 Revenue, as relevant, within the range presented by the Parties, applying the definition of Annual Revenue as set out in this Agreement; and
+
+•
+the decision of the Independent Auditor shall (in the absence of manifest error or manifest breach of the principles set out in this Agreement) be final and binding upon the Parties.
+
+c.
+In connection with an engagement pursuant to Clause 3.3.3, the fees and expenses of the Independent Auditor shall be borne by the Parties in the same proportion as the aggregate amount of the disputed matters submitted to the Independent Auditor bears to the matters successfully disputed by such Party (as finally determined by the Independent Auditor) or in such other proportions as the Independent Auditor shall determine. In connection with an engagement pursuant to Clause 3.5.5, the fees and expenses of the Independent Auditor shall be borne by the Sellers, unless the Independent Auditor determines the respective amount should have been released to the Sellers because the respective Revenue had not been correctly determined.
+
+3.5
+Deferred Capex Escrow
+
+a.
+If Annual Revenue for calendar year 2020 (“2020 Revenue”) equals or exceeds 2020 Target Annual Revenue, USD 7,000,000 (USD seven million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Sellers pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2021, and if 2020 Revenue does not equal or exceed 2020 Target Revenue, then USD 7,000,000 (USD seven million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Purchaser pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2021.
+
+b.
+If Annual Revenue for calendar year 2021 (“2021 Revenue”) equals or exceeds 2021 Target Annual Revenue, USD 7,000,000 (USD seven million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Sellers pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2022, and if 2021 Revenue does not equal or exceed 2021 Target Revenue, then USD 7,000,000 (USD seven million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Purchaser pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2022.
+
+
+EXHIBIT 10.5
+
+c.
+If Annual Revenue for calendar year 2022 (“2022 Revenue”) equals or exceeds 2022 Target Annual Revenue, USD 6,000,000 (USD six million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Sellers pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2023, and if 2022 Revenue does not equal or exceed 2022 Target Revenue, then USD 6,000,000 (USD six million) will be released from the Deferred Capex Escrow Account by the Escrow Agent to the Purchaser pursuant to the Deferred Capex Escrow Agreement no later than February 28, 2023.
+
+d.
+During the period from the Closing Date through December 31, 2022, to the extent permitted by Law, the Guarantor and the Purchaser shall and shall cause their Affiliates (including the Group Companies) to use Commercially Reasonable Efforts to maximize Annual Revenue subject to, for new contracts, requirements regarding appropriate margins, to be agreed upon with the Sellers’ Representative on a case to case basis before the award of any such new contract to one or more of the Group Companies (such agreement not to be unreasonably delayed or withheld); provided, however, that the foregoing shall not require the Guarantor and the Purchaser or their Affiliates to take the following actions (to the extent they would otherwise be considered Commercially Reasonable Efforts): (a) shift or allocate revenue or business opportunities from the Guarantor, the Purchaser or any Affiliate of the Guarantor or the Purchaser to the Group Companies, (b) attempt to accelerate revenue within such period or from future periods, (c) otherwise take any actions or omit to take any actions if such actions or omissions could reasonably be expected to be detrimental to the revenue of the Guarantor and its Affiliates (including the Group Companies) taken as a whole, except if such expectation would result from change in strategy decided by the Guarantor or any of its Affiliates (including the Group Companies).
+
+e.
+The Purchaser shall provide the Sellers’ Representative with a draft of the 2020 Revenue, the 2021 Revenue or the 2022 Revenue, as appropriate, at least ten (10) Business Days prior to the relevant release from the Deferred Capex Escrow Account and take into consideration all reasonable comments of the Sellers’ Representative prior to such release. The Purchaser shall furthermore, subject to appropriate confidentiality undertakings being entered into, and to the extent permitted by applicable Law and reasonably required for such review, provide the Sellers’ Representative (and its advisors) upon its request reasonable access, during regular business hours and upon reasonable advance notice, to all relevant documents, books, records and working papers used in preparation of or useful for verifying the respective Revenue and shall cause the internal accounting personnel of the Group Companies to fully cooperate with and assist the Sellers’ Representative (and its advisors) with its review. The Sellers agree that any review undertaken pursuant to the access granted under this Clause 3.5.5 shall be conducted in such a manner as not to unreasonably interfere with the operation of the Business or otherwise result in any unreasonable interference with the prompt and timely discharge by personnel of the Group Companies of their normal duties.
+The Sellers’ Representative shall have thirty (30) Business Days from the date it receives the 2020 Revenue, the 2021 Revenue or the 2022 Revenue (the “Revenue Review Period”) to review the respective Revenue, and to inform the Purchaser in writing of any disagreement (a “Revenue Objection”) with the calculation thereof. If the Sellers’ Representative raises no Revenue Objection within such thirty (30) Business Day period, the respective Revenue shall be deemed to have been accepted by the Sellers’ Representative (for and on behalf of the Sellers) and shall become binding upon the Sellers and the Purchaser.
+If the Sellers’ Representative delivers a Revenue Objection to the Purchaser within such thirty (30) Business Day period, the Purchaser and the Sellers’ Representative, for and on behalf of the Sellers, shall then attempt in good faith to resolve their disagreement(s) within thirty (30) Business Days from the time the Revenue Objection is received (the “Revenue Resolution Period”). If the Sellers’ Representative, for and on behalf of the Sellers, and the Purchaser are unable to resolve their disagreement(s) with respect to the respective Revenue within the Revenue Resolution Period, such dispute shall be submitted to the Independent Auditor in accordance with Clause 3.4.
+Regardless of whether the Sellers’ Representative has informed the Purchaser of any Revenue Objection in accordance with this Clause 3.5.5 (or whether the Sellers’ Representative is still reviewing such draft during the Revenue Review Period), if the draft Revenue provided by the Purchaser to the Sellers’ Representative for the relevant year pursuant to Clause 3.5.5 does not equal or exceed the corresponding Target Revenue, the appropriate amount pursuant to Clause 3.5.1, 3.5.2 or 3.5.3 will be released from the Deferred Capex Escrow Account to the Purchaser in accordance with the Deferred Capex Escrow Agreement on February 28 of the year following the year of the draft Revenue (e.g., on February 28, 2021 with respect to the draft 2020 Revenue) as provided in Clause 3.5.1, 3.5.2 or 3.5.3. If the Independent Auditor determines that an amount has been released to the Purchaser further to Clause 3.5.1, Clause 3.5.2 or Clause 3.5.3 although it should have been released to the Sellers because the respective Revenue had not been correctly determined, the Purchaser will promptly and in any event within five (5) Business Days following the Independent Auditor’s decision pay the Sellers the respective amount received from the Deferred Capex Escrow Account.
+
+
+EXHIBIT 10.5
+
+f.
+The Sellers and the Purchaser shall take all actions and execute and deliver all documents to the Escrow Agent reasonably required pursuant to the Deferred Capex Escrow Agreement to effect any release from the Deferred Capex Escrow Account pursuant to this Clause 3.5.
+
+4
+CONDITIONS PRECEDENT
+
+4.1
+General
+
+The obligations of the Parties to complete the Transaction are subject to the fulfilment of each of the following conditions precedent on or before 9 a.m. (CET) on the Long Stop Date:
+a.
+there not being in effect on the Closing Date any (executive) order or judgment enacted or issued by a Regulatory Authority or court of competent jurisdiction restricting the Closing of the envisaged Transaction;
+
+b.
+the Regulatory Authorities of the European Union and of the United States of America competent to grant clearance to the Transaction having issued a clearance decision in compliance with the applicable Antitrust Laws (either unconditionally or under conditions acceptable to the Purchaser in accordance with Clause 4.3.4), or the relevant periods after filing a complete notification having expired without the relevant Regulatory Authority issuing a decision with the result that the relevant Regulatory Authority is deemed, under the applicable Antitrust Laws, to have granted approval of the Transaction (the “Competition Condition”); and
+
+c.
+there not having occurred a Material Adverse Change since the date of this Agreement.
+
+4.2
+Conditions to the Obligations of the Purchaser
+
+In addition to the satisfaction of the conditions precedent set forth in Clause 4.1, the obligations of the Purchaser to complete the Transaction are further subject to the fulfilment of each of the following conditions precedent (together with the conditions precedent set forth in Clause 4.1, the “Conditions Precedent”) on or before 9 a.m. (CET) on the Long Stop Date:
+a.
+the profit certificates issued by Asco Industries NV to the benefit of FPIM NV / SFPI SA having been fully and finally purchased by the Company (the price being paid therefore and any other taxes, withholdings to be made, costs or expenses incurred as a result thereof being treated as a Net Debt item to the extent not already paid at the latest on Closing) and there shall be no further right for FPIM NV / SFPI SA nor any further obligation on the Group Companies towards FPIM NV / SFPI SA further to such profit certificates or the purchase agreement following such purchase;
+ 
+b.
+all shares issued by Asco Aerospace Serviços de Representação Ltda. (“Asco Brazil”) having been fully and finally purchased by Christian Boas or any other Seller or any Affiliate of a Seller other than a Group Company; and
+
+c.
+with respect to the change of control clauses included in the commercial agreements listed in Schedule 11, third party consent to the change of control or a waiver by the third party of the benefit of the change of control clauses having been obtained by the Parties.
+
+4.3
+Satisfaction of Conditions Precedent
+
+a.
+The Parties shall (and, to the extent applicable, the Sellers shall cause the Group Companies to) use their Commercially Reasonable Efforts (save with respect to the Competition Condition, where Clause 4.4 hereafter will apply) to ensure that the Conditions Precedent are satisfied as soon as reasonably practicable and on the Long Stop Date at the latest. Notwithstanding section 1179 of the Belgian Civil Code, the fulfilment of the Conditions Precedent set out in Clause 4.1 shall have no retroactive effect regarding this Agreement.
+
+b.
+Where any Condition Precedent is capable of being waived (in whole or in part), the Parties may jointly (or, with respect to a Condition Precedent set out in Clauses 4.2.1 through 4.2.3, the Purchaser may) waive in writing that Condition Precedent at any time on or before the Closing Date and that Condition Precedent (or, where applicable, that part of it) will be deemed to have been satisfied by such waiver.
+
+4.4
+Conduct of Competition filing
+
+a.
+After execution of this Agreement the Purchaser shall be solely responsible for obtaining all consents, approvals, clearances, waivers or actions of the Regulatory Authorities required under applicable Antitrust Law to be made or
+
+
+EXHIBIT 10.5
+
+obtained necessary to fulfil the Competition Condition as soon as possible. The Sellers undertake to reasonably cooperate with the Purchaser by providing all required information and to assist in such filings.
+
+b.
+The Purchaser shall promptly notify the Sellers in advance of any notification, submission, response or other communication which it proposes to make or submit to any Regulatory Authorities pursuant to Clause 4.4.1 (including, but not limited to the submission of pre-notifications, appearances, presentations, memoranda, definitive filings and any proposed understandings, undertakings or agreements with the Regulatory Authorities) and at the same time provide the Sellers with drafts and copies thereof and any supporting documentation or information reasonably requested by the Sellers, it being understood that such copies or documentation may be redacted in order to avoid the communication of business secrets of the Purchaser. The Purchaser undertakes to take due consideration of any reasonable comments which the Sellers may have and to use its reasonable efforts to provide the Sellers with sufficient time to make such comments.
+
+c.
+The Purchaser agrees to keep the Sellers fully informed as to the progress of any enquiry by the Regulatory Authorities in the context of the Competition Condition.
+
+d.
+Where necessary to remove any impediments, restrictions, or conditions that prevent the fulfilment of the Competition Condition, the Purchaser agrees to use its Commercially Reasonable Efforts to offer and agrees to accept, in each of such jurisdictions, any remedies that are required to obtain such competition clearance that do not adversely impact the economic value of the Transaction to Purchaser (other than impacts that in the aggregate only have a De Minimis economic impact), it being stipulated for the avoidance of doubt that any remedy that includes a divestiture of any assets of the Group or the Purchaser’s Group shall be deemed to have a more than De Minimis economic impact. In this view and without prejudice to the generality of the foregoing, as soon as any Regulatory Authority reasonably expresses, formally or informally to Purchaser, any concerns about the impact of the Transaction, the Purchaser shall promptly inform the Sellers and their legal advisors and keep them informed in advance of the measures that the Purchaser is considering to take, or the commitments that it is considering to propose, in order to resolve these concerns as the case may be.
+ 
+4.5
+Notification of satisfaction of Conditions Precedent
+
+a.
+The Parties shall keep each other promptly informed of any progress towards the satisfaction of the Conditions Precedent and shall notify the other Parties immediately upon and not later than one (1) Business Day after becoming aware of the satisfaction of any of the Conditions Precedent.
+
+b.
+The Sellers shall notify the Purchaser immediately upon and not later than one (1) Business Day after becoming aware of any (executive) order or judgment restricting the Closing of the envisaged Transaction as set out in Clause 4.1.1.
+
+c.
+The Purchaser shall, in reliance on the information provided by the Group Companies and the Sellers, investigate and decide whether the proposed Transaction will have to be notified to any Regulatory Authority in accordance with applicable Antitrust Law, and the Purchaser will be solely liable (subject to the immediately following sentence), including vis-à-vis the Sellers, for any liabilities or fines resulting from the lack of notification, the late notification and/or the lack of clearance in any jurisdiction, subject to the Sellers, in accordance with their undertaking in Clause 4.4.1, having reasonably cooperated with, and having caused the Group Companies to reasonably cooperate with, the Purchaser by providing all reasonably required information to the extent reasonably able to produce and assisting the Purchaser in making its proper analysis. Notwithstanding the foregoing, to the extent the analysis of the Purchaser is based on information provided by the Group Companies or the Sellers, the Sellers shall be liable vis-à-vis the Purchaser for any damage resulting from such information being materially incorrect, inaccurate or incomplete.
+
+4.6
+Failure to satisfy the Conditions Precedent
+
+a.
+If any of the Conditions Precedent, which has not been waived in accordance with Clause 4.3.2, becomes impossible to satisfy before the Long Stop Date, each of the Parties shall have the right to terminate this Agreement by giving five (5) Business Days advance notice to the other Parties. Provided that the Conditions Precedent are not all waived or satisfied in accordance with this Agreement within such five (5) Business Days notice period, this Agreement shall automatically terminate at the end of such five (5) Business Days period. If the Parties do not issue any notice pursuant to this Clause and any of the Conditions Precedent remains unsatisfied on the Long Stop Date, this Agreement shall in any case automatically terminate on the Long Stop Date by force of law and without need for notice.
+
+b.
+If this Agreement is terminated pursuant to Clause 4.6.1 above, all rights and obligations of the Parties hereunder shall terminate except for this Clause 4.6.2 and Clauses 1 (Definition and Interpretation), 17 (Confidentiality), 19 (Notices), 24 (Costs and Expenses), 25 (General Provisions) and 26 (Governing Law and Competent Courts), which shall survive
+
+
+EXHIBIT 10.5
+
+the termination of this Agreement. Such termination shall occur without any liability of any Party to the other Party, provided the fact that a Condition Precedent has not been satisfied does not result from a breach of a Party’s obligations under this Clause 4 (in which case such Party will become liable towards the other Party).
+
+5
+CLOSING
+
+5.1
+General
+
+Closing shall take place at the offices of Eubelius CVBA, Louizalaan 99, 1050 Brussels on the last Business Day of the month in which all the Conditions Precedent are satisfied or, where permitted, waived and the Parties have notified each other thereof or at such other place and time and on such other date as the Parties may agree. If such date is less than ten (10) Business Days after the date on which all the Conditions Precedent are satisfied or waived and notified as aforesaid, the Closing shall take place on the last Business Day of the following month.
+5.2
+Seller’s obligations
+
+At Closing, the Sellers shall do the following or procure the following to be done (“Sellers’ Closing Obligations”):
+a.
+record the transfer of the Shares in the share register of the Company;
+
+b.
+provide a receipt for the payment of the Best Estimate less the Deferred Capex Amount, the Escrow Amount and the Holdback Amount;
+
+c.
+provide the original letters of resignation of the Resigning Directors and the Resigning Officers that are set out in Schedule 8;
+
+d.
+provide the share register of the Company; and
+
+e.
+enter into the Escrow Agreement, the Holdback Agreement and Deferred Capex Escrow Agreement.
+
+5.3
+Purchaser’s obligations
+
+At Closing, the Purchaser shall do the following or procure the following to be done (“Purchaser’s Closing Obligations”):
+a.
+enter into the Escrow Agreement, the Holdback Agreement and Deferred Capex Escrow Agreement;
+
+b.
+transfer the Best Estimate less the Deferred Capex Amount, the Escrow Amount and the Holdback Amount in immediately available funds on the Sellers’ bank accounts indicated in Schedule 1 with value as of Closing Date;
+
+c.
+transfer the Escrow Amount, the Holdback Amount and the Deferred Capex Amount to the Escrow Agent in its capacity as such pursuant to the Escrow Agreement, the Holdback Agreement and the Deferred Capex Escrow Agreement;
+
+d.
+countersign the share register of the Company;
+
+e.
+hold special shareholders’ meetings or, as the case may be, special meetings of the (equivalent) competent corporate bodies of all Group Companies (except for Flabel Corporation NV and Belairbus NV, where such special meetings shall be held as soon as possible after Closing), which shall:
+
+i.
+acknowledge the resignation of the Resigning Directors and the Resigning Officers, it being understood that the resignation of the Resigning Officers shall be limited to their mandate listed in Schedule 8 and shall thus not include termination of any other function or position they may hold in any of the Group Companies or termination of their agreement with any of the Group Companies;
+
+ii.
+grant unconditional discharge to the Resigning Directors and the Resigning Officers;
+
+iii.
+modify the articles of association to the extent necessary in view of the Transaction; and
+
+iv.
+appoint new directors and officers, to the extent required by Law;
+
+
+EXHIBIT 10.5
+
+f.
+deliver to the Sellers:
+
+i.
+a copy of (or extract from) the minutes of the meeting of the board of directors of the Purchaser authorising the Purchaser to enter into and perform its obligations under this Agreement, certified to be a true and complete copy (or extract) by a director or the secretary of the Purchaser; and
+
+ii.
+a receipt for the share register of the Company.
+
+5.4
+Further actions
+
+The Parties shall further take such action at Closing and shall deliver and sign such documents as shall reasonably be required to be taken, delivered or signed in order to complete the Transaction.
+The Purchaser shall furthermore procure to do what is necessary for the publication of the resignation of the Resigning Directors and the Resigning Officers and the appointment of the new directors and officers of all Group Companies, and shall procure that the Resigning Directors and the Resigning Officers of all Group Companies who resigned on Closing and Brieuc Spindler, who resigned from the executive committee of Asco Industries NV/SA in 2018, are granted unconditional discharge at the next annual general shareholders’ meeting (or, as the case may be, at the next meeting of the (equivalent) competent corporate body) for the exercise of their mandate for the period from the last annual general shareholders’ meeting (or, as the case may be, of the last annual (equivalent) competent corporate body meeting) held prior to the Closing Date up until the Closing Date.
+5.5
+Breach of Closing Obligations
+
+a.
+If a Party fails to comply with its obligations under Clauses 5.2 and 5.3 such that the Closing has not occurred, the other, non-breaching Party shall have the right to terminate the Agreement by giving three (3) Business Days advance notice to the breaching Party. The Agreement will only terminate if the breaching Party fails to remedy the breach of its obligations under Clauses 5.2 and 5.3 within such notice period of three (3) Business Days.
+
+b.
+The right of the non-breaching Party to terminate the Agreement pursuant to Clause 5.5.1 shall be without prejudice to the right of the non-breaching Party to seek specific performance of this Agreement and/or to exercise any other remedy available to it in accordance with this Agreement or by Law.
+
+5.6
+Simultaneous occurrence
+
+Each of the actions of the Seller at Closing shall be subject to the occurrence of the actions required from the Purchaser at Closing and vice versa, and all actions referred to in Clauses 5.2 and 5.3 shall be deemed to take place simultaneously on the Closing Date.
+5.7
+Waiver of Closing Obligations
+
+a.
+The Purchaser may at any time waive or defer some or all of the Seller’s Closing Obligations.
+
+b.
+The Seller may at any time waive or defer some or all of the Purchaser’s Closing Obligations.
+
+6
+PRE-CLOSING COVENANT
+
+6.1
+Ordinary course of business
+
+a.
+Except as otherwise contemplated hereby or as required by Law, the Sellers shall use Commercially Reasonable Efforts to keep the business as presently conducted by the Group intact in all materials respects, including maintaining its present operations, physical facilities, working conditions and material relationships with suppliers and customers, consistent with Sellers’ policies and practices.
+
+b.
+Nothing contained in this Agreement shall give the Purchaser, directly or indirectly, the right to control or direct the operations of the Group prior to the Closing. Prior to the Closing, the Sellers shall exercise, consistent with the terms and conditions of this Agreement, complete control and supervision over the Group’s operations in compliance with this Agreement.
+
+c.
+Notwithstanding anything to the contrary herein, as from the Signing Date until the earlier of the Closing Date or the Long Stop Date, the Sellers shall use Commercially Reasonable Efforts to procure that the Group Companies shall refrain,
+
+
+EXHIBIT 10.5
+
+except in the ordinary course of business, from any of the following actions without the Purchaser’s prior consent (which shall not be unreasonably delayed or withheld):
+
+1.
+declare, make or pay any dividend (unless to another Group Company);
+
+2.
+create, issue or redeem any shares or other securities (other than a redemption or (re)purchase of the profit certificates issued by Asco Industries NV and of the shares of Group Companies held by the Sellers in accordance with Clause 6.2);
+
+3.
+increase or decrease its share capital or otherwise amend its articles of association;
+
+4.
+enter into a liquidation, a merger, a de-merger or otherwise enter into a material restructuring;
+
+5.
+incur any expenditure individually exceeding EUR 250,000 (two hundred fifty thousand euro), or incur expenditures in the aggregate exceeding EUR 1,000,000 (one million euro) or defer any capital expenditure currently in the budget of any Group Company;
+
+6.
+dispose of or acquire any assets with an individual or aggregate value in excess of EUR 250,000 (two hundred fifty thousand euro);
+
+7.
+incur any indebtedness for borrowed money in excess of EUR 250,000 (two hundred fifty thousand euro) or incur indebtedness for borrowed money in the aggregate exceeding EUR 1,000,000 (one million euro), other than indebtedness owing to any Group Company or indebtedness arising in the ordinary course of business consistent with past practice;
+
+8.
+not amend nor terminate any Material Contract;
+
+9.
+enter into any new hedge contract or modify the terms of any of the Existing Operational Hedges;
+
+10.
+agree, conditionally or otherwise, to do any of the foregoing;
+
+unless if:
+a.
+such action is provided for in the 2018 budget of Asco Industries NV and its subsidiaries, as approved by the board of directors of Asco Industries NV (including, for the avoidance of doubt, any capital expenditure (but not any deferral) provided therein);
+
+b.
+such action constitutes a transaction bonus or similar incentive payment that has become due and payable in connection with the Transaction;
+
+c.
+such action is required by any applicable Law or is consistent with past practice; or
+
+d.
+such action has been made in view of a timely and proper performance of any of the Transaction Documents, including, for the avoidance of doubt, terminating the agreements with the Resigning Directors or Resigning Officers and any payments to any of the Resigning Directors, other than the Sellers and their Affiliated companies, in respect of the termination of their agreements; or
+
+e.
+such action is disclosed in Schedule 4.
+
+For the avoidance of doubt, any amounts expressed in euro in this 6.1.3 shall be converted into US dollar at the Guaranteed Exchange Rate, if relevant.
+d.
+In applying and enforcing Clause 6.1 the Sellers and the Purchaser shall act vis-à-vis each other in accordance with the principles of reasonableness and fairness giving due consideration to all relevant circumstances. The Purchaser shall reply within five (5) Business Days in writing to Sellers’ requests for consent under Clause 6.1.3(i-iv) and Clause 6.1.3(x) in so far as it intends to refer to Clause 6.1.3(i-iv), such consent not to be unreasonably withheld. If the Purchaser does not respond to the proposed action within such five (5) Business Day response period, it shall be deemed to have approved the Sellers’ request for consent. The Purchaser shall reply within two (2) Business Days in writing to Sellers’ requests for consent under the other provisions of this Clause 6.1.3, such consent not to be unreasonably withheld. If the Purchaser
+
+
+EXHIBIT 10.5
+
+does not respond to the proposed action within such two (2) Business Day response period, it shall be deemed to have approved the Sellers’ request for consent.
+
+6.2
+Shares held directly by the Sellers in Group Companies
+Christian Boas or any other Seller or Affiliate of a Seller shall purchase the shares issued by Asco Brazil, record such transfer in the share register and provide evidence thereof to the Purchaser at the latest on Closing. Except for the shares held directly by Christian Boas in Asco Finance USA NV, the Sellers shall sell any shares they hold in any Group Company other than the Company to the Company or any of its subsidiaries, record such transfers in the share registers and provide evidence thereof to the Purchaser before at the latest on the Closing Date.
+6.3
+Financing Cooperation
+
+a.
+The Sellers shall cause the Group Companies to provide to Guarantor, and shall use Commercially Reasonable Efforts to cause representatives of the Group Companies to provide to Guarantor, on a reasonably timely basis, all cooperation reasonably requested by Guarantor in connection with the arrangement and marketing of any debt financing (including any issuance of debt securities by Guarantor or Purchaser) incurred in connection with the transactions contemplated hereunder and the repayment of the indebtedness listed on Schedule 5, including by: (i) furnishing Guarantor and its financing sources as promptly as reasonably practicable with such financial and other pertinent information regarding the Group Companies as may be reasonably requested by Guarantor or Guarantor’s financing sources, including access to and cooperation with the Company’s accountants, (ii) reasonably cooperating with Guarantor’s financing sources and their respective agents with respect to their due diligence, including by giving access to documents relating to the Group Companies for diligence in connection with capital markets transactions,(iii) furnishing Guarantor and Guarantor’s financing sources promptly with all documentation and other information required by any Governmental Authority under applicable “know your customer” and anti-money laundering rules and regulations, including the PATRIOT Act, (iv) arranging for customary payoff letters, lien terminations and instruments of discharge to be delivered at Closing providing for the payoff, discharge and termination on the Closing Date of the outstanding indebtedness of the Group and any outstanding financial instruments, listed in Schedule 5, (v) facilitating the execution and delivery at the Closing of definitive documents related to any debt financing at the Closing (provided that no obligation of the Group Companies under any such document shall be effective prior to Closing) and (vi) assisting Guarantor in the satisfaction of conditions precedent set forth in any debt financing to the extent the satisfaction of such conditions requires the cooperation of or is within the control of the Group Companies. Nothing in this Clause 6.3.1 shall require such cooperation to an extent that would reasonably interfere with the business or operations of any Group Company; if, in the reasonable opinion of the Company, additional resources must be hired to allow any Group Company to do so, the reasonable expenses thereof shall be borne by the Purchaser. The Company hereby consents to the use of the logos of the Group Companies in connection with the syndication or marketing of any debt financing, provided that such logos are not used in a manner that would reasonably be expected to harm or disparage the Group Companies or their marks and that such documentation explicitly states that Closing has not yet occurred.
+
+b.
+Guarantor shall (i) promptly, upon request by the Company, reimburse the Company for all reasonable out-of-pocket costs and expenses (including reasonable and documented attorneys’ fees) incurred by the Group Companies in connection with the cooperation of the Group Companies contemplated by Clause 6.3.1 and (ii) indemnify and hold harmless the Group Companies and their respective directors, officers and representatives from, against and in respect of any losses imposed on, sustained, incurred or suffered by, or asserted against, any of them, directly or indirectly relating to, arising out of or resulting from the arrangement of any debt financing by Guarantor, any other cooperation pursuant to Clause 6.3, and/or the provision of information utilized in connection therewith to the fullest extent permitted by applicable Law, except to the extent such losses arise out of fraud or willful misconduct of the Group Companies.
+
+c.
+For the avoidance of doubt, none of the financing transactions referred to in this Clause 6.3 shall have any negative impact on the Net Debt or the Net Working Capital.
+
+6.4
+Works Council
+
+The Sellers have or shall in due time inform and consult with the employees and their representatives, if any, to the extent required by Law.
+6.5
+Further assurance with respect to the NMTC Loan Agreement
+The Parties shall use Commercially Reasonable Efforts to obtain third party consent to the Transaction to the extent that such consent is contemplated by the NMTC Loan Agreement and/or a waiver by such third party of any and all rights which it may
+
+
+EXHIBIT 10.5
+
+acquire under the NMTC Loan Agreement in connection with the Transaction, including, without limitation, any termination right, right to declare a breach or event of default, or right to alter the terms of the NMTC Loan Agreement.
+7
+SELLERS’ WARRANTIES
+
+7.1
+The Sellers represent and warrant to the Purchaser that the statements set out in Schedule 2 (the “Sellers’ Representations and Warranties”) are true and accurate on the Signing Date or on any such earlier date as of which any Sellers’ Representation or Warranty is expressly made.
+
+7.2
+The Sellers represent and warrant to the Purchaser that the Sellers’ Representations and Warranties shall be true and accurate in all material respects on the Closing Date or on any such earlier date as of which any Sellers’ Representation or Warranty is expressly made.
+
+7.3
+Without prejudice to Clause 25.1 and 25.2, the Sellers’ Representations and Warranties are the only representations or assurances of any kind given by or on behalf of the Sellers and collectively and exhaustively reflect characteristics that the Purchaser may reasonably expect the Shares, the Group and its business to have. The Purchaser acknowledges and agrees that it has not entered into this Agreement in reliance on any representation or warranty other than the Sellers’ Representations and Warranties and other than with respect to the Sellers’ Representations and Warranties waives to the fullest extent possible or permitted under any applicable Law all rights and remedies which might otherwise be available to it in respect of any such representations, warranties, other assurances, statements, promises or forecasts (whether written or oral).
+
+7.4
+In no event are any representations or warranties, express or implied, given by the Sellers with respect to forecasts, plans, expectations, the feasibility of any business plans or the future development of the business of any Group Company and, more broadly, to any fact, circumstance or event dated after the Signing Date (other than with respect to the accuracy of the Sellers’ Representations and Warranties as of the Closing Date in Clause 7.2), or as the case may be, any such earlier date as of which any of the Sellers’ Representations and Warranties is expressly made, irrespective of whether these have been explicitly included in any disclosed document or information.
+
+7.5
+The Purchaser acknowledges and agrees that it has performed, with the assistance of professional advisors, an extensive due diligence investigation with respect to the Shares, the Group Companies and their respective businesses, activities, operation, assets, liabilities and financial condition during the period from 8 November 2017 until the Signing Date on the basis of the information provided by the Sellers and their advisers - amongst others - by way of data room documents in the Data Room, management presentations and expert calls and the related Q&A process (the “Due Diligence Investigation”). The Purchaser acknowledges that the Due Diligence Investigation was in a form, scope and substance to the Purchaser’s satisfaction and that it has raised with the Sellers any and all specific issues which it considered relevant in connection with the transactions contemplated by this Agreement and obtained satisfactory answers from the Sellers on all its queries.
+
+7.6
+The information contained in the Data Room (an index of which is included in Schedule 3), this Agreement including the Schedules hereto, the Information Memorandum and the written answers to questions raised by the Purchaser and its advisors (copies of which are also included in Schedule 3), any other information made available to the Purchaser and its advisors in writing, in interviews, in process letters, in (management or other) presentations (written records of these interviews; process letters and (management or other) presentations are also included in Schedule 3) or in any other form, and all other information which is in the public domain in each case as of the date hereof shall together be considered the disclosed information (the “Disclosed Information”).
+
+8
+INDEMNIFICATION
+
+8.1
+The Sellers shall indemnify and hold the Purchaser harmless from and against any Damage resulting from a breach of any of the Sellers’ Representations and Warranties (a “Breach”), it being understood that (without prejudice to Clause 9.11) (i) for purposes of computing the amount of any Damage indemnifiable to the Purchaser, both the Damages suffered by the Damages suffered by the Purchaser and/or any Group Company (as if they had been incurred by the Purchaser, but without duplication) shall be taken into account, (ii) any Damage incurred by a Group Company shall be deemed to be incurred by the Purchaser in the same amount, multiplied by the percentage of the (direct or indirect) shareholding of the Purchaser in the relevant Group Company acquired in the framework of this Transaction (save with respect to ASCO Finance USA NV, where the percentage shall deemed to be 100 %) and maintained up to the moment the Damages are finally determined, either by mutual agreement among the Parties or in a final, non-appealable decision in accordance with Clause 26.
+
+
+EXHIBIT 10.5
+
+It is thus specified for the avoidance of doubt that the Sellers thus covenant to indemnify the Purchaser for any Breach up to the amount as is required to put the Purchaser and/or the Group Companies (if the Damages would have been indemnifiable to the Group Companies) into the position that it and/or the Group Companies would have been in, had the Breach not occurred (save for any difference that may result from the application of the Spot Exchange Rate, if relevant).
+8.2
+In the event of a Breach the Purchaser shall submit to the Sellers a claim for compensation (a “Claim”).
+
+8.3
+The Purchaser shall, after discovery of the circumstances giving rise to such Claim, promptly and in any event within ten (10) Business Days of the date on which the Purchaser becomes aware or should have become aware of the relevant fact, circumstance or matter, notify the Sellers giving such particulars of the underlying facts as may reasonably be required for a normally prudent seller to be able to understand the Claim and assess it on its merits to the extent then available (a “Claim Notice”). The Claim must also set out in reasonable detail the fact, circumstance or matter giving rise to the Claim and the relevant provisions of this Agreement on which it is based, and specify the Purchaser’s best estimate of its likely amount to the extent then available. Failure to comply with any of the requirements set forth in this Clause 8.3 shall not result in the Purchaser forfeiting its right to claim Damages for a Breach, but limit such right to the extent the liability of the Sellers would have been increased as a result thereof.
+
+8.4
+The Sellers will respond to the Claim Notice (a “Claim Response”) within twenty (20) Business Days (the “Response Period”) after the date that the Claim Notice is given.
+
+8.5
+In connection with any Claim made by the Purchaser against the Sellers, the Purchaser shall, and shall cause the Group Companies, to make available to the Sellers on an ongoing basis all such information as the Sellers may reasonably require for assessing, disputing, resisting, appealing, compromising, defending, remedying or mitigating the Claim. If and to the extent reasonably required for the purposes of assessing, disputing, resisting, appealing, compromising, defending, remedying or mitigating the Claim, the Purchaser shall, and shall cause the Group Companies, to grant reasonable access to the Group Companies’ management and premises, provided that the obligations of the Purchaser under this Clause 8.5 are limited to information required for the Sellers’ defence under the Claim (as the case may be a third party claim).
+
+8.6
+If the Sellers dispute the Claim, the Parties will meet promptly to try to amicably resolve the Claim. If the Parties fail to amicably resolve the Claim within twenty (20) Business Days of the Claim Response, then the Claim will be considered unresolved and will be resolved in accordance with Clause 26. The Purchaser will have until the later of (i) sixty (60) Business Days after giving the Claim Notice and (ii) two (2) years after the Closing Date to submit the Claim to arbitration in accordance with Clause 26. If the Purchaser fails to submit the Claim to arbitration within this period, the Claim will be deemed dismissed and resolved, and will not be thereafter reasserted.
+
+8.7
+If the Sellers elect not to dispute a Claim described in a Claim Notice, whether by failing to give a timely Claim Response or otherwise, then the Sellers will be deemed to have agreed to pay the amount of such Claim to the Purchaser. The Escrow Agent shall release such amount from the Escrow Amount to the Purchaser pursuant to the terms of the Escrow Agreement, and to the extent that such Escrow Amount is not sufficient to satisfy the Claim, then the Sellers shall promptly pay such required balance of such Claim to the Purchaser.
+
+8.8
+If any amount is to be released from the Escrow Account to the Purchaser in respect of Damages incurred in EUR, in order to determine the amount of USD to be released from the Escrow Account, such Damages will converted to USD at the relevant Spot Exchange Rate. If any Seller is to make a payment directly (as opposed to through a release of funds from the Escrow Account) to the Purchaser pursuant to such Seller’s indemnification obligations under this Agreement, such payment shall be made in the currency of the relevant Damages incurred by the Purchaser or the relevant Group Company.
+
+8.9
+Any payment made by a Seller in respect of a Breach shall be deemed to be a reduction of the part of the Final Purchase Price that such Seller has received hereunder.
+
+8.10
+The Purchaser acknowledges that the right to claim indemnification in accordance with this Clause 8 (subject to the limitations set out in this Agreement) shall be the sole and exclusive remedy of the Purchaser in respect of any Breach under this Agreement. The Purchaser expressly and irrevocably waives to the fullest extent permitted by Law, all rights and remedies it might have under Belgian law or otherwise in respect of any Breach, including the right to seek the termination of this Agreement in court (at any time, including after Closing) pursuant to section 1184 of the Belgian Civil Code.
+
+
+EXHIBIT 10.5
+
+8.11
+If the receipt of any amount of Damages results in an effective Tax payment by the Purchaser, the amount payable shall be grossed up by such amount as will ensure that after effective payment of such Tax there shall be left a sum equal to the amount which would otherwise be payable, it being understood that if at the time of payment of the Damages the exact amount of such Taxes cannot be determined, the Parties shall take into account a fair estimate of such Taxes in order to determine the amount of Damages. Such estimate shall be adjusted as soon as the actual amount of Taxes has been determined and paid.
+8.12
+The Sellers and the Purchaser shall take all actions and execute and deliver all documents to the Escrow Agent reasonably required pursuant to the Escrow Agreement to effect any release from the Escrow Account contemplated by this Agreement.
+
+9
+LIMITATIONS ON INDEMNIFICATION
+
+9.1
+Disclosure
+
+Notwithstanding any other provisions of this Agreement, the Sellers shall not be in Breach (as defined above), and shall not be liable in respect of any Breach to the extent that, at Signing, the Purchaser was or should have been aware of such Breach, because the facts and circumstances giving rise thereto:
+a.
+were Fairly Disclosed to the Purchaser on the basis of the Disclosed Information; or
+
+b.
+have been Fairly Disclosed, or excepted, in the Sellers’ Representations and Warranties themselves and/or otherwise in this Agreement and/or in the schedules hereto.
+
+9.2
+Minimum claims and basket
+
+a.
+No indemnification shall be due for any individual Breach in respect of which the amount of the Damages to which the Purchaser would otherwise be entitled is less than USD 100,000 (USD hundred thousand); provided, that, for the purpose of determining if such threshold is exceeded, Damages incurred in EUR shall be converted into USD at the relevant Spot Exchange Rate. Claims arising from similar related facts, matters or circumstances shall be aggregated for the purposes of this Clause 9.2.1.
+
+b.
+The Purchaser shall not be entitled to recover any Damages in respect of any Breach unless the aggregate amount of Damages in respect of all Breaches for which indemnification is owed exceeds USD 3,000,000 (USD three million); provided, that, for the purpose of determining if such threshold is exceeded, Damages incurred in EUR shall be converted into USD at the relevant Spot Exchange Rate (the “Basket”), it being understood that (i) in case the Basket is exceeded the full amount shall be due including the amount of the Basket and (ii) Breaches for which the Sellers are not held to indemnify the Purchaser pursuant to Clause 9.2.1 are not taken into account to calculate the Basket.
+
+9.3
+Maximum liability
+
+The maximum aggregate liability of the Sellers under this Agreement shall not exceed USD 92,500,000 (USD ninety-two million five hundred thousand); provided, that, for the purpose of determining if such threshold is exceeded, Damages incurred in EUR shall be converted into USD at the relevant Spot Exchange Rate.
+9.4
+Time limitations
+
+Without prejudice to Clause 8.3, the Sellers shall not be in Breach (as defined above), and shall not be liable in respect of any Breach unless a Claim is given:
+a.
+for all Breaches other than for Breaches of the Title Warranties and the Tax Warranties, eighteen (18) months after Closing;
+
+b.
+for Breaches of the Title Warranties, ten (10) years and three (3) months after Closing; and
+
+c.
+for Breaches of the Tax Warranties, before or on the date on which the matter giving rise to the Claim is barred by applicable statute of limitation increased with three (3) months.
+
+9.5
+Contingent liabilities
+The Sellers shall have no obligation to reimburse Damages to the Purchaser in respect of any liability which is contingent (“voorwaardelijke of latente verbintenis” / “obligation conditionnelle ou éventuelle”) unless and until such contingent liability
+
+
+EXHIBIT 10.5
+
+has become an actual liability and is due and payable, provided, however, that this Clause 9.5 shall not have the effect of preventing the Purchaser from validly making a Claim in respect of a contingent liability within the time limit specified in Clause 9.4, even though it has not become an actual liability. For the avoidance of doubt, any Claim may validly be made in respect of a contingent liability if and only if (and to the extent only that) the Purchaser (i) has a present (but not yet due and payable) obligation (legal or constructive) as a result of a past event and (ii) it is probable (i.e., more likely than not) that an outflow of economic resources embodying economic benefits will be required to settle the obligation. To the extent reasonably possible at the time of making the Claim, the Purchaser shall include therein an estimate of the amount of the Damages, provided that the amount thus set forth shall not operate as a limitation on the right of the Purchaser to subsequently be indemnified for all Damages, even if higher.
+9.6
+Provisions for liabilities
+
+The Sellers shall have no obligation to reimburse Damages to the Purchaser in respect of any Claim if and to the extent that the matter giving rise to the Claim is accounted or provided for in the Closing Accounts and was reflected in the calculation of the Final Purchase Price.
+9.7
+Insurance proceeds and recoveries from third parties
+
+a.
+The Sellers shall have no obligation to reimburse the Purchaser in respect of any Claim if and to the extent that the Damages in respect of which the Claim is made (i) are covered by an insurance policy in force at the level of a Group Company at the Closing Date, (ii) would have been covered if such an insurance policy had been maintained beyond the Closing Date or (iii) are effectively recovered from any other third party.
+
+b.
+The Purchaser shall use its Commercially Reasonable Efforts to obtain recovery in respect of any Damages from any third party indemnity which is available in respect of Damages as soon as possible. If the Purchaser receives such proceeds or indemnification recovery in connection with Damages for which it has been indemnified hereunder, the Purchaser shall notify the Sellers and refund to the Sellers the amount of such proceeds or indemnification recoveries when received.
+
+9.8
+Tax Savings
+
+a.
+Any amount owed by the Sellers in respect of any Claim shall be reduced by the amount of any Tax Savings for the relevant Group Company arising from the Damages in respect of which the Claim has been made.
+
+b.
+If the amount of the Tax Savings is determined after payment by the Sellers of any amount in discharge of the Claim, the Purchaser shall pay, or shall procure that the relevant Group Company pays, to the Sellers an amount equal to the difference between:
+
+1.
+the amount paid by the Sellers to the Purchaser; and
+
+2.
+the amount that the Purchaser would have received if such Tax Savings had been taken into account in determining the amount due by the Sellers in accordance with this Clause 9.8
+
+c.
+For the purposes of this Clause 9.8, “Tax Savings” means the amount by which any Tax for which the relevant Group Company would otherwise have been liable is or could in the future be reduced as a result of such Damage.
+
+9.9
+Changes in Laws and practice
+
+The Seller shall not be liable in respect of a Claim to the extent that the Claim arises or is increased as a result of:
+a.
+any change in GAAP applicable to the relevant Group Company after the Closing Date;
+
+b.
+any change in the accounting policies or practice of the Purchaser’s Group or of a Group Company after the Closing Date, save where such change was required to remedy an illegality existing prior to Closing;
+
+c.
+the passing of any Laws, or making of any subordinate Laws after the Closing Date; or
+
+d.
+any change in the interpretation or application of any Laws or in the (administrative) practice after the Closing Date of any Regulatory Authority, including, for the avoidance of doubt and without limitation, the application of the Tax Laws.
+
+
+EXHIBIT 10.5
+
+9.10
+Matters arising subsequent to Closing
+
+The Sellers shall have no obligation to reimburse Damages to the Purchaser in respect of any Damages to the extent that the same would not have occurred but for any action or omission of a Group Company, the Purchaser or an Affiliate of the Purchaser, after Closing, nor in respect of any Damages resulting from or triggered by any investigation or claim initiated following any initiative taken by a Group Company, the Purchaser or an Affiliate of the Purchaser, after the Closing Date, unless such action, initiative or omission is an action, initiative or omission which a similarly situated internationally active industrial buyer, whether or not listed, engaging in a transaction of size and nature as the Transaction would as shareholder of the Group Companies undertake or omit to undertake or cause the Group Companies to undertake or omit to undertake with due regard for the interests of such buyer as shareholder in preserving the value of its investment in the Group Companies and their assets.
+9.11
+No cumulation (non bis in idem)
+If the same Damages can give rise to a Claim under several provisions of this Agreement, the Sellers shall only be required to reimburse such Damages once, subject to the limitations set out herein.
+9.12
+Mitigation
+Without prejudice to section 1134, para. 3 of the Belgian Civil Code, the Purchaser shall procure that all reasonable steps are taken to avoid or mitigate any Damages which might give rise to a Claim against the Sellers.
+9.13
+Absence of Limitation of Liability
+None of the limitations contained in Clause 9 (other than Clause 9.11) shall apply to and the Purchaser shall be entitled to full indemnification for any Damage resulting from any Breach which is the consequence of fraud (“dol” / “bedrog”) or wilful misconduct (“opzet” / “faute intentionelle”) by the Sellers or is the consequence of fraud (“dol” / “bedrog”) or wilful misconduct (“opzet” / “faute intentionelle”) by the Group Companies which was known to the Sellers at the Signing Date and not Fairly Disclosed to the Purchaser prior to the Signing Date, it being understood that in determining the amount of Damages due regard shall nevertheless be given to any insurance proceeds, recoveries from third parties and/or tax savings that would be unaffected by the foregoing.
+10
+SPECIFIC INDEMNITY
+
+10.1
+General
+The Sellers agree to fully indemnify and hold the Purchaser harmless for any and all Damages incurred by the Purchaser and/or the Group Companies in respect thereof, resulting or arising from, to the extent not taken into account in the calculation of Net Working Capital or Net Debt:
+a.
+(i) any and all Taxes imposed on or with respect to the Group Companies, or for which any of the Group Companies may otherwise be liable, for any tax period (or portion thereof) ending at Closing, (ii) any and all Taxes of any other person for which any of the Group Companies is or has been liable as a transferee or successor, where such liability results from circumstances existing prior to the Closing, and (iii) any obligation or other liability of any of the Group Companies to indemnify any other person in respect of or relating to Taxes or for any amounts calculated by reference to Taxes or to pay an amount pursuant to any Tax sharing or Tax allocation agreement entered into prior to the Closing Date (other than any such agreement solely among the Group Companies or that was entered into in the ordinary course of business and the principal purpose of which does not relate to Taxes);
+excluding (i) any liability for Taxes due as a result of the Closing (including but not limited to stamp duties, real estate transfer taxes, etc.) and (ii) any liability for taxes in relation to the NMTC Loan Agreement resulting or arising from the Transaction or any actions or circumstances after Closing.
+b.
+any environmental liabilities relating to the ownership or operation of the Business or any property by any of the Group Companies prior to Closing, including any release or presence of any Hazardous Substance in the Environment or in any structure prior to the Closing Date, and, without limiting the generality of the foregoing, including any liabilities or any remedial action (including, without limitation, soil investigations, clean-up and monitoring measures) relating to (known or unknown) soil or groundwater pollution existing prior to Closing which originated on the property owned, operated or leased by any of the Group Companies in Belgium, until the Flemish Soil Regulatory Authority (“OVAM”) confirms that no further remedial action is required because (i) the applicable standards for soil and groundwater are complied with; or (ii) the pollution no longer constitutes a risk for adverse effects on the environment or human health and safety;
+
+c.
+the claims referred to in Schedule 12;
+
+
+EXHIBIT 10.5
+
+d.
+the fact that the provision accounted for in accounts no. 459620 and 459630 of Asco Industries NV/SA is insufficient to cover the risk for which it has been reserved up to Closing;
+
+e.
+the operations of Asco Brazil;
+
+f.
+(i) violations of certain transfer restrictions under foreign trade law committed by Asco Deutschland GmbH, as described in a voluntary self-denunciation declaration made by Asco Deutschland GmbH to the central custom office Gießen (Hauptzollamt Gießen) and (ii) the confirmation included in note 1.0 included in the Non-VDR USB Stick not being true and accurate;
+
+(the “Specific Indemnities”).
+10.2
+Claims procedure
+Clauses 8.2 through 8.11 and Clause 11 shall apply mutatis mutandis to any claim for Specific Indemnities.
+10.3
+Claims period
+
+Without prejudice to Clause 10.2, the Sellers shall not be liable under this Clause 10.1 unless a Claim is given:
+a.
+in relation to Clause 10.1(A), before or on the date on which on which the matter giving rise to the Claim is barred by applicable statute of limitation increased with three (3) months;
+
+b.
+in relation to Clauses 10.1(B), 10.1(D), 10.1(E) and 10.1(F) five (5) years after Closing; or
+
+c.
+in relation to Clause 10.1(C), until a final judgment that can no longer be appealed has been rendered or a final settlement has been reached with respect to the relevant claim.
+
+10.4
+Limitations on indemnification
+
+The limitations to the Sellers’ liability as set out in Clause 9 shall apply mutatis mutandis to the Specific Indemnities, except that (i) Clauses 9.1, 9.2, 9.4, 9.5 and 9.6 shall not apply and (ii) Clauses 9.9.3 and 9.9.4 shall apply, except in relation to Clause 10.1(B) to the extent it relates to soil or groundwater pollution.
+11
+THIRD PARTY CLAIMS
+
+11.1
+Without prejudice to Clause 8.3, where a Claim of the Purchaser is based upon or relates to a claim by or a liability to a third party (a “Third Party Claim”), the Purchaser shall notify the Sellers of such Third Party Claim within five (5) Business Days after such Third Party Claim has been made, or sooner if this is reasonably required in order to properly prepare the defence against such Third Party Claim or if urgent actions may be required. Failure to comply with any of the requirements set forth in this Clause 11.1 shall not result in the Purchaser forfeiting its right to claim Damages for a Breach, but limit such right to the extent the liability of the Sellers would have been increased as a result thereof.
+
+11.2
+The Purchaser shall, or shall cause the relevant Group Company to, provide the Sellers with copies of all documents and correspondence from that third party, and all other documents and correspondence relating to the Third Party Claim as the Sellers may reasonably request, it being understood that the Sellers hereby agree (i) to keep all such information and documents confidential during a three (3) year period as of the receipt thereof, and (ii) to use such information only for the purpose of dealing with the Third Party Claim and the impact thereof on this Agreement.
+
+11.3
+The Sellers shall promptly and not later than twenty (20) Business Days after receipt of notice of the Third Party Claim notify to the Purchaser: (i) whether they dispute the Purchaser’s or the relevant Group Company’s right to indemnification from the Sellers with respect to such Third Party Claim; and (ii) if they do not dispute such right of indemnification, whether or not they desire to defend the Purchaser or the relevant Group Company against such Third Party Claim.
+
+11.4
+Notwithstanding the above notice periods, the Purchaser is allowed to take any reasonable provisional measures, to the extent necessary, subject to informing the Sellers promptly thereof.
+
+
+EXHIBIT 10.5
+
+11.5
+If, within the 20 (twenty) Business Days’ period provided for under Clause 11.2, the Sellers notify the Purchaser that they do not dispute the Purchaser’s right to indemnification and desire to defend the Purchaser or the relevant Group Company against such Third Party Claim, the Sellers shall have the right to assume and control the defence of such Third Party Claim by appropriate proceedings with counsel reasonably acceptable to the Purchaser at the Sellers’ sole cost and expense; provided, however, that, notwithstanding the foregoing, if the resolution of such Third Party Claim could have a material impact on Guarantor’s reputation or materially interfere with Guarantor’s business or its relationships with its key customers, the Sellers shall not have the right to assume the control and defence of such Third Party Claim, subject to any increase in the amount of Damages indemnifiable by the Sellers further to this Agreement as a result of such defence to the extent it would be different from the defence that would have been pursued by the Sellers, being disregarded for purposes of determining the amount of Damages indemnifiable. The Purchaser’s approval of counsel proposed by the Sellers shall not be unreasonably withheld, delayed or conditioned. The Purchaser may retain separate co-counsel at its sole cost and expense and participate in, but not control, any such defence or settlement. Notwithstanding the foregoing, with respect to claims related to the matters listed in Schedule 12, the Purchaser and Christian Boas shall jointly control and direct the defence of such claims, it being understood that they shall, acting reasonably, (i) jointly select counsel with respect to each such claim and (ii) actively consult and cooperate with each other in directing the defence of such claims.
+
+11.6
+If the Sellers:
+
+i.dispute the Purchaser’s right to compensation with respect to a Third Party Claim; or
+
+ii.do not dispute such right to compensation but prefer not to assume the defence of such Third Party Claim; or
+
+iii.do not react within twenty (20) Business Days to the Purchaser’s notification, and within ten (10) Business days after a second notice by the Purchaser, after expiration of said initial period, asserting the Purchaser’s intention to assume control of the legal defence of the Third Party Claim if the Sellers do not respond; or
+
+iv.do not dispute such right to compensation but fail to timely assume and prosecute the defence of such Third Party Claim;
+
+then the Purchaser shall assume and control the defence of such Third Party Claim, provided that the Sellers shall have the right to assume the defence against a Third Party Claim, if at any time the Purchaser is not conducting the defence against such Third Party Claim in a reasonably diligent manner.
+11.7
+The Party responsible for the defence of any Third Party Claim (the “Responsible Party”) shall, to the extent reasonably requested by the other Parties, keep informed and, when appropriate, consult with the other Parties, on the status of any Third Party Claim for which such Party is not the Responsible Party, including, without limitation, all proposed settlement negotiations. With respect to a Third Party Claim for which the Sellers are the Responsible Party, the Purchaser shall make or cause the relevant Group Company to make available to the Sellers and their representatives all books and records relating to such Third Party Claim and shall render to the Sellers such assistance and access to the relevant Group Company as may be necessary or useful for purposes of the defence, as provided in this Clause 11.
+
+11.8
+The Responsible Party shall promptly notify the other Parties of each settlement offer (including whether the Responsible Party is willing or not to accept the proposed settlement offer) with respect to a Third Party Claim. The other Parties agree to notify the Responsible Party in due course whether or not such Parties are willing to accept the proposed settlement offer. The Responsible Party shall not enter into any settlement of any Third Party Claim without the prior written consent of the other Parties, which consent shall not be unreasonably withheld or delayed.
+
+11.9
+If the Purchaser or the relevant Group Company does not consent to any settlement offer of a Third Party Claim (whether or not the Purchaser is the Responsible Party) that the Sellers agree to take responsibility for, the Purchaser or such Group Company may continue to contest or defend such Third Party Claim and, in such event, the maximum liability of the Seller with respect to such Third Party Claim shall not exceed the full amount of such settlement offer.
+
+11.10
+If the Sellers do not consent to any settlement offer of a Third Party Claim (whether or not the Sellers are the Responsible Party with respect to such Third Party Claim), the Sellers may continue to contest or defend such Third Party Claim and, in such event, the Sellers shall be liable to the Purchaser for the full amount of the Damage sustained by the Purchaser or the relevant Group Company as a result of such Third Party Claim (without prejudice, for the avoidance of doubt, to the limitations set forth in Clause 9, which continue to apply).
+
+
+EXHIBIT 10.5
+
+12.
+PURCHASER’S WARRANTIES
+
+12.1
+The Purchaser represents and warrants to the Sellers that the statements set out in this Clause (the “Purchasers’ Representations and Warranties”) are true and accurate (i) on the Signing Date and, (ii) unless the Purchasers’ Representation or Warranty is given with reference to the Signing Date or any earlier date, on the Closing Date:
+
+i.
+the Purchaser is a company duly organised and validly existing under the laws of Belgium;
+
+ii.
+the Purchaser has the capacity and power to execute this Agreement and to purchase the Shares;
+
+iii.
+the execution of this Agreement and the performance of the transactions contemplated therein by the Purchaser have been approved and authorised by all necessary corporate actions. No further action on the part of the Purchaser is necessary to authorise this Agreement or the performance of the transactions contemplated therein;
+
+iv.
+the obligations of the Purchaser under this Agreement and each document or instrument contemplated by this Agreement, constitute valid and legally binding obligations of the Purchaser, in each case enforceable against the Purchaser in accordance with their terms;
+
+v.
+the execution of this Agreement and the performance of the transactions contemplated therein do not and will not (i) violate the articles of association or other constitutive documents of the Purchaser, or (ii) violate any agreement, obligation, law, regulation, rule, covenant, judgement, injunction, order, decree or permits to which the Purchaser is subject or party;
+
+vi.
+at Closing the Purchaser will have all funds available to pay the Best Estimate in full and in cash in accordance with the terms of this Agreement and to consummate the Transaction, it being understood that receipt of financing by the Purchaser is not a condition to consummation of the Transaction;
+
+vii.
+the Purchaser shall perform, observe and comply with all the obligations and conditions required by this Agreement to be performed; and
+
+viii.
+there are no actions, proceedings or claims pending (or, to the best of its knowledge, threatened) against the Purchaser or any of its Affiliates, the adverse determination of which may impair the validity or enforceability of this Agreement or any of its principal terms, materially adversely affect the financial condition of the Purchaser or otherwise negatively affect the Purchaser’s ability to perform its obligations under this Agreement.
+
+12.2
+Without prejudice to Clause 25.1 and 25.2, the Purchasers’ Representations and Warranties are the only representations or assurances of any kind given by or on behalf of the Purchaser. The Sellers acknowledge and agree that they have not entered into this Agreement in reliance on any representation or warranty other than the Purchasers’ Representations and Warranties and waives to the fullest extent possible or permitted under any applicable law all rights and remedies which might otherwise be available to it in respect of any such representations, warranties, other assurances, statements, promises or forecasts (whether written or oral).
+
+12.3
+The Purchaser shall indemnify and hold the Sellers harmless from and against any loss, damage or expense suffered or incurred by the Sellers resulting from a breach of any of the Purchaser’s Representations and Warranties or any other covenant or obligation of the Purchaser hereunder.
+
+13.
+GUARANTEE BY GUARANTOR
+
+13.1
+The Guarantor, as primary obligor, unconditionally and irrevocably guarantees, by way of continuing guarantee to the Sellers the payment and performance by the Purchaser, when due, of all amounts and obligations under this Agreement and the other Transaction Documents. This guarantee shall remain in full force and effect until all such amounts and obligations have been irrevocably paid and discharged in full.
+13.2
+The Guarantor’s obligations under this Clause 14:
+
+a.
+constitute direct, primary and unconditional obligations to pay on demand by the Sellers any sum which the Purchaser is liable to pay under this Agreement or any other Transaction Document and to perform on demand any obligation of the Purchaser under this Agreement or any other Transaction Document without requiring the Sellers to first take any steps against the Purchaser or any other person; and
+
+
+
+EXHIBIT 10.5
+
+b.
+shall not be affected by any matter or thing which but for this provision might operate to affect or prejudice those obligations, including:
+
+1.
+any time or indulgence granted to, or composition with, the Purchaser or any other person; or
+
+2.
+the taking, variation, renewal or release of, or refusal or neglect to perfect or enforce, any right, remedy or security against the Purchaser or any other person; or
+
+3.
+any legal limitation, disability or other circumstance relating to the Purchaser or any unenforceability or invalidity of any obligation of the Purchaser under this Agreement or any other Transaction Document.
+
+13.3
+Any agreement, waiver, consent or release given by the Purchaser shall bind the Guarantor and in references to the “Parties” the Purchaser and the Guarantor shall be treated as being a single party.
+
+14.
+GUARANTOR’S WARRANTIES
+
+14.1
+The Guarantor represents and warrants to the Sellers that the statements set out in this Clause (the “Guarantors’ Representations and Warranties”) are true and accurate (i) on the Signing Date and, (ii) unless the Guarantors’ Representation or Warranty is given with reference to the Signing Date or any earlier date, on the Closing Date:
+
+a.
+the Guarantor is a company duly organised and validly existing under the laws of Delaware;
+
+b.
+the Guarantor has the capacity and power to execute this Agreement;
+
+c.
+the execution of this Agreement and the performance by the Guarantor of its obligations thereunder have been approved and authorised by all necessary corporate actions. No further action on the part of the Guarantor is necessary to authorise this Agreement or the performance by the Guarantor of its obligations thereunder;
+
+d.
+the obligations of the Guarantor under this Agreement and under each document or instrument contemplated by this Agreement, constitute valid and legally binding obligations of the Guarantor, in each case enforceable against the Guarantor in accordance with their terms;
+
+e.
+the execution of this Agreement and the performance by the Guarantor of its obligations thereunder do not and will not (i) violate the articles of association or other constitutive documents of the Guarantor, or (ii) violate any agreement, obligation, law, regulation, rule, covenant, judgement, injunction, order, decree or permits to which the Guarantor is subject or party;
+
+f.
+the Guarantor has sufficient funds available to guarantee the payments of the Final Purchase Price in full and in cash by the Purchaser in accordance with the term of this Agreement;
+
+g.
+the Guarantor shall perform, observe and comply with all the obligations and conditions required by this Agreement to be performed by it; and
+
+h.
+there are no actions, proceedings or claims pending (or, to the best of its knowledge, threatened) against the Guarantor or any of its Affiliates, the adverse determination of which may impair the validity or enforceability of this Agreement or any of its principal terms, materially adversely affect the financial conditions of the Guarantor or otherwise negatively affect the Guarantors ability to perform its obligations under this Agreement.
+
+15.
+NON-COMPETITION
+
+15.1
+For the purposes of this Clause 15:
+
+a.
+“Business” shall mean the production, distribution and wholesale of high lift devices and large structural parts or mechanical assemblies made out of aluminum, titanium and steel for aircrafts; and
+
+b.
+“Territory” shall mean the entire territory of any country in which a Group Company has conducted Business during the past five (5) years.
+
+
+
+EXHIBIT 10.5
+
+15.2
+For a period of three (3) years as of the Closing Date the Sellers shall not, on their own behalf or as owner, manager, shareholder, consultant, director, officer, partner or employee of any business entity or in any other capacity whatsoever (other than as the holder of not more than 1% of the combined voting power of the outstanding shares of a publicly held company), participate directly or indirectly, in any capacity, in any business or activity which (i) is in direct competition with the Business (as conducted immediately prior to Closing) in the Territory or (ii) intends to compete directly with the Business (as conducted immediately prior to Closing) in the Territory.
+
+15.3
+For a period of two (2) years as of the Closing Date the Sellers shall not solicit, induce, and attempt to hire or entice away any Senior Employee of any Group Company, provided that (i) employing such person through general solicitations for employment not targeted to any Group Company by means of advertisements, public notices, or non-targeted searches placed on websites or job search engines, (ii) employing such person who has had his employment agreement with a Group Company terminated prior to the commencement of his/her employment discussions, or (iii) employing such person who has made an unsolicited approach at least 6 months following the Closing shall not be deemed to constitute a breach of this restriction.
+
+15.4
+Nothing in this Clause 15 shall prohibit the Sellers (or any Affiliate thereof) from acquiring and holding shares in Asco Brazil and Asco Finance USA NV.
+
+15.5
+The restrictions in this Clause 15 are regarded by the Sellers as fair and reasonable. If any of the restrictions of Clause 15 were deemed to exceed the time or other limitations provided by applicable Law, these shall not be null and void but shall be construed, reformed and replaced to conform to the maximum permitted by applicable Law.
+
+16.
+NON-DISPOSAL
+
+The Purchaser undertakes within twelve (12) months from the Closing Date (i) not to transfer the Shares or any part thereof (or permit to be transferred) by any means, including merger and contribution, to a legal entity under the laws of, or established in, a jurisdiction outside the European Union, (ii) to maintain its principal seat of business in Belgium; (iii) to remain fully operational as a Belgian holding company; and (iv) not to proceed with dissolution or liquidation, failing which the Purchaser shall be fully liable for, and indemnify and hold each of the Sellers harmless from and against, any capital gains tax as may be imposed on the Sellers including any interest, penalties and other losses incurred by the Sellers in connection therewith.
+17.
+CONFIDENTIALITY
+
+17.1
+Subject to Clause 17.3, no Party shall make or permit any person connected with it to make any disclosure to a third party or any announcement concerning this Transaction or any ancillary matter prior to the Closing, save for the announcement that will be made upon Signing of this Agreement in accordance with the draft attached hereto as Schedule 10, the Parties’ oral public comments following announcement of the Transaction subject to them being non inconsistent with the messages contained in said announcement, the Guarantor’s filing pursuant to Form 8-K and the announcement that will be made upon Closing on the basis of wording to be agreed upon among the Parties in due course.
+
+17.2
+Each Party shall, and shall procure that:
+
+a.
+prior to Closing each member of its Group from time to time shall keep confidential all information provided to it by or on behalf of any other Party or otherwise obtained by or in connection with this Agreement which relates to another Party or any member of any other Party’s Group; and
+
+b.
+if after Closing a Party or its Group holds Confidential Information relating to another Party or any person or entity Affiliated with that Party, it shall keep that information confidential and, to the extent reasonably practicable, shall return that information to each relevant Party or destroy it, in each case without retaining copies.
+
+17.3
+Nothing in this Clause 17 prevents any announcement being made or any Confidential Information being disclosed:
+
+a.
+with the written approval of the other Parties, which in the case of any announcement shall not be unreasonably withheld or delayed; or
+
+b.
+to the extent required by Law or a Regulatory Authority, provided that a Party required to disclose any Confidential Information shall promptly notify the other Parties, where practicable and lawful to do so, before disclosure occurs and
+
+
+EXHIBIT 10.5
+
+co-operate with the other Parties regarding the timing and content of such disclosure or any action which the other Parties may reasonably elect to take to challenge the validity of such requirement.
+
+17.4
+Nothing in this Clause prevents disclosure of Confidential Information by any Party:
+
+a.
+to the extent that the information is in or comes into the public domain other than as a result of a breach of any undertaking or duty of confidentiality by any person; or
+
+b.
+to that Party’s professional advisers, but before any disclosure to any such person the relevant Party shall procure that he is made aware of the terms of this Clause and shall use its best endeavours to procure that such person adheres to those terms as if he were bound by the provisions of this Clause.
+
+17.5
+Nothing in this Clause 17 shall prevent the Purchaser’s Group from using Confidential Information relating to a Group Company after Closing as permitted by applicable Law or to enforce its remedies hereunder.
+
+18.
+SELLERS’ REPRESENTATIVE
+
+18.1
+Each of the Sellers, on behalf of itself and any of its successors and assigns, hereby irrevocably confirms, designates and appoints Christian Boas as its representative (the “Sellers’ Representative”).
+
+18.2
+The Sellers’ Representative shall be the agent and attorney-in-fact of each Seller with full power and authority to perform all actions required or permitted to be performed by the Sellers under this Agreement. A decision, act, consent or instruction of the Sellers’ Representative shall constitute a decision, act, consent or instruction from all of the Sellers and shall be final, binding and conclusive upon each Seller.
+
+19.
+NOTICES
+
+19.1
+Any notice or other formal communication given under this Agreement (which includes fax, but not email) must be in writing and may be delivered in person, or sent by post or fax to the Party to be served at its address appearing in this Agreement, as follows:
+
+to the Sellers at:
+Attn:    Christian Boas (xxxxxxxxxxxxxxxxxxxxxxxxxxx)
+Address:    xxx xx xxxxxx xx, xxxx xx xxxx (xxxxxxx)
+
+Attn:    Emile Boas (xxxxxxxxxxxxxxxxxxx)
+Address:    xxxxxx xx xxxx xxxxxxxx xx, xxxx xxxxxxxx (xxxxxxx)
+
+Attn:    Dreda / Sylvie Boas (xxxxxxxxxxxxxxxxxxxx)
+Address:    xxxxx xx xxx xxxxxxxxx xxx, xxxx xxxxxxxx-xxxxxxxxxx (xxxxxxx)
+
+With a copy to: Eubelius CVBA
+
+Attn:    Marieke Wyckaert (xxxxxxxxxxxxxxxxxxxxxxxxxxx) and Matthias Wauters (xxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+Fax:    xxx xx xxx xx xx
+Address:     xxxxxx xxxxxx xx, xxxx xxxxxxx (xxxxxxx)
+
+to the Purchaser at:
+
+Attn.:    Paul Hechenberger (xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+Address:    xxxx xxxxx xxxxxx, xxxxxxx, xx (xxx) xxxxx
+
+With a copy to: Stibbe cvba/scrl
+
+Attn:    Jan Peeters (xxxxxxxxxxxxxxxxxxxxx)
+Fax:    xxx x xxx xx xx
+Address:    xxxxxx xxxxx, xxxxxxxxxxxx xx xxx xx xxxxxx, xxxx xxxxxxxx (xxxxxxx)
+
+
+EXHIBIT 10.5
+
+With a copy to: Sullivan & Cromwell LLP
+
+Attn:    George Sampas (xxxxxxxxxxxxxxxxxxxx)
+Fax:    xx xxx xxx xxxx
+Address:    xxx xxxxx xxxxxx, xxx xxxx, xx (xxx) xxxxx
+
+or at such other address or fax number as it may notify to the other Party under this Clause. Any notice or other document sent by post shall be sent by registered mail requesting a return receipt (if the place of destination is the same as its country of origin) or by overnight courier (if its destination is elsewhere).
+19.2
+Any notice or other communication shall be deemed to have been given:
+
+a.
+if delivered in person, at the time of delivery; or
+
+b.
+if sent by post at 10.00 a.m. (local time at the place of destination) on the second (2nd) Business Day after it was put into the post or at 10.00 a.m. (local time at the place of destination) on the fifth (5th) Business Day after it was put into the post by overnight courier; or
+
+c.
+if sent by fax, on the date of transmission, if transmitted before 5.00 p.m. (local time at the place of destination) on any Business Day and in any other case on the Business Day following the date of transmission, provided the fax is confirmed by registered mail requesting a return receipt.
+
+d.
+In proving the giving of a notice or other communication it shall be sufficient to prove that delivery in person was made or that the envelope containing the communication was properly addressed and posted, or that the fax was properly addressed and transmitted, as the case may be.
+
+20.
+FURTHER ASSURANCES
+
+On or after Closing each Party shall, at its own cost and expense, execute and do (or procure to be executed and done) all such deeds, documents, acts and things as the other Party may from time to time require in order to vest any of the Shares in the Purchaser or as otherwise may be necessary to give full effect to this Agreement.
+21.
+ASSIGNMENTS
+
+The Purchaser may not assign any of its rights, including the benefit of the Sellers’ Representations and Warranties, or transfer any of the obligations under this Agreement without the prior written consent of the Sellers.
+Notwithstanding the above, but without prejudice to Clause 16, the Purchaser may subject to informing the Sellers thereof, assign (in whole or in part) the benefit of this Agreement to any member of the Purchaser’s Group, subject to such assignment not resulting in greater liability or additional obligations nor less rights for the Sellers under this Agreement. The Purchaser shall ensure that before any such assignee subsequently ceases to be a member of the Purchaser’s Group it shall re-assign that benefit to the Purchaser or to another continuing member of the Purchaser’s Group.
+22.
+PAYMENTS
+
+Save as otherwise specifically set out in this Agreement, if a Party defaults in the payment when due of any sum payable under this Agreement, it shall pay interest at an annual rate of three per cent (300 basis points) above EURIBOR three months (it being understood that if and to the extent the EURIBOR three months would be negative, it shall for purposes of this Agreement be considered as being equal to zero) on that sum from the date on which payment is due until the date of actual payment, which interest shall accrue from day to day, without the need for any specific notice, and be compounded annually.
+23.
+NATURE OF THE OBLIGATIONS OF THE SELLERS
+
+23.1
+Except as otherwise provided in this Agreement, each of the Sellers undertakes individually, for itself, the applicable obligations set forth in this Agreement and each of the Sellers may individually for itself enforce all its rights under this Agreement.
+
+23.2
+Further to Clause 23.1 above, where any obligation, representation, warranty or undertaking in this Agreement is expressed to be made, undertaken or given by the Sellers they shall be severally, not jointly, responsible in respect
+
+
+EXHIBIT 10.5
+
+of it, in proportion to their respective holdings of Shares immediately before Closing as set out in Schedule 1. For the avoidance of doubt, no Seller can be held liable for a Breach by another Seller, save with respect to the obligation to deliver the Shares upon Closing.
+
+24.
+COSTS AND EXPENSES
+
+Each Party will pay the costs and expenses incurred by it in connection with the entering into, and completion of, this Agreement, including, without limitation, in respect of their obligations in satisfying the Conditions Precedent and the other requirements for transferring the Shares.
+25.
+GENERAL PROVISIONS
+
+25.1
+For the avoidance of doubt, none of the limitations set out in Clauses 7, 8 and 9 shall apply to a breach of any obligation of a Party resting on it further to this Agreement, other than a Breach, or in respect of any Specific Indemnity set out in Clause 10 to the extent applicable.
+
+25.2
+Save as explicitly provided in this Agreement, the Parties waive their rights, if any and whether in whole or in part, to annul, rescind, dissolve, terminate or cancel this Agreement, or to request such annulment, rescission, dissolution, termination or cancellation after Closing, including on the basis of general provisions of contract law (including section 1184 of the Belgian Civil Code). This Clause 25.2 shall not exclude any liability for (or remedy in respect of) fraud nor prevent a party to seek enforcement in kind of any of its rights and/or indemnification in case of breach of an obligation by another Party.
+
+25.3
+The Purchaser shall not direct (and shall cause the Group Companies not to direct) any claim to any of the Resigning Directors or the Resigning Officers of the Group Companies referred to in Clause 5.2.3. The Purchaser shall exercise its rights as a direct or indirect shareholder of the Group Companies in a way that avoids any personal liability of the Resigning Directors and the Resigning Officers referred to in Clause 5.2.3. In particular, to the extent legally permissible, the Purchaser agrees to vote against the enforcement of claims of any Group Company against the Resigning Directors or Resigning Officers referred to in Clause 5.2.3. For the avoidance of doubt, the foregoing is without prejudice to the Purchaser’s right to direct a claim against the Sellers in their capacity as Sellers under this Agreement (on the terms and subject to the conditions of this Agreement).
+
+25.4
+If any provision of this Agreement is held invalid or unenforceable by any court or arbitral tribunal of competent jurisdiction, the other provisions of this Agreement will remain in full force and effect. Any provision of this Agreement held invalid or unenforceable only in part or degree will remain in full force and effect to the extent not held invalid or unenforceable. The Parties undertake to replace the invalid or unenforceable provision by a provision which achieves the original purpose and intention of the Parties to the fullest possible extent.
+
+25.5
+The nullity or non-applicability of any provision of this Agreement shall not affect the validity or applicability of other provisions of the Agreement, which shall remain in full force and effect.
+
+25.6
+No Party shall be deemed to have waived any rights or remedies arising out of this Agreement or out of any default or breach hereunder unless such Party executes the waiver in writing. If a Party waives a right or remedy arising out of this Agreement or out of any default or breach hereunder, such waiver shall not be construed to constitute a waiver of any other rights or remedies.
+
+25.7
+This Agreement supersedes all prior agreements among the Parties with respect to its subject matter and constitutes a complete and exclusive statement of the terms of the agreement among the Parties with respect to its subject matter, except for the confidentiality agreement dated 3 July 2017 among Asco Industries NV and Spirit Aerosystems, Inc. (the “Confidentiality Agreement”), as amended by (i) an agreement entered into by and among the Company, Asco Industries NV and Spirit Aerosystems, Inc. on 14 November 2017 (the “First Addendum”), (ii) an agreement entered into by and among the Company, Asco Industries NV and Spirit Aerosystems, Inc. on 12 March 2018 (the “Second Addendum”), (iii) an agreement entered into by and among the Company, Asco Industries NV and Spirit Aerosystems, Inc. on 26 February 2018 (the “Third Addendum”), and (iii) an agreement entered into by and among the Company, Asco Industries NV and Spirit Aerosystems, Inc. on 26 April 2018 (the “Fourth Addendum”) and which will remain in full force up until Closing.
+
+25.8
+This Agreement may not be amended except by a written agreement by and among the Parties.
+
+
+EXHIBIT 10.5
+
+26.
+GOVERNING LAW AND COMPETENT COURTS
+
+26.1
+This Agreement is governed by and shall be construed in accordance with the laws of Belgium, without giving effect to its principles or rules of conflict of laws, to the extent such principles or rules would permit or require the application of the laws of another jurisdiction.
+26.2
+Any disputes in connection with or arising out of this Agreement that are not settled amicably shall be conclusively settled by way of arbitration under the Rules of Conciliation and Arbitration of the International Chamber of Commerce (“ICC”) (the “Rules”) by three arbitrators, whereby each Party shall appoint one (1) arbitrator in accordance with said Rules as in force at the time of the request for arbitration and the two (2) arbitrators so appointed shall jointly appoint a third arbitrator, who shall act as chairman, in accordance with said Rules. If the Party-appointed arbitrators do not agree on the identity of the third arbitrator he shall be appointed in accordance with said Rules. The place of the arbitration shall be London. The arbitral proceedings and all documents delivered to or by the arbitrators shall be conducted in English. The arbitrators’ decision shall be final and binding on the Parties. The arbitrators must decide on which share of the costs each Party shall bear, which shares may not be equal as a consequence of the respective responsibility of each Party in the origin of the dispute or its continuation. For the avoidance of doubt, the foregoing is without prejudice to the right of a Party to seek injunctive relief in summary proceedings before any competent court and to submit a dispute in relation to the Price Adjustment to an Independent Auditor in accordance with Clauses 3.3.4 and 3.4.
+
+This Agreement has been signed in six (6) counterparts, which is as many counterparts as the number of Parties to it, and each party acknowledges receipt of one such counterpart.
+Each of the Sellers hereby gives proxy to any lawyer of Eubelius CVBA and the Purchaser and the Guarantor hereby give proxy to any lawyer of Stibbe CVBA to initial on its behalf the pages of this Agreement (it being understood that the annexes have not been changed and that Parties have thus agreed not to initial them).
+SELLERS
+ 
+Christian Boas
+/s/ Christian Boas
+Emile Boas
+/s/ Emile Boas
+ 
+ 
+Dreda general partnership
+/s/ Sylvie Boas
+Sylvie Boas
+/s/ Sylvie Boas
+Sylvie Boas
+Director
+ 
+ 
+ 
+PURCHASER
+ 
+Spirit AeroSystems Belgium Holdings BVBA
+/s/ Sam J. Marnick
+ 
+Sam J. Marnick
+Managing Director
+ 
+ 
+ 
+GUARANTOR
+ 
+Spirit AeroSystems Holdings, Inc.
+/s/ Sam J. Marnick
+ 
+Sam J. Marnick
+Chief Administration Officer
+ 
+
+
+

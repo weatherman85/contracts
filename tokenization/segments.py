@@ -40,14 +40,16 @@ TITLE_PATTERNS = [
     re.compile(r'\b(?:[IVX]+\.\s*)+[A-Za-z0-9]+\b'),
     re.compile(r'^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z][^\r\n]*?)(?=$|[^\w\s\-])(?:\.|\s|$)(?!(?:(?:\d{1,5}\s+[A-Za-z.,]+(?:\s+[A-Za-z.,]+)*)|(?:[A-Za-z.,]+\s*\d{1,5}(?:[A-Za-z.,]+\s*\d{1,5})*)))(?!%)'),
     re.compile(r'^(ARTICLE|[Aa]rticle)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$'),
-    re.compile(r'(?P<title>IN\s+WITNESS\s+WHEREOF)'),
-    re.compile(r'(?P<title>SIGNATURES)'),
-    re.compile(r'(?P<title>Signed\s+by\s+the\s+Parties\s+)'),
+    re.compile(r'(IN\s+WITNESS\s+)'),
+    re.compile(r'(SIGNATURES)'),
+    re.compile(r'By its signature'),
+    re.compile(r'^(Signed\s+by\s+the\s+Parties:?)'),
     re.compile(r'^(?P<title>(Schedule|Appendix|Addendum|Annex|Exhibit|Annexure)\s.*)$'),
     re.compile(r'^(?:Dear\s(.+?)|(Ladies\sand\sGentlemen:))'),
     re.compile(r'\n^(Best\sregards|Sincerely|Yours\ssincerely|Kind\sregards|Very\struly\syours)'),
     re.compile(r'\bTABLE OF CONTENTS\b.*?(?=\b[A-Z]+\s+\d+\b|$)', re.DOTALL),
-    re.compile(r"^(?P<title>(?:[A-Z][a-z\d]*(?:[\s\-;]+|$))+)$")
+    re.compile(r"^(?P<title>(?:[A-Z][a-z\d]*(?:[\s\-;]+|$))+)$"),
+    re.compile(r"The\s+parties\s+hereto")
     # re.compile(r'(?P<title>IN WITNESS WHEREOF,.*?Dated.*?[0-9]{1,2} [A-Za-z]+ [0-9]{4})'),
     # re.compile(r'^(?:\d+\.|[a-zA-Z]\.)\s*(?P<title>[^\r\n]+)$'),
     # re.compile(r'^\s{4,}(?P<title>[^\r\n]+)$')
@@ -93,7 +95,10 @@ class SectionSegmenter(object):
                             current_section["title_start"] = text_index + match.start("title")
                             current_section["title_end"] = text_index + match.end("title")
                         else:
-                            current_section["title"] = ""
+                            if any(word.lower() in match.group().lower() for word in ["witness","signature","signed by","hereto"]):
+                                current_section["title"] = "SIGNATURE BLOCK"
+                            else:
+                                current_section["title"] = ""
                             current_section["title_start"] = text_index
                             current_section["title_end"] = text_index
                         if 'section' in pattern.groupindex and match.group("section"):
@@ -119,7 +124,7 @@ class SectionSegmenter(object):
             
             contract.segments.append(DocumentSegment(
                     start=section.get("title_start", 0),
-                    end=section.get("title_end", len(text)),
+                    end=section.get("end", len(text)),
                     title=section.get("title", None),
                     title_start=section.get("title_start", None),
                     title_end=section.get("title_end", None),

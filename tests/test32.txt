@@ -1,0 +1,339 @@
+EX-10.12 5 pmt-ex10_12.htm EX-10.12
+		EXHIBIT 10.12
+
+ 
+
+SECOND AMENDED AND RESTATED GUARANTY
+
+by
+
+PENNYMAC MORTGAGE INVESTMENT TRUST, as guarantor
+
+Dated as of October 10, 2023
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+Page
+
+1.	Defined Terms
+
+- 1 -
+
+2.	Guaranty
+
+- 2 -
+
+3.	Right of Set-off
+
+- 2 -
+
+4.	Subrogation
+
+- 3 -
+
+5.	Amendments, etc. with Respect to the Obligations
+
+- 3 -
+
+6.	Guaranty Absolute and Unconditional
+
+- 3 -
+
+7.	Reinstatement
+
+- 5 -
+
+8.	Payments
+
+- 5 -
+
+9.	Event of Default
+
+- 5 -
+
+10.	Severability
+
+- 5 -
+
+11.	Headings
+
+- 6 -
+
+12.	No Waiver; Cumulative Remedies
+
+- 6 -
+
+13.	Waivers and Amendments; Successors and Assigns; Governing Law
+
+- 6 -
+
+14.	Notices
+
+- 6 -
+
+15.	Jurisdiction
+
+- 6 -
+
+16.	Integration
+
+- 7 -
+
+17.	Third Party Beneficaries
+
+- 8 -
+
+18.	Acknowledgments	8
+
+19.	Events of Default	8
+
+20.	Amendment and Restatement	8
+
+ 
+
+ 
+
+ii
+
+ 
+
+SECOND AMENDED AND RESTATED GUARANTY
+
+This SECOND AMENDED AND RESTATED GUARANTY, dated as of  October 10, 2023 (as may be amended, restated, supplemented or otherwise modified from time to time, this “Guaranty”), is made by PENNYMAC MORTGAGE INVESTMENT TRUST (“Guarantor”), in favor of, and consented and agreed to by, the buyers from time to time party to the VF1 Repurchase Agreement (as defined herein) (each a “Buyer”, and collectively, the “Buyers”).
+
+RECITALS
+
+WHEREAS, Guarantor has entered into that certain Amended and Restated Guaranty, dated as of June 29, 2018 (as amended, restated, supplemented or otherwise modified from time to time, the “Original Guaranty”), in favor of Nexera Holding LLC (“Nexera”) and Citibank, N.A. (“Citibank”), as Buyers;
+
+WHEREAS, pursuant to Section 13 of the Original Guaranty, the Original Guaranty may be amended, supplemented or otherwise modified by a written instrument executed by Guarantor and Buyers;
+
+WHEREAS, pursuant to the Second Amended and Restated Master Repurchase Agreement, dated as of October 10, 2023 (as may be amended, restated, supplemented or otherwise modified from time to time, the “VF1 Repurchase Agreement”), among PennyMac Corp., as a seller (“PMC Seller”), PennyMac Holdings LLC, as a seller (“PMH Seller” and, together with PMC Seller, the “Sellers”), the buyers from time to time party thereto and Atlas Securitized Products, L.P., as administrative agent (the “Administrative Agent”), the Buyers have agreed from time to time to enter into Transactions with Sellers;
+
+WHEREAS, it is a condition precedent to the obligation of the Buyers to enter into Transactions with Sellers under the VF1 Repurchase Agreement that Guarantor shall have executed and delivered this Guaranty to the Buyers;
+
+WHEREAS, as a condition precedent to entering into the VF1 Repurchase Agreement, the Guarantor is required to execute and deliver this Guaranty;
+
+WHEREAS, the Guarantor will receive a benefit, either directly or indirectly from the Sellers for entering into this Guaranty; and
+
+NOW, THEREFORE, in consideration of the foregoing premises, to induce the Buyers to enter into the VF1 Repurchase Agreement and to enter into Transactions thereunder, Guarantor hereby agrees with the Buyers, as follows:
+
+1.	Defined Terms.  (a) Unless otherwise defined herein, terms which are defined in the VF1 Repurchase Agreement and used herein are so used as so defined.
+
+(b)	For purposes of this Guaranty, “Obligations” shall mean all obligations and liabilities of Sellers to the Buyers, whether direct or indirect, absolute or contingent, due or to become due, or now existing or hereafter incurred, which may arise under, or out of or in 
+
+1
+
+ 
+
+connection with the VF1 Repurchase Agreement and any other Program Agreements and any other document made, delivered or given in connection therewith or herewith, whether on account of principal, interest, reimbursement obligations, fees, indemnities, costs, expenses (including, without limitation, all fees and disbursements of counsel to Buyers that are required to be paid by Sellers pursuant to the terms of the Program Agreements and costs of enforcement of this Guaranty reasonably incurred) or otherwise.
+
+2.	Guaranty.  (a) Guarantor hereby unconditionally and irrevocably guarantees to the Buyers the prompt and complete payment and performance by Sellers when due (whether at the stated maturity, by acceleration or otherwise) of the Obligations.
+
+(b)	Guarantor further agrees to pay any and all expenses (including, without limitation, all fees and disbursements of counsel) which may be paid or incurred by the Buyers in enforcing, or obtaining advice of counsel in respect of, any rights with respect to, or collecting, any or all of the Obligations and/or enforcing any rights with respect to, or collecting against, Guarantor under this Guaranty.  This Guaranty shall remain in full force and effect until the later of (i) the termination of the VF1 Repurchase Agreement and (ii) the Obligations are paid in full, notwithstanding that from time to time prior thereto Sellers may be free from any Obligations.
+
+(c)	No payment or payments made by Sellers or any other Person or received or collected by the Buyers from Sellers or any other Person by virtue of any action or proceeding or any set-off or appropriation or application, at any time or from time to time, in reduction of or in payment of the Obligations shall be deemed to modify, reduce, release or otherwise affect the liability of Guarantor hereunder which shall, notwithstanding any such payment or payments, remain liable for the amount of the outstanding Obligations until the outstanding Obligations are paid in full.
+
+(d)	Guarantor agrees that whenever, at any time, or from time to time, Guarantor shall make any payment to the Buyers on account of Guarantor’s liability hereunder, Guarantor will notify the Buyers in writing that such payment is made under this Guaranty for such purpose.
+
+3.	Right of Set-off.  The Buyers are hereby irrevocably authorized at any time and from time to time without notice to Guarantor, any such notice being hereby waived by Guarantor, to set-off and appropriate and apply any and all monies and other property of Guarantor, deposits (general or special, time or demand, provisional or final), in any currency, and any other credits, indebtedness or claims, in any currency, in each case whether direct or indirect, absolute or contingent, matured or unmatured, at any time held or owing by the Buyers or any Affiliate thereof to or for the credit or the account of Guarantor, or any part thereof in such amounts as the Buyers may elect, on account of the Obligations and liabilities of Guarantor hereunder and claims of every nature and description of the Buyers against Guarantor, in any currency, whether arising hereunder, under the VF1 Repurchase Agreement or otherwise, as the Buyers may elect, whether or not the Buyers have made any demand for payment and although such Obligations and liabilities and claims may be contingent or unmatured.  The Buyers shall notify Guarantor promptly of any such set-off and the application made by the Buyers, provided that the failure to give such notice shall not affect the validity of such set-off and application.  The rights of the Buyers under this 
+
+2
+
+ 
+
+paragraph are in addition to other rights and remedies (including, without limitation, other rights of set-off) which the Buyers may have.
+
+4.	Subrogation.  Notwithstanding any payment or payments made by Guarantor hereunder or any set-off or application of funds of Guarantor by the Buyers, Guarantor shall not be entitled to be subrogated to any of the rights of the Buyers against Sellers or any other guarantor or any collateral security or guarantee or right of offset held by Buyer for the payment of the Obligations, nor shall Guarantor seek or be entitled to seek any contribution or reimbursement from Sellers or any other guarantor in respect of payments made by Guarantor hereunder, until all amounts owing to the Buyers by Sellers on account of the Obligations are paid in full and the VF1 Repurchase Agreement is terminated.  If any amount shall be paid to Guarantor on account of such subrogation rights at any time when all of the Obligations shall not have been paid in full, such amounts shall be held by Guarantor for the benefit of the Buyers, segregated from other funds of Guarantor, and shall, forthwith upon receipt by Guarantor, be turned over to the Buyers in the exact form received by Guarantor (duly indorsed by Guarantor to the Buyers, if required), to be applied against the Obligations, whether matured or unmatured, in such order as Buyers may determine.
+
+5.	Amendments, etc. with Respect to the Obligations.  Guarantor shall remain obligated hereunder notwithstanding that, without any reservation of rights against Guarantor, and without notice to or further assent by Guarantor, any demand for payment of any of the Obligations made by the Buyers may be rescinded by the Buyers, and any of the Obligations continued, and the Obligations, or the liability of any other party upon or for any part thereof, or any collateral security or guarantee therefor or right of offset with respect thereto, may, from time to time, in whole or in part, be renewed, extended, amended, modified, accelerated, compromised, waived, surrendered or released by the Buyers, and the VF1 Repurchase Agreement, and the other Program Agreements and any other document in connection therewith may be amended, modified, supplemented or terminated, in whole or in part, pursuant to its terms and as  the Buyers may deem advisable from time to time, and any collateral security, guarantee or right of offset at any time held by  the Buyers for the payment of the Obligations may be sold, exchanged, waived, surrendered or released. The Buyers shall have no obligation to protect, secure, perfect or insure any Lien at any time held by it as security for the Obligations or for this Guaranty or any property subject thereto.  When making any demand hereunder against Guarantor, the Buyers may, but shall be under no obligation to, make a similar demand on Sellers and any failure by Buyers to make any such demand or to collect any payments from Sellers or any release of Sellers shall not relieve Guarantor of its obligations or liabilities hereunder, and shall not impair or affect the rights and remedies, express or implied, or as a matter of law, of Buyer against Guarantor.  For the purposes hereof “demand” shall include, but is not limited to, the commencement and continuance of any legal proceedings.
+
+6.	Guaranty Absolute and Unconditional.  (a) Guarantor waives any and all notice of the creation, renewal, extension or accrual of any of the Obligations and notice of or proof of reliance by Buyers upon this Guaranty or acceptance of this Guaranty; the Obligations, and any of them, shall conclusively be deemed to have been created, contracted or incurred, or renewed, extended, amended or waived in reliance upon this Guaranty; and all dealings between  Sellers or Guarantor, on the one hand, and Buyers, on the other, shall likewise be conclusively presumed to have been had or consummated in reliance upon this Guaranty.  Guarantor waives 
+
+3
+
+ 
+
+diligence, presentment, protest, demand for payment and notice of default or nonpayment to or upon Sellers or the Guaranty with respect to the Obligations. This Guaranty shall be construed as a continuing, absolute and unconditional guarantee of payment without regard to (i) the validity or enforceability of the VF1 Repurchase Agreement, the other Program Agreements, any of the Obligations or any collateral security therefor or guarantee or right of offset with respect thereto at any time or from time to time held by Buyers, (ii) any defense, set-off or counterclaim (other than a defense of payment or performance) which may at any time be available to or be asserted by Sellers against Buyers, or (iii) any other circumstance whatsoever (with or without notice to or knowledge of Sellers or Guarantor) which constitutes, or might be construed to constitute, an equitable or legal discharge of Sellers for the Obligations, or of Guarantor under this Guaranty, in bankruptcy or in any other instance.  When pursuing its rights and remedies hereunder against Guarantor, Buyer may, but shall be under no obligation, to pursue such rights and remedies that they may have against Sellers or any other Person or against any collateral security or guarantee for the Obligations or any right of offset with respect thereto, and any failure by Buyers to pursue such other rights or remedies or to collect any payments from Sellers or any such other Person or to realize upon any such collateral security or guarantee or to exercise any such right of offset, or any release of Sellers or any such other Person or any such collateral security, guarantee or right of offset, shall not relieve Guarantor of any liability hereunder, and shall not impair or affect the rights and remedies, whether express, implied or available as a matter of law, of Buyers against Guarantor.  This Guaranty shall remain in full force and effect and be binding in accordance with and to the extent of its terms upon Guarantor and their successors and assigns thereof, and shall inure to the benefit of Buyers, and successors, indorsees, transferees and assigns, until all the Obligations and the obligations of Guarantor under this Guaranty shall have been satisfied by payment in full, notwithstanding that from time to time during the term of the VF1 Repurchase Agreement Sellers may be free from any Obligations.
+
+(b)	Without limiting the generality of the foregoing, Guarantor hereby agrees, acknowledges, and represents and warrants to Buyers as follows:
+
+(i)	Guarantor hereby waives any defense arising by reason of, and any and all right to assert against Buyers any claim or defense based upon, an election of remedies by Buyers which in any manner impairs, affects, reduces, releases, destroys and/or extinguishes Guarantor’s (x) subrogation rights, (y) rights to proceed against Sellers or any other guarantor for reimbursement or contribution, and/or (z) any other rights of Guarantor to proceed against Sellers, against any other guarantor, or against any other person or security.
+
+(ii)	Guarantor is presently informed of the financial condition of Sellers and of all other circumstances which diligent inquiry would reveal and which bear upon the risk of nonpayment of the Obligations.  Guarantor hereby covenants that it will make its own investigation and will continue to keep itself informed of each Seller’s financial condition, the status of other guarantors, if any, of all other circumstances which bear upon the risk of nonpayment and that it will continue to rely upon sources other than Buyers for such information and will not rely upon Buyers for any such information.  Absent a written request for such information by Guarantor to Buyers, Guarantor hereby waives its right, if any, to require Buyers to disclose to Guarantor any information which Buyers may now or 
+
+4
+
+ 
+
+hereafter acquire concerning such condition or circumstances including, but not limited to, the release of or revocation by any other guarantor.
+
+(iii)	Guarantor has independently reviewed the VF1 Repurchase Agreement and related agreements and has made an independent determination as to the validity and enforceability thereof, and in executing and delivering this Guaranty to Buyers, Guarantor is not in any manner relying upon the validity, and/or enforceability, and/or attachment, and/or perfection of any Liens or security interests of any kind or nature granted by Sellers or any other guarantor to Buyers, now or at any time and from time to time in the future.
+
+(iv)	Guarantor is not required to register as an “investment company” under the Investment Company Act of 1940, as amended from time to time. 
+
+(c) 	Guarantor hereby covenants that it shall not merge, consolidate, amalgamate, liquidate, wind up or dissolve itself (or suffer any liquidation, winding up or dissolution) or sell all or substantially all of its assets; provided that Guarantor may merge or consolidate with (i) any wholly owned subsidiary of Guarantor, (ii) any other Person if Guarantor is the surviving entity; or (iii) with the prior written consent of the Buyers and the Administrative Agent, so long that, in each case, after giving effect thereto, no Default would exist hereunder.
+
+7.	Reinstatement.  This Guaranty shall continue to be effective, or be reinstated, as the case may be, if at any time payment, or any part thereof, of any of the Obligations is rescinded or must otherwise be restored or returned by a Buyer upon the insolvency, bankruptcy, dissolution, liquidation or reorganization of either Seller or upon or as a result of the appointment of a receiver, intervenor or conservator of, or trustee or similar officer for, either Seller or any substantial part of its property, or otherwise, all as though such payments had not been made.
+
+8.	Payments.  Guarantor hereby agrees that the Obligations will be paid to Buyer without set-off or counterclaim in U.S. Dollars.
+
+9.	Event of Default.  If an Event of Default under the VF1 Repurchase Agreement shall have occurred and be continuing, Guarantor agrees that, as between Guarantor and the Buyers, the Obligations may be declared to be due in accordance with the terms of the VF1 Repurchase Agreement for purposes of this Guaranty notwithstanding any stay, injunction or other prohibition which may prevent, delay or vitiate any such declaration as against the Sellers and that, in the event of any such declaration (or attempted declaration), such Obligations shall forthwith become due by Guarantor for purposes of this Guaranty.
+
+10.	Severability.  Any provision of this Guaranty which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+5
+
+ 
+
+11.	Headings.  The paragraph headings used in this Guaranty are for convenience of reference only and are not to affect the construction hereof or be taken into consideration in the interpretation hereof.
+
+12.	No Waiver; Cumulative Remedies.  Buyers shall not by any act (except by a written instrument pursuant to Section 13 hereof), delay, indulgence, omission or otherwise be deemed to have waived any right or remedy hereunder or to have acquiesced in any Default or Event of Default or in any breach of any of the terms and conditions hereof.  No failure to exercise, nor any delay in exercising, on the part of Buyers, any right, power or privilege hereunder shall operate as a waiver thereof.  No single or partial exercise of any right, power or privilege hereunder shall preclude any other or further exercise thereof or the exercise of any other right, power or privilege.  A waiver by Buyers of any right or remedy hereunder on any one occasion shall not be construed as a bar to any right or remedy which Buyers would otherwise have on any future occasion.  The rights and remedies herein provided are cumulative, may be exercised singly or concurrently and are not exclusive of any rights or remedies provided by law.
+
+13.	Waivers and Amendments; Successors and Assigns; Governing Law.  None of the terms or provisions of this Guaranty may be waived, amended, supplemented or otherwise modified except by a written instrument executed by Guarantor and Buyers, provided that any provision of this Guaranty may be waived by Buyers in a letter or agreement executed by Buyers or by facsimile or electronic transmission from Buyers to the Guarantor.  This Guaranty shall be binding upon the personal representatives, successors and assigns of Guarantor and shall inure to the benefit of Buyers and their successors and assigns.
+
+14.	Notices.  Notices delivered in connection with this Guaranty shall be given in accordance with Section 10.05 of the VF1 Repurchase Agreement.
+
+15.	Governing Law; Jurisdiction; Waivers.
+
+(a)	THIS GUARANTY AND ANY CLAIM, CONTROVERSY OR DISPUTE ARISING UNDER OR RELATED TO OR IN CONNECTION WITH THIS GUARANTY, THE RELATIONSHIP OF THE PARTIES HERETO, AND/OR THE INTERPRETATION AND ENFORCEMENT OF THE RIGHTS AND DUTIES OF THE PARTIES HERETO WILL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK (WITHOUT REFERENCE TO THE CONFLICT OF LAW PRINCIPLES THEREOF OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW) AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+(b)	THE GUARANTOR SUBMITS ITSELF AND ITS PROPERTY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS GUARANTY, OR FOR RECOGNITION AND ENFORCEMENT OF ANY JUDGMENT IN RESPECT THEREOF, TO THE GENERAL JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK SITTING IN THE BOROUGH OF MANHATTAN, THE FEDERAL COURTS OF THE UNITED STATES OF AMERICA FOR THE SOUTHERN DISTRICT OF NEW YORK, AND APPELLATE COURTS FROM ANY THEREOF;
+
+6
+
+ 
+
+(c)	THE GUARANTOR CONSENTS THAT ANY SUCH ACTION OR PROCEEDING MAY BE BROUGHT IN SUCH COURTS AND, TO THE EXTENT PERMITTED BY LAW, WAIVES ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH ACTION OR PROCEEDING IN ANY SUCH COURT OR THAT SUCH ACTION OR PROCEEDING WAS BROUGHT IN AN INCONVENIENT COURT AND AGREES NOT TO PLEAD OR CLAIM THE SAME;
+
+(d)	THE GUARANTOR AGREES THAT SERVICE OF PROCESS IN ANY SUCH ACTION OR PROCEEDING MAY BE EFFECTED BY MAILING A COPY THEREOF BY REGISTERED OR CERTIFIED MAIL (OR ANY SUBSTANTIALLY SIMILAR FORM OF MAIL), POSTAGE PREPAID, TO ITS ADDRESS SET FORTH HEREIN OR AT SUCH OTHER ADDRESS OF WHICH EACH OTHER PARTY HERETO SHALL HAVE BEEN NOTIFIED IN WRITING, EXCEPT THAT WITH RESPECT TO THE INDENTURE TRUSTEE, CALCULATION AGENT, PAYING AGENT AND SECURITIES INTERMEDIARY, SERVICE OF PROCESS MAY ONLY BE MADE AS REQUIRED BY APPLICABLE LAW;
+
+(e)	THE GUARANTOR AGREES THAT NOTHING HEREIN SHALL AFFECT THE RIGHT TO EFFECT SERVICE OF PROCESS IN ANY OTHER MANNER PERMITTED BY LAW OR SHALL LIMIT THE RIGHT TO SUE IN ANY OTHER JURISDICTION; AND
+
+(f)	THE GUARANTOR WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS GUARANTY OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+16.	Integration; Counterparts.  This Guaranty represents the agreement of Guarantor with respect to the subject matter hereof and there are no promises or representations by Buyer relative to the subject matter hereof not reflected herein.  This Guaranty may be executed in any number of counterparts and all of such counterparts shall together constitute one and the same instrument.  The parties agree that this Guaranty, any addendum or amendment hereto or any other document necessary for the consummation of the transactions contemplated by this Guaranty may be accepted, executed or agreed to through the use of an electronic signature in accordance with the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq, Official Text of the Uniform Electronic Transactions Act as approved by the National Conference of Commissioners on Uniform State Laws at its Annual Conference on July 29, 1999 and any applicable state law. Any document accepted, executed or agreed to in conformity with such laws will be binding on all parties hereto to the same extent as if it were physically executed and each party hereby consents to the use of any secure third party electronic signature capture service with appropriate document access tracking, electronic signature tracking and document retention, including but not limited to DocuSign.
+
+17.	Third Party Beneficiaries.  Each of the Secured Parties and the Administrative Agent shall be a third party beneficiary of this Guaranty and shall be entitled to enforce the Guarantor’s Obligations hereunder to the same extent as if it was a signatory hereto.  
+
+7
+
+ 
+
+18.	Acknowledgments.  Guarantor hereby acknowledges that:
+
+(a)	Guarantor has been advised by counsel in the negotiation, execution and delivery of this Guaranty and the other Program Agreements;
+
+(b)	Buyers do not have any fiduciary relationship to Guarantor, Guarantor does not have any fiduciary relationship to Buyers and the relationship between Buyers and Guarantor is solely that of surety and creditor;
+
+(c)	no joint venture exists between Buyers and Guarantor or among Buyers, Sellers and Guarantor;
+
+(d)	this Guaranty is “a security agreement or arrangement or other credit enhancement” that is “related to” and provided “in connection with” the PC Repurchase Agreement and each Transaction thereunder and is within the meaning of Sections 101(38A)(A) and 741(7)(A)(xi) of the Bankruptcy Reform Act of 1978, 11 U.S.C. §§ 101 et seq., as amended (the “Bankruptcy Code”) and is, therefore to the extent of damages in connection with the PC Repurchase Agreement, measured in accordance with Section 562 of the Bankruptcy Code (i) a “securities contract” as that term is defined in Section 741(7)(A)(xi) of the Bankruptcy Code and (ii) a “master netting agreement” as that term is defined in Section 101(38A) of the Bankruptcy Code; and 
+
+(e)	Buyers’ right to cause the termination, liquidation or acceleration of, or to offset or net termination values, payment amounts or other transfer obligations arising under or in connection with the PC Repurchase Agreement and this Guaranty is in each case a contractual right to cause the termination, liquidation or acceleration of, or to offset or net termination values, payment amounts or other transfer obligations arising under or in connection with this Guaranty as described in Sections 362(b)(6), 362(b)(27), 555 and/or 561 of the Bankruptcy Code.
+
+19.	Events of Default.  Each of the following events or circumstances shall constitute an “Event of Default” under this Guaranty: 
+
+(a)	For any reason, this Guaranty at any time shall not be in full force and effect in all material respects or shall not be enforceable in all material respects in accordance with its terms, or Guarantor or any Affiliate of Guarantor shall seek to disaffirm, terminate, limit or reduce its obligations hereunder.
+
+(b)	A material breach by Guarantor of the representation or warranty in Section 6(b)(iv) hereof, if not cured within thirty (30) days following the occurrence of such breach, or breach of the covenant in Section 6(c) hereof.
+
+20.	Amendment and Restatement.  The Guarantor entered into the Original Guaranty.   The Buyers and the Guarantor desire to enter into this Guaranty in order to amend and restate the Original Guaranty in its entirety. The amendment and restatement of the Original Guaranty shall become effective on the date hereof, and each of the Buyers and the Guarantor shall hereafter be bound by the terms and conditions of this Guaranty and the other Program Agreements.  All references to the Original Guaranty in any Program Agreement or other 
+
+8
+
+ 
+
+document or instrument delivered in connection therewith shall be deemed to refer to this Guaranty and the provisions hereof.
+
+ [Signature page follows]
+
+9
+
+ 
+
+IN WITNESS WHEREOF, the undersigned has caused this Guaranty to be duly executed and delivered as of the date first above written.
+
+PENNYMAC MORTGAGE INVESTMENT TRUST, as Guarantor
+
+By:  /s/ Pamela Marsh					
+
+Name:	Pamela Marsh
+
+Title: Senior Managing Director and Treasurer 	
+
+ 
+
+ 
+
+[Signature Page to Second A&R Guaranty (VF1 Master Repurchase Agreement)]
+
+ 
+
+ 
+
+ 
+
+CONSENTED AND AGREED TO BY:
+
+ 
+
+NEXERA HOLDING LLC, as a buyer
+
+By:  /s/ Steve Abreu			
+
+Name:	Steve Abreu
+
+Title:   CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to Second A&R Guaranty (VF1 Master Repurchase Agreement)]
+
+ 
+
+ 
+
+ 
+
+CITIBANK, N.A., as a buyer
+
+By:  /s/ Arunthathi Theivakumaran	
+
+Name:	Arunthathi Theivakumaran
+
+Title:   Vice President
+
+[Signature Page to Second A&R Guaranty (VF1 Master Repurchase Agreement)]
+
+ 
+
+ 
+

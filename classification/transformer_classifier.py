@@ -1,10 +1,11 @@
 from transformers import pipeline
 from classification.classifier import Classifier
-
+import torch
 class TransformersClassifier(Classifier):
     def __init__(self, model=None, attribute=None, method=None, positive_class=None,normalizer=None):
         super().__init__(model=model, attribute=attribute, positive_class=positive_class,normalizer=normalizer)
-        self.model = pipeline("text-classification", model=model)
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.model = pipeline("text-classification", model=model,device=device)
         self.method = method
 
     def predict(self, contract, batch_size, text_range=None):

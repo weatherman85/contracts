@@ -18,7 +18,8 @@ class GovNorm(Normalizer):
         else:
             self.lookups = lookups
         
-    def process(self,text):
+    def process(self,ent):
+        text = ent.name
         if str(text).lower() != 'nan':
             best_match = None
             best_priority = float('inf')  # Initialize with positive infinity

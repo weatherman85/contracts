@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualize Contract Data</title>
+    <style>
+        /* Add your CSS styles here */
+        .highlighted {
+            background-image: linear-gradient(90deg, #aa9cfc, #fc9ce7);
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Visualize Contract Data</h1>
+    <input type="file" id="fileUpload" accept=".txt" />
+    <div id="visualizationOptions">
+        <label for="visualizationSelect">Select option to visualize:</label>
+        <select id="visualizationSelect">
+            <option value="contractPdf">Contract PDF</option>
+            <option value="contractMetadata">Contract Metadata</option>
+            <option value="contractText">Contract Text</option>
+            <option value="glossary">Glossary</option>
+            <option value="counterparties">Counterparties</option>
+        </select>
+    </div>
+    <div id="visualizationContainer"></div>
+
+    <script>
+        // JavaScript code will go here
+        document.getElementById('fileUpload').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const formData = new FormData();
+                formData.append('file', file);
+                fetch('run_pipeline', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    // Handle the response data here
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+            }
+        });
+
+        document.getElementById('visualizationSelect').addEventListener('change', function(event) {
+            const selectedOption = event.target.value;
+            // Depending on the selected option, perform specific actions
+            switch (selectedOption) {
+                case 'contractPdf':
+                    // Implement logic to visualize contract PDF
+                    break;
+                case 'contractMetadata':
+                    // Implement logic to visualize contract metadata
+                    break;
+                case 'contractText':
+                    // Implement logic to visualize contract text
+                    break;
+                case 'glossary':
+                    // Implement logic to visualize glossary
+                    break;
+                case 'counterparties':
+                    // Implement logic to visualize counterparties
+                    break;
+                default:
+                    break;
+            }
+        });
+
+        // Function to handle click on highlighted text
+        function handleTextClick(entityIndex, entityInfos) {
+            const info = entityInfos[entityIndex];
+            if (info) {
+                const toast = document.createElement('div');
+                toast.className = 'toast';
+                toast.textContent = 'Entity Type: ' + info.label + ', Text: ' + info.normalized;
+                document.body.appendChild(toast);
+                setTimeout(() => {
+                    toast.remove();
+                }, 3000);
+            }
+        }
+
+        // Function to render contract text with highlighted entities
+        function renderContractText(highlightedHtml, entityInfoStr) {
+            const container = document.getElementById('visualizationContainer');
+            container.innerHTML = highlightedHtml;
+
+            // Add event listeners to handle clicks on highlighted text
+            document.querySelectorAll('.highlighted').forEach(item => {
+                item.addEventListener('click', event => {
+                    const entityIndex = item.getAttribute('data-entity');
+                    const entityInfos = JSON.parse(entityInfoStr);
+                    handleTextClick(entityIndex, entityInfos);
+                });
+            });
+        }
+    </script>
+</body>
+</html>

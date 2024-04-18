@@ -1,4 +1,4 @@
-from ner.named_entity import NamedEntity, Entities
+from ner.named_entity import Entities
 
 class NamedEntityRecognizer:
     def __init__(self, rules=None, keywords=None, normalizer=None):
@@ -39,15 +39,24 @@ class NamedEntityRecognizer:
                     entity_idxs.update(range(start, end))
                     ent.start, ent.end = start, end
 
-                    if self.normalizer:
-                        ent.normalized = self.normalizer.process(ent.name)
+                    # Find tokens corresponding to the entity's start and end positions
+                    entity_tokens = [token for token in contract.tokens if token.idx >= start and token.idx + len(token.text) <= end]
+                    
+                    # Extract bounding boxes corresponding to the tokens
+                    entity_bboxes = [token._.bbox for token in entity_tokens]
 
+                    # Associate bounding boxes with the entity
+                    ent.bbox_span = entity_bboxes
+
+                    if self.normalizer:
+                        ent.normalized = self.normalizer.process(ent)
                     self.entities.append(ent)
 
         return self.entities
 
     def predict(self, text):
         raise NotImplementedError("Subclasses must implement the predict method.")
+   
     
     def __call__(self, contract):
         """Process the contract to find entities.

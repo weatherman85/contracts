@@ -62,7 +62,8 @@ class TextCleaner(object):
         text = NORMALIZE_SPACE.sub(" ",text)
         text = page_number_pattern.sub("\n",text)
         text = NORMALIZE_NEWLINES.sub("\n",text)
-        text = digit_word_pattern.sub(r"\1 \2",text)     
+        text = digit_word_pattern.sub(r"\1 \2",text) 
+        text = self.fix_line_breaks(text)    
         if remove_num:
             text = REMOVE_NUM.sub('',text)
         if not add_stop_words == None:
@@ -75,3 +76,22 @@ class TextCleaner(object):
         #    and not len(token)==1) or token.is_digit])
         contract.text = text
         return contract
+    
+    def fix_line_breaks(self,text):
+        # Split text into lines
+        lines = text.split('\n')
+        
+        # Merge words that are split across lines
+        cleaned_lines = []
+        for i in range(len(lines)):
+            # Check if the line is not empty and contains at least one character
+            if lines[i] and lines[i][0].islower():
+                # Merge with previous line if the current line starts with a lowercase letter
+                cleaned_lines[-1] += lines[i]
+            else:
+                cleaned_lines.append(lines[i])
+        
+        # Join lines back into a single text
+        cleaned_text = '\n'.join(cleaned_lines)
+        
+        return cleaned_text

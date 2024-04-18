@@ -1,0 +1,1885 @@
+EX-3.3 2 lzd-ex33_14.htm EX-3.3
+Exhibit 3.3
+
+ 
+
+ 
+
+THIRD AMENDED AND RESTATED
+
+OPERATING AGREEMENT
+
+OF
+
+LAZARD GROUP LLC
+
+Dated as of March 31, 2023
+
+ 
+
+ 
+
+ 
+
+[[6065250]]
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page
+
+ARTICLE I
+
+DEFINITIONS
+
+ 
+
+ 
+
+SECTION 1.01.
+
+Definitions
+
+1
+
+SECTION 1.02.
+
+Other Definitional Provisions
+
+10
+
+SECTION 1.03.
+
+References to Schedules
+
+10
+
+ARTICLE II
+FORMATION, CONTINUATION AND POWERS
+
+ 
+
+ 
+
+SECTION 2.01.
+
+Formation and Continuation
+
+11
+
+SECTION 2.02.
+
+Name
+
+11
+
+SECTION 2.03.
+
+Purpose and Scope of Activity
+
+11
+
+SECTION 2.04.
+
+Principal Place of Business
+
+11
+
+SECTION 2.05.
+
+Registered Agent and Office
+
+11
+
+SECTION 2.06.
+
+Authorized Persons
+
+11
+
+ARTICLE III
+MANAGEMENT
+
+ 
+
+ 
+
+SECTION 3.01.
+
+Management Generally
+
+11
+
+SECTION 3.02.
+
+Lazard Board
+
+12
+
+SECTION 3.03.
+
+Officers
+
+14
+
+SECTION 3.04.
+
+Resignations
+
+17
+
+SECTION 3.05.
+
+Members
+
+17
+
+ARTICLE IV
+MEMBERS AND INTERESTS
+
+ 
+
+ 
+
+SECTION 4.01.
+
+Members
+
+17
+
+SECTION 4.02.
+
+Managing Member
+
+17
+
+SECTION 4.03.
+
+Interests
+
+18
+
+SECTION 4.04.
+
+Admission and Withdrawal of Members
+
+20
+
+SECTION 4.05.
+
+Liability to Third Parties; Capital Account Deficits
+
+22
+
+SECTION 4.06.
+
+Classes
+
+22
+
+SECTION 4.07.
+
+Certificates
+
+22
+
+ARTICLE V
+CAPITAL, TAX AND ACCOUNTING MATTERS
+
+ 
+
+ 
+
+SECTION 5.01.
+
+Capital
+
+22
+
+SECTION 5.02.
+
+Withdrawals; Return on Capital
+
+23
+
+SECTION 5.03.
+
+Maintenance of Capital Accounts
+
+23
+
+i
+
+[[6065250]]
+
+ 
+
+SECTION 5.04.
+
+Allocations
+
+24
+
+SECTION 5.05.
+
+Determinations
+
+29
+
+SECTION 5.06.
+
+Books and Accounts
+
+29
+
+SECTION 5.07.
+
+Audits; Tax Representative
+
+30
+
+SECTION 5.08.
+
+Tax Information
+
+31
+
+SECTION 5.09.
+
+Withholding
+
+31
+
+ARTICLE VI
+DISTRIBUTIONS
+
+ 
+
+ 
+
+SECTION 6.01.
+
+Distributions in Respect of Profit Participation Interests
+
+31
+
+SECTION 6.02.
+
+Tax Distributions
+
+32
+
+SECTION 6.03.
+
+Regular Distributions
+
+32
+
+SECTION 6.04.
+
+Limitation on Distributions
+
+34
+
+ARTICLE VII
+TRANSFERS OF INTERESTS
+
+ 
+
+ 
+
+SECTION 7.01.
+
+Transfer of Interests
+
+34
+
+SECTION 7.02.
+
+Permitted Transfers
+
+34
+
+SECTION 7.03.
+
+PIPR Unit Exchange
+
+35
+
+SECTION 7.04.
+
+Encumbrances
+
+36
+
+SECTION 7.05.
+
+Legend
+
+36
+
+SECTION 7.06.
+
+Effect of Transfer Not in Compliance with This Article
+
+37
+
+ARTICLE VIII
+DISSOLUTION
+
+ 
+
+ 
+
+SECTION 8.01.
+
+Dissolution
+
+37
+
+SECTION 8.02.
+
+Liquidation
+
+37
+
+SECTION 8.03.
+
+Distributions
+
+37
+
+ARTICLE IX
+INDEMNIFICATION AND EXCULPATION
+
+ 
+
+ 
+
+SECTION 9.01.
+
+Exculpation
+
+38
+
+SECTION 9.02.
+
+Indemnification
+
+38
+
+SECTION 9.03.
+
+Non-Exclusivity of Rights
+
+41
+
+SECTION 9.04.
+
+Insurance
+
+41
+
+SECTION 9.05.
+
+Survival
+
+41
+
+ARTICLE X
+MISCELLANEOUS
+
+ 
+
+ 
+
+SECTION 10.01.
+
+Use of Firm Name
+
+41
+
+SECTION 10.02.
+
+Amendments
+
+41
+
+SECTION 10.03.
+
+Benefits of Agreement
+
+42
+
+SECTION 10.04.
+
+Waiver of Notice
+
+42
+
+SECTION 10.05.
+
+Arbitration
+
+42
+
+ii
+
+[[6065250]]
+
+ 
+
+SECTION 10.06.
+
+Successors and Assigns
+
+43
+
+SECTION 10.07.
+
+Confidentiality
+
+43
+
+SECTION 10.08.
+
+Notices
+
+44
+
+SECTION 10.09.
+
+No Waiver of Rights
+
+44
+
+SECTION 10.10.
+
+Power of Attorney
+
+44
+
+SECTION 10.11.
+
+Severability
+
+45
+
+SECTION 10.12.
+
+Headings
+
+45
+
+SECTION 10.13.
+
+Entire Agreement
+
+45
+
+SECTION 10.14.
+
+Governing Law
+
+45
+
+SECTION 10.15.
+
+Counterparts
+
+45
+
+SECTION 10.16.
+
+Effectiveness
+
+45
+
+SECTION 10.17.
+
+Corporate Opportunity; Fiduciary Duty
+
+45
+
+SECTION 10.18.
+
+PIPR Agreement Conflicts
+
+46
+
+ 
+
+ 
+
+Schedules
+
+ 
+
+Schedule A
+
+Schedule B
+
+Schedule 1.01(a)
+
+Schedule 3.02(a)
+
+Schedule 3.03(a)
+
+Schedule 4.01
+
+Schedule 4.03(c)
+
+Schedule 5.01
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii
+
+[[6065250]]
+
+ 
+
+ 
+
+THIRD AMENDED AND RESTATED OPERATING AGREEMENT (together with all exhibits, annexes and schedules hereto, this “Agreement”) of Lazard Group LLC, a Delaware limited liability company (the “Company”), dated as of March 31, 2023.
+
+WHEREAS, the Operating Agreement, dated as of May 10, 2005, as amended, was amended and restated in its entirety by the Amended and Restated Operating Agreement, dated as of October 26, 2015 (the “First Amended and Restated Operating Agreement”) to reflect certain amendments thereto.
+
+WHEREAS, the First Amended and Restated Operating Agreement was amended and restated in its entirety by the Amended and Restated Operating Agreement, dated as of February 4, 2019 (the “Second Amended and Restated Operating Agreement”) to reflect certain amendments thereto.
+
+WHEREAS, the Lazard Board, the Managing Members and the Lazard Ltd Board have approved and adopted this Agreement.
+
+NOW, THEREFORE, the Second Amended and Restated Operating Agreement, as amended, is hereby amended and restated in its entirety and this amended and restated agreement is adopted as the “limited liability company agreement” of the Company within the meaning of the Act:
+
+ARTICLE I
+
+DEFINITIONS
+
+SECTION 1.01.Definitions.  As used in this Agreement, the following terms have the meanings set forth below:
+
+“Accounting Period” means the period commencing immediately after a Closing of the Books Event and ending at the next Closing of the Books Event.
+
+“Accrued Capital Return Distribution Amount” means, with respect to a PIPR Member, the return described in Section 6.03(d) allocable to such PIPR Member to the extent accrued during the applicable Accounting Period.
+
+“Accrued Capital Return Distribution Percentage” means, with respect to a PIPR Member, the fraction, expressed as a percentage, equal to (i) such PIPR Member’s Accrued Capital Return Distribution Amount over (ii) all PIPR Members’ Accrued Capital Return Distribution Amounts, in each case, during the applicable Accounting Period.
+
+“Acknowledgement” means a Membership Acknowledgement and Agreement with respect to the Profit Participation Interests or the PIPR Interests, as applicable, in the form or forms to be approved by the Chief Executive Officer, the Chief Financial Officer and the General Counsel (or any of them).
+
+ 
+
+ 
+
+1
+
+[[6065250]]
+
+ 
+
+“Act” means the Delaware Limited Liability Company Act (6 Del. C. § 18-101, et seq.), as amended from time to time and any successor statute thereto.
+
+“Actual Parity Shortfall Amount” has the meaning set forth in Section 5.04(g)(v).
+
+“Affiliate” means, with respect to any person, any other person that directly or indirectly, through one or more intermediaries, controls, or is controlled by, or is under common control with, such person.
+
+“Agreement” has the meaning set forth in the preamble to this Agreement.
+
+“Audit Taxes” has the meaning set forth in Section 5.07(c).
+
+“Cap” has the meaning set forth in Section 5.04(c)(i).
+
+“Capital” means, (i) with respect to any Common Member, the balance in such Member’s Common Capital Account from time to time, (ii) with respect to any Profit Participation Member, the balance in such Member’s Profit Participation Capital Account from time to time and (iii) with respect to any PIPR Member, the balance in such Member’s PIPR Capital Account from time to time.
+
+“Capital Account” means, with respect to any Member, such Member’s Common Capital Account, Profit Participation Capital Account or PIPR Capital Account, as applicable.
+
+“Certificate of Conversion” means the certificate of conversion converting the Company’s prior partnership into the Company filed with the office of the Secretary of State of the State of Delaware on March 2, 2000.
+
+“Certificate of Formation” means the certificate of formation of the Company filed with the office of the Secretary of State of the State of Delaware on March 2, 2000.
+
+“Change in Control” has the meaning set forth in Lazard Ltd’s 2018 Incentive Compensation Plan, as amended from time to time, or, if Lazard Ltd has adopted a new equity incentive compensation plan, the meaning set forth in such new plan.
+
+“Closing of the Books Event” means any of (i) the close of the last day of each calendar year and each calendar quarter, (ii) the close of any date on which there occurs a dissolution of the Company, the admission of a new Common Member or the withdrawal of a Common Member, or (iii) any other time that the Managing Members determine to be appropriate for an interim closing of the Company’s books.
+
+“Code” means the U.S. Internal Revenue Code of 1986, as amended from time to time.
+
+“Common Capital Account” has the meaning set forth in Section 5.03.
+
+“Common Interest” means, with respect to any Common Member, such Member’s rights and obligations with respect to the Company pursuant to this Agreement.
+
+ 
+
+ 
+
+2
+
+[[6065250]]
+
+ 
+
+“Common Member” means any person who, from time to time, is entitled to a Common Interest pursuant to and in compliance with this Agreement and who has been admitted to the Company as a Common Member in accordance with this Agreement and has not ceased to be a Common Member under the terms of this Agreement.
+
+“Common Parity Amount” means, with respect to a PIPR Unit, as of the date of any allocation of Revaluation Gain pursuant to Section 5.04(e)(i), (ii), or (iii), the Equitizing Target Capital of the PIPR Units issued on the date such allocation is made (or, if no PIPR Units are issued on that date, the amount that would be the Equitizing Target Capital of a PIPR Unit if it were issued on that date).
+
+“Common Percentage Interest” means, with respect to a Common Member, the percentage set forth on Schedule 1.01(a) with respect to such Common Member.
+
+“Company” has the meaning set forth in the preamble to this Agreement.
+
+“Compensation Committee” means the Compensation Committee of the Lazard Ltd Board.
+
+“Deemed Common Units” has the meaning set forth in Section 4.03(a).
+
+“Delaware Arbitration Act” has the meaning set forth in Section 10.05(d).
+
+“DGCL” has the meaning set forth in Section 9.02(a).
+
+“Directors” has the meaning set forth in Section 3.02(a).
+
+“Disinterested Director” has the meaning set forth in Section 9.02(i)(i).
+
+“Disputes” has the meaning set forth in Section 10.05(a).
+
+“Effective Period” means the period beginning January 1, 2023, and ending December 31, 2028.
+
+“Encumbrance” has the meaning set forth in Section 7.04.
+
+“Equitized PIPR Unit” means a PIPR Unit the PIPR Capital of which is at least equal to the Equitizing Target Capital.  
+
+“Equitizing Target Capital” means, with respect to a PIPR Unit, the amount equal to the Common Capital Account balance with respect to a Deemed Common Unit at the time such PIPR Unit is issued, as adjusted from time to time.
+
+“Exchangeable PIPR Unit” has the meaning set forth in Section 7.03(a).
+
+“Excluded Items” means (i) depreciation, (ii) amortization, (iii) other cost recovery deduction, and (iv) items of deduction, expense or loss attributable to all deferred compensation issued by or on behalf of Lazard Ltd or any of its Subsidiaries including the grant
+
+ 
+
+ 
+
+3
+
+[[6065250]]
+
+ 
+
+or delivery of (1) restricted stock units, performance-based restricted stock units, PIPR Units or other equity-based compensation awards issued and (2) interests in The Lazard Funds Inc. or any other fund, in each case, as may be offered by Lazard Ltd or any of its Subsidiaries.
+
+“Executive Officer” has the meaning set forth in Section 3.03(g).
+
+“Executive Review” has the meaning set forth in Section 10.05(b).
+
+“Fixed Percentage” has the meaning set forth in Section 5.04(c)(i).
+
+“Funding Proportion” has the meaning set forth in Section 5.04(d)(i).
+
+“Grant Date”, with respect to any PIPR Unit, has the meaning set forth in the applicable PIPR Agreement.
+
+“ICC” has the meaning set forth in Section 10.05(b).
+
+“ICC Rules” has the meaning set forth in Section 10.05(b).
+
+“in Parity” means, with respect to a PIPR Unit, that the Parity Shortfall Amount with respect to such PIPR Unit is zero.
+
+“Independent Counsel” has the meaning set forth in Section 9.02(i)(ii).
+
+“Interest” means a Common Interest, a Profit Participation Interest and a PIPR Interest.
+
+“Lazard Board” has the meaning set forth in Section 3.01.
+
+“Lazard Ltd” means Lazard Ltd, a Bermuda exempted company.
+
+“Lazard Ltd Affiliate” has the meaning set forth in Section 10.17(a).
+
+“Lazard Ltd Board” means the Board of Directors of Lazard Ltd.
+
+“Lazard Ltd Common Stock” means the Class A common stock, par value $0.01 per share, of Lazard Ltd.
+
+“Lazard Ltd Sub A” means the Subsidiary of Lazard Ltd designated as such on Schedule 1.01(a).
+
+“Lazard Ltd Sub B” means the Subsidiary of Lazard Ltd designated as such on Schedule 1.01(a).
+
+“Managing Director” means (a) a managing director of Lazard Frères & Co. LLC, a New York limited liability company, (b) an Associé-Gérant of Lazard Frères S.A.S., a French Société par Actions Simplifiée, (c) a managing director or limited managing director of Lazard & Co., Holdings Limited, an English private limited company, or (d) a managing director, limited managing director or comparable executive of any other Lazard Ltd Affiliate designated by the Managing Members.
+
+ 
+
+ 
+
+4
+
+[[6065250]]
+
+ 
+
+“Managing Member” has the meaning set forth in Section 4.02.
+
+“Members” means the Common Members, the Profit Participation Members and the PIPR Members, and “Member” means any of the foregoing.
+
+“Non-Equitized PIPR Unit” means a PIPR Unit that is not an Equitized PIPR Unit.
+
+“Operating Expenses” has the meaning set forth in Section 5.04(c)(ii).
+
+“Operating Income” has the meaning set forth in Section 5.04(c)(iii).
+
+“Operating Revenue” has the meaning set forth in Section 5.04(c)(iv).
+
+“Parity Shortfall Amount” means, with respect to a PIPR Unit, the excess, if any, of (i) the Common Parity Amount over (ii) the PIPR Capital, in each case with respect to such PIPR Unit. 
+
+“Performance Achievement PIPR” has the meaning set forth in Section 6.03(c).
+
+“Performance PIPR” means each PIPR Unit that is subject, in whole or in part, to performance-based vesting conditions, but only until the end of the final performance period set forth in the applicable PIPR Agreement (effective as of which time the Compensation Committee shall determine whether that PIPR Unit shall either be forfeited or become a Performance Achievement PIPR).  For the avoidance of doubt, in the case of a Performance PIPR that is subject to performance goals that can be assessed either on an annual basis or over one or more longer performance periods, such Performance PIPR shall remain a Performance PIPR and shall not be eligible to become a Performance Achievement PIPR until the end of the longest applicable performance period.
+
+“Performance True-Up Distribution Amount” means, with respect to a PIPR Member, the amount of distributions that such PIPR Member is entitled to receive under Section 6.03(c) (without regard to the proviso in Section 6.03(c)) during the applicable Accounting Period.
+
+“Performance True-Up Distribution Percentage” means, with respect to a PIPR Member, the fraction, expressed as a percentage, equal to (i) such PIPR Member’s Performance True-Up Distribution Amount over (ii) all PIPR Members’ Performance True-Up Distribution Amounts, in each case, during the applicable Accounting Period.
+
+“PIPR Agreement” means, with respect to a PIPR Unit, the Profits Interest Participation Right Unit Agreement between the Company, Lazard Ltd and the applicable PIPR Member, applicable to such PIPR Unit.
+
+“PIPR Capital” means, with respect to any PIPR Member, the balance, from time to time, in such Member’s PIPR Capital Account, (i) increased by the amount of such Member’s share of any partnership minimum gain and any partner nonrecourse debt minimum gain (in each
+
+ 
+
+ 
+
+5
+
+[[6065250]]
+
+ 
+
+case, as defined and determined by Treasury Regulation section 1.704-2) to the extent attributable to such Member’s PIPR Units and (ii) decreased by the amount of (A) distributions with respect to such Member’s PIPR Units that are delayed pursuant to the proviso in Section 6.03(b) or the proviso in Section 6.03(c), (B) any undistributed Accrued Capital Return Distribution Amount with respect to such Member’s PIPR Units and (C) any unreturned capital contributed by such PIPR Member with respect to such Member’s PIPR Units, in each case as reasonably determined by the Managing Members.
+
+“PIPR Capital Account” has the meaning set forth in Section 5.03.
+
+“PIPR Distribution Amount” means, with respect to a PIPR Member, the amount of distributions that such PIPR Member is entitled to under Section 6.03(b) (without regard to the proviso in Section 6.03(b)) during the applicable Accounting Period.
+
+“PIPR Distribution Percentage” means, with respect to a PIPR Member, the fraction, expressed as a percentage, equal to (i) such PIPR Member’s PIPR Distribution Amount over (ii) all PIPR Members’ PIPR Distribution Amounts, in each case, during the applicable Accounting Period.
+
+“PIPR Interest” means, with respect to any PIPR Member, such Member’s rights and obligations with respect to the Company pursuant to this Agreement and the applicable PIPR Agreement(s) to which the PIPR Member is a party.
+
+“PIPR Member” means any person who, from time to time, is entitled to a PIPR Interest pursuant to and in compliance with this Agreement and the applicable PIPR Agreement and who has been admitted to the Company as a PIPR Member in accordance with this Agreement and has not ceased to be a PIPR Member under the terms of this Agreement.
+
+“PIPR Units” has the meaning set forth in Section 4.03(c)(i).
+
+“Proceeding” has the meaning set forth in Section 9.02(a).
+
+“Profit or Loss”, as the case may be, means the combined items of income, gain, loss or deduction of the Company, excluding any items allocated pursuant to Sections 5.04(e) through 5.04(h) (in each case, calculated in accordance with Section 5.03).  For the avoidance of doubt, “Profit or Loss” (whether operating or otherwise) shall include items of loss or deduction attributable to foreign or other taxes paid by Subsidiaries of the Company that are treated as “flow-through” entities for U.S. Federal income tax purposes.
+
+“Profit Participation Amount” has the meaning set forth in Section 5.04(c)(v).
+
+“Profit Participation Capital” means, with respect to any Profit Participation Member, the balance in such Member’s Profit Participation Capital Account from time to time.
+
+“Profit Participation Capital Account” has the meaning set forth in Section 5.03.
+
+ 
+
+ 
+
+6
+
+[[6065250]]
+
+ 
+
+“Profit Participation Interest” means, with respect to any Profit Participation Member, such Member’s rights and obligations with respect to the Company pursuant to this Agreement.
+
+“Profit Participation Member” means any person who has acquired a Profit Participation Interest pursuant to and in compliance with this Agreement and who shall have been admitted to the Company as a Profit Participation Member in accordance with this Agreement and shall not have ceased to be a Profit Participation Member under the terms of this Agreement.
+
+“Profit Participation Member’s Proportionate Tax Share” means, with respect to a Profit Participation Member, the product of (i) the Profit Participation Tax Distribution for the fiscal year, fiscal quarter or other period, as applicable, and (ii) the Profit Participation Percentage of such Profit Participation Member for such fiscal year, fiscal quarter or other period.  In the event that the Profit Participation Percentage of a Profit Participation Member changes during any fiscal year, fiscal quarter or other period, the Profit Participation Member’s Proportionate Tax Share of such Profit Participation Member and the other Profit Participation Members, as the case may be, for such fiscal year, fiscal quarter or other period shall be appropriately adjusted to take into account the Profit Participation Members’ varying interests.
+
+“Profit Participation Percentage” means, with respect to any Accounting Period, (i) the profit percentage of a Profit Participation Member under the terms of this Agreement for such Accounting Period determined in accordance with Section 4.03(b) or (ii) the profit percentage constituting the Unallocated Float.
+
+“Profit Participation Tax Distribution” means, for each fiscal year, fiscal quarter or other period of the Company, the product of (i) the aggregate amount of positive taxable income or gain allocated to the Profit Participation Members pursuant to Section 5.04(a)(i) or Section 5.04(b)(i), as the case may be, for such fiscal year, fiscal quarter or other period and (ii) the highest tax rate applicable to an individual resident in New York, NY, as determined by the Company in its sole discretion, for such fiscal year, fiscal quarter or other period.
+
+“Proportionate Tax Share” means, (a) with respect to a Common Member, the product of (i) the aggregate total Tax Distribution determined with respect to Common Members for the fiscal year, fiscal quarter or other period and (ii) a fraction, (A) the numerator of which is the positive taxable income or gain allocated to such Common Member pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period and (B) the denominator of which is the sum of the positive taxable income or gain allocated to all Common Members pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period, and (b) with respect to a PIPR Member, the product of (i) the aggregate total Tax Distribution determined with respect to PIPR Members for the fiscal year, fiscal quarter or other period and (ii) a fraction, (A) the numerator of which is the positive taxable income or gain allocated to such PIPR Member pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period and (B) the denominator of which is the sum of the positive taxable income or gain allocated to all PIPR Members pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period.  
+
+ 
+
+ 
+
+7
+
+[[6065250]]
+
+ 
+
+“Quarterly Profit Participation Tax Distribution” means, for each Profit Participation Member for each of the first three fiscal quarters of the applicable fiscal year of the Company, such Profit Participation Member’s Proportionate Tax Share for such fiscal quarter.
+
+“Quarterly Tax Distribution” means, for each Common Member and each PIPR Member for each of the first three fiscal quarters of the applicable fiscal year of the Company, such Member’s Proportionate Tax Share for such fiscal quarter.
+
+“Retirement” means, with respect to any Profit Participation Member, (i) the resignation, removal (including, for the avoidance of doubt, for cause) or withdrawal of such Member from the Company, (ii) such Member ceasing to be a Managing Director, (iii) the purported Transfer by such Member of his or her Profit Participation Interest in violation of Article VII, (iv) the death of such Member, or (v) the occurrence with respect to such Member of any of the events set forth in Section 18-304 of the Act.
+
+“Revaluation” means any adjustment to the value of property of the Company in accordance with Treasury Regulation sections 1.704-1(b)(2)(iv)(f), (g), and (s).
+
+“Revaluation Gain” means the net gain, if any, realized for purposes of maintaining the Members’ Capital Accounts in connection with (1) the actual sale of assets of the Company or (2) a Revaluation (determined as if there were a taxable disposition of all of the Company’s property for fair market value, as described in Treasury Regulation section 1.704-1(b)(2)(iv)(f)).
+
+“Revaluation Loss” means the net loss, if any, realized for purposes of maintaining the Members’ Capital Accounts in connection with (1) the actual sale of assets of the Company or (2) a Revaluation (determined as if there were a taxable disposition of all of the Company’s property for fair market value, as described in Treasury Regulation section 1.704-1(b)(2)(iv)(f)).
+
+“Sarbanes-Oxley Act” means the Sarbanes-Oxley Act of 2002, as amended from time to time.
+
+“Securities Act” has the meaning set forth in Section 7.05.
+
+“Service and Performance Vested PIPR Unit” means a PIPR Unit (regardless of whether it is an Equitized PIPR Unit or a Non-Equitized PIPR Unit) with respect to which all vesting conditions (including performance conditions, if any) set forth in the applicable PIPR Agreement, other than the condition that the PIPR Unit be an Equitized PIPR Unit, have been satisfied.
+
+“Specific Tax Rate” means, with respect to a Common Member, the highest aggregate marginal statutory U.S. Federal, state, local and foreign income, franchise and branch profits tax rate (determined taking into account the deductibility of state and local income taxes for U.S. Federal income tax purposes and the creditability or deductibility of foreign income taxes for U.S. Federal income tax purposes) applicable to a person or entity, as appropriate, whose principal tax residence is in the same national jurisdiction as such Common Member on
+
+ 
+
+ 
+
+8
+
+[[6065250]]
+
+ 
+
+income of the same character and source as the income allocated to such Common Member pursuant to Section 5.04 for the applicable fiscal year, fiscal quarter or other period.
+
+“Specified Percentage” means, with respect to each Performance PIPR, 50%; provided that the applicable PIPR Agreement may specify a different percentage for any Performance PIPR.
+
+“Subsidiary” means, with respect to any person, any corporation, limited liability company, company, partnership, trust, association or other legal entity or organization of which such person (either directly or through one or more Subsidiaries of such person) (i) owns, directly or indirectly, a majority of the capital stock or other equity interests the holders of which are generally entitled to vote for the election of the board of directors or other governing body of such corporation, limited liability company, partnership, trust, association or other legal entity or organization, or (ii) is otherwise entitled to exercise (A) a majority of the voting power generally in the election of the board of directors or other governing body of such corporation, limited liability company, partnership, trust, association or other legal entity or organization or (B) control of such corporation, limited liability company, partnership, trust, association or other legal entity or organization.
+
+“Tax Distribution” means, for each fiscal year, fiscal quarter or other period of the Company, (a) with respect to Common Members, the product of (i) the aggregate amount of positive taxable income or gain allocated to the Common Members pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period and (ii) the Tax Rate for such fiscal year, fiscal quarter or other period, and (b) with respect to PIPR Members, the product of (i) the aggregate amount of positive taxable income or gain allocated to the PIPR Members pursuant to Section 5.04 for such fiscal year, fiscal quarter or other period and (ii) the highest tax rate applicable to an individual resident in New York, NY, as determined by the Company in its sole discretion, for such fiscal year, fiscal quarter or other period.  For purposes of this definition, the Company may, in its discretion, take into account limitations, if any, on the deductibility of certain expenses allocated to the PIPR Members.
+
+“Tax Rate” means the greatest of any Common Members’ Specific Tax Rate.
+
+“Tax Representative” means, with respect to any taxable year, (a) the Member or other person designated as the “partnership representative” of the Company under Section 6223 of the Code (as in effect after 2017 and as amended by Title XI of the Bipartisan Budget Act of 2015, H.R. 1314, Public Law Number 114-74) and/or (b) the Member designated as the “tax matters partner” for the Company under Section 6231(a)(7) of the Code (as in effect before 2018 and before amendment by Title XI of the Bipartisan Budget Act of 2015, H.R. 1314, Public Law Number 114-74), including, in each case, analogous roles under state, local or non-U.S. law, as amended from time to time.
+
+“Transfer” means any transfer, sale, conveyance, assignment, gift, hypothecation, pledge or other disposition, whether voluntary or by operation of law, of all or any part of an Interest or any right, title or interest therein.
+
+“Transferee” means the transferee in a Transfer or proposed Transfer.
+
+ 
+
+ 
+
+9
+
+[[6065250]]
+
+ 
+
+“Unallocated Entity” has the meaning set forth in Section 5.04(d)(i).
+
+“Unallocated Float” means any Profit Participation Percentage for any Accounting Period that is not allocated to a particular Member.
+
+“Unvested PIPR Unit” means any PIPR Unit (regardless of whether it is an Equitized PIPR Unit or a Non-Equitized PIPR Unit) that is not a Service and Performance Vested PIPR Unit.
+
+SECTION 1.02.Other Definitional Provisions.  Wherever required by the context of this Agreement, the singular shall include the plural and vice versa, and the masculine gender shall include the feminine and neuter genders and vice versa, and references to any agreement, document or instrument shall be deemed to refer to such agreement, document or instrument as amended, supplemented or modified from time to time.  When used herein:
+
+(a)the word “or” is not exclusive;
+
+(b)the word “control” (including, with correlative meanings, the terms “controlled by” and “under common control with”), as used with respect to any person, means the direct or indirect possession of the power to direct or cause the direction of the management or policies of such person, whether through the ownership of voting securities, by contract or otherwise;
+
+(c)the words “including”, “includes”, “included” and “include” are deemed to be followed by the words “without limitation”;
+
+(d)the terms “herein”, “hereof” and “hereunder” and other words of similar import refer to this Agreement as a whole and not to any particular section, paragraph or subdivision;
+
+(e)the word “person” means any individual, corporation, limited liability company, trust, joint venture, association, company, partnership or other legal entity or a government or any department or agency thereof or self-regulatory organization; and
+
+(f)all section, paragraph or clause references not attributed to a particular document shall be references to such parts of this Agreement, and all exhibit, annex and schedule references not attributed to a particular document shall be references to such exhibits, annexes and schedules to this Agreement.
+
+SECTION 1.03.References to Schedules.  The Chief Executive Officer and General Counsel shall maintain and revise from time to time all schedules referred to in this Agreement in accordance with this Agreement.  Notwithstanding anything in Section 10.02 to the contrary, any such revision shall not be deemed an amendment to this Agreement and shall not require any act, vote or approval of any person.  The Company shall not be obligated by this Agreement to distribute or otherwise provide to the Members copies of or access to such schedules.
+
+ 
+
+ 
+
+10
+
+[[6065250]]
+
+ 
+
+ARTICLE II
+
+FORMATION, CONTINUATION AND POWERS
+
+SECTION 2.01.Formation and Continuation.  Effective as of 5:00 a.m., New York City time, on March 3, 2000, the Company was converted into a limited liability company pursuant to the provisions of the Act by the filing of the Certificate of Conversion and the Certificate of Formation.  Pursuant to the Act, the existence of the Company is deemed to have commenced on June 12, 1984, the date the Company’s prior partnership was formed.
+
+SECTION 2.02.Name.  The name of the Company is “Lazard Group LLC”.
+
+SECTION 2.03.Purpose and Scope of Activity.  The Company has been formed for the object and purpose of, and the nature of the business to be conducted by the Company is, engaging in any lawful business purpose or activity for which limited liability companies may be formed under the Act and engaging in any and all activities necessary or incidental to the foregoing.  The Company shall possess and may exercise all the powers and privileges granted by the Act or by any other law or by this Agreement, together with any powers incidental thereto, that are necessary or convenient to the conduct, promotion or attainment of the business, purposes or activities of the Company.
+
+SECTION 2.04.Principal Place of Business.  For purposes of the Act, the principal place of business of the Company shall be located in New York, New York or at such other place as may hereafter be designated from time to time by the Lazard Board.  Company, committee and board meetings shall take place at the Company’s principal place of business unless decided otherwise for any particular meeting.
+
+SECTION 2.05.Registered Agent and Office.  The registered agent for service of process is, and the mailing address of the registered office of the Company in the State of Delaware is in care of, The Corporation Trust Company, 1209 Orange Street, Wilmington, Delaware.  At any time, the Company may designate another registered agent or registered office.
+
+SECTION 2.06.Authorized Persons.  The officers of the Company are hereby designated as authorized persons, within the meaning of the Act, to act in connection with executing and causing to be filed, when approved by the appropriate governing body or bodies hereunder, any certificates required or permitted to be filed with the Secretary of State of the State of Delaware and any certificates (and any amendments or restatements thereof) necessary for the Company to file in any jurisdiction in which the Company is required to make a filing.
+
+ARTICLE III
+
+MANAGEMENT
+
+SECTION 3.01.Management Generally.  Except as otherwise expressly provided in this Agreement with respect to the Managing Members, the business and affairs of the Company shall be managed under the direction of the board of directors of the Company (the
+
+ 
+
+ 
+
+11
+
+[[6065250]]
+
+ 
+
+“Lazard Board”).  In addition to the powers and authorities by this Agreement expressly conferred upon them, the Lazard Board may exercise all such powers of the Company and do all such lawful acts and things as are not by the Act or by this Agreement required to be exercised or done by the Members or the Managing Members.  Certain powers and authorities of the Lazard Board may be concurrently allocated to or executed by the Chief Executive Officer, or one or more other officers, when and to the extent expressly delegated thereto by the Lazard Board in accordance with this Agreement; provided that any such delegation may be revoked at any time and for any reason by the Lazard Board.  Approval by or action taken by the Lazard Board in accordance with this Agreement shall constitute approval or action by the Company and shall be binding on the Members.
+
+SECTION 3.02.Lazard Board.  (a) Composition.  The Lazard Board shall consist of eleven individuals (the “Directors”); provided that the number of Directors may be increased or decreased from time to time exclusively by the Managing Members.  The members of the Lazard Board are set forth on Schedule 3.02(a).  Schedule 3.02(a) shall be amended pursuant to Section 1.03 to reflect any change in the identity of the members of, or increase or decrease in the size of, the Lazard Board in accordance with this Agreement.  Each Director shall continue in such position until his or her successor shall have been duly elected and shall have qualified or until the earlier of his or her death, disability, resignation, retirement or removal from such position.
+
+(b)Vacancies; Removal.  Vacancies resulting from death, resignation, retirement, removal from office or other cause, and newly created directorships resulting from any increase in the authorized number of Directors, may be filled only by the Managing Members.  Any Director may be removed at any time, with or without cause, by the Managing Members in their sole discretion.
+
+(c)Compensation of Directors.  Directors of the Company, in their capacity as such, shall not be entitled to compensation, unless, and to the extent, approved by the Managing Members.
+
+(d)Meetings.  Meetings of the Lazard Board shall be held at the Company’s principal place of business or such other place, within or without the State of Delaware, that has been designated from time to time by the Lazard Board.  Meetings of the Lazard Board for any purpose or purposes may be called at any time by (i) the Managing Members, (ii) the Chief Executive Officer, (iii) the Chairman of the Board, or (iv) a majority of the Directors then in office.  Notice of any meeting of the Lazard Board shall be given to each Director at his business or residence in writing by hand delivery, first-class or overnight mail or courier service, electronic mail transmission, telegram or facsimile transmission, or orally by telephone.  If mailed by first-class mail, such notice shall be deemed adequately delivered when deposited in the United States mails so addressed, with postage thereon prepaid, at least five (5) days before such meeting.  If by telegram, overnight mail or courier service, such notice shall be deemed adequately delivered when the telegram is delivered to the telegraph company or the notice is delivered to the overnight mail or courier service company at least twenty-four (24) hours before such meeting.  If by electronic mail transmission, such notice shall be deemed adequately delivered when the notice is transmitted at least twelve (12) hours before such meeting.  If by facsimile transmission, such notice shall be deemed adequately delivered when the notice is transmitted at least twelve (12) hours before such meeting.  If by
+
+ 
+
+ 
+
+12
+
+[[6065250]]
+
+ 
+
+telephone or by hand delivery, the notice shall be given at least twelve (12) hours prior to the time set for the meeting.  Neither the business to be transacted at, nor the purpose of, any regular or special meeting of the Lazard Board need be specified in the notice of such meeting.  A meeting may be held at any time without notice if all the Directors are present or if those not present waive notice of the meeting in accordance with Section 3.02(g) of this Agreement.
+
+(e)Quorum; Alternates; Participation in Meetings by Conference Telephone Permitted.  The presence of a majority of the Directors then in office shall constitute a quorum for the transaction of business.  Directors may participate in a meeting of the Lazard Board through use of conference telephone or similar communications equipment, so long as all Directors participating in such meeting can communicate with and hear one another.  The Directors present at a duly organized meeting may continue to transact business until adjournment, notwithstanding the withdrawal of enough Directors to leave less than a quorum.
+
+(f)Vote Required for Action.  The act of the majority of the Directors present at a meeting of the Lazard Board at which a quorum is present shall be the act of the Lazard Board.
+
+(g)Waiver of Notice; Consent to Meeting.  Notice of a meeting need not be given to any Director who signs a waiver of notice or a consent to holding the meeting or an approval of the minutes thereof, whether before or after the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to such Director.  All such waivers, consents and approvals shall be filed with the Company’s records and made a part of the minutes of the meeting.
+
+(h)Action by Lazard Board Without a Meeting.  Any action required or permitted to be taken by the Lazard Board may be taken without a meeting and without prior notice if a majority of the Directors then in office shall individually or collectively consent in writing to such action.  Such written consent or consents shall be filed with the minutes of the proceedings of the Lazard Board.  Such action by written consent shall have the same force and effect as a vote of the Lazard Board in favor of such action.
+
+(i)Executive and Other Committees.  The Lazard Board may, by resolution adopted by a majority of the Lazard Board then in office, designate an Executive Committee to exercise, subject to applicable provisions of law, all the powers of the Lazard Board in the management of the business and affairs of the Company when the Lazard Board is not in session, including the power to make distributions, to authorize the issuance of Interests if and to the extent permitted by this Agreement and to approve mergers of the Company, and may, by resolution similarly adopted, designate one or more other committees.  The Executive Committee and each such other committee shall consist of two or more Directors of the Company.  The Lazard Board may designate one or more Directors as alternate members of any committee, who may replace any absent or disqualified member at any meeting of the committee.  Any such committee, other than the Executive Committee (the powers of which are expressly provided for herein), may to the extent permitted by law exercise such powers and shall have such
+
+ 
+
+ 
+
+13
+
+[[6065250]]
+
+ 
+
+responsibilities as shall be specified in the designating resolution.  In the absence or disqualification of any member of such committee or committees, the member or members thereof present at any meeting and not disqualified from voting, whether or not constituting a quorum, may unanimously appoint another member of the Lazard Board to act at the meeting in the place of any such absent or disqualified member.  Each committee shall keep written minutes of its proceedings and shall report such proceedings to the Lazard Board when required.  A majority of any committee may determine its action and fix the time and place of its meetings, unless the Lazard Board shall otherwise provide.  Notice of such meetings shall be given to each member of the committee in the manner provided for in Section 3.02(d).  The Lazard Board shall have power at any time to fill vacancies in, to change the membership of, or to dissolve any such committee.  Nothing herein shall be deemed to prevent the Lazard Board from appointing one or more committees consisting in whole or in part of persons who are not Directors of the Company; provided, however, that, except as set forth in the following sentence, no such committee shall have or may exercise any authority of the Lazard Board.  Except as specifically set forth herein regarding the Managing Members, with respect to any and all matters hereunder relating to the PIPR Interests, including the determinations, allocations, valuations and other matters contemplated by Section 5.05 and all determinations pursuant to any PIPR Agreement, any provision hereunder requiring the act or approval of the Lazard Board shall be deemed satisfied (with respect to such act or approval of the Lazard Board) if the act or approval is taken or approved by the Lazard Board or by the Compensation Committee.
+
+(j)Records.  The Lazard Board shall cause to be kept a record containing the minutes of the proceedings of the meetings of the Lazard Board and of the Members, appropriate books and registers and such books of records and accounts as may be necessary for the proper conduct of the business of the Company.
+
+(k)Agents.  To the extent of their powers set forth in this Agreement, the Directors are agents of the Company for the purpose of the Company’s business, and the actions of the Directors taken in accordance with such powers set forth in this Agreement shall bind the Company.  Notwithstanding the last sentence of Section 18-402 of the Act, except as provided in this Agreement or in a resolution of the Directors, a Director may not bind the Company.
+
+SECTION 3.03.Officers.  (a) Generally.  The elected officers of the Company shall be a Chief Executive Officer, a Chief Financial Officer, a General Counsel, and such other officers as the Lazard Board from time to time may deem proper.  The Lazard Board shall choose one of its Directors to serve as Chairman of the Board.  All officers elected by the Lazard Board shall each have such powers and duties as generally pertain to their respective offices if the Company were a Delaware corporation, subject to the specific provisions of this Section 3.03.  Such officers shall also have such powers and duties as from time to time may be conferred by the Lazard Board or by any committee thereof.  The Lazard Board or any committee thereof may from time to time elect, or the Chief Executive Officer may appoint, such other officers (including one or more Vice Chairmen, Presidents, Vice Presidents, Secretaries, Treasurers, Controllers, Assistant Vice Presidents, Assistant Secretaries, Assistant Treasurers, and Assistant Controllers) and such agents, as may be necessary or desirable for the conduct of the business of the Company; provided that the Lazard Board shall be given prior notice of any proposed appointment by the Chief Executive Officer of any such Vice Chairman, President or
+
+ 
+
+ 
+
+14
+
+[[6065250]]
+
+ 
+
+Secretary.  Such other officers and agents shall have such duties and shall hold their offices for such terms as shall be provided in this Agreement or as may be prescribed by the Lazard Board or such committee or by the Chief Executive Officer, as the case may be; provided that, notwithstanding anything in this Section 3.03 to the contrary, such powers and duties may not impair, and shall be subordinate to, the powers and duties of the Lazard Board set forth in Section 3.01 hereof.  The identity and office of the Officers are set forth on Schedule 3.03(a).  Schedule 3.03(a) shall be amended pursuant to Section 1.03 to reflect any change in the identity or office of the Officers in accordance with this Agreement.
+
+(b)Term of Office.  Each officer shall hold office until his or her successor shall have been duly elected and shall have qualified or until his or her death or until he or she shall resign or retire, but any officer may be removed from office with or without cause at any time by the Lazard Board or, except in the case of an officer or agent elected by the Lazard Board, the Chief Executive Officer.  Such removal shall be without prejudice to the contractual rights, if any, of the person so removed.
+
+(c)Chairman of the Board.  The Chairman of the Board shall preside at all meetings of the Members (if any shall be called) and of the Lazard Board.  The Chairman of the Board may also serve as the Chief Executive Officer, if so elected by the Lazard Board.
+
+(d)Chief Executive Officer.  The Chief Executive Officer shall act in a general executive capacity and shall be responsible for the general management of the affairs of the Company and shall perform all duties incidental to his or her office that may be required by law and all such other duties as are properly required of him by the Lazard Board.  He or she shall make reports to the Lazard Board and the Members and shall see that all orders and resolutions of the Lazard Board and of any committee thereof are carried into effect.  The Chief Executive Officer shall, in the absence of or because of the inability to act as the Chairman of the Board, perform all duties of the Chairman of the Board and preside at all meetings of Members (if any shall be called) and of the Lazard Board.
+
+(e)Chief Financial Officer.  The Chief Financial Officer shall be the chief financial officer of the Company and act in an executive financial capacity.  He or she shall assist the Chief Executive Officer in the general supervision of the Company’s financial policies and affairs; and, in general, he or she shall perform all the duties incident to the office of Chief Financial Officer and such other duties as from time to time may be assigned to him or her by the Lazard Board or the Chief Executive Officer.
+
+(f)General Counsel.  The General Counsel shall keep or cause to be kept in one or more books provided for that purpose, the minutes of all meetings of the Lazard Board, the committees of the Lazard Board and the Members (if any shall be called); he or she shall see that all notices are duly given in accordance with the provisions of this Agreement and as required by law; he or she shall be custodian of the records; he or she shall see that the books, reports, statements, certificates and other documents and records required by law to be kept and filed are properly kept and filed; and, in general, he or she shall perform all the duties incident to the office of General Counsel and such other duties as from time to time may be assigned to him or her by the Lazard Board or the Chief Executive Officer.
+
+ 
+
+ 
+
+15
+
+[[6065250]]
+
+ 
+
+(g)Other Officers.  The Lazard Board or the Chief Executive Officer may from time to time appoint other officers of the Company and assign titles and functional titles to any such individual.  Such officers shall have such functions, powers and obligations, including such power to bind the Company as the Lazard Board or the Chief Executive Officer shall delegate to them.  The Lazard Board or the Chief Executive Officer may from time to time appoint certain of these officers as executive officers (each, an “Executive Officer”), with the additional power and authority set forth in this Agreement or as may be delegated to them.
+
+(h)Contracts.  Notwithstanding any other provision contained in this Agreement and except as required by law, any contracts or other instruments may be executed and delivered in the name and on the behalf of the Company by such officer or officers of the Company as the Lazard Board may from time to time direct.  Such authority may be general or confined to specific instances as the Lazard Board may determine.  The Chairman of the Board, the Chief Executive Officer, Chief Financial Officer, General Counsel or any Executive Officer may execute bonds, contracts, deeds, leases and other instruments to be made or executed for or on behalf of the Company.  Subject to any restrictions imposed by the Lazard Board, the Chief Executive Officer, Chief Financial Officer, General Counsel or any Executive Officer may delegate contractual powers to others under his jurisdiction, it being understood, however, that any such delegation of power shall not relieve such officer of responsibility with respect to the exercise of such delegated power.
+
+(i)Proxies.  Unless otherwise provided by resolution adopted by the Lazard Board, the Chairman of the Board, the Chief Executive Officer, Chief Financial Officer, General Counsel or any Executive Officer may from time to time appoint an attorney or attorneys or agent or agents of the Company, in the name and on behalf of the Company, to cast the votes which the Company may be entitled to cast as the holder of stock or other securities in any other person, any of whose stock or other securities may be held by the Company, at meetings of the holders of the stock or other securities of such other person, or to consent in writing, in the name of the Company as such holder, to any action by such other person, and may instruct the person or persons so appointed as to the manner of casting such votes or giving such consent, and may execute or cause to be executed in the name and on behalf of the Company and under its corporate seal or otherwise, all such written proxies or other instruments as he or she may deem necessary or proper in the premises.
+
+(j)Removal.  Any officer may be removed by the affirmative vote of a majority of the Lazard Board then in office with or without cause.  Any officer or agent appointed by the Chief Executive Officer may be removed by the Chief Executive Officer with or without cause.  No elected officer shall have any contractual rights against the Company for compensation by virtue of such election beyond the date of the election of his successor, his death, his resignation or his removal, whichever event shall first occur, except as otherwise provided in an employment contract or under an employee deferred compensation plan.
+
+(k)Vacancies.  A newly created elected office and a vacancy in any elected office because of death, resignation, or removal may be filled by the Lazard Board for the unexpired portion of the term at any meeting of the Lazard Board.  Any vacancy in an office appointed by the Chief Executive Officer because of death, resignation, or removal may be filled by the Chief Executive Officer.
+
+ 
+
+ 
+
+16
+
+[[6065250]]
+
+ 
+
+SECTION 3.04.Resignations.  Any Director or any officer, whether elected or appointed, may resign at any time by giving written notice of such resignation to the Chairman of the Board, the Chief Executive Officer or General Counsel, and such resignation shall be deemed to be effective as of the close of business on the date said notice is received by the Chairman of the Board, the Chief Executive Officer or General Counsel, or at such later time as is specified therein.  No formal action shall be required of the Lazard Board or the Members (including the Managing Members) to make any such resignation effective.
+
+SECTION 3.05.Members.  (a) No Member Voting Rights.  The Members shall not have voting rights under the Act, this Agreement or otherwise, and shall not be entitled to consent to, approve or authorize any actions by the Company, except in the case of the Managing Members, as set forth herein.  Without in any way limiting the foregoing, the Members shall not have voting rights with respect to the matters set forth in Sections 18-209, 18-213, 18-216, 18-702, 18-704, 18-801 and 18-803 of the Act, all of which voting and approval rights shall be vested in the Lazard Board, except as expressly set forth herein with respect to the Managing Members.
+
+(b)Authority of Members.  Except as expressly set forth herein with respect to the Managing Members, no Member shall have any power or authority, in such Member’s capacity as a Member, to act for or bind the Company except to the extent that such Member is so authorized in writing prior thereto by the Lazard Board.  Without limiting the generality of the foregoing, except as expressly set forth herein with respect to the Managing Members, no Member, as such, shall, except as so authorized, have any power or authority to incur any liability or execute any instrument, agreement or other document for or on behalf of the Company, whether in the Company’s name or otherwise.
+
+ARTICLE IV
+
+MEMBERS AND INTERESTS
+
+SECTION 4.01.Members.  The Company shall have Managing Members, Common Members, Profit Participation Members and PIPR Members.  Schedule  1.01(a) sets forth the name and address of the Common Members and the Managing Members, Schedule 4.01 sets forth the name and address of the Profit Participation Members, and Schedule 4.03(c) sets forth the name and address of the PIPR Members.  Such schedules shall be amended pursuant to Section 1.03 to reflect any change in the identity or address of the Members in accordance with this Agreement.  Each person admitted to the Company as a Member pursuant to this Agreement shall be a member of the Company until such person ceases to be a Member in accordance with the provisions of this Agreement.
+
+SECTION 4.02.Managing Member.  The Company shall have one or two managing members (each, a “Managing Member”), who shall have the rights, powers, duties and obligations set forth in this Agreement.  Schedule 1.01(a) shall designate whether a Member is a Managing Member.  Schedule 1.01(a) shall be amended pursuant to Section 1.03 to reflect any change in the identity or address of each Managing Member in accordance with this Agreement.  A Managing Member shall not be allocated, distributed or entitled to receive any interest in the
+
+ 
+
+ 
+
+17
+
+[[6065250]]
+
+ 
+
+profits, losses, assets or capital of the Company by reason of being designated as a Managing Member.  Each Managing Member shall be a “manager” of the Company within the meaning of the Act.  In the event there shall be two Managing Members: (a) each Managing Member shall be entitled to 50% of the voting power with respect to any action to be taken by the Managing Members hereunder, such that each action of the Managing Members shall require the consent of both Managing Members, (b) each reference to the Managing Member in this Agreement shall be deemed to refer to both Managing Members unless the context otherwise requires, and (c) each reference to a consent, authorization, approval or other action of the Managing Member shall be deemed to refer to the consent, authorization, approval or other action of the Managing Members (taken in accordance with clause (a) of this sentence).
+
+SECTION 4.03.Interests. (a) Common Interests.  Each Common Member shall be deemed to have a Common Interest in the Company, which Common Interest shall entitle such holder to the rights, and subject such holder to the obligations, set forth in this Agreement.  The Lazard Board shall have the authority to cause the Company to issue Common Interests in its discretion.  The Managing Members shall have the authority to cause the Company to issue Common Interests to any Common Member and to any person who is admitted as an additional Common Member in accordance with this Agreement.  Schedule 1.01(a) sets forth the Common Percentage Interest of each of the Common Members.  Such schedule shall be amended pursuant to Section 1.03 to reflect any issuance of Common Interests in accordance with this Agreement.  For purposes of certain provisions of this Agreement, the Common Interests are deemed to be divided into units (the “Deemed Common Units”) in a number equal to the total number of outstanding shares of Lazard Ltd Common Stock, excluding shares held by Lazard Ltd or any of its Subsidiaries, as of the applicable time.
+
+(b)Profit Participation Interests.  (i) The Profit Participation Interests shall consist of, and be allocated as, Profit Participation Percentages and Profit Participation Capital.  The aggregate of all Profit Participation Percentages shall total 100%.  The Profit Participation Percentages allocated to each of the Profit Participation Members and the Profit Participation Percentage contained in the Unallocated Float are set forth on Schedule 4.01.  Schedule 4.01 shall be amended pursuant to Section 1.03 to reflect any change in identity of the Profit Participation Members and the Profit Participation Percentages in accordance with this Agreement.
+
+(ii)In any Accounting Period, the Company (by action of the Chief Executive Officer or the Lazard Board) may from time to time change or otherwise modify any or all of the Profit Participation Percentages in his or her sole discretion, including by changing any Member’s Profit Participation Percentage to zero, allocating additional Profit Participation Interests from the Unallocated Float to new or existing Profit Participation Members or increasing or decreasing the aggregate Profit Participation Percentages allocated to the Members (with a corresponding decrease or increase in the Profit Participation Percentage contained in the Unallocated Float); provided that the aggregate of all Profit Participation Percentages allocated to the Members and the Profit Participation Percentages contained in the Unallocated Float shall total 100%.
+
+ 
+
+ 
+
+18
+
+[[6065250]]
+
+ 
+
+(iii)Notwithstanding anything herein to the contrary, the Lazard Board shall have the power, in its sole discretion, to terminate the Profit Participation Interests, effective at the time specified in the resolutions of the Lazard Board approving such termination or, if not so specified in such resolutions, at the time that the resolutions approving such termination are approved by the Lazard Board.  Upon termination of the Profit Participation Interests, all Profit Participation Interests shall immediately cease to be outstanding and shall no longer be allocable by the Company, and such termination shall have the effects set forth in Section 4.04(b)(ii).
+
+(c)PIPR Interests.  (i) Generally.  Each PIPR Member shall be deemed to have a PIPR Interest in the Company, which PIPR Interest shall entitle such holder to the rights, and subject such holder to the obligations, set forth in this Agreement and the applicable PIPR Agreement.  The PIPR Interests shall consist of, and be issued as, units (“PIPR Units”) and PIPR Capital Accounts.  The number of PIPR Units issued to each PIPR Member, whether such PIPR Units are Service and Performance Vested PIPR Units or Unvested PIPR Units and whether any such PIPR Units are Performance PIPRs shall be set forth in Schedule 4.03(c). Schedule 4.03(c) shall be amended pursuant to Section 1.03 to reflect any change in the identity of any PIPR Member or the PIPR Units held by any PIPR Member and whether such PIPR Units are Service and Performance Vested PIPR Units, Performance PIPRs or Unvested PIPR Units in accordance with this Agreement and the applicable PIPR Agreement.
+
+(ii)Intended Tax Treatment of PIPR Units.  The PIPR Units are intended to be treated for tax purposes as “profits interests” within the meaning of Rev. Proc. 93-27, 1993-2 C.B. 343, and Rev. Proc. 2001-43, 2001-2 C.B. 191.  The receipt of the PIPR Units is intended to be treated as a non-taxable event for the Company and the PIPR Member.  In consideration of the receipt of the PIPR Units, the PIPR Member shall agree not to take any position inconsistent with the foregoing.  The Company and the Members shall treat each PIPR Member as a Member of the Company as of the Grant Date for all purposes.  Each PIPR Member shall take into account the distributive share of the Company’s income, gain, loss, deduction, and credit associated with such PIPR Member’s PIPR Units in computing such PIPR Member’s income tax liability for the entire period during which such PIPR Member holds the PIPR Units.  Upon the grant of the PIPR Units or at any time on or before the date on which the PIPR Units become Service and Performance Vested PIPR Units, neither the Company nor any of the Members shall deduct any amount (as wages, compensation, or otherwise) for the fair market value of the PIPR Units.  Notwithstanding anything to the contrary in this Agreement, no PIPR Member shall dispose of any portion of his or her PIPR Units within two years of receipt, unless permitted to do so by the Company.  Neither the Company nor any Member shall take any action or position, or make any filing, inconsistent with the treatment described in this Section 4.03(c)(ii).
+
+(iii)Section 83(b) Election.  Absent a contrary determination by the Company, each person who is issued a PIPR Unit shall, as a condition precedent to the grant of such PIPR Unit, file a valid and timely election pursuant to Section 83(b) of the Code with respect to such PIPR Unit and provide a copy of the election to the Company.
+
+ 
+
+ 
+
+19
+
+[[6065250]]
+
+ 
+
+(iv)Forfeiture; Reallocation of PIPR Capital.  If the Compensation Committee determines that it is in the best interests of the Company or any of its Affiliates due to accounting, regulatory, tax, strategic planning or other reasons, any Non-Equitized PIPR Units of any Member shall be subject to forfeiture, cancelation or termination in accordance with the applicable PIPR Agreement.  In the event of the forfeiture, cancelation or termination of Non-Equitized PIPR Units pursuant to the immediately preceding sentence, the applicable Member shall be entitled to replacement awards with similar potential fair value, as determined by the Compensation Committee reasonably and in good faith (for the avoidance of doubt, it is intended that the “similar potential fair value” of a Non-Equitized PIPR Unit shall be determined taking into account, among other factors, the difference between the PIPR Capital with respect to such PIPR Unit and the Equitizing Target Capital and/or Parity Shortfall Amount with respect to such PIPR Unit).  Any PIPR Units of any Member may also be forfeited, canceled or terminated under any other circumstances as set forth in the relevant PIPR Agreement, including any failure to satisfy the relevant vesting conditions and any breach of restrictive covenants applicable to such PIPR Units.  A Member’s PIPR Capital with respect to a PIPR Unit that is forfeited, canceled or terminated shall be allocated to the Capital Accounts of the Members (other than the Profit Participation Members) pro rata in accordance with their Units (including Deemed Common Units) as of the end of such Accounting Period; provided that no such allocation shall be made to the PIPR Capital Account of PIPR Units that were not outstanding on the date of the original issuance of the forfeited, canceled or terminated PIPR Unit.
+
+SECTION 4.04.Admission and Withdrawal of Members.  (a) Common Members. (i) Any recipient of a Common Interest pursuant to Section 4.03(a) or Section 7.02(a) who is not a Common Member at the time of such issuance or such Transfer, as applicable, shall be admitted as an additional Common Member and shall be listed as a “Common Member” on Schedule 1.01(a), and the issuance or Transfer, as applicable, of the Common Interest shall be effective upon the execution and delivery to the Company by such recipient of an agreement in which such person agrees to be bound by this Agreement and any other agreements, documents or instruments specified by the Managing Members or the Lazard Board; provided, however, that a recipient who is not a Common Member at the time of such issuance or Transfer, as applicable, shall only be admitted as an additional Common Member with the prior approval of the Lazard Board or the Lazard Ltd Board.
+
+(ii)Effective immediately upon the Transfer of a Common Member’s entire Common Interest as provided in Section 7.02(a), such Member shall cease to have any interest in the profits, losses, assets, properties or capital of the Company and shall cease to be a Common Member.
+
+(b)Profit Participation Members.  (i) Schedule 4.01 sets forth the identity and current Profit Participation Interest of each Profit Participation Member.  The Company may, by action of the Managing Members or the Lazard Board, from time to time admit additional Managing Directors as Profit Participation Members and may grant such persons Profit Participation Interests; provided that such additional Profit Participation Members properly execute and return an Acknowledgement.  Schedule 4.01 shall be amended pursuant to
+
+ 
+
+ 
+
+20
+
+[[6065250]]
+
+ 
+
+Section 1.03 to reflect any change in identity of the Profit Participation Members and the Profit Participation Interests in accordance with this Agreement.
+
+(ii)Effective immediately upon the earliest of (A) Retirement of a Profit Participation Member or (B) termination of the Profit Participation Interests as provided in Section 4.03(b)(iii), such Member (or his estate) shall cease to have any interest in the profits, losses, assets, properties or capital of the Company (other than (1) in respect of such former Profit Participation Member’s Profit Participation Capital and the right to receive any distributions in respect of such Profit Participation Capital to the extent provided in Section 8.03, and (2) if such Member is a PIPR Member, such Member’s PIPR Interest) and shall cease to be a Profit Participation Member; provided that, for the avoidance of doubt, under no circumstances shall any Profit Participation Member be entitled to receive or otherwise be distributed any of the Profit Participation Capital associated with such Member’s Profit Participation Interest in the event of the occurrence of any of the events set forth in clause (A) or (B) of this sentence, which Profit Participation Capital shall thereafter represent solely the right to receive distributions of such Profit Participation Capital to the extent provided in Section 8.03.  Upon the Retirement of a Profit Participation Member or other termination of a Profit Participation Interest, the Profit Participation Percentage associated with such Member’s Profit Participation Interest shall cease to be allocated and become part of the Unallocated Float.
+
+(c)PIPR Members.  (i) By action of the Compensation Committee, each holder of a PIPR Unit shall be admitted to the Company as a PIPR Member in accordance with this Agreement and the applicable PIPR Agreement; provided that such holder properly executes and returns an Acknowledgement.  The PIPR Units of each PIPR Member shall be set forth in Schedule 4.03(c).  Schedule 4.03(c) shall be amended pursuant to Section 1.03 to reflect any change in the identity of any PIPR Member or the PIPR Units held by any PIPR Member in accordance with this Agreement and the applicable PIPR Agreement.  
+
+(ii)Effective immediately upon the exchange, conversion, forfeiture, cancelation or termination of any PIPR Units of a PIPR Member, such PIPR Member shall cease to have any interest in the profits, losses, assets, properties or capital of the Company with respect to such exchanged, converted, forfeited, cancelled or terminated PIPR Units and, if such Member holds no other PIPR Units, shall cease to be a PIPR Member.
+
+(d)Managing Members.  As of the date hereof, Lazard Ltd Sub A and Lazard Ltd Sub B are the Managing Members. Notwithstanding anything in this Agreement to the contrary, a Managing Member may resign from the Company for any reason (with or without cause); provided that, subject to the final sentence of this Section 4.04(d), as a condition to such resignation, (i) such resigning Managing Member shall first appoint another person as a new Managing Member and (ii) such person shall be admitted to the Company as a new Managing Member (upon the execution and delivery of an agreement to be bound by the terms of this Agreement); provided, further, that in the event that the resigning Managing Member shall be the sole Managing Member and such resigning Managing Member elects to appoint two other
+
+ 
+
+ 
+
+21
+
+[[6065250]]
+
+ 
+
+persons as Managing Members, as a condition to such resignation, (A) such resigning Managing Member shall first appoint two other persons as new Managing Members and (B) each such person shall be admitted to the Company as a new Managing Member (upon the execution and delivery of an agreement to be bound by the terms of this Agreement). Such admission shall be deemed effective immediately prior to the resignation, and, immediately following such admission, the resigning Managing Member shall cease to be a member of the Company (but, if applicable, shall otherwise remain a Member with respect to its Interests). Notwithstanding the foregoing, in the event that there shall be two Managing Members, the resigning Managing Member may, in lieu of appointing a new Managing Member in accordance with this Section 4.04(d), designate the remaining Managing Member as the sole Managing Member.
+
+(e)No Additional Members.  No additional Members shall be admitted to the Company except in accordance with this Article IV.
+
+SECTION 4.05.Liability to Third Parties; Capital Account Deficits.  Except as may otherwise be expressly provided by the Act, the debts, obligations and liabilities of the Company, whether arising in contract, tort or otherwise, shall be solely the debts, obligations and liabilities of the Company, and the Members (including the Managing Members) and Directors shall not be obligated personally for any such debt, obligation or liability of the Company solely by reason of being Members or Directors or acting as managers or the Managing Members of the Company.  The Members shall not be liable to make up any deficit in their Capital Accounts.
+
+SECTION 4.06.Classes.  As used in this Agreement, all Common Members, Profit Participation Members and PIPR Members shall be deemed to be separate Members even if any Member holds more than one class of Interest.  References to a certain class of Interest (or Capital) with respect to any Member shall refer solely to that class of Interest (or Capital) of such Member and not to any other class of Interest (or Capital), if any, held by such Member.  Members may hold multiple Interests of the same class (e.g., multiple PIPR Interests in the case of multiple issuances of PIPR Units to a Member).
+
+SECTION 4.07.Certificates.  The Company may issue Interests in certificated form in accordance with Section 18-702(c) of the Act, which certificates, if issued, shall be held by the Company as custodian for the applicable Members.  The form of any such certificates shall be approved by the Managing Members or the Lazard Board and include the legend required by Section 7.05.
+
+ARTICLE V
+
+CAPITAL, TAX AND ACCOUNTING MATTERS
+
+SECTION 5.01.Capital.  (a) Schedule of Capital Accounts.  Schedule 5.01 sets forth the names and Capital Accounts of the Members and shall be amended from time to time pursuant to Section 1.03 to reflect any change in the identity of the Members or Capital Accounts in accordance with this Agreement.
+
+(b)Capital Contributions.  (i) Subject to Section 5.01(b)(ii), no capital contributions shall be required (A) unless otherwise determined by the Managing Members or
+
+ 
+
+ 
+
+22
+
+[[6065250]]
+
+ 
+
+the Lazard Board and agreed to by the contributing Member or (B) unless otherwise determined by the Managing Members or the Lazard Board in connection with the admission of a new Member or the issuance of additional Interests to a Member.
+
+(ii)Any person who receives a PIPR Unit and who was not a Member before the Grant Date for such PIPR Unit shall make a capital contribution to the Company in accordance with the applicable PIPR Agreement.
+
+(iii)The Company may invest or cause to be invested all amounts received by the Company as capital contributions in its sole discretion.
+
+(iv)The Managing Members may cause the Company to issue Common Interests pursuant to Section 4.03(a) to any Common Member and to any person who is admitted as an additional Common Member in accordance with Section 4.04(a) of this Agreement, in each case in exchange for a capital contribution.
+
+SECTION 5.02.Withdrawals; Return on Capital.  No Member shall be entitled to withdraw or otherwise receive any distributions in respect of, or any return on, any Capital, except (i) as provided in this Agreement, (ii) as approved by the Managing Members and (iii) in the case of a Profit Participation Member or a PIPR Member, when such Profit Participation Member or PIPR Member ceases to be a Member.
+
+SECTION 5.03.Maintenance of Capital Accounts.  The Company has established or shall establish on its books and records a capital account for each Member. The Capital Account of each Member shall be established and maintained in accordance with Treasury Regulation section 1.704-1(b)(2)(iv).  The Company may maintain sub-accounts for different types of Interests, and each such sub-account of a Member shall be a part of the Member’s Capital Account for purposes of this Agreement.  The Company shall maintain a sub-account for each Common Member with respect to such Member’s Common Interest (a “Common Capital Account”), a sub-account for each Profit Participation Member with respect to such Member’s Profit Participation Interest (a “Profit Participation Capital Account”) and a sub-account for each PIPR Member with respect to such Member’s PIPR Interest (a “PIPR Capital Account”).  The Managing Members shall have sole discretion to determine whether to carry out a Revaluation in connection with any transaction or event.  There shall be no more than four Revaluations in any taxable year; provided that a Revaluation shall not be counted against this limitation if it occurs in connection with (i) a Change in Control, (ii) the issuance of additional equity by Lazard Ltd in a public offering followed by the contribution of the net proceeds to the Company, (iii) the issuance of additional equity by the Company to fund the repayment of a material amount of debt or the acquisition of a material amount of assets, (iv) the sale of a material amount of assets by the Company or a Subsidiary followed by a non-pro rata distribution of the sales proceeds to the Members or (v) any comparable transaction between the Company and/or Lazard Ltd, on the one hand, and a third party, on the other.
+
+ 
+
+ 
+
+23
+
+[[6065250]]
+
+ 
+
+SECTION 5.04.Allocations.  (a) Profit and Loss After the Effective Period. For purposes of computing Capital Accounts, all items of Profit or Loss with respect to each Accounting Period after the Effective Period shall be allocated in the following order and priority:
+
+(i)first, a net amount of Profit equal to the Profit Participation Amount for such Accounting Period shall be allocated to the Profit Participation Members in proportion to their respective Profit Participation Percentages as of the end of such Accounting Period;
+
+(ii)second, a net amount of Profit equal to the aggregate PIPR Distribution Amount shall be allocated to the PIPR Members in proportion to their respective PIPR Distribution Percentages;
+
+(iii)third, a net amount of Profit equal to the aggregate Performance True-Up Distribution Amount shall be allocated to the PIPR Members in proportion to their respective Performance True-Up Distribution Percentages;
+
+(iv)fourth, a net amount of Profit equal to the aggregate Accrued Capital Return Distribution Amount shall be allocated to the PIPR Members in proportion to their respective Accrued Capital Return Distribution Percentages;
+
+(v)fifth, a net amount of operating Profit or Loss, as the case may be, derived by or with respect to each entity set forth on Schedule B for the time period set forth on Schedule B shall be allocated to the Common Members in proportion to the ratio set forth for each Common Member on Schedule B with respect to such entity as of the end of such Accounting Period; and
+
+(vi)thereafter, a net amount of Profit or Loss, as the case may be, shall be allocated to the Common Members in proportion to their respective Common Percentage Interests as of the end of such Accounting Period.
+
+Schedule B may be revised from time to time by action of the Managing Members; provided that any such revisions to Schedule B shall be consistent with the principles set forth in Section 5.04(d)(ii).  Notwithstanding anything in Section 10.02 to the contrary, any such revision shall not be deemed an amendment to this Agreement and shall not require any act, vote or approval of any person.
+
+(b)Profit and Loss During the Effective Period.  For purposes of computing Capital Accounts, all items of Profit or Loss with respect to each Accounting Period during the Effective Period shall be allocated in the following order and priority:
+
+(i)first, a net amount of Profit equal to the Profit Participation Amount for such Accounting Period shall be allocated to the Profit Participation Members in proportion to their respective Profit Participation Percentages as of the end of such Accounting Period;
+
+ 
+
+ 
+
+24
+
+[[6065250]]
+
+ 
+
+(ii)second, a net amount of Profit equal to the aggregate PIPR Distribution Amount shall be allocated to the PIPR Members in proportion to their respective PIPR Distribution Percentages;
+
+(iii)third, a net amount of Profit equal to the aggregate Performance True-Up Distribution Amount shall be allocated to the PIPR Members in proportion to their respective Performance True-Up Distribution Percentages;
+
+(iv)fourth, a net amount of Profit equal to the aggregate Accrued Capital Return Distribution Amount shall be allocated to the PIPR Members in proportion to their respective Accrued Capital Return Distribution Percentages;
+
+(v)fifth, a net amount of operating Profit or Loss, as the case may be, derived by or with respect to each entity set forth on Schedule A shall be allocated to the Common Members in proportion to the ratio set forth for each Common Member on Schedule A with respect to such entity as of the end of such Accounting Period;
+
+(vi)sixth, a net amount of operating Profit or Loss, as the case may be, derived by or with respect to each Unallocated Entity (if any) shall be allocated to the Common Members in proportion to their respective Funding Proportions with respect to such Unallocated Entity as of the end of such Accounting Period; and
+
+(vii)thereafter, a net amount of Profit or Loss, as the case may be, shall be allocated to the Common Members in proportion to their respective Common Percentage Interests as of the end of such Accounting Period.
+
+Schedule A may be revised from time to time by action of the Managing Members; provided that any such revisions shall be consistent with the principles set forth in Section 5.04(d)(ii).  Notwithstanding anything in Section 10.02 to the contrary, any such revision shall not be deemed an amendment to this Agreement, and shall not require any act, vote or approval of any person.
+
+(c)For purposes of this Agreement:
+
+(i)“Fixed Percentage” means 12%; provided, however, that in the event that the Profit Participation Amount would in any Accounting Period exceed the product of (1) 6% and (2) the Operating Revenue for such Accounting Period (such product, the “Cap”), the Fixed Percentage shall, for such Accounting Period, be an amount (expressed as a percentage) equal to a fraction, the numerator of which shall be the Cap and the denominator of which shall be the Operating Income, in each case for such Accounting Period;
+
+(ii)“Operating Expenses” means, with respect to any Accounting Period, an amount equal to the excess, if any, of (1) the consolidated expenses of the Company over (2) the sum of (a) the aggregate amount of compensation paid or payable to Managing Directors, (b) all minority interest, (c) all interest expense (but excluding all “operating” interest expense, including in respect of Lazard Frères Banque S.A.), (d) all income taxes, and (e) all extraordinary losses, in each case as determined in accordance with generally
+
+ 
+
+ 
+
+25
+
+[[6065250]]
+
+ 
+
+accepted accounting principles in the United States of America and otherwise in accordance with Section 5.05.  For the avoidance of doubt, “Operating Expense” shall exclude amounts allocable to Profit Participation Members in respect of their Profit Participation Interests;
+
+(iii)“Operating Income” means, with respect to any Accounting Period, an amount equal to the excess, if any, of (1) the Operating Revenue over (2) the Operating Expenses, in each case for such Accounting Period;
+
+(iv)“Operating Revenue” means, with respect to any Accounting Period, an amount equal to the excess, if any, of (1) the sum of (a) the consolidated net revenue of the Company and (b) all interest expense (but excluding all “operating” interest expense, including in respect of Lazard Frères Banque S.A.), over (2) all extraordinary gains, in each case as determined in accordance with generally accepted accounting principles in the United States of America and otherwise in accordance with Section 5.05; and
+
+(v)“Profit Participation Amount” means, with respect to any Accounting Period, an amount equal to the product of (1) the Fixed Percentage and (2) the Operating Income, in each case for such Accounting Period.
+
+In any calculation of Operating Income, all gains and losses arising from the sale of a business segment or a significant asset outside the ordinary course of business shall be excluded from Operating Revenue and Operating Expense, as applicable.
+
+(d)Future Acquisitions.  (i) In the event the Company or one of its Subsidiaries acquires an entity and the Managing Members do not revise Schedule A or Schedule B to reflect such entity, such entity shall be an “Unallocated Entity”.  The Managing Members shall determine the “Funding Proportion” of each Common Member with respect to each Unallocated Entity in accordance with the principles set forth in Section 5.04(d)(ii).
+
+(ii)Any revisions to Schedule A or Schedule B to reflect any acquired entity, and any determination of a Funding Proportion pursuant to Section 5.04(d)(i), shall reflect each Common Member’s economic investment with respect to the relevant entity relative to each other Common Member, as determined in good faith and taking into account (A) any adjustments to the Common Members’ respective Common Percentage Interests that result from transactions related to the acquisition of such entity, including pursuant to Section 4.03, (B) any portion of the consideration for the relevant entity provided by the Company and (C) any other relevant information.  Determinations made in accordance with the principles set forth in this Section 5.04(d)(ii), and the allocations of Profit or Loss, as the case may be, that result therefrom, are intended to comply with Treasury Regulation section 1.704-1(b) and shall be interpreted and applied in a manner consistent therewith.
+
+ 
+
+ 
+
+26
+
+[[6065250]]
+
+ 
+
+(e)Revaluation Gain.  For purposes of computing Capital Accounts, Revaluation Gain with respect to each Accounting Period shall be allocated in accordance with Section 5.04(g) and in the following order and priority:
+
+(i)first, pro rata among the Equitized PIPR Units until the PIPR Capital of such Equitized PIPR Units equals the Common Parity Amount;
+
+(ii)second, pro rata among the Service and Performance Vested PIPR Units that are Non-Equitized PIPR Units until the PIPR Capital of such Service and Performance Vested PIPR Units equals the Common Parity Amount;
+
+(iii)third, pro rata among the Unvested PIPR Units that are Non-Equitized PIPR Units until the PIPR Capital of such Unvested PIPR Units equals the Common Parity Amount; and
+
+(iv)thereafter, to the Members (other than the Profit Participation Members) pro rata in accordance with their Units (including Deemed Common Units) as of the end of such Accounting Period.
+
+The purpose of this Section 5.04(e) is to allocate Revaluation Gain so that (x) each PIPR Unit becomes an Equitized PIPR Unit when the PIPR Capital of such PIPR Unit equals the Common Capital Account balance of a Deemed Common Unit and (y) each PIPR Unit has, as of the Revaluation immediately preceding the exchange of such PIPR Unit pursuant to Section 7.03, PIPR Capital equal to the Common Parity Amount.  Notwithstanding any other provision in this Agreement to the contrary, the Managing Members and the Compensation Committee shall apply this Section 5.04(e) in a manner consistent with this purpose.  
+
+(f)Revaluation Loss.  For purposes of computing Capital Accounts, in accordance with Section 5.04(g), Revaluation Loss with respect to each Accounting Period shall be allocated to the Members (other than the Profit Participation Members) pro rata in accordance with their Units (including Deemed Common Units) as of the end of such Accounting Period; provided that, to the extent the allocation of Revaluation Loss would cause the PIPR Capital (determined, for purposes of this Section 5.04(f), without regard to clause (ii) of the definition of PIPR Capital) with respect to a PIPR Unit to be less than zero, such Revaluation Loss shall instead be allocated (i) first, to the Common Members pro rata in accordance with their Common Capital Account balances (increased, for purposes of this Section 5.04(f), by the amount of each Common Member’s share of any partnership minimum gain and any partner nonrecourse debt minimum gain (in each case, as defined and determined by Treasury Regulation section 1.704-2)) until the aggregate total of the Common Capital Account balances is zero, (ii) second, to the PIPR Members pro rata in proportion to their PIPR Units until the aggregate total of the PIPR Capital Account balances is zero and (iii) thereafter, to the Profit Participation Members pro rata in accordance with their Profit Participation Percentages until the aggregate total of the Profit Participation Capital Account balances (increased, for purposes of this Section 5.04(f), by the amount of each Profit Participation Partner’s share of any partnership minimum gain and any partner nonrecourse debt minimum gain (in each case, as defined and determined by Treasury Regulation section 1.704-2)) is zero.  If the allocation of Revaluation Loss causes the Common Capital Account balance with respect to a Deemed Common Unit to be less than the Equitizing
+
+ 
+
+ 
+
+27
+
+[[6065250]]
+
+ 
+
+Target Capital with respect to a PIPR Unit immediately before such allocation, then the Equitizing Target Capital with respect to such PIPR Unit shall be adjusted to equal the Common Capital Account balance with respect to a Deemed Common Unit immediately after such allocation.
+
+(g)Additional Allocation Rules.  (i) Unit-by-Unit Allocations.  Allocations pursuant to Sections 5.04(e)(i), (ii) and (iii) shall be made on a Unit-by-Unit basis, in order of Grant Date (starting with the earliest), such that Revaluation Gain is allocated entirely to the longest-outstanding PIPR Unit until it is an Equitized PIPR Unit, then entirely to the next longest-outstanding PIPR Unit until it is an Equitized PIPR Unit, and so on.
+
+(ii)Excluded Items.  Excluded Items derived by or with respect to (A) each entity set forth on Schedule A or Schedule B shall be allocated to the Common Members in proportion to the ratio set forth for each Common Member on Schedule A or Schedule B, as applicable, and (B) an entity not set forth on Schedule A or Schedule B shall be allocated to the Common Members pro rata in accordance with their respective Common Percentage Interests.
+
+(iii)Insufficient Profit to Make Certain Allocations.  If, in any Accounting Period, there is not enough Profit to allocate the full amount that would otherwise be allocated pursuant to Sections 5.04(a)(i), (ii), (iii) or (iv) or Sections 5.04(b)(i), (ii), (iii) or (iv) (as applicable), then additional allocations shall be made in subsequent periods to make up for the shortfall.
+
+(iv)Forfeiture Allocations.  If any Member is required to irrevocably return any amount previously received as a distribution or is required to forfeit any PIPR Units pursuant to Section 4.03(c)(iv), the Company shall allocate Loss (or items of loss or deduction) to such Member in an amount equal to the returned distribution or the PIPR Capital allocable to such forfeited PIPR Units to reverse prior allocations of Profit to such Member, as applicable.
+
+(v)Certain Parity Shortfall Amount Allocations.  If a PIPR Unit is converted into a Common Interest pursuant to Section 7.03(d) and the PIPR Capital with respect to such PIPR Unit is less than the Common Capital Account balance of a Deemed Common Unit immediately before the conversion (the difference, an “Actual Parity Shortfall Amount”), then the Member holding the Common Interest into which such PIPR Unit was converted shall share pro rata in allocations under Section 5.04(e)(i) until such Member has been allocated an amount equal to the Actual Parity Shortfall Amount.
+
+(vi)Managing Member Determination With Respect to Revaluation Loss.  Notwithstanding any provision in this Agreement to the contrary, the Managing Members may determine that Revaluation Loss shall, before any allocation is made pursuant to Section 5.04(f), be allocated among the Members to reverse prior allocations of Revaluation Gain in any manner reasonably determined by the Managing Members.
+
+(h)Regulatory Allocations.  Each of (i) the “minimum gain chargeback” provision of Treasury Regulation section 1.704-2(f), (ii) the “chargeback of partner nonrecourse
+
+ 
+
+ 
+
+28
+
+[[6065250]]
+
+ 
+
+debt minimum gain” provision of Treasury Regulation section 1.704-2(i)(4), (iii) the “qualified income offset” provision in Treasury Regulation section 1.704-1(b)(2)(ii)(d), and (iv) the requirement in Treasury Regulation section 1.704-1(b)(2)(ii)(d)(3) that an allocation “not cause or increase a deficit balance” in a Member’s Capital Account is hereby incorporated by reference as a part of this Agreement.  Nonrecourse deductions shall be allocated in any manner determined by the Managing Members in accordance with Treasury Regulation section 1.704-2.  Partner nonrecourse deductions shall be allocated to the Member who bears the economic risk of loss (within the meaning of Treasury Regulation section 1.752-2) with respect to the partner nonrecourse debt to which such partner nonrecourse deductions are attributable in accordance with Treasury Regulation section 1.704-2(i)(1).
+
+(i)Tax Allocations.  Except as otherwise required under Section 704(c) of the Code and the Treasury Regulations promulgated thereunder, the Company shall cause each item of income, gain, loss or deduction recognized by the Company to be allocated among the Members for U.S. Federal, state and local income and, where relevant, non-U.S. tax purposes in the same manner that each such item is allocated to the Members’ Capital Accounts or as otherwise provided herein.  Allocations required by Section 704(c) of the Code shall be made using any reasonable method permitted by the Treasury Regulations promulgated under Section 704(c) of the Code.
+
+SECTION 5.05.Determinations.  All determinations, allocations, valuations and other matters of judgment required to be made for purposes of this Article V, including with respect to calculations of Profit Participation Amount, Operating Revenue, Operating Expenses, Revaluation Gain, Revaluation Loss and accounting procedures and tax matters not expressly provided for by the terms of this Agreement, or for determining the value of any type or form of proceeds, contribution or distributions hereunder shall be made by the Managing Members.  In the event an additional Member is admitted to the Company and contributes property to the Company, or an existing Member contributes additional property to the Company, pursuant to this Agreement, the value of such contributed property shall be the fair market value of such property as determined by the Managing Members.  The Managing Members may, in their sole discretion, determine that a Revaluation shall be carried out in connection with a Change in Control.
+
+SECTION 5.06.Books and Accounts.  (a) The Company shall at all times keep or cause to be kept true and complete records and books of account, which records and books shall be maintained in accordance with U.S. generally accepted accounting principles.  Such records and books of account shall be kept at the principal place of business of the Company.  The Managing Members and the Lazard Board shall have access thereto and the right to receive copies thereof.  As permitted by Section 18-305(g) of the Act, no Member shall be entitled to review such records and books of account (including any of the schedules hereto) unless the Managing Members or the Lazard Board, in its sole discretion, shall permit such review.  The Company’s accounts shall be maintained in United States dollars.
+
+(b)The Company’s fiscal year shall begin on the first day of January and end on the thirty-first day of December of each year, or shall be such other period designated by the Managing Members or the Lazard Board.  At the end of each fiscal year, the Company’s
+
+ 
+
+ 
+
+29
+
+[[6065250]]
+
+ 
+
+accounts shall be prepared, presented to the Managing Members or the Lazard Board and submitted to the Company’s auditors for examination.
+
+(c)The Company’s auditors shall be an independent accounting firm of international reputation to be appointed from time to time by the Lazard Board or the Managing Members.  The Company’s auditors shall be entitled to receive promptly such information, accounts and explanations from the Lazard Board, each officer and each Member that they deem reasonably necessary to carry out their duties.  The Members shall provide such financial, tax and other information to the Company as may be reasonably necessary and appropriate to carry out the purposes of the Company.
+
+SECTION 5.07.Audits; Tax Representative.  (a) Lazard Ltd Sub B is hereby designated as the Tax Representative.  Lazard Ltd Sub B shall have the authority, in its sole discretion, to (i) make an election under Section 754 of the Code on behalf of the Company, and each Member agrees to provide such information and documentation as Lazard Ltd Sub B may reasonably request in connection with any such election, (ii) determine the manner in which “excess nonrecourse liabilities” (within the meaning of Treasury Regulation section 1.752-3(a)(3)) are allocated among the Members, (iii) take any and all actions permitted by Sections 6221 through 6241 of the Code and the Treasury Regulations promulgated thereunder, including an election under Section 6226 of the Code, and (iv) make any other election or determination with respect to taxes (including with respect to depreciation, amortization and accounting methods).  
+
+(b)Each Member shall cooperate with Lazard Ltd Sub B and promptly provide any information reasonably requested by Lazard Ltd Sub B in connection with its exercise of its rights and obligations under this Section 5.07.  Any Member that enters into an agreement with the U.S. Internal Revenue Service with respect to any item of the Company shall notify Lazard Ltd Sub B of such agreement and its terms within thirty (30) days of the execution of such agreement.  
+
+(c)If the Company pays any taxes (including any related interest, penalties or additions to tax and any related state or local or non-U.S. taxes) under Sections 6221 through 6241 of the Code and the Treasury Regulations promulgated thereunder (“Audit Taxes”), Lazard Ltd Sub B shall use its sole discretion to allocate Audit Taxes among the Members.  If requested by Lazard Ltd Sub B, each Member shall promptly pay to the Company any Audit Taxes allocated to such Member under this Section 5.07(c).  Alternatively, the Company may treat any Audit Taxes allocated to a Member under this Section 5.07(c) as an advance to such Member to be repaid by reducing the amount of distributions that would otherwise be made to such Member under this Agreement; provided that such Member shall be treated as receiving such distributions, unreduced by this Section 5.07(c), for all other purposes of this Agreement.
+
+(d)This Section 5.07 shall survive any Transfer by any Member and any dissolution of the Company, and, solely for purposes of this Section 5.07, references to any Member or Members may (as determined by Lazard Ltd Sub B in its sole discretion) include any former Member or Members.
+
+ 
+
+ 
+
+30
+
+[[6065250]]
+
+ 
+
+SECTION 5.08.Tax Information.  The Company shall use commercially reasonable efforts to prepare and deliver, as soon as reasonably practicable after the end of each taxable year of the Company, to each Member (other than the Managing Member and each other person that was such a Member during such taxable year or its legal representatives) U.S. Internal Revenue Service Schedule K-1, “Partner’s Share of Income, Credits, Deductions, Etc.”, or any successor schedule or form, for such person.
+
+SECTION 5.09.Withholding.  The Company is authorized to withhold from distributions and allocations to the Members and to pay over to any U.S. Federal, state, local or foreign governmental authority any amounts believed in good faith to be so withheld pursuant to the Code or any provision of any other U.S. Federal, state, local or foreign law and, for all purposes of this Agreement, shall treat such amounts as distributed to those Members with respect to which such amounts were withheld.
+
+ARTICLE VI
+
+DISTRIBUTIONS
+
+SECTION 6.01.Distributions in Respect of Profit Participation Interests.  (a) Except as otherwise provided in this Section 6.01(a), the Company shall distribute to each Profit Participation Member from such Member’s Profit Participation Capital Account as promptly as practicable after the end of each of the first three (3) fiscal quarters of each fiscal year of the Company or relevant estimated tax payment date an amount equal to such Profit Participation Member’s Quarterly Profit Participation Tax Distribution for such fiscal quarter.  In addition, the Company shall distribute to each Profit Participation Member from such Member’s Profit Participation Capital Account as promptly as practicable after the end of each fiscal year an amount equal to the excess, if any, of such Profit Participation Member’s Proportionate Tax Share for such fiscal year over the aggregate amount of Quarterly Profit Participation Tax Distributions made to such Profit Participation Member with respect to such fiscal year.  If, at the end of any fiscal year of the Company, the aggregate amount of Quarterly Profit Participation Tax Distributions made to a Profit Participation Member exceeds such Profit Participation Member’s Proportionate Tax Share, in each case with respect to such fiscal year, then the amount of such excess shall be treated as an advance against, and shall reduce the amount of, any future distributions that would otherwise be made to such Member pursuant to this Section 6.01(a).  Any amount distributed to a Profit Participation Member pursuant to this Section 6.01(a) shall be treated as an advance against, and shall reduce the amount of, any future distributions that would otherwise be made to such Member pursuant to this Agreement.  Notwithstanding the foregoing, if a Member is not entitled to any future distributions pursuant to this Agreement, then the Company shall be permitted to require the Member to repay the Company the amount of such advance; provided, however, that, if the Member is an Executive Officer, the Company shall not require repayment of such advance if it would violate Section 402 of the Sarbanes-Oxley Act, and instead, such Member shall use reasonable best efforts to claim any tax benefit related to such advance that the Company reasonably determines is available to the Member on all relevant tax returns and shall disgorge to the Company any tax benefit the Member so realizes.
+
+ 
+
+ 
+
+31
+
+[[6065250]]
+
+ 
+
+(b)The Company shall, after the end of each fiscal year, distribute to each Profit Participation Member an amount (if positive) equal to the aggregate of all Profit Participation Amounts allocated to such Member’s Profit Participation Capital Account pursuant to Section 5.04(a)(i) or Section 5.04(b)(i), as the case may be, during such fiscal year (reduced by the amount of any distributions pursuant to Section 6.01(a)), with such distribution to occur on such date and time as determined by the Company; provided that no distribution shall be made to such person pursuant to this Section 6.01(b) unless such person shall continue to be a Profit Participation Member as of the date and time of distribution; provided, further, that distributions pursuant to this Section 6.01(b) shall be made to a Profit Participation Member only to the extent of the positive balance in such Member’s Profit Participation Capital Account unless otherwise determined by the Lazard Board.  Notwithstanding the foregoing, the Company may (i) withhold all or a portion of the distributions otherwise payable to any Profit Participation Member pursuant to the immediately foregoing sentence, or (ii) distribute to any Profit Participation Member all or a portion of the positive balance, if any, in such Member’s Profit Participation Capital Account as of the end of the applicable fiscal year (after giving effect to (A) the allocations pursuant to Section 5.04(a)(i) or Section 5.04(b)(i), as the case may be, with respect to the Accounting Period ending on December 31 of such fiscal year and (B) any distributions pursuant to the first sentence of this Section 6.01(b)).
+
+SECTION 6.02.Tax Distributions.  Except as otherwise provided in this Section 6.02, the Company shall distribute to each Common Member and each PIPR Member as promptly as practicable after the end of each of the first three (3) fiscal quarters of each fiscal year of the Company or relevant estimated tax payment date an amount equal to such Member’s Quarterly Tax Distribution for such fiscal quarter.  In addition, the Company shall distribute to each Common Member and each PIPR Member as promptly as practicable after the end of each fiscal year an amount equal to the excess, if any, of such Member’s Proportionate Tax Share for such fiscal year over the aggregate amount of Quarterly Tax Distributions made to such Member with respect to such fiscal year.  If, at the end of any fiscal year of the Company, the aggregate amount of Quarterly Tax Distributions made to a Common Member or a PIPR Member exceeds such Member’s Proportionate Tax Share, in each case with respect to such fiscal year, then the amount of such excess shall be treated as an advance against, and shall reduce the amount of, any future distributions that would otherwise be made to such Member pursuant to this Section 6.02. Any amount distributed to a Common Member or a PIPR Member, as the case may be, pursuant to this Section 6.02 shall be treated as an advance against, and shall reduce the amount of, any future distributions that would otherwise be made to such Member pursuant to this Agreement.  Notwithstanding the foregoing, if a Member is not entitled to any future distributions pursuant to this Agreement, then, except as otherwise set forth in the applicable PIPR Agreement, the Company shall be permitted to require the Member to repay the Company the amount of such advance; provided, however, that, if the Member is an Executive Officer, the Company shall not require repayment of such advance if it would violate Section 402 of the Sarbanes-Oxley Act, and, instead, such Member shall use reasonable best efforts to claim any tax benefit related to such advance that the Company reasonably determines is available to the Member on all relevant tax returns and shall disgorge to the Company any tax benefit the Member so realizes.
+
+SECTION 6.03.Regular Distributions.  (a) Generally.  The Lazard Board shall have the right to cause the Company to make distributions to any Common Member (from
+
+ 
+
+ 
+
+32
+
+[[6065250]]
+
+ 
+
+such Member’s Common Capital Account) and PIPR Member (from such Member’s PIPR Capital Account) at such times, and in such amounts, as may be determined by the Lazard Board in its sole discretion; provided that no such distribution to a Common Member or PIPR Member shall exceed such Member’s Common Capital Account or PIPR Capital Account, respectively, immediately before such distribution.  Distributions to the Common Members pursuant to this Section 6.03(a) need not be made on a pro rata basis.
+
+(b)PIPR Units.  Except as provided in the applicable PIPR Agreement, the Company shall make cash distributions with respect to each PIPR Unit in an amount equal to the amount of cash dividends paid on Lazard Ltd Common Stock (the right to such distributions shall be deemed to accrue on the record date for such dividends), calculated as if (i) each outstanding Performance PIPR had been exchanged, immediately prior to such record date, into a fraction of a share of Lazard Ltd Common Stock equal to the applicable Specified Percentage and (ii) all other outstanding PIPR Units had been exchanged, immediately prior to such record date, into one share of Lazard Ltd Common Stock; provided that any amount that would otherwise be distributed with respect to an Unvested PIPR Unit under this Section 6.03(b) shall be retained by the Company and shall not be distributed unless and until such Unvested PIPR Unit becomes a Service and Performance Vested PIPR Unit.
+
+(c)Performance PIPR True-Up.  Reasonably promptly after the date on which a Performance PIPR becomes a PIPR Unit that is no longer a Performance PIPR (a “Performance Achievement PIPR”), the Company shall make a distribution to the applicable PIPR Member in respect of such PIPR Unit in an amount (not less than zero) equal to (i) the amount of distributions that would have been made with respect to such PIPR Unit under Section 6.03(b) if the Specified Percentage applicable to such PIPR Unit had been 100% at all times during the period between its Grant Date and the date on which it ceased to be a Performance PIPR reduced by (ii) the amount, if any, of actual distributions made with respect to such PIPR Unit with respect to such period and further reduced by (iii) without duplication of any amounts described in clause (ii), the amount, if any, of (A) the aggregate tax distributions made pursuant to Section 6.02 in respect of such PIPR Member’s Performance PIPRs that were granted on the same Grant Date as the relevant PIPR Unit but did not become Performance Achievement PIPRs, divided by (B) the total number of PIPR Units (including such PIPR Unit) with the same Grant Date as such PIPR Unit that became Performance Achievement PIPRs; provided that any amount that would otherwise be distributed with respect to an Unvested PIPR Unit under this Section 6.03(c) shall be retained by the Company and shall not be distributed unless and until such Unvested PIPR Unit becomes a Service and Performance Vested PIPR Unit.
+
+(d)PIPR Accrued Return.  A return (at a rate of 6%, compounded quarterly, or such other rate as specified by the Managing Members from time to time) shall accrue on (i) the net amount of Profit allocated to the PIPR Members under Section 5.04(b)(ii) (during the Effective Period) or Section 5.04(a)(ii) (after the Effective Period) plus (ii) the net amount of Profit allocated to the PIPR Members under Section 5.04(b)(iii) (during the Effective Period) or Section 5.04(a)(iii) (after the Effective Period), in each case, from the date that the related cash dividend on the Lazard Ltd Common Stock is paid to holders of the Lazard Ltd Common Stock until the date such Profits are distributed to the PIPR Members under Section 6.02, Section 6.03(b) or Section 6.03(c).  The Company shall distribute an amount equal to such return to the applicable PIPR Member in cash at the same time it pays the relevant distributions to such PIPR Member.
+
+ 
+
+ 
+
+33
+
+[[6065250]]
+
+ 
+
+SECTION 6.04.Limitation on Distributions.  Notwithstanding any provision to the contrary contained in this Agreement, the Company, and the Lazard Board on behalf of the Company, shall not be required to make a distribution to a Member on account of its interest in the Company if such distribution would violate the Act or any other applicable law.
+
+ARTICLE VII
+
+TRANSFERS OF INTERESTS
+
+SECTION 7.01.Transfer of Interests.  No Member may Transfer or agree or otherwise commit to Transfer all or any portion of, or any of rights, title and interest in and to, its Interest, except as permitted by the terms and conditions set forth in this Article VII.  The schedules shall be deemed to be amended from time to time to reflect any change in the Members or Interests to reflect any Transfer in accordance with this Article VII.
+
+SECTION 7.02.Permitted Transfers.  (a) Common Interests.  Other than any Transfer by a Common Member to any other Common Member or to any person who is admitted as an additional Common Member in accordance with Section 4.04(a) of this Agreement, no Common Member may Transfer or agree or otherwise commit to Transfer all or any portion of, or any of its rights, title and interest in and to, its Common Interest without the prior approval of the Lazard Board.  Schedule 1.01(a) sets forth the Common Percentage Interest of each of the Common Members.  Such schedule shall be amended pursuant to Section 1.03 to reflect any Transfer of Common Interests in accordance with this Agreement.  Notwithstanding anything to the contrary set forth herein, a Transferee pursuant to any Transfer under this Section 7.02(a) who is not a Common Member at the time of such Transfer shall be admitted as an additional Common Member, and shall be listed as a “Common Member” on Schedule 1.01(a), only in accordance with Section 4.04(a).
+
+(b)Profit Participation Interests.  No Profit Participation Member may Transfer or agree or otherwise commit to Transfer all or any portion of, or any of its rights, title and interest in and to, its Profit Participation Interest.
+
+(c)PIPR Units.  No PIPR Member may Transfer or agree or otherwise commit to Transfer all or any portion of, or any of its rights, title and interest in and to, its PIPR Interest other than (i) an exchange pursuant to Section 7.03, (ii) upon the death of such Member, a Transfer by operation of law to such Member’s estate, direct descendants or spouse, (iii) to an Affiliate of the Company in exchange solely for equity interests in such Affiliate or (iv) a Transfer for which the Managing Members have provided prior approval in their sole discretion.  A Transferee pursuant to any Transfer under this Section 7.02(c) who is not a PIPR Member at the time of such Transfer shall be admitted as a PIPR Member and Schedule 4.03(c) shall be updated to reflect such Transfer.
+
+(d)Transfer of Capital Accounts.  Notwithstanding anything herein to the contrary, each Member who Transfers an Interest (or a portion thereof) shall be deemed to have Transferred the entire Interest, including the balance in the Capital Account with respect to such Interest (or, if a portion of an Interest is being Transferred, a proportionate amount of the balance in the Capital Account with respect to such Interest) to the Transferee.
+
+ 
+
+ 
+
+34
+
+[[6065250]]
+
+ 
+
+SECTION 7.03.PIPR Unit Exchange.  (a) Generally.  Except as otherwise provided in this Agreement, each PIPR Member holding a Service and Performance Vested PIPR Unit that is an Equitized PIPR Unit that is in Parity (an “Exchangeable PIPR Unit”) shall have the right to require the Company to redeem such Exchangeable PIPR Unit in exchange for one share of Lazard Ltd Common Stock on the next redemption date selected by the Company; provided that, if such PIPR Member has not exercised that right before the end of the second month following the end of the fiscal quarter in which such PIPR Unit became an Exchangeable PIPR Unit, the Company shall redeem such Exchangeable PIPR Unit in exchange for one share of Lazard Ltd Common Stock.  Lazard Ltd (and/or its Subsidiaries) shall have the right, but not the obligation, to purchase directly from an exchanging Member some or all of the Exchangeable PIPR Units to be exchanged upon the same terms and conditions set forth in the preceding sentence.  Notwithstanding the foregoing, the Company shall be permitted to defer any exchange of an Exchangeable PIPR Unit for Lazard Ltd Common Stock if the Company determines, in its sole discretion, that such deferral is necessary or appropriate due to regulatory restrictions, a change in law or any event outside the ordinary course of business; provided that in no event shall the Company defer an exchange beyond the end of the second month following the end of the calendar year in which the PIPR Unit became an Exchangeable PIPR Unit.
+
+(b)Exchange Limitation.  For the avoidance of doubt, and notwithstanding any provision to the contrary in this Agreement or any PIPR Agreement, no PIPR Unit may be exchanged for a share of Lazard Ltd Common Stock under this Section 7.03 unless such PIPR Unit is an Equitized PIPR Unit that is in Parity.  Notwithstanding the limitation in the preceding sentence and the first sentence of Section 7.03(a), if a PIPR Unit is not an Exchangeable PIPR Unit solely because it is not in Parity, the Company may treat that PIPR Unit as an Exchangeable PIPR Unit if the PIPR Member holding such PIPR Unit agrees to pay the Parity Shortfall Amount (i) to the Company, if the PIPR Unit is to be redeemed by the Company, or (ii) to the purchaser of the PIPR Unit, if the PIPR Unit is to be purchased pursuant to the penultimate sentence of Section 7.03(a).  The payment required by the preceding sentence shall be made in cash unless the Managing Members permit the PIPR Member to pay the Parity Shortfall Amount by surrendering PIPR Units of equivalent value, as determined by the Managing Members.
+
+(c)Unvested PIPR Units.  Subject to Section 7.03(b) and the applicable PIPR Agreement, the Company shall have the right to require a Member to exchange any or all of such Member’s Unvested PIPR Units that are Equitized PIPR Units for shares of Lazard Ltd Common Stock if the Compensation Committee determines that it is in the best interests of the Company or any of its Affiliates due to accounting, regulatory, tax, strategic planning or other reasons; provided that such shares of Lazard Ltd Common Stock shall remain subject to the vesting conditions that were applicable to such Unvested PIPR Unit as set forth in the relevant PIPR Agreement.  Any shares of Lazard Ltd Common Stock received in exchange for Unvested PIPR Units may contain a restrictive legend and may have other restrictions in accordance with the terms of the applicable PIPR Agreement.
+
+(d)Consequence of Exchange.  Upon the purchase of a PIPR Unit as provided in the second sentence of Section 7.03(a) in exchange for a share of Lazard Ltd Common Stock, such PIPR Unit shall automatically convert into a Common Interest, the PIPR Capital with
+
+ 
+
+ 
+
+35
+
+[[6065250]]
+
+ 
+
+respect to such PIPR Unit shall become the Common Capital Account balance of the Deemed Common Unit, and such PIPR Unit shall be canceled and shall cease to exist.
+
+(e)Notice.  The Company shall deliver written notice to the applicable Member setting forth the procedures and terms related to an exchange under this Section 7.03.
+
+(f)No Publicly Traded Partnership.  Notwithstanding any provision to the contrary in this Agreement or any PIPR Agreement, no exchange pursuant to this Section 7.03 shall be permitted (and, if attempted, shall be null and of no effect) if the Company determines, in the sole discretion of the Managing Members, that such exchange would pose a material risk that the Company would be a “publicly traded partnership” as defined in Section 7704 of the Code.  In the event the Company makes such a determination, an exchange pursuant to Section 7.03(a) shall be permitted upon the next redemption date selected by the Company that would not pose such a risk.  Notwithstanding anything to the contrary herein, the Managing Members, in their sole discretion, shall be permitted to establish procedures that they determine are necessary or appropriate to ensure that the Company will not be treated as a “publicly traded partnership” or as an association taxable as a corporation for U.S. Federal income tax purposes.
+
+SECTION 7.04.Encumbrances.  No Member (other than Lazard Ltd or one of its Subsidiaries) may, without the consent of the Company, charge or encumber his Interest or subject his Interest to a lien, pledge, security interest, right of first refusal, option or other similar limitation (an “Encumbrance”) except in each case for those created by this Agreement.  Notwithstanding anything to the contrary set forth in this Article VII, the incurrence of any Encumbrance permitted by this Section 7.04 shall not be deemed to be a Transfer.
+
+SECTION 7.05.Legend.  Each Member agrees that any certificate issued to it to evidence its Interests shall have inscribed conspicuously on its front or back the following legend:
+
+THE LIMITED LIABILITY COMPANY INTEREST IN LAZARD GROUP LLC REPRESENTED BY THIS CERTIFICATE HAS NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR REGISTERED OR QUALIFIED UNDER THE SECURITIES LAWS OF ANY STATE OR FOREIGN JURISDICTION, AND THIS LIMITED LIABILITY COMPANY INTEREST MAY NOT BE TRANSFERRED, SOLD, ASSIGNED, PLEDGED, HYPOTHECATED, ENCUMBERED OR OTHERWISE DISPOSED OF, IN WHOLE OR IN PART, EXCEPT (A) EITHER (1) WHILE A REGISTRATION STATEMENT UNDER THE SECURITIES ACT AND SUCH OTHER APPLICABLE REGISTRATIONS AND QUALIFICATIONS ARE IN EFFECT OR (2) PURSUANT TO AN AVAILABLE EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT (INCLUDING, IF APPLICABLE, REGULATION D OR REGULATION S THEREUNDER) AND SUCH OTHER APPLICABLE LAWS AND (B) IF PERMITTED BY THE OPERATING AGREEMENT OF LAZARD GROUP LLC AS IT MAY BE AMENDED FROM TIME TO TIME, WHICH CONTAINS STRICT PROHIBITIONS ON TRANSFERS, SALES, ASSIGNMENTS, PLEDGES,
+
+ 
+
+ 
+
+36
+
+[[6065250]]
+
+ 
+
+HYPOTHECATIONS, ENCUMBRANCES OR OTHER DISPOSITIONS OF THIS LIMITED LIABILITY COMPANY INTEREST.
+
+SECTION 7.06.Effect of Transfer Not in Compliance with This Article.  Any purported Transfer of all or any part of a Member’s Interest, or any interest therein, that is not in compliance with this Article VII shall, to the fullest extent permitted by law, be void and shall be of no effect.
+
+ARTICLE VIII
+
+DISSOLUTION
+
+SECTION 8.01.Dissolution.  The Company shall be dissolved and its affairs shall be wound up upon (a) a decision made at any time by the Lazard Board to dissolve the Company, (b) the termination of the legal existence of the last remaining member of the Company or the occurrence of any other event which terminates the continued membership of the last remaining member of the Company in the Company unless the Company is continued without dissolution in a manner permitted by this Agreement or the Act, or (c) the entry of a decree of judicial dissolution under Section 18-802 of the Act.  Subject to clause (b) of the immediately preceding sentence, the Company shall not be dissolved solely by reason of, and shall continue notwithstanding, the death, Retirement, resignation, bankruptcy or dissolution of any Member (including any Managing Member).  None of the Members shall have any right to terminate, dissolve or have redeemed their class of Interests or, to the fullest extent permitted by law, to terminate, wind up or dissolve the Company.
+
+SECTION 8.02.Liquidation.  Upon a dissolution pursuant to Section 8.01, the Company’s business and assets shall be wound up promptly in an orderly manner.  The Lazard Board shall be the liquidator to wind up the affairs of the Company.  In performing its duties, the Lazard Board is authorized to sell, exchange or otherwise dispose of the Company’s business and assets in accordance with the Act in any reasonable manner that the Lazard Board determines to be in the best interests of the Members.  Upon completion of the winding-up of the Company, the Lazard Board shall prepare and submit to each Common Member a final statement with respect thereto.
+
+SECTION 8.03.Distributions.  (a) In the event of a dissolution of the Company pursuant to Section 8.01, the Company shall apply and distribute the proceeds of the dissolution as provided below:
+
+(i)first, to the creditors of the Company, including Members that are creditors of the Company to the extent permitted by law, in satisfaction of the liabilities of the Company (by payment or by the making of reasonable provision for payment thereof, including the setting up of any reserves which the Managing Members determine, in their sole discretion, are necessary therefor); and
+
+(ii)thereafter, to the Members in proportion to (and to the extent of) the positive balances in their respective Capital Accounts (after making all required adjustments to the Members’ Capital Accounts for the taxable year of the dissolution).
+
+ 
+
+ 
+
+37
+
+[[6065250]]
+
+ 
+
+(b)Cancelation of Certificate of Formation.  Upon completion of a liquidation and distribution pursuant to Section 8.03(a) following a dissolution of the Company pursuant to Section 8.01, the Managing Members shall execute, acknowledge and cause to be filed a certificate of cancelation of the Certificate of Formation of the Company in the office of the Secretary of State of the State of Delaware.
+
+ARTICLE IX
+
+INDEMNIFICATION AND EXCULPATION
+
+SECTION 9.01.Exculpation.  A Director shall not be personally liable to the Company or its Members for monetary damages for breach of fiduciary duty as a Director, except to the extent such exemption from liability or limitation thereof is not permitted under the Act as the same exists or may hereafter be amended.  Any repeal or modification of the immediately preceding sentence shall not adversely affect any right or protection of a Director existing hereunder with respect to any act or omission occurring prior to such repeal or modification.
+
+SECTION 9.02.Indemnification.  (a) Each person who was or is made a party or is threatened to be made a party to or is involved in any action, suit, or proceeding, whether civil, criminal, administrative or investigative (a “Proceeding”), by reason of the fact that he or she, or a person of whom he or she is the legal representative, is or was (i) a Director or officer of the Company, (ii) a director or officer of Lazard Ltd or (iii) serving at the request of the Company (including as evidenced in a written letter signed by a proper officer of the Company) as a director, officer, employee or agent of another corporation or of a partnership, joint venture, trust or other enterprise or person, including the Tax Representative (and any “designated individual” within the meaning of Treasury Regulation section 301.6223-1(b)(3)(ii)) and service with respect to employee benefit plans maintained or sponsored by the Company, in each case whether the basis of such Proceeding is alleged action in an official capacity as a Director, director, officer, employee or agent or in any other capacity while serving as a Director, director, officer, employee or agent, shall be indemnified and held harmless by the Company to the fullest extent authorized by the General Corporation Law of the State of Delaware (the “DGCL”) as the same exists or may hereafter be amended (but, in the case of any such amendment, only to the extent that such amendment permits the Company to provide broader indemnification rights than said law permitted the Company to provide prior to such amendment), if the Company were a corporation organized under the DGCL, against all expense, liability and loss (including attorneys’ fees, judgments, fines, excise taxes or penalties arising under the Employee Retirement Income Security Act of 1974, and amounts paid or to be paid in settlement) reasonably incurred or suffered by such person in connection therewith and such indemnification shall continue as to a person who has ceased to be a Director, director, officer, employee or agent and shall inure to the benefit of his or her heirs, executors and administrators; provided, however, that except as provided in Section 9.02(c), the Company shall indemnify any such person seeking indemnification in connection with a Proceeding (or part thereof) initiated by such person only if such Proceeding (or part thereof) was authorized by the Lazard Board. The right to indemnification conferred in this Section 9.02 shall be a contract right.  The right to indemnification conferred in this Section 9.02 in the case of any Director or officer of the
+
+ 
+
+ 
+
+38
+
+[[6065250]]
+
+ 
+
+Company or any director or officer of Lazard Ltd shall include (and, in the case of any other person entitled to indemnification hereunder, may at the option of the Chief Executive Officer, General Counsel or the Lazard Board include) the right to be paid by the Company the expenses incurred in defending any such Proceeding in advance of its final disposition, such advances to be paid by the Company within twenty (20) days after the receipt by the Company of a statement or statements from the claimant requesting such advance or advances from time to time; provided, however, that the payment of such expenses incurred by any such person in advance of the final disposition of a Proceeding shall be made only upon delivery to the Company of an undertaking by or on behalf of such person to repay all amounts so advanced if it shall ultimately be determined that such person is not entitled to be indemnified under this Section 9.02 or otherwise.
+
+(b)To obtain indemnification under this Section 9.02, a claimant shall submit to the Company a written request, including therein or therewith such documentation and information as is reasonably available to the claimant and is reasonably necessary to determine whether and to what extent the claimant is entitled to indemnification.  Upon written request by a claimant for indemnification pursuant to the first sentence of this Section 9.02(b), a determination, if required by the DGCL if the Company were a corporation organized under the DGCL, with respect to the claimant’s entitlement thereto shall be made as follows: (i) if requested by the claimant, by Independent Counsel (as hereinafter defined), or (ii) if no request is made by the claimant for a determination by Independent Counsel, by the Chief Executive Officer or General Counsel of the Company, whose determination shall be approved by the Lazard Board (by a majority vote of a quorum consisting of Disinterested Directors (as hereinafter defined)); provided that (A) if a quorum of the Lazard Board consisting of Disinterested Directors is not obtainable or, even if obtainable, such quorum of Disinterested Directors so directs, such determination shall be approved by Independent Counsel in a written opinion to the Lazard Board, a copy of which shall be delivered to the claimant, or (B) if a quorum of Disinterested Directors so directs, such determination shall be approved by the Common Members on a unanimous basis.  In the event the determination of entitlement to indemnification is to be made by Independent Counsel at the request of the claimant, the Independent Counsel shall be selected by the Lazard Board unless there shall have occurred within two years prior to the date of the commencement of the Proceeding for which indemnification is claimed a Change in Control, in which case the Independent Counsel shall be selected by the claimant unless the claimant shall request that such selection be made by the Lazard Board.  If it is so determined that the claimant is entitled to indemnification, payment to the claimant shall be made within ten (10) days after such determination.
+
+(c)If a claim under Section 9.02(a) is not paid in full by the Company within thirty (30) days after a written claim pursuant to Section 9.02(b) has been received by the Company, the claimant may at any time thereafter bring suit against the Company to recover the unpaid amount of the claim and, if successful in whole or in part, the claimant shall be entitled to be paid also the expense of prosecuting such claim.  It shall be a defense to any such action (other than an action brought to enforce a claim for expenses incurred in defending any Proceeding in advance of its final disposition where the required undertaking, if any is required, has been tendered to the Company) that the claimant has not met the standard of conduct that makes it permissible under the DGCL as the same exists or may hereafter be amended (but, in
+
+ 
+
+ 
+
+39
+
+[[6065250]]
+
+ 
+
+the case of any such amendment, only to the extent that such amendment permits the Company to provide broader indemnification rights than said law permitted the Company to provide prior to such amendment) for the Company to indemnify the claimant for the amount claimed if the Company were a corporation organized under the DGCL, but the burden of proving such defense shall be on the Company.  Neither the failure of the Company (including the Lazard Board, Independent Counsel or Common Members) to have made a determination prior to the commencement of such action that indemnification of the claimant is proper in the circumstances because he or she has met the applicable standard of conduct set forth in the DGCL, nor an actual determination by the Company (including its Lazard Board, Independent Counsel or Common Members) that the claimant has not met such applicable standard of conduct, shall be a defense to the action or create a presumption that the claimant has not met the applicable standard of conduct.
+
+(d)If a determination shall have been made pursuant to Section 9.02(b) that the claimant is entitled to indemnification, the Company shall be bound by such determination in any judicial proceeding commenced pursuant to Section 9.02(c).
+
+(e)The Company shall be precluded from asserting in any judicial proceeding commenced pursuant to Section 9.02(c) that the procedures and presumptions of this Section 9.02 are not valid, binding and enforceable and shall stipulate in such proceeding that the Company is bound by all the provisions of this Section 9.02.
+
+(f)No amendment or other modification of this Section 9.02 or Section 9.03 shall in any way diminish or adversely affect the rights of any Director, officer, employee or agent of the Company hereunder in respect of any occurrence or matter arising prior to any such repeal or modification.
+
+(g)The Company may, to the extent authorized from time to time by the Lazard Board, grant rights to indemnification, and rights to be paid by the Company the expenses incurred in defending any Proceeding in advance of its final disposition, to any employee or agent of the Company to the fullest extent of the provisions of this Section 9.02 with respect to the indemnification and advancement of expenses of Directors and officers of the Company.
+
+(h)If any provision or provisions of this Section 9.02 shall be held to be invalid, illegal or unenforceable for any reason whatsoever: (i) the validity, legality and enforceability of the remaining provisions of this Section 9.02 (including each portion of any subsection of this Section 9.02 containing any such provision held to be invalid, illegal or unenforceable, that is not itself held to be invalid, illegal or unenforceable) shall not in any way be affected or impaired thereby; and (ii) to the fullest extent possible, the provisions of this Section 9.02 (including each such portion of any subsection of this Section 9.02 containing any such provision held to be invalid, illegal or unenforceable) shall be construed so as to give effect to the intent manifested by the provision held invalid, illegal or unenforceable.
+
+ 
+
+ 
+
+40
+
+[[6065250]]
+
+ 
+
+(i)For purposes of this Article IX:
+
+(i)“Disinterested Director” means a Director of the Company who is not and was not a party to the matter in respect of which indemnification is sought by the claimant.
+
+(ii)“Independent Counsel” means a law firm, a member of a law firm, or an independent practitioner, that is experienced in matters of corporation law and shall include any person who, under the applicable standards of professional conduct then prevailing, would not have a conflict of interest in representing either the Company or the claimant in an action to determine the claimant’s rights under this Section 9.02.
+
+(j)Any notice, request or other communication required or permitted to be given to the Company under this Section 9.02 shall be in writing and either delivered in person or sent by telecopy, telex, telegram, overnight mail or courier service, or certified or registered mail, postage prepaid, return receipt requested, to the General Counsel of the Company and shall be effective only upon receipt by the General Counsel.
+
+SECTION 9.03.Non-Exclusivity of Rights.  The right to indemnification and the payment of expenses incurred in defending a Proceeding in advance of its final disposition conferred in this Article IX shall not be exclusive of any other right which any person may have or hereafter acquire under any statute, provision of this Agreement, agreement, vote of the Common Members or Disinterested Directors or otherwise.
+
+SECTION 9.04.Insurance.  The Company may maintain insurance, at its expense, to protect itself and any Director, officer, employee or agent of the Company or another corporation, partnership, joint venture, trust or other enterprise against any expense, liability or loss, whether or not the Company would have the power to indemnify such person against such expense, liability or loss under the DGCL if the Company were a corporation organized under the DGCL.
+
+SECTION 9.05.Survival.  This Article IX shall survive any termination of this Agreement.
+
+ARTICLE X
+
+MISCELLANEOUS
+
+SECTION 10.01.Use of Firm Name.  The right to use the firm name, Lazard Group LLC, shall belong to the Company.
+
+SECTION 10.02.Amendments.  Except as provided in Section 1.03, this Agreement may not be amended except with (and any such amendment shall be authorized upon obtaining) the approval of the Lazard Board and the Managing Members; provided, however, that the Lazard Board may authorize, without further approval of another person or group, (a) any amendment to this Agreement to correct any technicality, incorrect statement or error apparent on the face hereof in order to further the intent of the parties hereto or (b) a correction
+
+ 
+
+ 
+
+41
+
+[[6065250]]
+
+ 
+
+of any formality or error apparent on the face hereof or incorrect statement or defect in the execution hereof.  Any merger or consolidation of the Company with any third party that shall amend or otherwise modify the terms of this Agreement shall require the approval of the persons referred to above to the extent the approval of such persons would have been required had such amendment or modification been effected by an amendment to this Agreement.  For the avoidance of doubt and notwithstanding any provision of this Agreement, any PIPR Agreement, Lazard Ltd’s 2018 Incentive Compensation Plan (as amended from time to time, or any successor equity plan thereto) or otherwise, in no event shall any Profit Participation Member or PIPR Member have any right to notice, consultation, consent or other approval rights with respect to any amendment to this Agreement.  
+
+SECTION 10.03.Benefits of Agreement.  Except as provided in Article IX, none of the provisions of this Agreement shall be for the benefit of or enforceable by any creditor of the Company or by any creditor of any of the Members.  Except as provided in Article IX, nothing in this Agreement shall be deemed to create any right in any person not a party hereto, and this instrument shall not be construed in any respect to be a contract in whole or in part for the benefit of any third person.  Without limiting the generality of the foregoing, except as provided in Article IX, no person not a party hereto shall have any right to compel performance by a manager of its obligations hereunder.
+
+SECTION 10.04.Waiver of Notice.  Whenever any notice is required to be given to any Member or Director under the provisions of the Act or this Agreement, a waiver thereof in writing, signed by the person or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice.  Neither the business to be transacted at, nor the purpose of, any meeting of the Members (if any shall be called) or the Lazard Board or committee thereof need be specified in any waiver of notice of such meeting.
+
+SECTION 10.05.Arbitration.  (a) All disputes, controversies and claims arising out of or relating to the Company’s affairs, the rights or interests of the Members or the estate of any deceased Member (to the extent that they are related to any of the foregoing) (“Disputes”), whether arising during or after the Company’s term or liquidation, shall be determined in accordance with this Section 10.05.
+
+(b)All Disputes shall first be reviewed by the Chief Executive Officer (“Executive Review”).  Any party to a Dispute may invoke Executive Review by written notice to the other party or parties thereto and the Chief Executive Officer.  As soon as practicable and in any event within thirty (30) days after receipt of notice of a Dispute, the Chief Executive Officer shall attempt in good faith to resolve such Dispute.  In the event that any Dispute remains unresolved forty-five (45) days after notice thereof to the Chief Executive Officer, such Dispute shall be finally determined by an arbitral tribunal under the Rules of Arbitration (the “ICC Rules”) of the International Chamber of Commerce (the “ICC”) and in accordance with Section 10.05(c).
+
+(c)The arbitral tribunal determining any Dispute shall be comprised of three arbitrators.  Each party to a Dispute shall designate one arbitrator.  If a party fails to designate an
+
+ 
+
+ 
+
+42
+
+[[6065250]]
+
+ 
+
+arbitrator within a reasonable period, the ICC shall designate an arbitrator for such party, including upon a request by another party.  The two arbitrators designated by the parties to a Dispute (or, if applicable, the ICC) shall designate a third arbitrator.  In the event that the two arbitrators designated by the parties to a Dispute (or, if applicable, the ICC) are unable to agree upon a third arbitrator within a reasonable period, the third arbitrator shall be selected in accordance with the ICC Rules by the ICC.  The language, place and procedures of the arbitration of any Dispute shall be as agreed upon by the parties to such Dispute or, failing such agreement within a reasonable period, as determined in accordance with the ICC Rules in order to ensure a speedy, efficient and just resolution of such Dispute.  If neither the parties nor the arbitral tribunal can agree upon procedures, the arbitration shall be conducted in accordance with the ICC’s procedures.  The hearings and taking of evidence of any Dispute may be conducted at any locations that will, in the judgment of the arbitral tribunal, result in a speedy, efficient and just resolution of such Dispute.  The parties to any dispute shall use their best efforts to cooperate with each other and the arbitral tribunal in order to obtain a resolution as quickly as possible, including by adopting the ICC’s “fast-track” procedure (as provided for in Article 32(1) of the ICC Rules) if appropriate.
+
+(d)Notwithstanding any provision of this Agreement to the contrary, this Section 10.05 shall be construed to the maximum extent possible to comply with the laws of the State of Delaware, including the Uniform Arbitration Act (10 Del. C. § 5701 et seq .) (the “Delaware Arbitration Act”).  If, nevertheless, it shall be determined by a court of competent jurisdiction that any provision or wording of this Section 10.05, including the ICC Rules, shall be invalid or unenforceable under the Delaware Arbitration Act or other applicable law, such invalidity shall not invalidate all of this Section 10.05.  In that case, this Section 10.05 shall be construed so as to limit any term or provision so as to make it valid or enforceable within the requirements of the Delaware Arbitration Act or other applicable law, and, in the event such term or provision cannot be so limited, this Section 10.05 shall be construed to omit such invalid or unenforceable provision.
+
+SECTION 10.06.Successors and Assigns.  This Agreement shall be binding upon and shall inure to the benefit of the parties hereto, their respective estates, heirs, legal representatives, successors and permitted assigns, any additional Member admitted in accordance with the provisions hereof and any successor to a trustee of a trust that is or becomes a party hereto.
+
+SECTION 10.07.Confidentiality.  Each Member that is not a controlled Affiliate of Lazard Ltd expressly agrees, whether or not at the time a Member of the Company or providing services to the Company or any of its Subsidiaries, to maintain the confidentiality of, and not disclose to any person other than the Company, its officers or any financial, legal or other advisor to the Company, any information relating to the business, clients, affairs or financial structure, position or results of the Company or its affiliates (including any Affiliate) or any Dispute that shall not be generally known to the public or the securities industry; provided that such Member may disclose any such information (a) to the extent required by any applicable law, rule or regulation in the opinion of counsel or by the order of any securities exchange, banking supervisory authority or other governmental or self-regulatory organization of competent jurisdiction (provided that such Member notifies the Company of such requirement
+
+ 
+
+ 
+
+43
+
+[[6065250]]
+
+ 
+
+prior to making such disclosure and cooperates with the Company in seeking to prevent or minimize such disclosure), (b) to his or its legal counsel and financial advisers (who shall agree to abide by the terms of this Section 10.07), or (c) with the prior written consent of the Company.
+
+SECTION 10.08.Notices.  Except as provided in Section 3.02(d), all notices and other communications required or permitted by this Agreement shall be made in writing and any such notice or communication shall be deemed delivered when delivered in person, properly transmitted by telecopier or one business day after it has been sent by an internationally recognized overnight courier to the address for notices shown in the Company’s records (or any other address provided to the Company in writing for this purpose) or, if given to the Company, to the principal place of business of the Company in New York, New York.  Communications by telecopier also shall be sent concurrently by overnight courier, but shall in any event be effective as stated above.  Each Member and Director may from time to time change its address for notices under this Section 10.08 by giving at least five (5) days’ prior written notice of such changed address to the Company.
+
+SECTION 10.09.No Waiver of Rights.  No failure or delay on the part of any Member in the exercise of any power or right hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such power or right preclude any other or further exercise thereof or of any other right or power.  The waiver by any Member, Managing Member or Director of a breach of any provision of this Agreement shall not operate or be construed as a waiver of any other or subsequent breach hereunder.  All rights and remedies existing under this Agreement are cumulative and are not exclusive of any rights or remedies otherwise available.
+
+SECTION 10.10.Power of Attorney.  Each Member agrees that, by its execution of this Agreement, such Member irrevocably constitutes and appoints the Chief Executive Officer and the General Counsel, each acting alone, as its true and lawful attorney-in-fact coupled with an interest, with full power and authority, in its name, place and stead to make, execute, acknowledge and record (a) all certificates, instruments or documents, including fictitious name or assumed name certificates, as may be required by, or may be appropriate under, the laws of any state or jurisdiction in which the Company is doing or intends to do business and (b) all agreements, documents, certificates or other instruments amending this Agreement or the Certificate of Formation that may be necessary or appropriate to reflect or accomplish (i) a change in the name or location of the principal place of business of the Company or a change of name or address of a Member, (ii) the disposal or increase by a Member of his Interest in the Company or any part thereof, (iii) a distribution and reduction of the capital contribution of a Member or any other changes in the capital of the Company, (iv) the dissolution or termination of the Company, (v) the addition or substitution of a person becoming a Member of the Company and (vi) any amendment to this Agreement, in each case only to the extent expressly authorized and conducted in accordance with the preceding sections of this Agreement.  The power granted hereby is coupled with an interest and shall survive the subsequent disability or incapacity of the principal.
+
+ 
+
+ 
+
+44
+
+[[6065250]]
+
+ 
+
+SECTION 10.11.Severability.  If any one or more of the provisions contained in this Agreement shall be invalid, illegal or unenforceable in any respect under any applicable law, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired.
+
+SECTION 10.12.Headings.  The Article, Section and other headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+
+SECTION 10.13.Entire Agreement.  This Agreement amends and restates in its entirety the Company’s prior operating agreement.  This Agreement, including the exhibits, annexes and schedules hereto and the Acknowledgements, constitutes the entire agreement among the parties hereto and supersedes all prior agreements and understandings, both written and oral, between the parties with respect to the subject matter hereof and thereof.
+
+SECTION 10.14.Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflicts of law principles.
+
+SECTION 10.15.Counterparts.  This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement.
+
+SECTION 10.16.Effectiveness.  This Agreement shall be effective immediately upon execution hereof.
+
+SECTION 10.17.Corporate Opportunity; Fiduciary Duty.  (a) To the greatest extent permitted by law, none of Lazard Ltd, any Affiliate of Lazard Ltd (each such Affiliate of Lazard Ltd, a “Lazard Ltd Affiliate”) and none of their respective officers, directors, employees or agents shall owe any fiduciary duty to, nor shall any of Lazard Ltd or any Lazard Ltd Affiliate be liable for breach of fiduciary duty to, the Company, any Subsidiary of the Company or any other holder of Interests or Affiliate of such holder (or any of their respective officers, directors, employees or agents).  To the greatest extent permitted by law, in taking any action, making any decision or exercising any discretion with respect to the Company, each of Lazard Ltd and each Lazard Ltd Affiliate shall be entitled to consider such interests and factors as it desires, including its own interests and those of other Lazard Ltd Affiliates, and shall have no duty or obligation (i) to give any consideration to the interests of or factors affecting the Company, the holders of Interests or any other person or (ii) to abstain from participating in any vote or other action of the Company or any Affiliate thereof, the Lazard Board or any committee or similar body of any of the foregoing.  Lazard Ltd and any Lazard Ltd Affiliate (and their respective officers, directors, employees or agents) shall not violate a duty or obligation to the Company merely because such person’s conduct furthers such person’s own interest.  Such persons may lend money to and transact other business with the Company.  The rights and obligations of any such person who lends money to, contracts with, borrows from or transacts business with the Company are the same as those of a person who is not involved with the Company, subject to other applicable law.  To the greatest extent permitted by law, no transaction with the Company shall be voidable solely because any such person has a direct or indirect interest in the transaction.  Nothing herein contained shall prevent any such person from conducting any other business, including serving
+
+ 
+
+ 
+
+45
+
+[[6065250]]
+
+ 
+
+as an officer, director, employee, or stockholder of any corporation, a trustee of any trust, an executor or administrator of any estate, or an administrative official of any other business or not-for-profit entity, or from receiving any compensation in connection therewith.
+
+(b)Neither the alteration, amendment, termination, expiration or repeal of this Section 10.17 nor the adoption of any provision of this Agreement inconsistent with this Section 10.17 shall eliminate or reduce the effect of this Section 10.17 in respect of any matter occurring, or any cause of action, suit or claim that, but for this Section 10.17, would accrue or arise, prior to such alteration, amendment, termination, expiration, repeal or adoption.
+
+SECTION 10.18.PIPR Agreement Conflicts.  Except as otherwise provided in Section 7.03(b) or Section 10.02, in the event of any conflict between the terms of this Agreement relating to PIPR Units and any applicable PIPR Agreement, the relevant terms of the PIPR Agreement shall take precedence.
+
+ 
+
+ 
+
+46
+
+[[6065250]]
+
+ 
+
+IN WITNESS WHEREOF, the undersigned, acting pursuant to the resolutions of the Lazard Board, has duly executed this Agreement to reflect approval by the Lazard Board as of the date first above written.
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/    Mary Ann Betsch
+
+ 
+
+ 
+
+Name: Mary Ann Betsch
+
+ 
+
+ 
+
+Title: Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+47
+
+[[6065250]]
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the undersigned, acting pursuant to the resolutions of the Lazard Ltd Board, has duly executed this Agreement to reflect approval by the Lazard Ltd Board as of the date first above written.
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/    Mary Ann Betsch
+
+ 
+
+ 
+
+Name: Mary Ann Betsch
+
+ 
+
+ 
+
+Title: Chief Financial Officer
+
+ 
+
+
+
+ 
+
+ 
+
+48
+
+[[6065250]]
+
+ 
+
+IN WITNESS WHEREOF, the Managing Members have duly executed this Agreement as of the date first above written.
+
+ 
+
+ 
+
+LAZARD LTD SUB A,
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/    Mary Ann Betsch
+
+ 
+
+ 
+
+Name: Mary Ann Betsch
+
+ 
+
+ 
+
+Title: Chief Financial Officer
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/   Francois Funck-Brentano
+
+ 
+
+ 
+
+Name: Francois Funck-Brentano
+
+ 
+
+ 
+
+Title: Class A Manager
+
+ 
+
+ 
+
+LAZARD LTD SUB B,
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/    Mary Ann Betsch
+
+ 
+
+ 
+
+Name: Mary Ann Betsch
+
+ 
+
+ 
+
+Title: Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+49
+
+[[6065250]]

@@ -1,0 +1,896 @@
+EX-10.10 7 usb_pfloatdocumentcustodya.htm EX-10.10
+
+DOCUMENT CUSTODY AGREEMENT
+PROSPECT FLOATING RATE AND ALTERNATIVE INCOME FUND, INC.
+Company
+
+and
+
+U.S. BANK NATIONAL ASSOCIATION
+Document Custodian
+
+Dated
+
+September 21, 2023
+TABLE OF CONTENTS
+
+Section 1. Certain Definitions 1
+
+Section 2. Appointment of the Document Custodian 4
+
+Section 3. Delivery of Collateral Files 5
+
+Section 4. Release of Collateral Files 5
+
+Section 5. Further Obligations of the Document Custodian 6
+
+Section 6. Proper Instructions 6
+
+Section 7. Transmission of Collateral Files 7
+
+Section 8. Fees of the Document Custodian 8
+
+Section 9. Resignation or Removal of Document Custodian;
+Termination of Agreement 8
+
+Section 10. Representations 9
+
+Section 11. Notices 10
+
+Section 12. Concerning the Document Custodian 10
+
+Section 13. Force Majeure 13
+
+Section 14. Indemnification 13
+
+Section 15. Amendments 13
+
+Section 16. Effective Waiver 14
+
+Section 17. Severability 14
+
+Section 18. Binding Effect; Governing Law 14
+
+Section 19. Successors and Assigns; Third Party Benefit 14
+
+Section 20. Entire Agreement; Counterparts 14
+
+Section 21. Other Business 15
+
+Section 22. Reproduction of Documents 15
+
+Section 23. Confidentiality 15
+
+Section 24. Actions Necessary to Preserve Rights under Collateral
+Documents 15
+
+Section 25. SUBMISSION TO JURISDICTION; WAIVERS 15
+
+Section 26. Compliance with Applicable Law 16
+SCHEDULE I RECOMMENDED DATA FILE CRITERIA
+EXHIBIT A AUTHORIZED REPRESENTATIVES
+
+EXHIBIT B FORM OF REQUEST FOR RELEASE
+DOCUMENT CUSTODY AGREEMENT
+
+This DOCUMENT CUSTODY AGREEMENT is made and entered into as of September 21, 2023 by and between PROSPECT FLOATING RATE
+AND ALTERNATIVE INCOME FUND, INC. (the “Company”), a corporation organized under the laws of the State of Maryland, and U.S. Bank National
+Association, a national banking association, organized under the laws of the United States, as document custodian (the “Document Custodian”).
+
+ 
+
+WHEREAS, the Company is a closed-end management investment company that has elected to be regulated as a business development company
+under the Investment Company Act of 1940, as amended (the “1940 Act”);
+
+WHEREAS, each of the Company and its subsidiaries (each a “Subsidiary” and together, the “Subsidiaries”) is and from time to time may become
+the owner of certain assets (the “Collateral’”);
+
+WHEREAS, the Company desires to retain U.S. Bank National Association to act as document custodian for the Company and each Subsidiary
+identified to the Custodian;
+
+WHEREAS, the Company desires to have the Document Custodian take possession of certain documents relating to such Collateral as specified
+herein, as the document custodian for the Company in accordance with the terms and conditions of this Agreement; and
+
+WHEREAS, the Document Custodian has agreed to act as document custodian for the Company, on the terms and conditions hereof;
+
+NOW, THEREFORE, the parties to this Agreement hereby agree as follows:
+
+Section 1. Certain Definitions. (a) The words “herein,” “hereof” and “hereunder” and other words of similar import refer to this Agreement as a
+whole and not to any particular Section or other subdivision; and Section references refer to Sections of this Agreement. For the purposes of this Agreement,
+the following terms shall have the indicated meanings unless the context or use indicates another or different meaning and intent, and the definitions of such
+terms are equally applicable to the singular and the plural forms of such terms.
+
+“1940 Act” has the meaning set forth in the preamble.
+
+“Agreement” means this Document Custody Agreement and the schedules and Exhibits hereto, as supplemented or amended from time to time.
+
+ 
+
+“Authorized Representative” has the meaning set forth in Section 6(b).
+
+“Business Day” means any day other than (i) a Saturday or Sunday, (ii) any day that is a legal holiday under the laws of the State of New York, or
+the city or state in which the Document Custodian’s offices are located or (iii) any day on which commercial banks in the State of New York, York or the
+city or state in which the Document Custodian’s offices are located are closed or authorized or permitted to close.
+“Collateral” has the meaning set forth in the preamble hereto.
+
+“Collateral Documents” means, with respect to any Collateral, the documents comprising the Collateral File for such Collateral received by the
+Document Custodian pursuant to this Agreement. With respect to the Collateral, the Document Custodian shall receive, originals or where indicated, copies
+(including electronic copies) of the following documents or instruments, all as specified on the related Collateral Schedule and the related document
+
+checklist:
+
+other than in the case of a noted loan,
+
+(A) the original or, if accompanied by an original “lost note” affidavit and indemnity, a copy of, the underlying promissory note,
+endorsed by the Company (that may be in the form of an allonge or note power attached thereto) as required under the related
+underlying instruments (and evidencing an unbroken chain of endorsements from each prior holder thereof evidenced in the chain of
+endorsements;
+
+(B) a copy of each transfer document or instrument relating to such Collateral (including, until the settlement date specified therein
+and as applicable, a commercially standard loan trade ticket that obligates the Company to settle the purchase of such Collateral on a
+specific date) evidencing the assignment of such Collateral to the Company, or
+
+in the case of a noteless loan,
+
+(A) a copy of each transfer document or instrument relating to such noteless loan evidencing the assignment of such noteless loan to
+the Company;
+
+(B) originals or copies (including electronic copies) of each of the following:
+
+(1) to the extent applicable to the related loan; any related loan agreement, credit agreement, security agreement,
+subordination agreement and intercreditor agreement or similar instruments, and
+
+(2) to the extent applicable to the related loan and only to the extent such document is in the possession of the Company, any
+note purchase agreement, sale and servicing or collateral management agreement, acquisition agreement, guarantee, insurance
+policy, assumption or substitution agreement or similar material operative document, in each case together with any
+amendment or modification thereto, as set forth on the Collateral Schedule and document checklist.
+
+Any statement clarified by “if any” or “if applicable” shall only refer to whether or not such item is present in the Collateral File when delivered to the
+Document Custodian. The Document Custodian shall have no duty or obligation to determine if such item should have been included.
+“Collateral File” means a file delivered to the Document Custodian by the Company (on behalf of itself or any Subsidiary) pursuant to Section 3,
+containing the Collateral Documents relating to the Collateral, as set forth on the Collateral Schedule delivered to the Document Custodian.
+
+“Collateral Schedule” means a listing of Collateral Files in computer readable standardized text formats, delivered or caused to be delivered by the
+Company to the Document Custodian, incorporating the fields listed on Schedule I hereto and such other information and fields as may be mutually agreed
+upon by the Company and the Document Custodian and in a form satisfactory to the Company and the Document Custodian.
+
+“Confidential Information” means any databases, computer programs, screen formats, screen designs, report formats, interactive design techniques
+and other similar or related information that may be furnished to the Company by the Document Custodian from time to time pursuant to this Agreement.
+
+“Delivery of Collateral Files” means actual receipt by the Document Custodian at its designated office of the (i) Collateral Files and (ii) Collateral
+Schedule relating to such Collateral Files.
+
+“Officer’s Certificate” means a certificate signed by an officer (authorized to sign an Officer’s Certificate) of Company or other Person (on behalf of
+the Company) submitting a Collateral File to the Document Custodian or otherwise delivered an Officer’s Certificate to the Document Custodian pursuant
+to this Agreement.
+
+“Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint stock company, trust (including
+any beneficiary thereof), unincorporated organization or government or any agency or political subdivision thereof.
+
+“Proper Instructions” means the meaning set forth in Section 6(a).
+
+“Request for Release” means a request for release of any Collateral File, which request shall be either (i) delivered to the Document Custodian
+substantially in the form of Exhibit B or (ii) as otherwise agreed to between the Document Custodian and the Company.
+
+ 
+
+’’ means, with respect to the Document Custodian, any officer, including any managing director, principal, vice president,
+assistant vice president, assistant treasurer, assistant secretary, trust officer or any other officer of the Document Custodian customarily performing functions
+similar to those performed by any of the above designated officers, and also, with respect to a particular matter, any other officer to whom such matter is
+referred because of such officer’s knowledge of and familiarity with the particular subject, in each case, having direct responsibility for the administration
+of this Agreement.
+
+“Subsidiary” has the meaning set forth in the preamble.
+(b) In this Agreement unless the contrary intention appears:
+vii.
+
+any reference to this Agreement or another agreement or instrument refers to such agreement or instrument as the same may be
+amended, modified or otherwise rewritten from time to time;
+
+a reference to a statute, ordinance, code or other law includes regulations and other instruments under it and consolidations,
+amendments, re-enactments or replacements of any of them;
+
+any term defined in the singular form may be used in, and shall include, the plural with the same meaning, and vice versa;
+
+a reference to a Person includes a reference to the Person’s executors, custodians, successors and permitted assigns;
+
+an agreement, representation or warranty in favor of two or more Persons is for the benefit of them jointly and severally;
+
+an agreement, representation or warranty on the part of two or more Persons binds them jointly and severally; and
+
+any reference to “execute”, “executed”, “sign”, “signed”, “signature” or any other like term hereunder shall include execution by
+electronic signature (including, without limitation, any .pdf file, .jpeg file, or any other electronic or image file, or any “electronic
+signature” as defined under the U.S. Electronic Signatures in Global and National Commerce Act (“E-SIGN”) or the New York
+Electronic Signatures and Records Act (““ESRA”), which includes any electronic signature provided by Adobe Fill & Sign, Adobe
+Sign, DocuSign, or any other similar platform identified by the Company and reasonably available at no undue burden or expense to
+the Document Custodian), except to the extent the Document Custodian requests otherwise. Any such electronic signatures shall be
+valid, effective and legally binding as if such electronic signatures were handwritten signatures and shall be deemed to have been
+duly and validly delivered for all purposes hereunder
+
+(c) Headings are inserted for convenience and do not affect the interpretation of this Agreement
+
+Section 2. Appointment of the Document Custodian. The Company hereby appoints the Document Custodian, and the Document Custodian
+hereby accepts its appointment, to act as the document custodian for the Company and each Subsidiary, to provide the services set forth in this Agreement,
+upon the terms and conditions set forth in this Agreement.
+
+The Document Custodian acknowledges and agrees that it will hold possession of all Collateral Files delivered to it in accordance with this
+Agreement for the benefit of the Company or any Subsidiary, as applicable.
+
+Section 3. Delivery of Collateral Files.
+
+A. The Company (on behalf of itself or any Subsidiary) shall from time to time deliver or cause to be delivered Collateral Files, including each of the
+related Collateral Documents, to the Document Custodian to be held hereunder. With respect to each Delivery of Collateral Files, the Company shall
+provide or cause to be provided a related Collateral Schedule (in a form acceptable to the Company and the Document Custodian) to the Document
+Custodian with respect to such Collateral Files that are being delivered.
+. In receiving any Collateral Files hereunder, and in maintaining any listing or providing any report or communication with respect to the Collateral
+Files or Collateral Documents held hereunder, the Document Custodian shall have no obligation to review or monitor any Collateral Files or
+Collateral Documents but shall only be required to hold those Collateral Files or other Collateral Documents received by it in accordance with this
+Agreement.
+
+. The Document Custodian shall not be under any duty to review, inspect, examine or certify the Collateral Files or related Collateral Documents; and
+without limiting the foregoing, the Document Custodian shall be entitled to assume the genuineness of each such document and the genuineness and
+due authority of any signatures appearing thereon, shall be entitled to assume that each such document is what it purports to be. The Document
+Custodian shall have no liability for or obligation with respect to, and shall not be construed or obliged to make any representation or warranty as to:
+(i) the validity, sufficiency, marketability, genuineness, value, contents or enforceability of any Collateral Document; (ii) the validity, adequacy or
+perfection of any lien upon or security interest purported to be evidenced or created thereby; or (iii) to determine that the contents of any Collateral
+Document are appropriate for the represented purpose or that any Collateral Document has actually been recorded or filed, as maybe applicable, or
+that any Collateral Document is other than what it purports on its face to be.
+
+. With respect to each Subsidiary, such Collateral Files shall be held in safekeeping by the Document Custodian, individually segregated and marked
+so as to clearly identify them as the property of such Subsidiary as set forth in this Agreement.
+
+. The parties hereto agree that (i) any Subsidiary shall have the same rights and obligations as the Company under this Agreement and (ii) the
+Company shall notify the Document Custodian in writing as to the establishment of any Subsidiary as to which the Company requests that the
+Document Custodian provide services hereunder on behalf of the Subsidiary and request that the Document Custodian execute a Joinder
+substantially in the form as attached as Exhibit C with respect to such Subsidiary.
+
+Section 4. Release of Collateral Files.
+
+a. In the event that any Collateral File is needed by the Company for the purpose of correction of errors therein or for one of the other purposes
+set forth in a Request for Release, the Company shall send to the Document Custodian a Request for Release. The Document Custodian shall
+release such Collateral Files within three (3) Business Days of its receipt of such completed Request for Release. Any request for release by
+the Company (on behalf of itself or any Subsidiary) shall be in the form of the Request for Release.
+
+b. The Company is authorized to transmit and the Document Custodian is authorized to accept signed facsimile or email copies of Requests for
+Release submitted in the form attached hereto as Exhibit B (or as otherwise agreed between the Document Custodian and the Company).
+
+Section 5. Further Obligations of the Document Custodian.
+a.
+
+Maintenance of Facility. The Document Custodian shall segregate and identify the Collateral Files on its automated data system and maintain
+custody of all Collateral Files received by it in secure and fire resistant facilities, all in accordance with customary standards for such
+custody.
+
+Insurance. The Document Custodian shall, at its own expense, maintain at all times during the existence of this Agreement and keep in full
+force and effect insurance in amounts, with standard coverage and subject to deductibles, all as customary for insurance typically maintained
+by banks that act as document custodian. Upon written request from the Company, the Document Custodian shall provide evidence (which
+evidence may be in the form of a certificate of the respective insurer) that such insurance is in full force and effect.
+
+Examination. The Document Custodian shall upon not less than three (3) Business Days prior written notice permit (a) inspection during
+regular business hours of the Document Custodian (and subject to its usual charges for such access) by the Company (or by its auditors or
+agents when requested by the Company) of the Collateral Files, at such place or places where the related Collateral Files are deposited, and
+(b) the Company (or its auditors or agents when requested by the Company) to make copies of the Collateral Files. The Company shall be
+responsible for any expenses in connection with such inspection and copying. Any such inspection and copying shall be subject to the
+procedures of the Document Custodian. In addition, and not in limitation of the foregoing, the Company shall indemnify and hold the
+Document Custodian harmless from all claims, costs, expenses, losses and damages incurred by the Document Custodian as a result of the
+damage, loss or misplacement of any Collateral Files or Collateral Documents or other papers contained in the Collateral Files while in the
+possession of the Company (or its auditors or agents).
+
+Section 6. Proper Instructions.
+
+a.
+
+Any instruction or direction received by the Document Custodian in form acceptable to it from the Company (on behalf of itself or any
+Subsidiary) shall be (i) in writing and executed by an Authorized Representative and delivered in accordance with Section 11, (ii) by
+electronic mail (or other electronic transmissions) from an Authorized Representative or (iii) such other means as may be agreed upon from
+time to time by the Document Custodian. The Document Custodian and the Company may agree from time to time to accept other forms of
+instruction or direction. Any such instruction or direction delivered pursuant to this Section 6(a) shall be considered “Proper Instructions.”
+Any of the persons whose signatures and titles appear on Exhibit A (an “Authorized Representative”) are authorized, acting singly, to act for
+the Company (on behalf of itself or any Subsidiary) under this Agreement. The specimen signature for each such Authorized Representative
+of the Company initially authorized hereunder is set forth on Exhibit A. From time to time, the Company may, by delivering to the other a
+revised exhibit, change the information previously given, but the Document Custodian shall be entitled to rely conclusively on the then
+current Exhibit until receipt of a superseding exhibit. Any electronically signed document delivered via electronic mail from a person
+purporting to be an Authorized Representative shall be considered signed or executed by such Authorized Representative on behalf of the
+applicable Person.
+The Document Custodian shall have no duty to inquire into or investigate the authenticity or authorization of any such electronic signature
+and shall be entitled to conclusively rely on any such electronic signature without any liability with respect thereto.
+
+c. The Document Custodian shall have no obligation to act in accordance with purported instructions to the extent that they conflict with
+applicable law or regulations. The Document Custodian shall not be liable for any loss resulting from a delay while it obtains clarification of
+any Proper Instructions.
+
+d. If, in performing its duties under this Agreement, the Document Custodian is required to decide between alternative courses of action, the
+Document Custodian may (but shall not be obliged to) request written instructions (or, in its sole discretion, oral instructions followed by
+written confirmation thereof) from the Company as to the course of action desired by it, upon which the Document Custodian shall be
+entitled to conclusively rely. If the Document Custodian does not receive such instructions within two (2) Business Days after it has
+requested them, the Document Custodian may, but shall be under no duty to, take or refrain from taking any such courses of action. The
+Document Custodian shall act in accordance with instructions received from the Company in response to such request after such two
+Business Day period except to the extent it has already taken, or committed itself to take, action inconsistent with such instructions.
+
+Section 7. Transmission of Collateral Files. Prior to any shipment of any Collateral Files or Collateral Documents hereunder pursuant to the
+request of the Company (on behalf of itself or any Subsidiary), the Company shall deliver to the Document Custodian written instructions as to the method
+of shipment and shipper(s) the Document Custodian is to utilize in connection with the transmission of Collateral Files or Collateral Documents in the
+performance of the Document Custodian’s duties hereunder (which instruction shall include, if requested by the Document Custodian, billing account
+numbers maintained by the Customer with such shipper(s) to allow for direct billing of the related charges to the Company). The Company shall arrange for
+the provision of such services at its sole cost and expense (or, at the Document Custodian’s option, reimburse the Document Custodian for all costs and
+expenses incurred by the Document Custodian consistent with such instructions) and will maintain such insurance against loss or damage to Collateral Files
+or other loan documents as the Company deems appropriate.
+
+Notwithstanding the foregoing, it is hereby expressly agreed that in the absence of express written instruction from the Company pursuant to the
+preceding terms, shipment may be made by the Document Custodian in any instance by means of any recognized overnight delivery or shipping service (it
+being hereby expressly acknowledged that United Parcel Service is one such recognized service, without implied limitation). All costs and risks of shipment
+shall be borne by the Company, and it is hereby expressly agreed that in no event shall the Document Custodian have any liability for any losses or damages
+to any Person, arising out of actions of the Document Custodian consistent with the instructions of the Company (on behalf of itself or a Subsidiary). Any
+costs of shipment that may be incurred or paid by the Document Custodian from time to time may be billed by the Document Custodian to the Company on
+a monthly basis and shall be due and payable when billed.
+Section 8. Fees of the Document Custodian. It is understood that the Document Custodian will charge such fees for its services under this
+Agreement as are set forth in a separate agreement (the “Fee Schedule”)[1] between the Document Custodian and the Company, the payment of which,
+together with the Document Custodian’s reasonable expenses (as described below) in connection herewith, shall be solely the obligation of the Company.
+The final form of such Fee Schedule (as amended or modified by the parties) shall be binding upon the parties, whether or not such Fee Schedule has been
+executed by the parties.
+
+The Company agrees to pay or reimburse to the Document Custodian upon its request from time to time, any and all reasonable and documented
+costs, disbursements, expenses and indemnification amounts (including without limitation reasonable and documented fees and expenses of legal counsel,
+agents and experts) paid or incurred by the Document Custodian, in connection with (i) the preparation or execution of this Agreement, (ii) the transactions
+contemplated hereby, (iii) the administration of this Agreement, (iv) the performance by the Document Custodian of its duties and services under this
+Agreement or (v) the enforcement by the Document Custodian of this Agreement and its indemnification rights hereunder, from time to time (including
+without limitation costs and expenses of any legal or other action deemed necessary by the Document Custodian to collect any amounts owing to it under
+this Agreement).
+
+Any such fees, expenses and indemnification amounts payable pursuant to this Section 8 shall be due and payable within thirty (30) days of request
+by the Document Custodian to the Company. If such fees, expenses and indemnification amounts are not paid within 30 days from request by the Document
+Custodian, the Document Custodian may resign effective immediately, and shall ship all Collateral Files (in accordance with Section 7) then held by the
+Document Custodian on behalf of the Company to the Company at its address as provided in Section 11.
+
+The obligations of the Company under this Section 8 and such separate agreement shall survive the termination of this Agreement and the
+resignation or removal of the Document Custodian.
+
+Section 9. Resignation or Removal of Document Custodian; Termination of Agreement.
+
+A. The Document Custodian may terminate its obligations under this Agreement upon sixty (60) days’ prior written notice to the Company. In the event
+of such termination, (i) the Company shall appoint, by written instrument, a successor document custodian and (ii) the Document Custodian,
+promptly upon payment of any unpaid fees, expenses and indemnification amounts due to the Document Custodian, shall transfer to the successor
+document custodian, as directed, all Collateral Files being held by the Document Custodian under this Agreement. The Document Custodian’s sole
+responsibility after the termination of its obligations as aforesaid shall be to safely maintain all of the Collateral Files and to deliver the same to a
+successor document custodian; provided, that if a successor document custodian has not accepted custodial responsibilities within the period set
+forth in the first sentence of this Section 9(a), the Document Custodian may, at the expense of the Company, either (i) deliver all Collateral Files to
+the Company, or (ii) petition any court of competent jurisdiction to name a successor document custodian. The Document Custodian shall not be
+responsible for the fees and expenses of any successor document custodian. Upon delivery of the Collateral Files to any successor document
+custodian or to the Company as provided in this paragraph, all duties and
+obligations of the Document Custodian shall cease and terminate. The payment of all costs and expenses relating to the transfer of the Collateral
+Files (including any shipping costs) upon termination shall be the sole responsibility of the Company.
+
+. The Company may at any time and without cause remove and discharge the Document Custodian from the performance of its duties under this
+Agreement upon at least sixty (60) days’ written notice to from the Company to the Document Custodian. Such removal shall take effect upon (i) the
+appointment of a successor document custodian by the Company, and (ii) delivery of all the Collateral Files to the successor document custodian,
+which delivery shall be subject to, and shall be made promptly after, payment of the Document Custodian’s unpaid fees, expenses and
+indemnification amounts. The payment of such successor document custodian’s fees and expenses and all costs and expenses in connection with
+such transfer shall be the sole responsibility of the Company. If a successor document custodian is not appointed by the Company within the
+aforementioned sixty (60) days, the Document Custodian may, at the expense of the Company, deliver all the Collateral Files to the Company. Upon
+delivery of the Collateral Files to the Company as provided in this paragraph, all duties and obligations of the Document Custodian shall cease and
+terminate. The payment of all costs and expenses relating to the transfer of the Collateral Files (including any shipping costs) upon termination shall
+be the sole responsibility of the Company.
+
+. This Agreement shall terminate on the date on which the Company notifies the Document Custodian in writing that the Agreement is terminated.
+Upon the Document Custodian’s receipt of both such written termination and the payment of any due and unpaid fees, expenses and indemnification
+amounts, the Document Custodian shall, within a reasonable time, deliver any remaining Collateral Files to the Company or its designee, as directed
+by the Company and at the Company’s expense (including any shipping costs).
+
+Section 10. Representations
+
+. The Company hereby represents and warrants to the Document Custodian that it has the power and authority to enter into and perform its obligations
+under this Agreement, and it has duly authorized and executed this Agreement so as to constitute its valid and binding obligation and in giving any
+instructions which purport to be “Proper Instructions” under this Agreement, the Company will act in accordance with the provisions of its
+governing documents and any applicable laws and regulations.
+
+. The Document Custodian hereby represents and warrants to the Company that it has the power and authority to enter into and perform its obligations
+under this Agreement, and it has duly authorized and executed this Agreement so as to constitute its valid and binding obligations.
+
+Section 11. Notices.
+
+. Except as otherwise expressly provided herein, all Proper Instructions, notices or any other communications hereunder shall be in writing and shall
+be sent (i) certified or registered mail, postage prepaid, (ii) recognized courier or delivery service or (iii) facsimile, .pdf transmission or electronic
+mail, to the Company or the Document Custodian at the following address, as applicable (or such other address as either party may designate by
+written notice to the other party):
+Tf to the Company, to:
+
+Prospect Floating Rate and Alternative Income Fund, Inc.
+10 East 40th Street, 42nd Floor
+New York, New York 10016
+Attention: Jonathan Tepper
+Facsimile: 212-448-9652
+
+Email: jtepper@prospectcap.com
+lharrison@prospectcap.com
+pfloat@prospectcap.com
+pacctflex@prospectcap.com
+pl@prospectcap.com
+fax@prospectcap.com
+
+If to the Document Custodian, to:
+
+U.S. Bank National Association
+1719 Otis Way
+
+Florence, South Carolina 29501
+
+Ref: Prospect Flexible Funding, LLC
+Attention: Steven Garrett
+
+Fax No.: (843) 676-8901
+
+Email: steven.garrett@usbank.com
+
+Section 12. Concerning the Document Custodian. The acceptance by the Document Custodian of its appointment hereunder is expressly subject
+to the following terms, which shall govern and apply to each of the terms and provisions of this Agreement (whether or not so stated therein or herein).
+
+A. The Document Custodian shall have no duties, obligations or responsibilities under this Agreement or with respect to the Collateral Files or the
+Collateral Documents except for such duties, obligations or responsibilities as are expressly and specifically set forth in this Agreement as duties
+obligations or responsibilities on its part to be performed, and the duties obligations and responsibilities of the Document Custodian shall be
+determined solely by the express provisions of this Agreement. No implied duties, obligations or responsibilities shall be read into this Agreement
+against, or on the part of, the Document Custodian. Any permissive right of the Document Custodian to take any action hereunder shall not be
+construed as a duty.
+
+B. The Document Custodian makes no representations as to and shall not be responsible for or required to verify (A) the validity, legality,
+enforceability, due authorization, effectiveness, recordability, insurability, sufficiency, value, form, substance, or genuineness of any of the
+documents contained in any Collateral File or (B) the collectability, validity, transferability, insurability, value, effectiveness, perfection, priority or
+suitability of any Collateral File or any document contained therein.
+
+C. The Document Custodian shall have no responsibilities or duties with respect to any Collateral File while such Collateral File is not in its
+possession.
+
+D. The Document Custodian may rely on and shall be protected in acting or refraining from acting upon any written notice, instruction, statement,
+certificate, request, waiver,
+consent, opinion, report, receipt, electronic transmission or other paper or document furnished to it in accordance with this Agreement, not only as to
+its due execution and validity, but also as to the truth and accuracy of any information therein contained, which it in good faith believes to be
+genuine and signed or presented by the proper person (which in the case of any instruction from or on behalf of the Company shall be an Authorized
+Person). The Document Custodian shall be entitled to presume the genuineness and due authority of any signature appearing thereon. The Document
+Custodian shall not be bound to make any independent investigation into the facts or matters stated in any such notice, instruction, statement,
+certificate, request, waiver, consent, opinion, report, receipt or other paper or document, provided, however, that if the form thereof is specifically
+prescribed by the terms of this Agreement, the Document Custodian shall examine the same to determine whether it substantially conforms on its
+face to the requirements set forth herein.
+
+. Neither the Document Custodian nor any of its directors, officers or employees shall be liable to anyone for any error of judgment, or for any act
+done or step taken or omitted to be taken by it (or any of its directors, officers of employees), or for any mistake of fact or law, or for anything which
+it may do or refrain from doing in connection herewith, unless such action or inaction constitutes gross negligence, willful misconduct or bad faith
+of the Document Custodian.
+
+The Document Custodian shall not be liable for any action taken by it in good faith and reasonably believed by it to be within powers conferred
+upon it, or taken by it pursuant to any direction or instruction received by it in accordance with this Agreement, or omitted to be taken by it by
+reason of the lack of direction or instruction required hereby for such action.
+
+. The Document Custodian may consult with, and obtain advice from, legal counsel selected in good faith, with respect to any question as to any of
+the provisions hereof or its duties hereunder, or any matter relating hereto, and the opinion or advice of such counsel shall be full and complete
+authorization and protection in respect of any action taken, suffered, or omitted by the Document Custodian in good faith in accordance with the
+advice or opinion of such counsel. The reasonable costs and expenses of such advice or opinion shall be reimbursed by the Company pursuant to
+Section 8.
+
+. No provision of this Agreement shall require the Document Custodian to expend or risk its own funds, take any action hereunder (or omit to take
+any action) or otherwise incur any financial liability in the performance of its duties under this Agreement if it shall have grounds for believing that
+repayment of such funds or indemnity satisfactory is not assured to it.
+
+The Document Custodian may act or exercise its duties or powers hereunder through agents or attorneys, and the Document Custodian shall not be
+liable or responsible for the actions or omissions of any such agent or attorney appointed with due care.
+
+If the Document Custodian shall request instructions from the Company with respect to any act, action or failure to act in connection with this
+Agreement, the Document Custodian shall be entitled to refrain from taking such action and continue to refrain from acting unless and until the
+Document Custodian shall have received written instructions from the Company without incurring any liability therefor to the Company, or any
+other Person.
+
+. Inno event shall the Document Custodian or its directors, affiliates, officers, agents and employees be held liable for any lost profits or exemplary,
+punitive, special, indirect or consequential damages of any kind (including loss of profits or diminution in value)
+resulting from any action taken or omitted to be taken by it or them hereunder or in connection herewith even if advised of the possibility of such
+damages.
+
+L. The Document Custodian shall not be deemed to have notice of any fact, claim or demand with respect hereto unless actually known by a
+Responsible Officer of the Document Custodian or unless (and then only to the extent received) in writing by the Document Custodian in
+accordance with Section 11 and specifically referencing this Agreement. Any other provision of this Agreement to the contrary notwithstanding, the
+Document Custodian shall have no notice of and shall not be bound by any of the terms and conditions of any other document or agreement unless
+the Document Custodian is a signatory party to that document or agreement.
+
+M. The Document Custodian shall not be responsible for the preparation or filing of any reports or returns relating to federal, state or local income taxes
+with respect to this Agreement, other than in respect of the Document Custodian’s compensation or for reimbursement of expenses; shall be under
+no obligation to verify the authenticity of any signature on any of the documents received or examined by it in connection with this Agreement or
+the authority or capacity of any person to execute or issue such document, except as provided in Section 6 with respect to Authorized.
+Representatives; shall have no duty to ascertain whether or not any cash amount or payment has been received by the Company or any third person
+and shall not be required to perform any cash movement functions in relation to this Agreement; and shall not be required to value or produce a
+report detailing the value of the Collateral Files.
+
+N. Nothing in this Agreement shall be deemed to impose on the Document Custodian any duty to qualify to do business in any jurisdiction, other than
+(i) any jurisdiction where any Collateral File is or may be held by the Document Custodian from time to time hereunder, and (ii) any jurisdiction
+where its ownership of property or conduct of business requires such qualification and where failure to qualify could have a material adverse effect
+on the Document Custodian or its property or business or on the ability of the Document Custodian to perform its duties hereunder.
+
+The provisions of this Section 12 shall survive the termination of this Agreement and the resignation or removal of the Document Custodian.
+
+Section 13. Force Majeure. In no event shall any party hereto be responsible or liable for any failure or delay in the performance of its obligations
+hereunder arising out of or caused by, directly or indirectly, events, circumstances or forces beyond its control, including, without limitation, nationalization,
+expropriation, currency restrictions, the interruption, disruption or suspension of the normal procedures and practices of any securities market, power,
+mechanical, communications or other technological failures or interruptions, computer viruses or the like, loss or malfunctions of utilities, communications
+or computer (software and hardware) services, fires, floods, earthquakes or other natural disasters, civil or military disturbance, acts of war or terrorism,
+riots, revolution, acts of God, work stoppages, strikes, accidents, national disasters of any kind, nuclear or natural catastrophes, pandemics or other similar
+events or acts; errors by the Company (including any Authorized Representative) in its instructions to the Document Custodian; or changes in applicable
+law, regulation or orders.
+
+Section 14. Indemnification. The Company agrees to indemnify and hold harmless the Document Custodian and its respective directors, officers,
+employees, agents, designees, successors and assigns from and against any and all liabilities, obligations, damages, penalties,
+claims, actions, judgments, suits, disbursements, losses, costs and expenses of any kind or nature, including reasonable and documented fees and expenses
+of legal counsel, court costs and costs of appeal arising from or connected with, the Document Custodian’s execution and performance of this Agreement
+and the enforcement of any provision hereunder, its participation in any transaction contemplated hereby, or the relationship between the Document
+Custodian and the Company (including any Subsidiary) created hereby, including but not limited to the claims of any third parties against the Document
+Custodian, except to the extent such loss, liability or expense results from the gross negligence, bad faith, fraud or willful misconduct on the part of the
+Document Custodian.
+
+The foregoing indemnifications shall survive the termination of this Agreement and the resignation or removal of the Document Custodian
+hereunder.
+
+Section 15. Amendments.
+
+(a) No amendment or waiver of any provision of this Agreement and no consent to any departure herefrom shall in any event be effective unless the
+same shall be in writing (including a writing evidenced by a facsimile transmission, PDF or electronic mail) and signed (whether by manual, facsimile, PDF
+or other electronic signature) by the parties hereto. The Document Custodian shall not be required to execute any amendment that adversely affects its
+rights, duties, indemnities or immunities hereunder. However, with respect to any change in review procedure, this Agreement may be amended by mutual
+agreement between the parties hereto in the form of consent via electronic mail. Any such email shall reference this Agreement and shall specify that it is an
+amendment to the review procedures
+
+(b) From time to time, the Company may request that a wholly-owned subsidiary of the Company join in this Agreement and have all of the rights
+and obligations as any other “Subsidiary.” It shall be within the Document Custodian’s sole discretion to agree to such a joinder. The Company agrees to
+cause the Subsidiary to deliver to the Document Custodian a Joinder and such other documentation as the Document Custodian may require. Such Joinder
+shall not be effective until agreed to and executed by the Document Custodian.
+
+Section 16. Effective Waiver. In no instance shall any delay or failure to act be deemed to be or effective as a waiver by any party of any right,
+power or term hereunder, unless and except to the extent such waiver is set forth in an expressly written instrument signed by the party against whom it is to
+be charged.
+
+Section 17. Severability. If any one or more of the provisions contained in this Agreement should be or become invalid, illegal or unenforceable in
+any respect, the validity, legality and enforceability of the remaining provisions contained herein or therein shall in no way be affected, prejudiced or
+disturbed thereby.
+
+Section 18. Binding Effect; Governing Law. This Agreement shall be binding and inure to the benefit of the parties hereto and their respective
+successors and assigns. This Agreement shall be construed in accordance with, and governed by the law of the State of New York, without giving effect to
+the conflict of law principles thereof.
+Section 19. Successors and Assigns; Third Party Benefit.
+
+A. The covenants and agreements set forth herein shall be binding upon and inure to the benefit of each of the parties and their respective
+successors and permitted assigns. Neither party shall be permitted to assign their rights under this Agreement without the written consent of the other
+party.
+
+B. Any Person into which the Document Custodian may be merged or converted or with which it may be consolidated, or any Person resulting
+from any merger, conversion or consolidation to which the Document Custodian shall be a party, or any Person to which all or substantially all of the
+document custody business of the Document Custodian may be sold or otherwise transferred, shall without the execution or filing of any paper or
+further act on the part of any parties hereto become the successor document custodian hereunder (including, without the prior written consent of the
+Company).
+
+C. This Agreement is not intended for, and shall not be construed to be intended for, the benefit of any third parties and may not be relied upon
+or enforced by any third parties (other than successors and permitted assigns pursuant to this Section 19.
+
+Section 20. Entire Agreement; Counterparts. This Agreement, together with the exhibits, schedules and other writings referred to herein or
+delivered pursuant hereto, constitutes the entire agreement and understanding of the parties with respect to the matters and transactions contemplated by this
+Agreement and supersedes any prior agreement and understandings with respect to those matters and transactions. This Agreement may be executed in
+counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute one and the same
+agreement (and by facsimile, electronic mail, .pdf transmission or other electronic transmission, which facsimile, electronic mail, .pdf transmission or other
+electronic transmission signatures shall be considered original executed counterparts).
+
+Section 21. Other Business. Nothing herein shall prevent the Document Custodian or any of its affiliates from engaging in other business, or from
+entering into any other transaction or financial or other relationship with, or receiving fees from or from rendering services of any kind to the Company or
+any other Person. Nothing contained in this Agreement shall constitute the Company and/or the Document Custodian (and/or any other Person) as members
+of any partnership, joint venture, association, syndicate, unincorporated business or similar assignment as a result of or by virtue of the engagement or
+relationship established by this Agreement.
+
+Section 22. Reproduction of Documents. This Agreement and all schedules, exhibits, attachments and amendment hereto may be reproduced by
+any photographic, photostatic, microfilm, micro-card, miniature photographic, facsimile, .pdf, electronic mail or other similar process. The parties hereto
+each agree that any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding, whether or not the
+original is in existence and whether or not such reproduction was made by a party in the regular course of business, and that any enlargement, facsimile or
+further production shall likewise be admissible in evidence.
+
+Section 23. Confidentiality. The parties hereto agree that they and their advisors, including legal counsel, shall not disclose to any other Person and.
+shall keep confidential the terms and conditions of this Agreement (including fee arrangements) and any amendment, supplement, Schedule or Exhibit
+hereto (“Confidential Information”). In the event that any party hereto or its advisors breaches any provision of this section, then, in addition to any other
+rights
+and remedies available to the non-breaching party, a non-breaching party shall be entitled to temporary and permanent injunctive relief against the
+breaching party without the necessity of proving actual damages. Notwithstanding the foregoing, Confidential Information may be disclosed by a party to
+the extent that (i) such party reasonably deems necessary to do so in working with taxing authorities or other governmental agencies or regulatory bodies or
+in order to comply with any applicable laws, (ii) any portion of the Confidential Information is required by law or requested by judicial or regulatory or
+supervisory process to be disclosed, or (iii) such disclosure is necessary to establish, make effective or enforce the Company’s rights in the Collateral
+contained in the related Collateral File held by the Document Custodian pursuant to this Agreement.
+
+Section 24. Actions Necessary to Preserve Rights under Collateral Documents. Notwithstanding the Delivery of Collateral Files to the
+Document Custodian, the Company acknowledges that the Document Custodian shall have no obligation to (i) collect or enforce any Collateral Document,
+(ii) take action to preserve or maintain the obligations of any party obligated under any Collateral Document, (iii) take action to protect, preserve or
+safeguard the rights of the Company against any Person under the Collateral Documents, or (iv) take action to obtain, preserve, safeguard, continue,
+perpetuate or enforce rights against any collateral which may secure repayment of any Collateral. The Company hereby expressly releases the Document
+Custodian from the obligation to take any such action.
+
+Section 25. SUBMISSION TO JURISDICTION; WAIVERS. EACH OF THE COMPANY AND THE DOCUMENT CUSTODIAN HEREBY
+IRREVOCABLY AND UNCONDITIONALLY:
+
+A. SUBMITS FOR ITSELF AND ITS PROPERTY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS AGREEMENT, OR FOR
+RECOGNITION AND ENFORCEMENT OF ANY JUDGMENT IN RESPECT THEREOF, TO THE GENERAL JURISDICTION OF THE
+COURTS OF THE STATE OF NEW YORK SITTING IN THE BOROUGH OF MANHATTAN, THE FEDERAL COURTS OF THE UNITED
+STATES OF AMERICA FOR THE SOUTHERN DISTRICT OF NEW YORK, AND APPELLATE COURTS FROM ANY THEREOF;
+
+B. CONSENTS THAT ANY SUCH ACTION OR PROCEEDING MAY BE BROUGHT IN SUCH COURTS AND, TO THE EXTENT PERMITTED
+BY LAW, WAIVES ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH ACTION OR
+PROCEEDING IN ANY SUCH COURT OR THAT SUCH ACTION OR PROCEEDING WAS BROUGHT IN AN INCONVENIENT COURT
+AND AGREES NOT TO PLEAD OR CLAIM THE SAME;
+
+C. AGREES THAT, WITH RESPECT TO THE COMPANY, SERVICE OF PROCESS IN ANY SUCH ACTION OR PROCEEDING MAY BE
+EFFECTED BY MAILING A COPY THEREOF BY REGISTERED OR CERTIFIED MAIL (OR ANY SUBSTANTIALLY SIMILAR FORM OF
+MAIL), POSTAGE PREPAID, TO ITS ADDRESS SET FORTH IN SECTION 11 HEREIN OR AT SUCH OTHER ADDRESS OF WHICH EACH
+OTHER PARTY HERETO SHALL HAVE BEEN NOTIFIED IN WRITING;
+
+D. AGREES THAT NOTHING HEREIN SHALL AFFECT THE RIGHT TO EFFECT SERVICE OF PROCESS IN ANY OTHER MANNER
+PERMITTED BY LAW OR SHALL LIMIT THE RIGHT TO SUE IN ANY OTHER JURISDICTION; AND
+E. WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL
+PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+Section 26. Compliance with Applicable Law. (a) In order to comply with laws, rules, regulations and executive orders in effect from time to time
+applicable to banking institutions, including those relating to the funding of terrorist activities and money laundering (“Applicable Law”), the Document
+Custodian is required to obtain, verify and record certain information relating to individuals and entities which maintain a business relationship with the
+Document Custodian. Accordingly, the Company agrees to provide to the Document Custodian upon its request from time to time such identifying
+information and documentation as may be available for such party in order to enable the Document Custodian to comply with Applicable Law.
+
+(b) The Company hereby acknowledges receipt of the following notice:
+“IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT
+
+To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial
+institutions to obtain, verify and record information that identifies each person who opens an account. For a non-individual person such as a
+business entity, a charity, a trust or other legal entity, the Document Custodian will ask for documentation to verify its formation and existence as a
+legal entity. The Document Custodian may also ask to see financial statements, licenses, identification and authorization documents from
+individuals claiming authority to represent the entity or other relevant documentation.”
+
+Section 27. Electronic Signatures. By executing this Agreement, the Company hereby acknowledges and agrees, and directs the Document
+Custodian to acknowledge and agree and the Document Custodian does hereby acknowledge and agree, that execution of this Agreement, any Proper
+Instructions and any other notice, form or other document executed by the Company or the Document Custodian in connection with this Agreement, by
+electronic signatures (including, without limitation, any .pdf file, jpeg file, or any other electronic or image file, or any “electronic signature” as defined
+under E-SIGN or ESRA, which includes any electronic signature provided using Adobe Sign, DocuSign, or any other similar platform identified by the
+Company and reasonably available at no undue burden or expense to the Document Custodian) shall be permitted hereunder notwithstanding anything to
+the contrary herein and such electronic signatures shall be legally binding as if such electronic signatures were handwritten signatures. Any electronically
+signed document delivered via electronic mail from a person purporting to be an Authorized Representative shall be considered signed or executed by such
+Authorized Representative on behalf of the Company. The Company also hereby acknowledges that the Document Custodian shall have no duty to inquire
+into or investigate the authenticity or authorization of any such electronic signature and shall be entitled to conclusively rely on any such electronic
+signature without any liability with respect thereto.
+
+[SIGNATURE PAGE FOLLOWS. ]
+IN WITNESS WHEREOF, the parties have executed and delivered this Agreement as of the date and year first above written.
+PROSPECT FLOATING RATE AND ALTERNATIVE INCOME Fund, INC., as Company
+By:
+
+Name:
+Title:
+
+U.S. BANK NATIONAL ASSOCIATION, as Document Custodian
+
+By:
+Name:
+Title:
+SCHEDULE I
+Recommended Data File Criteria
+
+Each of the items listed below must be in its own cell within either a CSV or Excel spreadsheet.
+Data files should be sent electronically via email to your collateral review specialist at U.S. Bank.
+
+ 
+
+a. Asset Number
+
+ 
+
+a. Asset Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Please remember that the shipment of Collateral Files must come to U.S. Bank in the same order as the data file.
+EXHIBIT A
+AUTHORIZED REPRESENTATIVES
+
+Any of the following persons shall be an Authorized Representative (as this list may be subsequently modified by the Company from time to time by
+delivery of a replacement list to the Document Custodian):
+
+ 
+
+NAME TITLE SIGNATURE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+EXHIBIT B
+FORM OF REQUEST FOR RELEASE
+
+(attached)
+(Sbank
+
+Request for Release of Documents
+
+U.S. Bank Global Corporate Trust Attention: Document Custody Services
+1719 Otis Way Receiving Unit
+Florence, South Carolina 29501 Email: des@usbank.co
+
+Fax: (651) 695-6100 or (651) 695-610
+
+RE: Document Custody Agreement, dated as of September 21, 2023 (the “Document Custody Agreement”) between Prospect Flexible Funding,
+LLC (the “Company”) and U.S. Bank National Association, as document custodian (the “Document Custodian”)
+
+Pursuant to Section 4 of the Document Custody Agreement, we request the release of the Collateral Files relating to the Collateral listed on the
+attached Excel spreadsheet for the reason indicated below:
+
+Reason for Requesting Documents (Check One):
+
+1) Collateral Paid in Full
+
+12) Collateral being Substituted
+
+3) Collateral being Liquidated by Company
+4) Other- Description Needed Below
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Company:
+
+Authorized Representative:
+Name (Printed):
+
+Title (Printed):
+
+Date:
+
+Phone:
+
+ 
+
+ 
+
+File Delivery Instructions — Address Needed
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upon Completion of Request, for Release, please scan and email the request to the appropriate DCS Vault Location. If applicable, please indicate if the request is a “Rush” in the subject line. Please fax the
+
+ 
+
+Florence: desflorencescreleases@usbank.com
+Frederick: electronic.release.requests@usbank.com
+Jacksonville: desctsjacksonville.requests@usbank.com
+Saint Paul: des@usbank.com
+St. Petersburg: documentcustody.stpete@usbank.com
+Rocklin: des-rocklin@usbank.com.
+
+mpe: tempe.des.request@usbank.com
+
+ee c
+form if you do not have access to email.
+
+Exhibit B-1
+
+ACTIVE\1602581276.4
+Exhibit C
+
+FORM OF COMPANY JOINDER AGREEMENT
+to
+Document Custody Agreement
+dated as of [@], 2023
+
+Reference is made to the Document Custody Agreement, dated as of September 21, 2023 (the “Document Custody Agreement”) by and among Prospect
+Floating Rate and Alternative Income Fund, Inc. and each entity that has executed a Company Joinder Agreement (each referred to as the “Company”) and
+U.S. Bank National Association, as document custodian (the “Document Custodian”). Capitalized terms used herein but not defined herein have the
+meanings specified in the Document Custody Agreement. This Company Joinder Agreement is being delivered to the Document Custodian by the
+undersigned pursuant to the Document Custody Agreement.
+
+By executing and delivering this Company Joinder Agreement, the Company, as a proposed party to the Document Custody Agreement, confirms to and
+agrees with the Document Custodian that the Company, on and after the date hereof, hereby (i) becomes a party to the Document Custody Agreement as a
+“Company” and (ii) agrees to be bound by all of the terms and provisions of the Document Custody Agreement applicable to the Company. The Company
+agrees that by executing and delivering this Company Joinder Agreement, the Company will be deemed to have made and expressed the representations and
+watranties contained in the Document Custody Agreement and any other related documents which are made by the Company, in each case as of the date
+hereof.
+
+The initial Authorized Persons of the Company are as set forth on Appendix 1 to this Company Joinder Agreement. Appendix 1 and any of the items
+included therein may be modified from time to time by written notice from the Company to the Document Custodian.
+
+All notices, approvals and other communications hereunder shall be sufficient if made in writing (unless and except where and to the extent otherwise
+expressly provided by the terms of the Document Custody Agreement) and given to the parties at the following address (or such other address as either of
+them may subsequently designate by notice to the other), given by (i) certified or registered mail, postage prepaid, (ii) recognized courier or delivery
+service, or (iii) confirmed telecopier, with a duplicate sent on the same day by first class mail, postage prepaid:
+
+a. if to the Company, to
+
+[Address]
+Attention:
+
+b. if to the Document Custodian, to
+
+U.S. Bank National Association, Global Corporate Trust,
+1719 Otis Way Florence, South Carolina 29501
+Attention: Steven Garrett
+
+Email: [¢]@usbank.com
+
+This Company Joinder Agreement shall be governed by, and construed in accordance with, the laws of the State of New York without regard to conflicts of
+laws principles thereof.
+[Signature page follows]
+IN WITNESS WHEREOF, the parties hereto have caused this Company Joinder Agreement to be executed by their respective officers thereunto duly
+authorized as of the date first above written.
+
+[Joinder Company], as Company
+
+By:
+Name:
+Title:
+
+U.S. BANK NATIONAL ASSOCIATION, as Document Custodian
+By:
+
+Name:
+Title:
+Appendix I
+
+ 
+
+Name of Authorized Person
+
+Specimen Signature
+
+ 
+
+ 
+
+[Name]
+
+ 
+
+[Name]
+
+ 
+
+ 
+
+ 
