@@ -16,6 +16,7 @@ from streamlit_pdf_viewer import pdf_viewer
 from utils.generate_annotations import generate_annotations
 import json
 from datetime import date
+from pathlib import Path
 
 tooltip_css = """
 <style>
@@ -151,7 +152,7 @@ def create_pipeline():
         contract_pipeline.add_pipe(name="currency",component=currency_ner)
     if document_type:
         document_type_classifier = SklearnClassifier(
-        model="./classification/pretrained/document_type_model.pkl",
+        model= Path(__file__).parent /"classification/pretrained/document_type_model.pkl",
         method="lines",
         positive_class=1,
         attribute="document_type")
@@ -159,7 +160,7 @@ def create_pipeline():
         contract_pipeline.add_pipe(name="document_type_classifier",component=document_type_classifier,params={"text_range":(0,15)})
     if language_classifier:
         language_classifier_model = SklearnClassifier(
-            model="./classification/pretrained/document_language_model.pkl",
+            model= Path(__file__).parent /"classification/pretrained/document_language_model.pkl",
             attribute="language",
             method = "lines",
             positive_class="multi",

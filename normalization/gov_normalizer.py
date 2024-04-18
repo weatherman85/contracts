@@ -1,7 +1,9 @@
 from normalization.normalizer import Normalizer
 import pandas as pd
+from pathlib import Path
 
-df = pd.read_csv(r"normalization\utils\gpe.csv",encoding="utf-8")
+data_file_path = Path(__file__).parent / r"utils\gpe.csv"
+df = pd.read_csv(data_file_path,encoding="utf-8")
 import numpy as np
 gov_lookup = {}
 for i, row in df.iterrows():

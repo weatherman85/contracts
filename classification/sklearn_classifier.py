@@ -1,6 +1,8 @@
 import joblib
 from classification.classifier import Classifier
 
+
+
 class SklearnClassifier(Classifier):
     def __init__(self, model=None, attribute=None,method=None,positive_class=None,label_encoder=None,normalizer=None):
         super().__init__(model=None, attribute=attribute, positive_class=positive_class,normalizer=normalizer)
