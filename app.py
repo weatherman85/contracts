@@ -111,7 +111,10 @@ def get_html(html, start, entities):
     """
     return WRAPPER.strip(), entity_info_str
 
+def hash_func(obj: ContractPipeline) -> int:
+    return obj 
 
+@st.cache_resource(hash_funcs={ContractPipeline: hash_func})
 def create_pipeline():
     contract_pipeline = ContractPipeline(defaults=True)
     if governing_law:
