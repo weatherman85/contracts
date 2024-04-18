@@ -2,7 +2,7 @@ from normalization.normalizer import Normalizer
 import pandas as pd
 from pathlib import Path
 
-data_file_path = Path(__file__).parent / r"utils\gpe.csv"
+data_file_path = Path(__file__).parent / r"utils/gpe.csv"
 df = pd.read_csv(data_file_path,encoding="utf-8")
 import numpy as np
 gov_lookup = {}
