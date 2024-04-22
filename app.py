@@ -185,6 +185,9 @@ def run_pipeline(_pipeline,file_path):
     doc = _pipeline(file_path)
     return doc
 
+if 'key' not in st.session_state:
+    st.session_state['counter'] = 0
+
 if text_file is not None:
     st.session_state.counter = 1
     pipeline = create_pipeline()
@@ -193,6 +196,7 @@ if text_file is not None:
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     with open(file_path, "wb") as f:
         f.write(text_file.getbuffer())
+    print(file_path)
     doc = run_pipeline(pipeline,file_path)           
     segments = [(segment.section,segment.subsection,segment.title,segment.text,segment.start,segment.end) 
         for segment in doc.segments]

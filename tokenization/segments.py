@@ -40,7 +40,7 @@ TITLE_PATTERNS = [
     re.compile(r'\b(?:[IVX]+\.\s*)+[A-Za-z0-9]+\b'),
     re.compile(r'^([SECTIONsection]{7})?\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*(?:(?=\s|$)|\.))\s*(?P<title>[A-Z][^\r\n]*?)(?=$|[^\w\s\-])(?:\.|\s|$)(?!(?:(?:\d{1,5}\s+[A-Za-z.,]+(?:\s+[A-Za-z.,]+)*)|(?:[A-Za-z.,]+\s*\d{1,5}(?:[A-Za-z.,]+\s*\d{1,5})*)))(?!%)'),
     re.compile(r'^(ARTICLE|[Aa]rticle)\s*(?P<section>[IVX\d]+(?:\.[IVX\d]+)*):?\s*(?P<title>.*)$'),
-    re.compile(r'(IN\s+WITNESS\s+)'),
+    re.compile(r'(IN\s+WITNESS\s+)',re.IGNORECASE),
     re.compile(r'(SIGNATURES)'),
     re.compile(r'By its signature'),
     re.compile(r'^(Signed\s+by\s+the\s+Parties:?)'),

@@ -6,8 +6,8 @@ import torch
 class TransformersNER(NamedEntityRecognizer):
     def __init__(self, model=None, keywords=None, normalizer=None):
         super().__init__(keywords=keywords, normalizer=normalizer)
-        device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.model = pipeline("ner",model,aggregation_strategy="max",device=device)
+        # device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.model = pipeline("ner",model,aggregation_strategy="max",device="cpu")
     
 
     def predict(self, text):

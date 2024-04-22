@@ -4,7 +4,7 @@ from tokenization.sentence import SentenceTokenizer
 from tokenization.segments import SectionSegmenter
 from utils.clean_text import TextCleaner
 from definitions.definitions import DefinitionFinder
-from utils.ocr import OCRProcessor
+from utils.ocr import FileProcessor
 
 class Contract(object):
     def __init__(self,
@@ -32,7 +32,7 @@ class Contract(object):
 class ContractPipeline:
     def __init__(self,defaults=True):
         if defaults:
-            file_loader = OCRProcessor()
+            file_loader = FileProcessor()
             tokenizer = Tokenizer(default=True)
             section_segmenter = SectionSegmenter()
             sentence_tokenizer = SentenceTokenizer()

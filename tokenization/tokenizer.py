@@ -69,6 +69,6 @@ class Tokenizer(object):
 
     def __call__(self, contract):
         contract.tokens = [token for token in self.tokenizer(contract.text)]
-        contract.aligned_tokens = self.align_words_to_bbox(contract.tokens, contract.bbox_info)
+        # contract.aligned_tokens = self.align_words_to_bbox(contract.tokens, contract.bbox_info)
         return contract
 
